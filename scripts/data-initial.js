@@ -1,9 +1,9 @@
 const playlists = require('../lib/playlists.js');
-const youtube = require('../lib/youtube.js');
+const youtinx = require('youtinx');
+const onEach = require('../lib/onEach.js');
 
 (async () => {
   const playlistId = playlists[0];
-  // const playlistData = await youtube.getPlaylistData(playlistId);
-  const videos = await youtube.getPlaylistVideos(playlistId);
-  console.info(videos);
+
+  await youtinx.run(playlistId, { onEach });
 })();
