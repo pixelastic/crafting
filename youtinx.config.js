@@ -1,0 +1,65 @@
+module.exports = {
+  playlists: [
+    'PLSrIGfVibMhjEUY0_wEHn8c3N-IhJvLkg', // Black Magic Craft
+    'PLOt6UN-cmqk3YZvK5lhVt3Hh67R-C8BiF', // Wyloch's Crafting Vids
+    'PLvHnaAPK1_Jg0i7Ykfv8tWLiH47rd569G', // The DM's Craft
+    'PLw-XImXo4zfOKxI_NWJpESKHiX71yyLXU', // TheDMGinfo
+
+    // TODO:
+    // Nerdforge does not have playlists...
+    // https://www.youtube.com/c/Nerdforge/playlists
+  ],
+  knownVideosWithoutCaptions: [
+    'aQroG6GMOIY',
+    'pyV767KIJds',
+    'rQCpFjonNMU',
+    'olQj8hgZVOw',
+    'WyLscBJkNbg',
+    'hjl8DhgcsxE',
+    'DY3VRBDaXE8',
+    'vot290cDJVc',
+    'appzGty5DL0',
+    'SpnCntyen5M',
+    '_C7cmALhnEY',
+    'K1M04Ms3v-Q',
+    'ZwPQWaAgmX4',
+    'ZJkcj0ZDD_U',
+    'rvsXZzLwsuU',
+    'CobuaCLdfnc',
+    'suR7191rEE4',
+    '153IFvJKXC0',
+    '82_pMzV_FN8',
+    'xnmhdxkTL_U',
+    'IYZKuaUksQg',
+    '3oenTsTIR0M',
+    'xD9BhtcdYIQ',
+    'PApz01m_QfM',
+    '7SanvkjLRRA',
+    'epgNuK3H0hU',
+    'qcx-3blDiRo',
+    'gxH30DfnDSA',
+    'F_ppoczIW-4',
+    'IPG3qYeJFuQ',
+    '8y0BYG4tdVc',
+    'aJg0jFDNjIQ',
+    'XioiHaYD1_Y',
+    'jaZXziohVOU',
+    'imuTof_rfeM',
+    'G1uw38mxjC8',
+    'eoa_gG8o0bY',
+    'vA2WnoXMkLs',
+    'yljuvcant0Q',
+    'IWPoxtvGYc4',
+    'PgEmcmGE8oo',
+    'X0SKK2OIBU0',
+    '9l7-9uMilr0',
+    'NffW3OkezaA',
+    'zNxfjykh8fE',
+    'B1T2ulHfu_o',
+    'r2urH6gOyNI',
+    'Z7O1A1CZJy4',
+    'tTHNVFOXeo4',
+    'XcoPijDqhJE',
+    'uUXADBIQM2Q',
+  ],
+};
