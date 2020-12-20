@@ -94,4 +94,8 @@ module.exports = {
     '0bBE0TV5aAA',
     '437p1gwNNuE',
   ],
+  algoliaCredentials: {
+    appId: 'O3F8QXYK6R',
+    indexName: 'gamemaster_craft',
+  },
 };

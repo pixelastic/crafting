@@ -10,7 +10,8 @@
   "main": "lib/main.js",
   "name": "crafting",
   "scripts": {
-    "data:initial": "youtinx",
+    "data:pull": "youtinx pull",
+    "data:push": "youtinx push",
     "ci": "./scripts/ci",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
