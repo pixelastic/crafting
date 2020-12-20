@@ -1,6 +1,8 @@
 {
   "devDependencies": {
     "aberlaas": "1.13.3",
+    "firost": "2.0.6",
+    "golgoth": "2.0.0",
     "youtinx": "0.0.2"
   },
   "files": [
@@ -22,7 +24,6 @@
   },
   "version": "0.0.1",
   "dependencies": {
-    "firost": "2.0.6",
-    "golgoth": "2.0.0"
+    "norska": "1.8.0"
   }
 }
