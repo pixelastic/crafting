@@ -1,0 +1,454 @@
+[
+  {
+    "content": "alright there's going to be a fun one",
+    "start": 10
+  },
+  {
+    "content": "I've long wanted to do a tabletop feature with actual flowing water so",
+    "start": 14
+  },
+  {
+    "content": "you'll need your soldering iron for this one and let's go get to it at the heart",
+    "start": 19
+  },
+  {
+    "content": "of things is this a water pump designed to be powered by a 9-volt battery I get",
+    "start": 30
+  },
+  {
+    "content": "this in Amazon for about 10 bucks it's intended to be a replacement part for a",
+    "start": 35
+  },
+  {
+    "content": "coffee maker now the intake and outlet are different",
+    "start": 39
+  },
+  {
+    "content": "sizes and finding the right plastic tubing for both would probably be around",
+    "start": 42
+  },
+  {
+    "content": "20 bucks so I figured why not use drinking straws for the outflow it",
+    "start": 46
+  },
+  {
+    "content": "happened to fit perfectly so I'll just seal it in place with hot glue around",
+    "start": 51
+  },
+  {
+    "content": "the ring the intake is a much bigger diameter so I applied a thick bead of",
+    "start": 54
+  },
+  {
+    "content": "hot glue to narrow it and quickly dipped it in water so that it would cool and",
+    "start": 59
+  },
+  {
+    "content": "harden and not droop now straw fits perfectly and again I can hot glue all",
+    "start": 63
+  },
+  {
+    "content": "around it but don't attach the outlet just yet wait until later in the project",
+    "start": 68
+  },
+  {
+    "content": "also go ahead and solder on some lead wires with lots of slack and cover those",
+    "start": 73
+  },
+  {
+    "content": "connections with hot glue so one-inch-thick extruded polystyrene",
+    "start": 83
+  },
+  {
+    "content": "or home insulation draw out roughly where you want the pools to be I aim for",
+    "start": 90
+  },
+  {
+    "content": "an overall based footprint of about 16 inches across and then kind of divided",
+    "start": 95
+  },
+  {
+    "content": "it up from there then I use the proxxon hot wire table to",
+    "start": 100
+  },
+  {
+    "content": "cut it out although you could use a knife a quick note Jeremy over at",
+    "start": 104
+  },
+  {
+    "content": "Blackmagic craft is an Amazon affiliate for the proxxon hot wire table so if you",
+    "start": 108
+  },
+  {
+    "content": "decide to buy one do it through him it's the same cost to you but he gets a",
+    "start": 112
+  },
+  {
+    "content": "little taste all you got to do is click the link in the description below and",
+    "start": 116
+  },
+  {
+    "content": "then make the purchase as normal anyway next I cut out two shapes roughly the",
+    "start": 119
+  },
+  {
+    "content": "same size as the middle level with the top one being about an inch too long in",
+    "start": 130
+  },
+  {
+    "content": "one direction and then four shapes for the top level stack again with the top",
+    "start": 134
+  },
+  {
+    "content": "one being too big these overhangs help insure that the",
+    "start": 139
+  },
+  {
+    "content": "water actually Falls instead of dribbling down the side of the cliff",
+    "start": 145
+  },
+  {
+    "content": "faces for the mid-level stack we can go ahead and hot glue them on right now for",
+    "start": 148
+  },
+  {
+    "content": "the top level stack we need to hollow it out take off the top piece and set it",
+    "start": 155
+  },
+  {
+    "content": "aside for the other three cut out their centers leaving about an inch of",
+    "start": 160
+  },
+  {
+    "content": "material if you use the Hotwire simply reattach",
+    "start": 165
+  },
+  {
+    "content": "where you had to enter with hot glue now pick one of them to be the bottom",
+    "start": 176
+  },
+  {
+    "content": "and trace the inside onto the base and cut out that as well we'll refer to this",
+    "start": 194
+  },
+  {
+    "content": "as the pump pay while you're at it cut out the large bottom most pool as well",
+    "start": 202
+  },
+  {
+    "content": "put the pump in place where you intend it to go then cut out a notch for the",
+    "start": 219
+  },
+  {
+    "content": "intake pipe now you can attach the first ring and secure the pump in place I use",
+    "start": 225
+  },
+  {
+    "content": "some kebab skewers in multiple directions with a whole lot of hot glue",
+    "start": 243
+  },
+  {
+    "content": "to fix it where I wanted if you need a refresher on basic",
+    "start": 247
+  },
+  {
+    "content": "electrical components and soldering revisit episode 56 here is an SBS T",
+    "start": 261
+  },
+  {
+    "content": "switch and a 9-volt battery clip they will be connected to the pump in series",
+    "start": 267
+  },
+  {
+    "content": "not in parallel here is a 12 inch sheet of chipboard the stuff that I always use",
+    "start": 272
+  },
+  {
+    "content": "if you want to buy some you can do it for me as an Amazon affiliate by",
+    "start": 278
+  },
+  {
+    "content": "clicking the link in the description below anyway just trace the base of the",
+    "start": 281
+  },
+  {
+    "content": "piece onto it and cut it out it's okay to leave off an inch or so to make it",
+    "start": 285
+  },
+  {
+    "content": "smaller so it doesn't stick out the sides also trace out and cut a hole for",
+    "start": 289
+  },
+  {
+    "content": "the pump bay attach it to the bottom with the glue of your choice and then",
+    "start": 294
+  },
+  {
+    "content": "apply a thick bead of hot glue all around the perimeter to create our first",
+    "start": 303
+  },
+  {
+    "content": "watertight seal so here's where we're at so far I did punch a hole in which to",
+    "start": 307
+  },
+  {
+    "content": "mount the switch with a bunch of hot glue to keep it firmly in place I also",
+    "start": 314
+  },
+  {
+    "content": "attached the outlet pipe note that I chopped the straw near the bendy portion",
+    "start": 319
+  },
+  {
+    "content": "and now I can aim it wherever I need to later on I also sealed up the hole",
+    "start": 323
+  },
+  {
+    "content": "around the inlet pipe with lots of hot glue for the middle-level apply pure",
+    "start": 328
+  },
+  {
+    "content": "acetone as we did back in episode 67 be sure to leave a u-shaped perimeter like",
+    "start": 336
+  },
+  {
+    "content": "you see here and don't apply too much do it gradually until you get the depth",
+    "start": 341
+  },
+  {
+    "content": "you're happy with attach the third ring so it kind of",
+    "start": 345
+  },
+  {
+    "content": "overlaps the middle pool just a little bit apply acetone to the top level and",
+    "start": 354
+  },
+  {
+    "content": "then kind of see where the outlet pipe is going to hit it you want the pipe to",
+    "start": 362
+  },
+  {
+    "content": "emerge through the top somewhere near the back of the acetone pit punch a hole",
+    "start": 367
+  },
+  {
+    "content": "using a pencil style foam cutter or kabob skewer whatever it takes",
+    "start": 372
+  },
+  {
+    "content": "attach the top level while at the same time pushing the straw through the hole",
+    "start": 379
+  },
+  {
+    "content": "apply a ring of hot glue around the",
+    "start": 387
+  },
+  {
+    "content": "straw to make a watertight seal and then snip off the excess of the straw as much",
+    "start": 400
+  },
+  {
+    "content": "as you can so that it's perfectly flush with the seal now I was worried about",
+    "start": 404
+  },
+  {
+    "content": "water jetting out of the outflow so I took some foam carved a rock and hot",
+    "start": 408
+  },
+  {
+    "content": "glued that to the top to solve the problem this also kind of gives it the",
+    "start": 413
+  },
+  {
+    "content": "impression of being an underground spring or something like that as for",
+    "start": 417
+  },
+  {
+    "content": "sealing the bottom pool I was figuring this out as I went along so you don't",
+    "start": 422
+  },
+  {
+    "content": "need to do all of these techniques but I first tried covering it with hot glue",
+    "start": 426
+  },
+  {
+    "content": "did not work so then I took some acrylic water kit mixed it up but instead of",
+    "start": 430
+  },
+  {
+    "content": "using it for its usual purpose I took a sacrificial brush and slathered it on as",
+    "start": 435
+  },
+  {
+    "content": "a sealer making sure to get all the nooks and crannies to help ensure the",
+    "start": 440
+  },
+  {
+    "content": "water does fall instead of dribble a hot glue on some popsicle sticks at a 45",
+    "start": 446
+  },
+  {
+    "content": "degree angle and then tease hot glue over them to blend them into the rocks",
+    "start": 450
+  },
+  {
+    "content": "also attach some chunk of foam to the sides like this",
+    "start": 456
+  },
+  {
+    "content": "and here's the first full wet test run if you want the water more spread out",
+    "start": 464
+  },
+  {
+    "content": "like an actual waterfall attach some rocks to the popsicle stick to split up",
+    "start": 470
+  },
+  {
+    "content": "and disturb the flow but I didn't bother one more thing I used some air dry clay",
+    "start": 474
+  },
+  {
+    "content": "and built barriers around all the pool edges this gave me some nice texture and",
+    "start": 480
+  },
+  {
+    "content": "it also created another quarter inch of depth for each pool which is another",
+    "start": 485
+  },
+  {
+    "content": "nice safety feature we can also see I added a small island to the large pool",
+    "start": 489
+  },
+  {
+    "content": "in order to make things more interesting then I based everything in grey dry",
+    "start": 493
+  },
+  {
+    "content": "brush with light grey",
+    "start": 503
+  },
+  {
+    "content": "wash with blacks mostly water apply homemade sawdust flocking you can",
+    "start": 520
+  },
+  {
+    "content": "revisit episode 45 for that",
+    "start": 535
+  },
+  {
+    "content": "and paint the water pools brown I'm using my airbrush at the edges of the",
+    "start": 560
+  },
+  {
+    "content": "pool to get a real nice gradient fade to the gray and I'll say it again if you're",
+    "start": 566
+  },
+  {
+    "content": "on the fence as to whether or not to get an airbrush do it you'll love it the kit",
+    "start": 570
+  },
+  {
+    "content": "I recommended in the description below and you can buy it through me as an",
+    "start": 574
+  },
+  {
+    "content": "affiliate comes with everything you need I also airbrushed on some patches of",
+    "start": 577
+  },
+  {
+    "content": "dark green ponds are not blue they're brown and green and lastly a safety coat",
+    "start": 583
+  },
+  {
+    "content": "of liquitex gloss varnish for all the wetted surfaces and before we go to the",
+    "start": 594
+  },
+  {
+    "content": "table I'd like to take a moment to thank all wcv sponsors this week I draw your",
+    "start": 602
+  },
+  {
+    "content": "attention to heroes horde which is an excellent resource for 3d printed",
+    "start": 608
+  },
+  {
+    "content": "scenery including but not limited to Altru tiles products so if you're into",
+    "start": 612
+  },
+  {
+    "content": "3d printing even if it's just to supplement your conventional crafting it",
+    "start": 617
+  },
+  {
+    "content": "is worth a click to check it out and see what's what so the filling procedure is",
+    "start": 620
+  },
+  {
+    "content": "like this fill up the middle level fill up the bottom level",
+    "start": 628
+  },
+  {
+    "content": "and finally fill up the top level and as soon as you start hearing some",
+    "start": 641
+  },
+  {
+    "content": "suctioning sounds that means that the pump and the pipes are filled up so flip",
+    "start": 647
+  },
+  {
+    "content": "on the switch if the pump is not flooded or primed it will not draw any water",
+    "start": 651
+  },
+  {
+    "content": "from the bottom pool so by pouring water from the top we ensure that it drains",
+    "start": 657
+  },
+  {
+    "content": "down and Prime's the pump for us now is this practical",
+    "start": 661
+  },
+  {
+    "content": "no is it aesthetic honestly no I've seen Pro made waterfall terrain pieces that",
+    "start": 666
+  },
+  {
+    "content": "look better than this although to be fair if you're a longtime follower then",
+    "start": 672
+  },
+  {
+    "content": "you know that outdoor stuff is not my forte how about the pump we'll take a",
+    "start": 675
+  },
+  {
+    "content": "listen yeah again it's a coffeemaker replacement so it's not designed to be",
+    "start": 680
+  },
+  {
+    "content": "quiet definitely getting enough water I tested",
+    "start": 687
+  },
+  {
+    "content": "it in the sink before all this began that's just the sound that it makes so",
+    "start": 690
+  },
+  {
+    "content": "what do we have here well it really serves no purpose other than itself and",
+    "start": 695
+  },
+  {
+    "content": "isn't that the very definition of art so we have a piece of art with plenty of",
+    "start": 699
+  },
+  {
+    "content": "mistakes in it but maybe one of you out there will take it and run with it with",
+    "start": 704
+  },
+  {
+    "content": "the advantage of all the lessons that I learned so I am why lock thank you for",
+    "start": 708
+  },
+  {
+    "content": "joining me and I'll see you next time",
+    "start": 714
+  }
+]

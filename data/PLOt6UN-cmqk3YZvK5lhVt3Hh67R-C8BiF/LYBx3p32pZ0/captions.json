@@ -1,0 +1,422 @@
+[
+  {
+    "content": "this is fairly interesting nothing wrong with it but this is something else all",
+    "start": 0
+  },
+  {
+    "content": "together let's talk about it now before we dive right in let's talk",
+    "start": 5
+  },
+  {
+    "content": "about the word isometric means here's a grid representing some kind of area and",
+    "start": 24
+  },
+  {
+    "content": "this is a top-down view note that all the spaces are identical in size now",
+    "start": 28
+  },
+  {
+    "content": "let's rotate the camera 45 degrees about the z-axis still a",
+    "start": 34
+  },
+  {
+    "content": "top-down view then we'll rotate the camera again but this time within the XY",
+    "start": 38
+  },
+  {
+    "content": "plane instead of about the z axis this view is typically referred to as",
+    "start": 44
+  },
+  {
+    "content": "perspective it is a depiction of 3d space on your 2d screen and it achieves",
+    "start": 49
+  },
+  {
+    "content": "this because there is a horizon note that a grid space closer to you seems to",
+    "start": 55
+  },
+  {
+    "content": "be larger than a grid space that's far away from you even though we know that",
+    "start": 59
+  },
+  {
+    "content": "truly all the spaces are identical I'm going to leave those highlights and I'm",
+    "start": 62
+  },
+  {
+    "content": "not going to move the camera now watch the grid very carefully here we go what",
+    "start": 67
+  },
+  {
+    "content": "I just did is switch the camera mode from perspective projection to",
+    "start": 74
+  },
+  {
+    "content": "orthographic projection notice that the space is all appear to be the same size",
+    "start": 78
+  },
+  {
+    "content": "again whether they're close to you or far away this method of presentation is",
+    "start": 83
+  },
+  {
+    "content": "commonly used in formal engineering applications because it allows you to",
+    "start": 88
+  },
+  {
+    "content": "accurately illustrate the dimensions of a 3d object without sacrificing its",
+    "start": 91
+  },
+  {
+    "content": "proportions hence the term isometric of or having equal dimensions additionally",
+    "start": 96
+  },
+  {
+    "content": "you see this practice used in many video games such as Diablo or Baldur's Gate",
+    "start": 103
+  },
+  {
+    "content": "and that's the reason that those games are sometimes referred to as isometric",
+    "start": 107
+  },
+  {
+    "content": "because of those two things where the camera is located and what kind of",
+    "start": 111
+  },
+  {
+    "content": "projection is being used namely orthographic instead of perspective for",
+    "start": 115
+  },
+  {
+    "content": "this exercise you'll need some isometric graph paper if you don't want to buy any",
+    "start": 121
+  },
+  {
+    "content": "you can print some of your own in the description of this video is a download",
+    "start": 125
+  },
+  {
+    "content": "link for a PDF that I made note that it has three pages with varying darkness",
+    "start": 129
+  },
+  {
+    "content": "for the gridlines so you can choose whichever you like for this tutorial I'm",
+    "start": 134
+  },
+  {
+    "content": "using the darkest one to help make sure that it's clear as possible for the",
+    "start": 138
+  },
+  {
+    "content": "camera here is the map that we're going to convert to isometric in just a moment",
+    "start": 141
+  },
+  {
+    "content": "I'll keep it at the right-hand side of the screen the whole time",
+    "start": 146
+  },
+  {
+    "content": "now I wanted to do this all in one single take so it's very sloppy move",
+    "start": 149
+  },
+  {
+    "content": "very fast I don't use a ruler the end product doesn't look fantastic but",
+    "start": 154
+  },
+  {
+    "content": "you'll get the idea you'll get the principles and that's what we're after",
+    "start": 158
+  },
+  {
+    "content": "here so here we go so the first thing to do is establish",
+    "start": 162
+  },
+  {
+    "content": "which way is north and logically it just sort of feels right that the upper-right",
+    "start": 167
+  },
+  {
+    "content": "direction should be north will begin with room one which is three by three",
+    "start": 172
+  },
+  {
+    "content": "squares so we'll count out three vertices and we'll draw the south wall",
+    "start": 180
+  },
+  {
+    "content": "first and we know there's a door on that wall so we'll put that in and we'll draw",
+    "start": 185
+  },
+  {
+    "content": "the remaining walls and here you can see I'm going to draw the north wall last",
+    "start": 190
+  },
+  {
+    "content": "and then the door that's in that wall so we move on to room number two there's a",
+    "start": 195
+  },
+  {
+    "content": "short 10-foot section and then we'll just chase the perimeter by looking at",
+    "start": 204
+  },
+  {
+    "content": "the map on the side now notice for the diagonal we're actually doing a diagonal",
+    "start": 210
+  },
+  {
+    "content": "line even though on our paper it it looks straight up and down or left and",
+    "start": 214
+  },
+  {
+    "content": "right because it's isometric it's skewed so we keep going around",
+    "start": 219
+  },
+  {
+    "content": "okay and we have a door in the east side next we'll do room three now this is our",
+    "start": 230
+  },
+  {
+    "content": "first staircase and we can see from the map that it's it's a 40 foot long",
+    "start": 239
+  },
+  {
+    "content": "staircase with a 30-foot rise so here's the base of the stairway and we're going",
+    "start": 243
+  },
+  {
+    "content": "to count one two three four vertices and then we're going to go up one two three",
+    "start": 249
+  },
+  {
+    "content": "vertices to get the high point of the stairway so that's where it ends and",
+    "start": 255
+  },
+  {
+    "content": "we'll go ahead and connect those points to get our stairwell and just draw a",
+    "start": 260
+  },
+  {
+    "content": "bunch of little lines to indicate the steps now technically there is enough",
+    "start": 272
+  },
+  {
+    "content": "information here for the user to know what's going on with the stairway but",
+    "start": 277
+  },
+  {
+    "content": "visually I find that it helps to throw in these dotted lines just to help give",
+    "start": 282
+  },
+  {
+    "content": "perspective and at the top is room 3 which again is a 3x3 room so we'll draw",
+    "start": 287
+  },
+  {
+    "content": "that there's a reason we're doing this if you have a multi-level dungeon it'll",
+    "start": 295
+  },
+  {
+    "content": "become clear when we do room 6 later on why we wanted to do room 3 first so",
+    "start": 302
+  },
+  {
+    "content": "moving on to room for a short 10-foot corridor and in this room there's a",
+    "start": 309
+  },
+  {
+    "content": "looks like a 20 by 30 platform and then the rest of the room is recessed by 10",
+    "start": 314
+  },
+  {
+    "content": "feet so we'll do the platform first and then we're going to drop down one",
+    "start": 320
+  },
+  {
+    "content": "vertices one vertex rather for 10 feet and we'll draw the rest of the room and",
+    "start": 324
+  },
+  {
+    "content": "you can see I'm counting out the squares so that they match the source map",
+    "start": 331
+  },
+  {
+    "content": "there we go you should use a ruler when you do this",
+    "start": 344
+  },
+  {
+    "content": "I'm doing this freehand so I can get through it very quickly and it's not a",
+    "start": 350
+  },
+  {
+    "content": "half hour long video so we need to get over to room five now so the first thing",
+    "start": 353
+  },
+  {
+    "content": "we count two vertices over one virtus vertex up and we get that 20-foot",
+    "start": 360
+  },
+  {
+    "content": "stairway with a 10 foot rise dotted lines to give it some context and little",
+    "start": 365
+  },
+  {
+    "content": "lines for the steps then we turn a corner and we're going to go it looks",
+    "start": 371
+  },
+  {
+    "content": "like we go 20 feet before we encounter a door and we'll pause there so room five",
+    "start": 380
+  },
+  {
+    "content": "is a lot of diagonals so you can see we cut across and connect the vertices",
+    "start": 390
+  },
+  {
+    "content": "appropriately yep easy enough and so we'll move on",
+    "start": 396
+  },
+  {
+    "content": "it's another 20 feet and then we come to a stairway going down 10 feet so we're",
+    "start": 405
+  },
+  {
+    "content": "undoing the stairway we just did so we'll count over to vertices and down 1",
+    "start": 411
+  },
+  {
+    "content": "over 2 and down 1 and we connect those points and I'm not going to do the",
+    "start": 415
+  },
+  {
+    "content": "dotted line for context there's a little busy right there and that is really not",
+    "start": 423
+  },
+  {
+    "content": "needed it you could do it but I skipped it so at the bottom there's a 10 foot",
+    "start": 427
+  },
+  {
+    "content": "landing and a door that goes into room 6 so this is 30 feet wide and then it's",
+    "start": 432
+  },
+  {
+    "content": "pretty long now some of is obscured by room 3 above so what we do is dotted",
+    "start": 441
+  },
+  {
+    "content": "lines to indicate that's where the wall is underneath but it is below room 3 so",
+    "start": 448
+  },
+  {
+    "content": "we go I think this is a total of 70 feet we don't draw over the stairway we go",
+    "start": 456
+  },
+  {
+    "content": "underneath it and it looks like I overshot there a little bit that's",
+    "start": 463
+  },
+  {
+    "content": "alright okay we know there's a secret door here",
+    "start": 467
+  },
+  {
+    "content": "up in the corner with a hallway beyond so that goes 20 feet before it makes a",
+    "start": 473
+  },
+  {
+    "content": "turn to the south all right and now we have to draw a circle now we know this",
+    "start": 479
+  },
+  {
+    "content": "is a 3x3 square circle a perfect circle on isometric paper looks like an oval it",
+    "start": 486
+  },
+  {
+    "content": "would be a perfect oval it's hard to draw freehand don't sweat it too much",
+    "start": 495
+  },
+  {
+    "content": "you can see I clearly didn't but it gets the job done",
+    "start": 499
+  },
+  {
+    "content": "all right secret door secret door and connect that final corridor and there we",
+    "start": 504
+  },
+  {
+    "content": "have it that's the that's the dungeon laid out now last thing be very",
+    "start": 512
+  },
+  {
+    "content": "aggressively plant the pen down and sort of swipe upward and remove the pen from",
+    "start": 521
+  },
+  {
+    "content": "the paper as you're swiping it's it's a very tense aggressive motion and what",
+    "start": 526
+  },
+  {
+    "content": "that gives you is a nice taper at the top of these little ticks and these sort",
+    "start": 531
+  },
+  {
+    "content": "of hint at where the corners of the walls are but you can see as I'm doing",
+    "start": 536
+  },
+  {
+    "content": "this how the drawing starts to come to life and it becomes even easier to get",
+    "start": 539
+  },
+  {
+    "content": "the I guess to get the context of depth and where the rooms end if you will I'm",
+    "start": 544
+  },
+  {
+    "content": "not a pro so I don't know the exact principles behind this but well there",
+    "start": 552
+  },
+  {
+    "content": "you go it's all number the rooms and there we have it here's a little",
+    "start": 557
+  },
+  {
+    "content": "close-up again you should use a ruler and take your time you'll come out with",
+    "start": 580
+  },
+  {
+    "content": "a much more high quality product than this and here's the same thing thrown",
+    "start": 588
+  },
+  {
+    "content": "together in Photoshop took about 10 minutes or so to put together now if",
+    "start": 600
+  },
+  {
+    "content": "this was interesting to you there are some far far better resources to check",
+    "start": 606
+  },
+  {
+    "content": "out than me here's a non comprehensive list of some truly talented people I'll",
+    "start": 610
+  },
+  {
+    "content": "include links in the description below fantastic maps calm black dragon terrain",
+    "start": 614
+  },
+  {
+    "content": "on Facebook see the photo section Dyson's dodecahedron",
+    "start": 624
+  },
+  {
+    "content": "and feel free to leave other references including yourself in the YouTube",
+    "start": 633
+  },
+  {
+    "content": "comments below I am why lock thank you for joining me and I'll see you next",
+    "start": 637
+  },
+  {
+    "content": "time",
+    "start": 642
+  }
+]

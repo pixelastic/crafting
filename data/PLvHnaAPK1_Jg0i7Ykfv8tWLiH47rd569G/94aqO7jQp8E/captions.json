@@ -1,0 +1,1330 @@
+[
+  {
+    "content": "you hey guys Adam Scott EDM crafter good to",
+    "start": 26
+  },
+  {
+    "content": "have you with me today I want to talk about a measureless and grid las' system",
+    "start": 34
+  },
+  {
+    "content": "that I've been using that has worked really well in my games I I thought",
+    "start": 38
+  },
+  {
+    "content": "others might like to see how I do this it's really you know that the measuring",
+    "start": 45
+  },
+  {
+    "content": "sticks aren't bad but they're a little obtrusive into the immersion of the game",
+    "start": 52
+  },
+  {
+    "content": "and I find that this kind of freeform movement just makes the game a little",
+    "start": 56
+  },
+  {
+    "content": "more immersive and and combats to go actually go faster because you're not",
+    "start": 62
+  },
+  {
+    "content": "measuring and that kind of thing it also I feel that you know it's it's just sad",
+    "start": 68
+  },
+  {
+    "content": "when a warrior try is trying to charge or go somewhere and he just like a",
+    "start": 74
+  },
+  {
+    "content": "couple inches short or something like that it's like why not just let it go",
+    "start": 78
+  },
+  {
+    "content": "the whole way you know as long as it's not across a football field you know why",
+    "start": 80
+  },
+  {
+    "content": "not just you know time is kind of relative in this combat anyway you know",
+    "start": 85
+  },
+  {
+    "content": "people are moving around swirling around why not just let him get to the target",
+    "start": 90
+  },
+  {
+    "content": "and fight you know that's yeah there's there's no reason besides just some",
+    "start": 94
+  },
+  {
+    "content": "fiddly rules okay we're all imagining this this world anyway what's what's the",
+    "start": 100
+  },
+  {
+    "content": "what's you know why not fudge it a bit you know it's for fun you know it's it's",
+    "start": 106
+  },
+  {
+    "content": "to bring out the fun factor of the game okay because I like to think about the",
+    "start": 111
+  },
+  {
+    "content": "the game in terms of what's happening to the characters what fun and exciting has",
+    "start": 117
+  },
+  {
+    "content": "happened to the characters as opposed to what rule am I using right now so that",
+    "start": 123
+  },
+  {
+    "content": "always makes the game more fun to me okay now I was inspired by this by a",
+    "start": 128
+  },
+  {
+    "content": "game called 13th age which doesn't really use miniatures but was kind of",
+    "start": 135
+  },
+  {
+    "content": "talking about a lieu of these concepts and I kind of stole some of that and",
+    "start": 140
+  },
+  {
+    "content": "grafted it on to MIT to miniatures combat to make it to make it measureless",
+    "start": 144
+  },
+  {
+    "content": "okay because I really don't like the kind of conga line way that most",
+    "start": 151
+  },
+  {
+    "content": "role-playing games work it's like move move move move move attack",
+    "start": 159
+  },
+  {
+    "content": "move move move move attack you know which is there are a lot of situations",
+    "start": 162
+  },
+  {
+    "content": "where that doesn't make any sense like if if an archers sitting there and he's",
+    "start": 166
+  },
+  {
+    "content": "got his bow ready and a warrior comes comes running up the archer is going to",
+    "start": 172
+  },
+  {
+    "content": "get a shot off before the warrior gets there as long as he's not surprised he's",
+    "start": 176
+  },
+  {
+    "content": "going to be able to get a shot off okay whether hits or not that's a good",
+    "start": 180
+  },
+  {
+    "content": "question but that's where you roll the dice but hey I mean the warrior and the",
+    "start": 183
+  },
+  {
+    "content": "the the the archer is probably going to get it you know a fan of a range weapon",
+    "start": 189
+  },
+  {
+    "content": "probably going to get a shot in they have already probably getting it a shot",
+    "start": 194
+  },
+  {
+    "content": "off before the warrior gets to them okay so that's what this system is kind of",
+    "start": 197
+  },
+  {
+    "content": "trying to trying to emulate is trying to emulate kind of a swirling melee",
+    "start": 201
+  },
+  {
+    "content": "movement and then like an act then then the action so the so the system is",
+    "start": 205
+  },
+  {
+    "content": "everybody takes their movement including the enemies first before any actions are",
+    "start": 210
+  },
+  {
+    "content": "done with a few exceptions and and then everybody takes their actions okay so",
+    "start": 215
+  },
+  {
+    "content": "that makes a different dynamic and interesting dynamic and it's it's really",
+    "start": 223
+  },
+  {
+    "content": "worked out good in my games it took my took my players a little bit to get used",
+    "start": 230
+  },
+  {
+    "content": "to it but once they got once they got used to it it really it really",
+    "start": 233
+  },
+  {
+    "content": "flourished in the game so now that I want to say you know people might be",
+    "start": 238
+  },
+  {
+    "content": "screaming their head off this isn't for everybody okay this is a very subjective",
+    "start": 245
+  },
+  {
+    "content": "system especially on the DMS end you know about judgments and rulings snap",
+    "start": 248
+  },
+  {
+    "content": "judgments and rulings so it's not for everybody some people you know the",
+    "start": 255
+  },
+  {
+    "content": "gritted people who love their grids you know freaked it will freak out when you",
+    "start": 260
+  },
+  {
+    "content": "try to introduce grid lists and measuring and then you know when you try",
+    "start": 265
+  },
+  {
+    "content": "to introduce this they might have a coronary because this is just like",
+    "start": 269
+  },
+  {
+    "content": "totally off the rails as far as like that kind of nitpicky rule you know",
+    "start": 272
+  },
+  {
+    "content": "lawyering so this is not I'm going to say right now this is may not be for",
+    "start": 278
+  },
+  {
+    "content": "your group but from experience from my group we",
+    "start": 282
+  },
+  {
+    "content": "have had a blast with this it is so much easier than measuring measuring is not",
+    "start": 287
+  },
+  {
+    "content": "hard but it does take from some somewhat from the immersion and hell you know",
+    "start": 293
+  },
+  {
+    "content": "unless there's something in your way why not just move you know just move where",
+    "start": 300
+  },
+  {
+    "content": "you're going to move okay so let's go to the table and I'll talk about some of",
+    "start": 303
+  },
+  {
+    "content": "these rules how this system works um there's a lot to take in on this video",
+    "start": 307
+  },
+  {
+    "content": "so what I'm going to do is I'll try to post the rules in the video and I will",
+    "start": 314
+  },
+  {
+    "content": "post the rules on my my forum website so if you want to go there and see the rule",
+    "start": 320
+  },
+  {
+    "content": "list you can that way you can have a you know a printed version of the rule list",
+    "start": 327
+  },
+  {
+    "content": "so so let's go to the table I'll try to explain this system of measureless and",
+    "start": 333
+  },
+  {
+    "content": "grid las' movement all right so here's an outdoor combat",
+    "start": 338
+  },
+  {
+    "content": "now let's move through this combat using my rolls of measureless movement okay so",
+    "start": 347
+  },
+  {
+    "content": "what happens is there is a movement phase and an action phase and they're",
+    "start": 353
+  },
+  {
+    "content": "two separate things okay so everybody moves in the movement phase includes",
+    "start": 358
+  },
+  {
+    "content": "including the enemies this avoids the conga line mentality so everybody moves",
+    "start": 362
+  },
+  {
+    "content": "in the movement phase and then everybody does an action okay now actions can be",
+    "start": 366
+  },
+  {
+    "content": "out of sequence they can be in the movement phase depend on certain",
+    "start": 371
+  },
+  {
+    "content": "variables alright so now what we do is we determine initiative what I do is I",
+    "start": 374
+  },
+  {
+    "content": "don't do individual initiative and back and forth like most games do I just have",
+    "start": 380
+  },
+  {
+    "content": "the entire side roll initiative like told or DMD what I do do is I allow the",
+    "start": 386
+  },
+  {
+    "content": "character to use their initiative bonus whoever gets the higher initiative that",
+    "start": 391
+  },
+  {
+    "content": "side goes first and they can go in whatever order they want and the same",
+    "start": 394
+  },
+  {
+    "content": "with the enemies now to make it a little fairer for the enemies I never thought",
+    "start": 397
+  },
+  {
+    "content": "it's been fair very fair for the enemies where one you want one died for the",
+    "start": 400
+  },
+  {
+    "content": "entire group what I do is I roll as many dice for the enemies as there are PCs so",
+    "start": 404
+  },
+  {
+    "content": "I have the mage might have addition of different initiatives I could roll his",
+    "start": 411
+  },
+  {
+    "content": "dice separately and then I would roll to other lizard-men initiatives to make up",
+    "start": 417
+  },
+  {
+    "content": "for the for them how many PCs are so there's so the PCs are getting three",
+    "start": 422
+  },
+  {
+    "content": "dice and the enemies are getting three dice so I always try to make sure that",
+    "start": 426
+  },
+  {
+    "content": "the enemies get the same amount of dices of PC so if there's six pcs and I have",
+    "start": 429
+  },
+  {
+    "content": "ten enemies then six of the enemies will roll their initiative and then we",
+    "start": 433
+  },
+  {
+    "content": "determine which the highest so I think that's a little fair for the for the",
+    "start": 437
+  },
+  {
+    "content": "enemies and then the PC is getting just a bunch of extra chances okay so now",
+    "start": 441
+  },
+  {
+    "content": "that you've got the initiative worked out the side that wins has to determine",
+    "start": 447
+  },
+  {
+    "content": "if they want to move first or if they want to let the other side of it first",
+    "start": 451
+  },
+  {
+    "content": "now there can be advantage of the disadvantages once sought one thing to",
+    "start": 457
+  },
+  {
+    "content": "let the other side move first is you get to see where they're going but if a",
+    "start": 461
+  },
+  {
+    "content": "model moves up okay and its base to base with your figure that figure is engaged",
+    "start": 466
+  },
+  {
+    "content": "okay and once that figure is engaged for that",
+    "start": 473
+  },
+  {
+    "content": "turn they can't away all right so now he's moved",
+    "start": 477
+  },
+  {
+    "content": "he can't move he's stuck okay so that keeps figures from just going okay I'm",
+    "start": 484
+  },
+  {
+    "content": "gonna move away here all right so that could which can be really annoying you",
+    "start": 489
+  },
+  {
+    "content": "know for the side that goes first because then you never get to melee you",
+    "start": 493
+  },
+  {
+    "content": "know if you if that side doesn't want to okay so I would I always have that",
+    "start": 496
+  },
+  {
+    "content": "they're engaged now one thing you could do also is I have",
+    "start": 500
+  },
+  {
+    "content": "interception okay so if this lizard guy goes for the mage the warrior could try",
+    "start": 506
+  },
+  {
+    "content": "to intercept the lizard man okay so basically you just kind of do a Midway",
+    "start": 514
+  },
+  {
+    "content": "interception like that if they're coming towards you and then the warrior would",
+    "start": 520
+  },
+  {
+    "content": "do an attack now the attack doesn't do any damage the only thing the attack",
+    "start": 525
+  },
+  {
+    "content": "does is determine whether the guy is intercepted or not so if he if he",
+    "start": 528
+  },
+  {
+    "content": "completes the attack and hits the lizard has stopped in his tracks if not the",
+    "start": 533
+  },
+  {
+    "content": "lizard pushes past him and gets them to the mage now you can determine where",
+    "start": 538
+  },
+  {
+    "content": "where you intercept the the creature in its in its path it might it might be",
+    "start": 545
+  },
+  {
+    "content": "wiser to wait for the him to get near the mage and then try to intercept him",
+    "start": 551
+  },
+  {
+    "content": "because if you fail the interception the guy might you know move up and you can",
+    "start": 558
+  },
+  {
+    "content": "still attack but if the guy decides to go around a little bit then you're",
+    "start": 564
+  },
+  {
+    "content": "pretty much out of luck you're out of range so but essentially if you fail the",
+    "start": 568
+  },
+  {
+    "content": "interception you're kind of stuck because if you're amazing five you",
+    "start": 572
+  },
+  {
+    "content": "really can't fight because there's no one to fight next to you so you're",
+    "start": 577
+  },
+  {
+    "content": "taking a chance okay if you do that so generally it's probably better for the",
+    "start": 580
+  },
+  {
+    "content": "side that won the initiative to go first but there can be situations where it may",
+    "start": 588
+  },
+  {
+    "content": "not be okay so say the the warrior decides that he is going to a charge",
+    "start": 591
+  },
+  {
+    "content": "okay so choice charge would be in this is",
+    "start": 597
+  },
+  {
+    "content": "we're going to start the movement phase and then the players are going to go",
+    "start": 600
+  },
+  {
+    "content": "first okay so he charges okay now they any of these guys could intercept him",
+    "start": 602
+  },
+  {
+    "content": "okay they decide not to and just let him come up all right so now they don't have",
+    "start": 609
+  },
+  {
+    "content": "to make an interception role they're not stuck and all that kind of stuff",
+    "start": 615
+  },
+  {
+    "content": "generally then these would probably make interception roles if there's a leader",
+    "start": 618
+  },
+  {
+    "content": "involved like if they're trying to protect the leader although the Royer",
+    "start": 622
+  },
+  {
+    "content": "warrior would have a hard time getting up here you can't get up there with a",
+    "start": 625
+  },
+  {
+    "content": "charge because he's got a he's got a barrier he has to get up so in my games",
+    "start": 628
+  },
+  {
+    "content": "it has to be as you know as most games as to be a straight line no obstructions",
+    "start": 633
+  },
+  {
+    "content": "to do a charge now the benefit of a charge is that you can do an",
+    "start": 637
+  },
+  {
+    "content": "out-of-sequence attack so when you charge you do your action in the",
+    "start": 641
+  },
+  {
+    "content": "movement phase and attack all right now there is another condition of the",
+    "start": 645
+  },
+  {
+    "content": "movement phase wreaking why call it snap fire okay if archers are ready or mages",
+    "start": 653
+  },
+  {
+    "content": "they can fire an at will power um while someone is moving so say the Warriors",
+    "start": 658
+  },
+  {
+    "content": "charging okay excuse me and the mage decides to shoot something and that will",
+    "start": 664
+  },
+  {
+    "content": "power at the wire and hits him okay the warrior still gets to continue on",
+    "start": 671
+  },
+  {
+    "content": "with his attack but he he said the mage snap fired at the warrior so now the",
+    "start": 676
+  },
+  {
+    "content": "mage has used his attack power okay for the round he doesn't get the he doesn't",
+    "start": 682
+  },
+  {
+    "content": "get to do an action in the action phase as he's already used it okay",
+    "start": 689
+  },
+  {
+    "content": "the warrior attacks the Lizardman with a charge so he attacks in the same round",
+    "start": 693
+  },
+  {
+    "content": "as the movement phase so he also loses his action in the action phase okay so",
+    "start": 698
+  },
+  {
+    "content": "the mage decides to move up a bit behind cover okay and he's not going to he's",
+    "start": 705
+  },
+  {
+    "content": "not going to snap fire anything because he wants to he wants to do an encounter",
+    "start": 714
+  },
+  {
+    "content": "power all right so now we have the the rogue so the rogue decides well hey",
+    "start": 719
+  },
+  {
+    "content": "maybe I want to get some high ground okay so she um runs over here okay she",
+    "start": 730
+  },
+  {
+    "content": "does a brewing an acrobatics check and man",
+    "start": 739
+  },
+  {
+    "content": "to get up on this stone very easily all right now what I have is once when you",
+    "start": 742
+  },
+  {
+    "content": "do something like that your movement essentially stops so if you get to a",
+    "start": 748
+  },
+  {
+    "content": "barrier like this and you have to go up or down or whatever or something you",
+    "start": 751
+  },
+  {
+    "content": "know trap see or whatever you could you stop in some situations like slick",
+    "start": 759
+  },
+  {
+    "content": "floors or something you want my hate you may want to have them make multiple",
+    "start": 765
+  },
+  {
+    "content": "checks and like three or four or five checks and then however many they make",
+    "start": 769
+  },
+  {
+    "content": "is how far they go like like percentage-wise how far they made it but",
+    "start": 773
+  },
+  {
+    "content": "generally something like this I have them stop if when they get up on",
+    "start": 778
+  },
+  {
+    "content": "something that's like an elevation or something okay so now she has a higher",
+    "start": 782
+  },
+  {
+    "content": "ground okay so now all the characters have moved okay so this guy's engaged",
+    "start": 788
+  },
+  {
+    "content": "he can't move all right the wizard decided not to move okay or he's going",
+    "start": 797
+  },
+  {
+    "content": "to the site not to me Venus stay where he's at um he is going to he decides",
+    "start": 803
+  },
+  {
+    "content": "he's going to go after this robe okay so he you know makes his check and gets up",
+    "start": 809
+  },
+  {
+    "content": "here but what you could do what you could do is you could say that basically",
+    "start": 817
+  },
+  {
+    "content": "this this character would get an attack of opportunity is this lizard guys",
+    "start": 823
+  },
+  {
+    "content": "trying to scramble off this rock right so she gets an attack of opportunity you",
+    "start": 827
+  },
+  {
+    "content": "could say if she hits he doesn't make it no matter what what his role is to get",
+    "start": 833
+  },
+  {
+    "content": "up because she basically knocks him down so that's a little more thematic then oh",
+    "start": 837
+  },
+  {
+    "content": "I just got a hit you still do what you were doing blah blah um that makes it a",
+    "start": 841
+  },
+  {
+    "content": "little more of a challenge for this guy to get up because now she's you know on",
+    "start": 846
+  },
+  {
+    "content": "his case okay so she say she knocks him and knocks him back down he doesn't make",
+    "start": 851
+  },
+  {
+    "content": "it up the rock okay so he essentially can't do anything",
+    "start": 857
+  },
+  {
+    "content": "alright um he just so these guys have moved he decided not to move this guy",
+    "start": 860
+  },
+  {
+    "content": "and the attacker opportunity was out of sequence so that",
+    "start": 871
+  },
+  {
+    "content": "why that worked so now this guy decides he's going to go for the wizard okay so",
+    "start": 874
+  },
+  {
+    "content": "the wizard is decided he wanted to cast a encounter power so he's not gonna do a",
+    "start": 880
+  },
+  {
+    "content": "snap fire thing he's just going to wait there all right so now he's stuck over",
+    "start": 885
+  },
+  {
+    "content": "there that poor lizard guy all right so so now we do the action phase okay",
+    "start": 889
+  },
+  {
+    "content": "they've already attacked he's snapped fired okay so I'm doing the characters",
+    "start": 901
+  },
+  {
+    "content": "first she is going to pull a dagger and throw it at the at the mage so she does",
+    "start": 908
+  },
+  {
+    "content": "that that's her action okay now um the wizard casts a spell and say does",
+    "start": 918
+  },
+  {
+    "content": "something to the lizard guy and those are guy you know - you know waters off",
+    "start": 926
+  },
+  {
+    "content": "or you did something to him you know blows and backer you know whatever",
+    "start": 929
+  },
+  {
+    "content": "whatever spell okay so um see ya now so all the characters have done in action",
+    "start": 934
+  },
+  {
+    "content": "okay so now it's time for the enemies action okay",
+    "start": 941
+  },
+  {
+    "content": "this guy can't attack because he got blown back all right",
+    "start": 945
+  },
+  {
+    "content": "this guy can't attack as he was trying to scramble up the rock in the in the in",
+    "start": 949
+  },
+  {
+    "content": "the rogue knocked him off the rock as he was trying to get up there",
+    "start": 953
+  },
+  {
+    "content": "this guy can't attack his he snapped fired this guy can't attack because he's",
+    "start": 957
+  },
+  {
+    "content": "engaged with the wire so this guy attacks the warrior back okay so you see",
+    "start": 962
+  },
+  {
+    "content": "how this is is progressing okay so then we go to the next round and I said we do",
+    "start": 967
+  },
+  {
+    "content": "the initiative we you could do initiative again or just keep the",
+    "start": 973
+  },
+  {
+    "content": "initiative you have I generally just keep the initiative I have so now you do",
+    "start": 976
+  },
+  {
+    "content": "that you do the movement phase you do then you do the action phase now this",
+    "start": 982
+  },
+  {
+    "content": "guy since he had engaged this target last time this this target could try to",
+    "start": 990
+  },
+  {
+    "content": "move away this round okay but if he does of course he gets attack of opportunity",
+    "start": 1002
+  },
+  {
+    "content": "so you're only engaged for the first round that you're attacked okay so this",
+    "start": 1009
+  },
+  {
+    "content": "guy could possibly this guy could possibly move away alright now remember",
+    "start": 1016
+  },
+  {
+    "content": "though if this guy did try to move away the warrior could could try to intercept",
+    "start": 1020
+  },
+  {
+    "content": "again he may not he may not hold the guy he would also get an attack of",
+    "start": 1026
+  },
+  {
+    "content": "opportunity so that first round he engages him",
+    "start": 1030
+  },
+  {
+    "content": "that he's stuck then the second round the loser decides discretion is a better",
+    "start": 1034
+  },
+  {
+    "content": "part of valor and runs away then the war gets an attack of",
+    "start": 1039
+  },
+  {
+    "content": "opportunity and could try to intercept him again and stop him okay so if he",
+    "start": 1042
+  },
+  {
+    "content": "hits him then the wizard is stuck again and can't move away okay so that makes",
+    "start": 1048
+  },
+  {
+    "content": "that a tricky that makes running away a tricky maneuver but it can happen now",
+    "start": 1055
+  },
+  {
+    "content": "I've got I've kind of shown the basics I want to go to a different do a little",
+    "start": 1063
+  },
+  {
+    "content": "bit of different set up with the outdoor encounter and we'll talk about another",
+    "start": 1067
+  },
+  {
+    "content": "thing that can happen okay here I have another encounter setup I want to show",
+    "start": 1071
+  },
+  {
+    "content": "you a little bit of tomfoolery that the players might try on you okay so you've",
+    "start": 1079
+  },
+  {
+    "content": "got this wizard here has some protectors up front and we got the players all",
+    "start": 1084
+  },
+  {
+    "content": "right so say the players win initiative and they're going to go first so the",
+    "start": 1088
+  },
+  {
+    "content": "Warriors like well you know I have a couple choices if I go through here all",
+    "start": 1096
+  },
+  {
+    "content": "right I'm going to tax of opportunity on me I'm gonna get two attacks of",
+    "start": 1101
+  },
+  {
+    "content": "opportunity on me right well what if I do yeah like this I avoid all the",
+    "start": 1104
+  },
+  {
+    "content": "attacks of opportunity okay that's a bit of cheesery",
+    "start": 1111
+  },
+  {
+    "content": "that your players may try and they only tried it in my table once because",
+    "start": 1114
+  },
+  {
+    "content": "basically what I do is I have a kind of a line of scrimmage okay so this is the",
+    "start": 1119
+  },
+  {
+    "content": "line of scrimmage if the players pass through this line of scrimmage",
+    "start": 1125
+  },
+  {
+    "content": "to get to someone in the back you know these models aren't static they're",
+    "start": 1130
+  },
+  {
+    "content": "moving around there you know in our in you know as a model it's just sitting",
+    "start": 1134
+  },
+  {
+    "content": "there but in our you know in the game world they'd be moving around parrying",
+    "start": 1138
+  },
+  {
+    "content": "dodging this kind of thing so they're not just static people staying there's",
+    "start": 1142
+  },
+  {
+    "content": "just kind of the area where they're that okay so if someone moves through an area",
+    "start": 1146
+  },
+  {
+    "content": "that is an enemy area I would still do this the same two attacks to this guy",
+    "start": 1151
+  },
+  {
+    "content": "okay or you could do you could be nicer and let one attack even if he went way",
+    "start": 1157
+  },
+  {
+    "content": "out and didn't get this it it wasn't me near this guy you could",
+    "start": 1164
+  },
+  {
+    "content": "give them one or two attacks depending on how cheesy you think the prepares",
+    "start": 1170
+  },
+  {
+    "content": "begin you could punish them for being cheesy okay so you know you got to",
+    "start": 1175
+  },
+  {
+    "content": "there's a lot of give-and-take in this in this in this mood measureless",
+    "start": 1180
+  },
+  {
+    "content": "movement okay so you got up you got to take that into account so the players",
+    "start": 1186
+  },
+  {
+    "content": "have to accept your rulings on this kind of stuff okay so that's really that's",
+    "start": 1190
+  },
+  {
+    "content": "really the only way this can be can be abused because the DM has control over",
+    "start": 1198
+  },
+  {
+    "content": "how how far the characters can go okay okay so let's go to the rules one more",
+    "start": 1204
+  },
+  {
+    "content": "time on a cave house assay we have our adventurers and they can manage just so",
+    "start": 1215
+  },
+  {
+    "content": "they come in the room the mage casts a some kind of mud pit near the center of",
+    "start": 1218
+  },
+  {
+    "content": "the room okay say the players win initiative okay so they decide they're",
+    "start": 1223
+  },
+  {
+    "content": "going to engage looks like the lizard folk have javelins so they're gonna be",
+    "start": 1232
+  },
+  {
+    "content": "tossing the madam so probably not a good idea to just sit back so the warrior",
+    "start": 1238
+  },
+  {
+    "content": "decides he's going to try to cross this to get across okay this mud this mud",
+    "start": 1241
+  },
+  {
+    "content": "okay so what he could try to do is get a running jump but he's probably not going",
+    "start": 1246
+  },
+  {
+    "content": "to make it okay now if he does the running jump he essentially is going to",
+    "start": 1252
+  },
+  {
+    "content": "stop wherever his roll makes it to okay so if he barely makes it he might right",
+    "start": 1256
+  },
+  {
+    "content": "there right on the edge of that okay now he could try to just slog through it",
+    "start": 1261
+  },
+  {
+    "content": "you know depending up if you wanted to be slick you could do acrobatics or",
+    "start": 1268
+  },
+  {
+    "content": "athletics if you wanted it to be like pushing through the mud I would do",
+    "start": 1272
+  },
+  {
+    "content": "athletics so he tries to go through them he decides he's going to try to do so",
+    "start": 1276
+  },
+  {
+    "content": "it's like three inches so I would say that he would have to roll three d20 and",
+    "start": 1280
+  },
+  {
+    "content": "he'd have to succeed at every check to be able to push through and if he was",
+    "start": 1283
+  },
+  {
+    "content": "able to push through he could actually continue on okay or you could have make",
+    "start": 1287
+  },
+  {
+    "content": "four checks to come out of the mud so three or four checks and if he makes",
+    "start": 1295
+  },
+  {
+    "content": "those three or four checks he acts gets to a guy if he doesn't if he makes",
+    "start": 1299
+  },
+  {
+    "content": "two checks you could say he's like in the middle okay so that's a good way to",
+    "start": 1306
+  },
+  {
+    "content": "determine where someone might be in an encounter if they fail their checks okay",
+    "start": 1309
+  },
+  {
+    "content": "so the mage decides he's going to come over here and take some cover and the",
+    "start": 1317
+  },
+  {
+    "content": "robe decides she's going to try to do it so you could have her doeth athletic",
+    "start": 1326
+  },
+  {
+    "content": "record I might even have him/her try to cry over the rock and then get on get",
+    "start": 1332
+  },
+  {
+    "content": "here because you know it's easier so you could have her do depending on how many",
+    "start": 1336
+  },
+  {
+    "content": "checks you wanted them to move through the obstacle you could have them move",
+    "start": 1343
+  },
+  {
+    "content": "through generally if somebody goes over an obstacle like this I have them",
+    "start": 1348
+  },
+  {
+    "content": "stopped on the other side okay so say she makes it and she stops on the other",
+    "start": 1352
+  },
+  {
+    "content": "side okay but she's not in the mud all right so then now the lizard folk can",
+    "start": 1356
+  },
+  {
+    "content": "move okay and say this one moves up all right",
+    "start": 1361
+  },
+  {
+    "content": "he doesn't have any problem with the mud so he just goes right in this lizard",
+    "start": 1368
+  },
+  {
+    "content": "folk comes over here and then you could actually have him come through the mud",
+    "start": 1375
+  },
+  {
+    "content": "and come at the mage okay because say you know you can say that the lizard fro",
+    "start": 1380
+  },
+  {
+    "content": "the mug doesn't affect the lizard so if that's a great way to kind of have your",
+    "start": 1384
+  },
+  {
+    "content": "players but not the enemies so that's kind of how to deal with those those",
+    "start": 1387
+  },
+  {
+    "content": "obstacles and terrain but let's let's reset and do a talk about more just",
+    "start": 1393
+  },
+  {
+    "content": "straight about the rules okay so take your mother all right",
+    "start": 1398
+  },
+  {
+    "content": "so say the players win initiative they're going to go first okay they just",
+    "start": 1407
+  },
+  {
+    "content": "like they decide to move first okay so all the players will move first and then",
+    "start": 1411
+  },
+  {
+    "content": "all the enemies will move okay so the warrior decides to charge she's got a",
+    "start": 1418
+  },
+  {
+    "content": "straight shot so he charges this guy that nobody countered nobody tries to",
+    "start": 1425
+  },
+  {
+    "content": "intercept him so he just charges right there he gets to attack right then and",
+    "start": 1430
+  },
+  {
+    "content": "there because it's a charge so he loses his action for the action phase okay",
+    "start": 1435
+  },
+  {
+    "content": "the rogue decides that she's going to engage so she moves up it's not a charge",
+    "start": 1441
+  },
+  {
+    "content": "but this guy's engaged so he can't move away now",
+    "start": 1448
+  },
+  {
+    "content": "the wizard decides he's not going to move he's and stay where he is because",
+    "start": 1453
+  },
+  {
+    "content": "if he does move this guy could try to intercept him okay so he decides he's",
+    "start": 1459
+  },
+  {
+    "content": "not going to move okay so now it's the their phase so the wizard moves over a",
+    "start": 1463
+  },
+  {
+    "content": "little bit because he figures nobody's going to try to engage him this guy",
+    "start": 1470
+  },
+  {
+    "content": "moves up but he's moving up the wizard snap fires a few magic missiles at him",
+    "start": 1476
+  },
+  {
+    "content": "okay and the guy continues on does kill him so he continues on so now the wizard",
+    "start": 1481
+  },
+  {
+    "content": "has used his action so now once everybody's moved that's the movement",
+    "start": 1486
+  },
+  {
+    "content": "phase and we move to the action phase okay so the warrior already attacked and",
+    "start": 1490
+  },
+  {
+    "content": "is charged so he doesn't get an action phase okay",
+    "start": 1496
+  },
+  {
+    "content": "the players go first the rogue attacks she gets her action phase the mage does",
+    "start": 1499
+  },
+  {
+    "content": "not get his action phase because he already attacked now remember you can",
+    "start": 1508
+  },
+  {
+    "content": "always use action points to get another to get another action so you could",
+    "start": 1512
+  },
+  {
+    "content": "conceivably attack in the action phase with by using",
+    "start": 1517
+  },
+  {
+    "content": "a an action point okay and remember you can only use one of those around so but",
+    "start": 1523
+  },
+  {
+    "content": "you could do that that that would be a way to get around that that limitation",
+    "start": 1528
+  },
+  {
+    "content": "okay so now it's the enemy's turn all right",
+    "start": 1533
+  },
+  {
+    "content": "so he came over here to attack he gets his attack he attacks the warrior back",
+    "start": 1537
+  },
+  {
+    "content": "and then this lizard man attacks her now then the wizard of course would get his",
+    "start": 1543
+  },
+  {
+    "content": "attack cuz he didn't snap fire anything he would get whatever spell he was",
+    "start": 1547
+  },
+  {
+    "content": "trying to do ok so say say things are going bad for this guy and he decides to",
+    "start": 1550
+  },
+  {
+    "content": "run so he runs out the warrior decides just to do a type of opportunity not",
+    "start": 1567
+  },
+  {
+    "content": "intercept the the the road gets a tack of opportunity to and then he runs out",
+    "start": 1574
+  },
+  {
+    "content": "if he lives ok because the warrior once wants to help",
+    "start": 1584
+  },
+  {
+    "content": "the mage so he decides he's going to go help the mage ok so he would on his",
+    "start": 1587
+  },
+  {
+    "content": "movement he could charge or I could just do a normal movement and move over there",
+    "start": 1596
+  },
+  {
+    "content": "ok so that's really how it works I mean um you just do your movement phase",
+    "start": 1601
+  },
+  {
+    "content": "everybody does their movement so both sides are moving on the same you know",
+    "start": 1609
+  },
+  {
+    "content": "essentially at the same time but you're doing it in in like initiative order so",
+    "start": 1615
+  },
+  {
+    "content": "whoever has the initiative moves first then they then they move second which",
+    "start": 1619
+  },
+  {
+    "content": "you know it's kind of I kind of like that idea as opposed to the conga line",
+    "start": 1623
+  },
+  {
+    "content": "idea and then everybody gets their action on the action phase unless you've",
+    "start": 1627
+  },
+  {
+    "content": "used it with it with a few exceptions you've got you've got snap firing which",
+    "start": 1631
+  },
+  {
+    "content": "can use your action you can only use a you know use a nap willpower for a snap",
+    "start": 1638
+  },
+  {
+    "content": "fire you can't use an encounter or daily or a charge if you charge you go ahead",
+    "start": 1645
+  },
+  {
+    "content": "and use your attack in that in that action another thing you could do is you",
+    "start": 1652
+  },
+  {
+    "content": "could spend during your action phase you could move again but like I say if",
+    "start": 1658
+  },
+  {
+    "content": "you're a gay if you got engage that round you can",
+    "start": 1661
+  },
+  {
+    "content": "move you couldn't move again of course but if if for some reason you wanted to",
+    "start": 1664
+  },
+  {
+    "content": "move you know and protect somebody you can move you would forfeit your action",
+    "start": 1670
+  },
+  {
+    "content": "but you could do you could do your movement okay so that's pretty much the",
+    "start": 1678
+  },
+  {
+    "content": "breakdown of how this system works I've been using it for a while and it seems",
+    "start": 1684
+  },
+  {
+    "content": "to work pretty well I haven't really had a lot of problems it's nice not having",
+    "start": 1691
+  },
+  {
+    "content": "to really do the measure we do occasionally use the measuring stick for",
+    "start": 1695
+  },
+  {
+    "content": "spells and things but remember that the basis of a miniature are our two inch or",
+    "start": 1698
+  },
+  {
+    "content": "an inch I'm sorry an inch so say somebody gets slowed in a DD for e you",
+    "start": 1704
+  },
+  {
+    "content": "know you can move you can move two inches so you know that's just one two",
+    "start": 1709
+  },
+  {
+    "content": "you know it's it's not that hard to visualize two inches okay when you get",
+    "start": 1713
+  },
+  {
+    "content": "longer inches it can be a little trickier to visualize but it's really",
+    "start": 1718
+  },
+  {
+    "content": "nice because the the measuring sticks like don't intrude into the game it's",
+    "start": 1722
+  },
+  {
+    "content": "really just common sense a lot of this is you know try to give us a little bit",
+    "start": 1727
+  },
+  {
+    "content": "of rules to common sense as far as that goes so I've really enjoyed this system",
+    "start": 1731
+  },
+  {
+    "content": "at just D it's really unobtrusive as far as the measuring sticks and I really",
+    "start": 1737
+  },
+  {
+    "content": "haven't had a lot of player complaints as far as movement because well heck I",
+    "start": 1743
+  },
+  {
+    "content": "mean they can move as far as they want so what's to complain about just with",
+    "start": 1748
+  },
+  {
+    "content": "some limitations we've talked about of course so there we go I hope this was",
+    "start": 1752
+  },
+  {
+    "content": "helpful some of you may want to try to use it some of you may be Oh what the",
+    "start": 1757
+  },
+  {
+    "content": "heck is that no way so I thought I'd put it out there if you were interested and",
+    "start": 1761
+  },
+  {
+    "content": "I'll see you next time on the craft you",
+    "start": 1766
+  },
+  {
+    "content": "hey crafters I hope you've enjoyed this episode of the dance craft make sure to",
+    "start": 1930
+  },
+  {
+    "content": "subscribe and I have tons of other videos as you can see I am the",
+    "start": 1935
+  },
+  {
+    "content": "originator of the 2.5 D method of crafting tiles I also do dirt cheap",
+    "start": 1939
+  },
+  {
+    "content": "terrain for the table if all this intrigues you make sure you check out",
+    "start": 1943
+  },
+  {
+    "content": "all the videos below also join my forum we have lots of great crafters on there",
+    "start": 1947
+  },
+  {
+    "content": "who give advice I have a link above and below and last but not least remember go",
+    "start": 1952
+  },
+  {
+    "content": "forth and craft",
+    "start": 1957
+  }
+]

@@ -4,6 +4,8 @@ module.exports = {
     'PLOt6UN-cmqk3YZvK5lhVt3Hh67R-C8BiF', // Wyloch's Crafting Vids
     'PLvHnaAPK1_Jg0i7Ykfv8tWLiH47rd569G', // The DM's Craft
     'PLw-XImXo4zfOKxI_NWJpESKHiX71yyLXU', // TheDMGinfo
+    'PLgyxyHUpqO6T13yshN645aQbJFtvFw0hp', // Bard's Craft Creatures
+    'PLgyxyHUpqO6SU2pG42H-hFclKNKwfxGvB', // Bard's Craft Terrain
 
     // TODO:
     // Nerdforge does not have playlists...
@@ -61,5 +63,35 @@ module.exports = {
     'tTHNVFOXeo4',
     'XcoPijDqhJE',
     'uUXADBIQM2Q',
+    '6Fqsyv7hhho',
+    'HUy6GZQxYWo',
+    'GJX3SnBPsXg',
+    '_l9DNUwfwLA',
+    'mk3Nb32dFkI',
+    'FzD-itQWzyY',
+    'csHLOitmE9c',
+    '5AqfCeERBrA',
+    'UAshoGVRs20',
+    'ILzgusSsM8s',
+    'Wnr5pTl8kww',
+    'MAhul3EDfx0',
+    'XIBYmPrGnug',
+    'tltuynxCyDc',
+    'vt9PEpL7Rj8',
+    'xDq8B71nhWQ',
+    '3z3qSqk3Tpc',
+    'EL9LT1_cn-o',
+    'NODg_FHCkv0',
+    'ab59vHFA5mU',
+    '-AJPogHbkSw',
+    '_yAIdzDkfmk',
+    'U12DIlDVTrg',
+    'LqobVrfZmKs',
+    'NhhfCJqr-XA',
+    'Vt_84qE7QDQ',
+    '6-cLLscUmbA',
+    'k-1uzcuKF6g',
+    '0bBE0TV5aAA',
+    '437p1gwNNuE',
   ],
 };

@@ -1,0 +1,934 @@
+[
+  {
+    "content": "hey guys welcome back to Blackmagic",
+    "start": 15
+  },
+  {
+    "content": "craft this build is the result of two things aligning the first being the fact",
+    "start": 30
+  },
+  {
+    "content": "that the mandalorian series premiered and exists and it's awesome and it's",
+    "start": 37
+  },
+  {
+    "content": "made me really love Star Wars again and me getting a 3d resin printer I was",
+    "start": 42
+  },
+  {
+    "content": "looking for something interesting to be my first use of the printer and my buddy",
+    "start": 49
+  },
+  {
+    "content": "uncle Brent over at goober town hobbies had shared with me a photo of something",
+    "start": 55
+  },
+  {
+    "content": "he was working on for his baby yoda video and it was this really cool",
+    "start": 60
+  },
+  {
+    "content": "Mandalorian model and I knew that was it I had to print that and find something",
+    "start": 65
+  },
+  {
+    "content": "to do with it and I decided to make a little diorama something that has",
+    "start": 69
+  },
+  {
+    "content": "absolutely nothing to do with gaming like most of my builds usually do and I",
+    "start": 75
+  },
+  {
+    "content": "gotta say it was really liberating and exciting to build something that was",
+    "start": 79
+  },
+  {
+    "content": "just for fun and for display and not for gaming I didn't have to worry about",
+    "start": 84
+  },
+  {
+    "content": "modularity and durability and reusability and all the LEDs that",
+    "start": 89
+  },
+  {
+    "content": "usually alter the choices made when building gaming terrain it was awesome",
+    "start": 94
+  },
+  {
+    "content": "this is not any particular scene from the show nerd rage isn't something that",
+    "start": 100
+  },
+  {
+    "content": "just might happen if this is not correct to the lore I don't really care I just",
+    "start": 108
+  },
+  {
+    "content": "wanted to build something that had all the visually stimulating things that I",
+    "start": 114
+  },
+  {
+    "content": "loved about the series and kind of mashed them together I took some",
+    "start": 120
+  },
+  {
+    "content": "inspiration from Mos Eisley as well as the nameless planet where mando gets",
+    "start": 124
+  },
+  {
+    "content": "tired to collect the bounty on the child I don't know what that planet is named",
+    "start": 130
+  },
+  {
+    "content": "yet maybe people know in the future or now when watching this video I don't",
+    "start": 136
+  },
+  {
+    "content": "know I built this in film this episode around the time episode 5 of the",
+    "start": 140
+  },
+  {
+    "content": "mandalorian was up so who knows what happens later hopefully the series",
+    "start": 144
+  },
+  {
+    "content": "doesn't end up stinking that would be a shame one thing I did try to get right",
+    "start": 148
+  },
+  {
+    "content": "though was the way his armor looks at the time when he collects the child and",
+    "start": 154
+  },
+  {
+    "content": "as baby Yoda floating around in this little floaty crib thing so that's why",
+    "start": 161
+  },
+  {
+    "content": "he doesn't have all the fancy shiny armor and he also doesn't have the",
+    "start": 166
+  },
+  {
+    "content": "pauldron that's painted it's that one particular moment which is actually my",
+    "start": 170
+  },
+  {
+    "content": "favorite look of him from the series so this build is gonna jump around a little",
+    "start": 175
+  },
+  {
+    "content": "bit because there was a lot of different things that I was doing in tandem to",
+    "start": 181
+  },
+  {
+    "content": "make it all come together in the end so bear with me here and let's take a look",
+    "start": 185
+  },
+  {
+    "content": "at how I built this Mandalorian diorama first I 3d printed a bunch of stuff",
+    "start": 189
+  },
+  {
+    "content": "namely the mando and baby Yoda model this is actually a mash-up of two",
+    "start": 196
+  },
+  {
+    "content": "different sculpts some one combined and I got the file on Thingiverse I printed",
+    "start": 200
+  },
+  {
+    "content": "it out larger than 28 millimeter scale and the whole model stands about two",
+    "start": 205
+  },
+  {
+    "content": "inches tall this is a really nice size for a diorama I'm not gonna get into the",
+    "start": 209
+  },
+  {
+    "content": "painting of this thing because that's a video in its own right and I'm not the",
+    "start": 213
+  },
+  {
+    "content": "best mini painter let's be honest you're here for the terrain building after",
+    "start": 217
+  },
+  {
+    "content": "mando the first thing I knew I needed were some tiny stormtrooper helmets to",
+    "start": 221
+  },
+  {
+    "content": "impale this was really important to me because so far the image of impaled",
+    "start": 225
+  },
+  {
+    "content": "trooper helmets has been the most iconic scene in the show for me even more than",
+    "start": 229
+  },
+  {
+    "content": "little baby Yotes himself there was an stl i found that had a few",
+    "start": 234
+  },
+  {
+    "content": "helmet on spikes but I wanted to have more control so I actually found a full",
+    "start": 239
+  },
+  {
+    "content": "sized wearable helmet model and sized it way down to match the scale of my mini I",
+    "start": 244
+  },
+  {
+    "content": "printed a bunch out and clean them up the fact it was designed as a wearable",
+    "start": 251
+  },
+  {
+    "content": "print meant that they were hollow and incredibly fragile at this size",
+    "start": 255
+  },
+  {
+    "content": "especially before curing but the cool thing is that this made them easy to",
+    "start": 260
+  },
+  {
+    "content": "drill through for spikes easy to damage and in general they just",
+    "start": 264
+  },
+  {
+    "content": "looked more believable this way once the supports were removed and they were",
+    "start": 268
+  },
+  {
+    "content": "fully cured I used some toothpicks to impale them at this point I was already",
+    "start": 272
+  },
+  {
+    "content": "getting crazy excited about this project and really loving the potential this new",
+    "start": 276
+  },
+  {
+    "content": "printer was unlocking for me after painting the helmets I realized the",
+    "start": 281
+  },
+  {
+    "content": "toothpicks looked a bit too bulky and smooth so I carved them up with an",
+    "start": 285
+  },
+  {
+    "content": "exacto to make them look more realistic before painting",
+    "start": 289
+  },
+  {
+    "content": "would I also printed a bunch of random bit that I thought might be useful later",
+    "start": 293
+  },
+  {
+    "content": "just general sci-fi Griebel type stuff and it printed more than I thought I'd",
+    "start": 297
+  },
+  {
+    "content": "use just in case the one specifically Star Wars bit I printed was one of these",
+    "start": 301
+  },
+  {
+    "content": "moisture farm things but I printed it a lot smaller than it should be to better",
+    "start": 307
+  },
+  {
+    "content": "fit the size of the diorama that I was envisioning even though in the scale of",
+    "start": 313
+  },
+  {
+    "content": "the mando mini this piece should be at least twice the size I put all the bits",
+    "start": 317
+  },
+  {
+    "content": "on some large tongue depressors so I could more easily handle painting them I",
+    "start": 322
+  },
+  {
+    "content": "just use hot glue as this is fast and easy to remove later I hit them with",
+    "start": 326
+  },
+  {
+    "content": "some spray primer and left them to dry while I moved on to starting the actual",
+    "start": 331
+  },
+  {
+    "content": "build I grabbed a sheet of quarter inch MDF to act as my base and using my mini",
+    "start": 335
+  },
+  {
+    "content": "i roughly laid out what I wanted to build I didn't plan this too much I",
+    "start": 341
+  },
+  {
+    "content": "wanted to leave it pretty open as I work but giving myself this early constraint",
+    "start": 345
+  },
+  {
+    "content": "of overall footprint was a great way to start forming ideas the next step was",
+    "start": 349
+  },
+  {
+    "content": "cutting a large piece of XPS insulation foam for the back wall I made it fairly",
+    "start": 354
+  },
+  {
+    "content": "thick this way it would have a good surface area to attach to the base but",
+    "start": 359
+  },
+  {
+    "content": "also because I could then split the wall into a few layers to give my doorway",
+    "start": 364
+  },
+  {
+    "content": "some depth I figured out where I wanted the door to be this left one side fairly",
+    "start": 368
+  },
+  {
+    "content": "open for something else one of the most defining features of tatooine for me are",
+    "start": 372
+  },
+  {
+    "content": "the round stucco structures I envisioned a large one on the side but realized I",
+    "start": 378
+  },
+  {
+    "content": "didn't have any styrofoam balls large enough to do this or even raw material",
+    "start": 383
+  },
+  {
+    "content": "thick enough to make my own so I opted for two smaller ones with the door I",
+    "start": 388
+  },
+  {
+    "content": "simply cut out a section of the middle layer of foam so I could embed the resin",
+    "start": 393
+  },
+  {
+    "content": "print this was held in place with some tacky glue for the outermost layer I",
+    "start": 398
+  },
+  {
+    "content": "copied the arch of the door but made it a half inch wider all the way around",
+    "start": 403
+  },
+  {
+    "content": "after this I created the stucco texture using a ball of aluminum foil",
+    "start": 407
+  },
+  {
+    "content": "I wanted the door arch to have some stone pattern that you often see on",
+    "start": 412
+  },
+  {
+    "content": "these types of structures at first I drew them in with a pencil but honestly",
+    "start": 416
+  },
+  {
+    "content": "I didn't really like the way they were looking I really wanted them to be",
+    "start": 419
+  },
+  {
+    "content": "slightly projecting from the structure I decided to pivot and use",
+    "start": 423
+  },
+  {
+    "content": "strips of construction paper to make false bricks this actually worked really",
+    "start": 427
+  },
+  {
+    "content": "well the biggest issue was that I had already drawn on the pattern with the",
+    "start": 431
+  },
+  {
+    "content": "pencil so I had to make sure I covered all those lines or it would look pretty",
+    "start": 435
+  },
+  {
+    "content": "weird this meant I was a bit restricted in my pattern but it worked out okay",
+    "start": 439
+  },
+  {
+    "content": "regardless when I did the foil texture on the foam I made one gouge that I did",
+    "start": 444
+  },
+  {
+    "content": "not like the looks of so I decided to cut it out in a creative way by adding a",
+    "start": 449
+  },
+  {
+    "content": "circular window of sorts I could have printed some sort of insert for this but",
+    "start": 453
+  },
+  {
+    "content": "the thing is I'm a crafter at heart so rather than take the time to find and",
+    "start": 459
+  },
+  {
+    "content": "print something I just grabbed a zip tie to add some interesting texture to the",
+    "start": 463
+  },
+  {
+    "content": "frame and a piece of construction paper to make the back I wasn't quite sure",
+    "start": 467
+  },
+  {
+    "content": "what this area would look like once finished but I knew I could probably add",
+    "start": 471
+  },
+  {
+    "content": "some greebles or something to make it look cool later with those elements in",
+    "start": 475
+  },
+  {
+    "content": "place I could attach the three layers of foam back together to do this I used",
+    "start": 479
+  },
+  {
+    "content": "gorilla construction adhesive as in my foam glue test video I found this to",
+    "start": 483
+  },
+  {
+    "content": "have the best results the amount of glue would also add a nice bit of weight to",
+    "start": 488
+  },
+  {
+    "content": "the foam",
+    "start": 491
+  },
+  {
+    "content": "now I could start thinking about the",
+    "start": 499
+  },
+  {
+    "content": "ground coverage I wanted something that would add weight be durable and dry",
+    "start": 509
+  },
+  {
+    "content": "fairly quickly and most importantly be easy to create a non flat surface",
+    "start": 513
+  },
+  {
+    "content": "without much thickness sculpt a mold is a no brainer in this scenario I",
+    "start": 518
+  },
+  {
+    "content": "absolutely love this stuff it's got all the workability of joint compound but it",
+    "start": 523
+  },
+  {
+    "content": "dries hard like a rock and the paper inside it means it's not brittle",
+    "start": 527
+  },
+  {
+    "content": "essentially you can just slap the stuff on get it somewhat spread out then walk",
+    "start": 531
+  },
+  {
+    "content": "away for a bit you got to keep an eye on it to find that perfect moment when it's",
+    "start": 535
+  },
+  {
+    "content": "mostly dried but not fully cured and at this point you can easily smooth it out",
+    "start": 539
+  },
+  {
+    "content": "and shape it using some water to fill some of the gaps and cover the expanded",
+    "start": 543
+  },
+  {
+    "content": "styrofoam texture of the balls I did switch to regular joint compound and you",
+    "start": 550
+  },
+  {
+    "content": "might notice here that mine is pink you can ignore that some companies sell",
+    "start": 554
+  },
+  {
+    "content": "patching putty that goes on pink and dries white this is a silly gimmick",
+    "start": 559
+  },
+  {
+    "content": "marketed to people with no home repair skills it doesn't serve much actual",
+    "start": 564
+  },
+  {
+    "content": "purpose just buy whichever one is on sale for the cheapest I will admit",
+    "start": 568
+  },
+  {
+    "content": "though that if you're a building trained and have a few things on the go this",
+    "start": 572
+  },
+  {
+    "content": "visual indicator for when it's dry is kind of Handy I use the same stuff to",
+    "start": 575
+  },
+  {
+    "content": "cover all the seams on the foam and seal the MDF edges while that joint compound",
+    "start": 580
+  },
+  {
+    "content": "was drying I realized the middle layer of foam by the door had no texture on it",
+    "start": 588
+  },
+  {
+    "content": "rather than awkwardly try to texture it with foil I instead use some Vallejo",
+    "start": 593
+  },
+  {
+    "content": "texture paste to give it that stucco look this creates a very different",
+    "start": 599
+  },
+  {
+    "content": "effect from the foil which I actually think is a good thing as it adds a bit",
+    "start": 602
+  },
+  {
+    "content": "of variation to the textures of the structure I also lightly coated the",
+    "start": 606
+  },
+  {
+    "content": "construction paper pieces but I really watered this down and blended it out",
+    "start": 610
+  },
+  {
+    "content": "onto the foam overall this thing was looking a bit plain structurally so I",
+    "start": 614
+  },
+  {
+    "content": "wanted to add some bump outs on the building I always liked how the",
+    "start": 619
+  },
+  {
+    "content": "tattooing buildings had those angled buttress details so I made a block of",
+    "start": 622
+  },
+  {
+    "content": "foam in that shape another great visual feature of a lot of star wars sets are",
+    "start": 627
+  },
+  {
+    "content": "the horizontal lines that decorate many surfaces using the hot wire",
+    "start": 631
+  },
+  {
+    "content": "in these lines and doing it on the block first meant I could then split the block",
+    "start": 635
+  },
+  {
+    "content": "into multiple pieces and had lines that perfectly matched afterwards I did think",
+    "start": 641
+  },
+  {
+    "content": "that the lines from the hot wire were a bit too thin and simple so I carefully",
+    "start": 646
+  },
+  {
+    "content": "beveled each one using an exacto but this time on my joint compound was dry",
+    "start": 650
+  },
+  {
+    "content": "and I could sand all the edges nice and smooth",
+    "start": 660
+  },
+  {
+    "content": "this is the point of a project where I",
+    "start": 664
+  },
+  {
+    "content": "typically coat the piece in mod podge that I've mixed with black paint this",
+    "start": 678
+  },
+  {
+    "content": "seals and hardens the foam and the black paint acts as a base color but in this",
+    "start": 682
+  },
+  {
+    "content": "situation I'd be painting the structure beige so black wasn't the best choice I",
+    "start": 686
+  },
+  {
+    "content": "would have mixed up a small batch of Mod Podge and beige or brown paint but I",
+    "start": 690
+  },
+  {
+    "content": "didn't have any unmixed matte Mod Podge and I had to improvise",
+    "start": 695
+  },
+  {
+    "content": "I switched a basic PVA glue but I did water it down and added some airbrush",
+    "start": 698
+  },
+  {
+    "content": "flowy to help it perform a little bit more like Mod Podge this does serve the",
+    "start": 703
+  },
+  {
+    "content": "same purpose of hardening as the Mod Podge but it really does miss one",
+    "start": 708
+  },
+  {
+    "content": "important element in terms of sealing the PVA is a very water soluble even",
+    "start": 712
+  },
+  {
+    "content": "when dry whereas Mod Podge contains a bit of resin this meant that when",
+    "start": 717
+  },
+  {
+    "content": "painting later I did run into some issues where paint rehydrated the glue",
+    "start": 721
+  },
+  {
+    "content": "and made small bits peel off of the joint compound this simply doesn't",
+    "start": 725
+  },
+  {
+    "content": "happen when using Mod Podge and is why I normally use it but your mileage may",
+    "start": 729
+  },
+  {
+    "content": "vary and PVA can be used in a pinch I switch back to some Griebel prep I",
+    "start": 734
+  },
+  {
+    "content": "thought it would be neat to tie the foam balls into the window thing with a bunch",
+    "start": 739
+  },
+  {
+    "content": "of pipes pipes are such an easy way to dress up a sci-fi sort of build and yeah",
+    "start": 744
+  },
+  {
+    "content": "this is a perfect thing to utilize a resin printer for but also it's the",
+    "start": 748
+  },
+  {
+    "content": "perfect thing to craft bendy straws well they make great looking pipes I cut a",
+    "start": 752
+  },
+  {
+    "content": "whole bunch of different lengths so that I'd have lots to work with later these",
+    "start": 757
+  },
+  {
+    "content": "needed to be spray primed and painted and they're pretty awkward shape and",
+    "start": 761
+  },
+  {
+    "content": "size to do that with so it came up with what I thought was a pretty clever",
+    "start": 765
+  },
+  {
+    "content": "solution I used some cotton swabs as holders they fit inside the straws",
+    "start": 769
+  },
+  {
+    "content": "perfectly and I cut off one end into a point so I could impale them into a foam",
+    "start": 773
+  },
+  {
+    "content": "block to hold them while painting and drying now back to the piece the glue",
+    "start": 777
+  },
+  {
+    "content": "and paint sealing coat I put on didn't have decent enough coverage and was a",
+    "start": 783
+  },
+  {
+    "content": "bit translucent so using a light beige I gave the whole thing a nice solid and",
+    "start": 787
+  },
+  {
+    "content": "even coat of paint I wanted a lot of the metal to have a deep brown rusty look so",
+    "start": 792
+  },
+  {
+    "content": "I airbrushed the pipes door and circle thingy a really flat reddish-brown doing",
+    "start": 797
+  },
+  {
+    "content": "the door and circle at this point meant I could touch up the overspray before",
+    "start": 804
+  },
+  {
+    "content": "moving on now for some washes I first hit the pipes with a sepia wash",
+    "start": 807
+  },
+  {
+    "content": "then did the same thing on the larger piece but at that point I watered down",
+    "start": 812
+  },
+  {
+    "content": "the wash a lot first I didn't want it to be too dark and before it totally dried",
+    "start": 816
+  },
+  {
+    "content": "I dabbed off a lot of the excess with a little bit of toilet paper",
+    "start": 821
+  },
+  {
+    "content": "this would speed up drying and give it a little bit more of a stucco looking",
+    "start": 825
+  },
+  {
+    "content": "pattern sort of like a Venetian plaster I could then come back with lighter",
+    "start": 829
+  },
+  {
+    "content": "shades of tan and off-white and dry brush all the highlights of the stucco",
+    "start": 835
+  },
+  {
+    "content": "giving the simple piece considerably more dimension and depth then the fun",
+    "start": 840
+  },
+  {
+    "content": "could really begin I placed a bunch of the pipes I'd pre-made into one area in",
+    "start": 852
+  },
+  {
+    "content": "order to embed them I used a drill bit that I just twisted by hand to make",
+    "start": 856
+  },
+  {
+    "content": "small holes in the foam then I could glue the pipes into place with PVA to",
+    "start": 860
+  },
+  {
+    "content": "bond them to the flat paper area in the circle though super glue was far more",
+    "start": 865
+  },
+  {
+    "content": "appropriate any ugliness in the whole surrounding of pipes were corrected with",
+    "start": 869
+  },
+  {
+    "content": "a little more joint compound now for the sand sand is kind of tricky to model a",
+    "start": 875
+  },
+  {
+    "content": "lot of people default to using actual sand but the thing is at this scale that",
+    "start": 881
+  },
+  {
+    "content": "looks more like gravel than sand a really fine powder is better in this",
+    "start": 886
+  },
+  {
+    "content": "case I used unsanded tile grout in an appropriate color this is the same stuff",
+    "start": 891
+  },
+  {
+    "content": "I sometimes use for plaster on buildings I first soaked the ground with really",
+    "start": 895
+  },
+  {
+    "content": "watered-down glue and I have this spray Mod Podge that is perfect but the spray",
+    "start": 899
+  },
+  {
+    "content": "bottle wasn't working too good so I just brushed it on I'm sure you could just",
+    "start": 905
+  },
+  {
+    "content": "dilute normal Mod Podge or PVA glue for this and it would work exactly the same",
+    "start": 909
+  },
+  {
+    "content": "to actually apply the grow I used a sifter that I bought from the dollar",
+    "start": 913
+  },
+  {
+    "content": "store this is my first time doing this application method and I was really",
+    "start": 917
+  },
+  {
+    "content": "impressed with how well it worked much love to my buddy Luke from Luke's ApS",
+    "start": 921
+  },
+  {
+    "content": "for turning me on to this check out his channel if you don't know it already",
+    "start": 925
+  },
+  {
+    "content": "seriously go check it out to really lock in the grout I sprayed some more water",
+    "start": 929
+  },
+  {
+    "content": "on top this will essentially turn it to concrete once it dries the stuff will",
+    "start": 933
+  },
+  {
+    "content": "not fall off easily in the future remember tile grout is meant to hold up",
+    "start": 937
+  },
+  {
+    "content": "on things like showers and floors before moving any further I",
+    "start": 942
+  },
+  {
+    "content": "wanted to test out the technique I planned on using to finish the piece",
+    "start": 946
+  },
+  {
+    "content": "airbrushing on some very thinned sepia wash to blend areas together and create",
+    "start": 950
+  },
+  {
+    "content": "shadows I knew I'd need to add more grout near",
+    "start": 956
+  },
+  {
+    "content": "the end after the bits to hide seams and stuff and I wanted to ensure I had a way",
+    "start": 958
+  },
+  {
+    "content": "to blend things together I also figured it would help the visual depth of the",
+    "start": 963
+  },
+  {
+    "content": "piece to not all be the same shade of beige feeling confident in the technique",
+    "start": 967
+  },
+  {
+    "content": "I got to work doing what I had been looking forward to the whole time adding",
+    "start": 972
+  },
+  {
+    "content": "all the fun stuff I printed and pre painted as well as the",
+    "start": 977
+  },
+  {
+    "content": "sweet sweet mandalorian and baby Yoda mini",
+    "start": 980
+  },
+  {
+    "content": "",
+    "start": 984
+  },
+  {
+    "content": "",
+    "start": 1010
+  },
+  {
+    "content": "in many ways this is my favorite thing I've ever built having this printer",
+    "start": 1097
+  },
+  {
+    "content": "really unlocked a lot of ideas and creativity in me and it sort of gave me",
+    "start": 1103
+  },
+  {
+    "content": "permission to just do something for fun that serve no gaming purpose in the past",
+    "start": 1107
+  },
+  {
+    "content": "I've avoided projects like this because they're just so much work and it's hard",
+    "start": 1112
+  },
+  {
+    "content": "to justify that for tabletop RPGs where the pieces might only get used once or",
+    "start": 1116
+  },
+  {
+    "content": "twice but having the printer let me multitask and build this more",
+    "start": 1120
+  },
+  {
+    "content": "efficiently and I didn't have to justify as much time and now I have this thing",
+    "start": 1124
+  },
+  {
+    "content": "that don't get used in games and I'm happy about that it's gonna sit on my",
+    "start": 1128
+  },
+  {
+    "content": "shelf as display and I really love that idea I'm proud of this build and I want",
+    "start": 1133
+  },
+  {
+    "content": "to do more insert air-quote pointless dioramas in the future I hope you guys",
+    "start": 1140
+  },
+  {
+    "content": "enjoyed this video if you did hit that like button and let me know in the",
+    "start": 1150
+  },
+  {
+    "content": "comments section below that sort of interaction really helps these videos",
+    "start": 1152
+  },
+  {
+    "content": "gain traction on this enormous overwhelming platform behemoth that is",
+    "start": 1156
+  },
+  {
+    "content": "YouTube if you're thinking about getting into this hobby of miniature making",
+    "start": 1161
+  },
+  {
+    "content": "diorama building terrain tabletop gaming and you need some guidance as to where",
+    "start": 1165
+  },
+  {
+    "content": "to start if you're overwhelmed and confused by all the supplies and tools",
+    "start": 1169
+  },
+  {
+    "content": "and stuff that I use head over to black magic crafts dot CA there I put a lot of",
+    "start": 1173
+  },
+  {
+    "content": "time and effort into making my essential equipment page where I explain and list",
+    "start": 1178
+  },
+  {
+    "content": "most of the stuff that I use regularly for my hobby it's a really good resource",
+    "start": 1183
+  },
+  {
+    "content": "and I encourage you to check it out and if you really like these videos that I",
+    "start": 1188
+  },
+  {
+    "content": "make and you want to help me keep making them every week the best way you can do",
+    "start": 1192
+  },
+  {
+    "content": "that is by supporting the channel on patreon it's the support there that",
+    "start": 1195
+  },
+  {
+    "content": "allows me to justify all the extra time to film and edit these videos on top of",
+    "start": 1199
+  },
+  {
+    "content": "doing my builds and it's the best way that you can help me help you help the",
+    "start": 1204
+  },
+  {
+    "content": "community and a whole lot of helping because helping is a really good thing",
+    "start": 1209
+  },
+  {
+    "content": "I'd love to have you as the newest member of the black magic craft",
+    "start": 1213
+  },
+  {
+    "content": "fellowship go check it out all that good stuff that's it for this week guys again",
+    "start": 1216
+  },
+  {
+    "content": "I'm really happy with the way this turned out Cheers see you again next",
+    "start": 1223
+  },
+  {
+    "content": "week",
+    "start": 1226
+  },
+  {
+    "content": "[Applause]",
+    "start": 1237
+  }
+]

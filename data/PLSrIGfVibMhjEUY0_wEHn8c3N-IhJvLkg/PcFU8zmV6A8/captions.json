@@ -1,0 +1,706 @@
+[
+  {
+    "content": "it's one thing to build a bunch of cool stuff for your tabletop game it's a",
+    "start": 0
+  },
+  {
+    "content": "different thing entirely to effectively use it I mean how do you actually",
+    "start": 5
+  },
+  {
+    "content": "implement this stuff in your game where do you put it how do you plan for it how",
+    "start": 10
+  },
+  {
+    "content": "do you put it on the table without disrupting the game what like how do you",
+    "start": 15
+  },
+  {
+    "content": "do this hey guys welcome back to the black magic craft this is a question",
+    "start": 18
+  },
+  {
+    "content": "that comes up fairly often both from new players and veterans alike who are for",
+    "start": 33
+  },
+  {
+    "content": "the first time trying to implement some 3d elements into their tabletop",
+    "start": 39
+  },
+  {
+    "content": "role-playing games it's a very huge vast topic it's highly subjective and there's",
+    "start": 44
+  },
+  {
+    "content": "absolutely no way to fully explain or cover this in one video but I'm gonna do",
+    "start": 52
+  },
+  {
+    "content": "my best to share with you some of the things that I do and my mindsets when it",
+    "start": 58
+  },
+  {
+    "content": "goes into using this sort of stuff in my actual games to the best of my ability I",
+    "start": 64
+  },
+  {
+    "content": "first have to point out that the usage of terrain is actually pretty different",
+    "start": 71
+  },
+  {
+    "content": "when you compare tabletop wargaming to tabletop RPGs in wargaming before the",
+    "start": 75
+  },
+  {
+    "content": "game you set up the table and actually every player can be involved in that",
+    "start": 82
+  },
+  {
+    "content": "setup process and once it's done you just start playing and you're not",
+    "start": 87
+  },
+  {
+    "content": "worrying about moving things around but in an RPG it's different because it all",
+    "start": 94
+  },
+  {
+    "content": "falls on the DMS shoulders and it's supposed to be a kind of a surprise for",
+    "start": 100
+  },
+  {
+    "content": "the players and it's constantly changing it is a lot more difficult to implement",
+    "start": 104
+  },
+  {
+    "content": "terrain in RPGs it's a lot harder to do really elaborate setups with wargaming",
+    "start": 110
+  },
+  {
+    "content": "you can put a lot of effort into making buildings and tiles all these things",
+    "start": 117
+  },
+  {
+    "content": "look really really good because you're gonna use them a lot you just set them",
+    "start": 121
+  },
+  {
+    "content": "on the table and you're good to go but in RPGs it's a whole other ballgame so",
+    "start": 126
+  },
+  {
+    "content": "for the purpose of this video I'm specifically",
+    "start": 130
+  },
+  {
+    "content": "talking about the usage in RPGs one really important thing to know is that",
+    "start": 133
+  },
+  {
+    "content": "you don't need to make and represent everything while these pieces we make",
+    "start": 140
+  },
+  {
+    "content": "look really cool and they're exciting and they're meant to add to the overall",
+    "start": 148
+  },
+  {
+    "content": "experience of the game at the end of the day they're just visual aids to help",
+    "start": 153
+  },
+  {
+    "content": "represent where things are physically in the game it's really a mechanical thing",
+    "start": 157
+  },
+  {
+    "content": "and you don't need every little detail you just need the important ones that",
+    "start": 163
+  },
+  {
+    "content": "show space and you know some things that maybe enhance the aesthetic or give",
+    "start": 169
+  },
+  {
+    "content": "something to the experience but you don't need to make and represent",
+    "start": 175
+  },
+  {
+    "content": "everything that is the biggest trap that most new people fall into not only do",
+    "start": 180
+  },
+  {
+    "content": "you not need to represent everything that is in a room during an encounter",
+    "start": 184
+  },
+  {
+    "content": "but you don't need to represent every encounter physically on the table in a",
+    "start": 190
+  },
+  {
+    "content": "night of gameplay in D&D you might have three encounters and a",
+    "start": 196
+  },
+  {
+    "content": "couple role-playing things a visit to town you don't need to build and",
+    "start": 202
+  },
+  {
+    "content": "represent all of that stuff I constantly see people building taverns as their",
+    "start": 206
+  },
+  {
+    "content": "first project which to me personally is I think is crazy I mean build whatever",
+    "start": 211
+  },
+  {
+    "content": "you want enjoy it but how much action is taking place in that tavern you don't",
+    "start": 216
+  },
+  {
+    "content": "need a physical representation of it just to dialogue someone giving a quest",
+    "start": 221
+  },
+  {
+    "content": "and you don't even need to represent every combat encounter with terrain you",
+    "start": 227
+  },
+  {
+    "content": "can absolutely have one set up at the end of the night that has a ton of",
+    "start": 234
+  },
+  {
+    "content": "elaborate stuff and is really cool that you've put a lot of work into and then",
+    "start": 240
+  },
+  {
+    "content": "the other two encounters that night it's just a battle mat dry-erase with some",
+    "start": 243
+  },
+  {
+    "content": "minis and maybe a little bit of scatter you don't need an elaborate setup every",
+    "start": 249
+  },
+  {
+    "content": "single encounter and in fact I'd actually argue that it is good for your",
+    "start": 254
+  },
+  {
+    "content": "game and your players gaming experience overall to not represent every encounter",
+    "start": 260
+  },
+  {
+    "content": "with because the more you use it the less it",
+    "start": 266
+  },
+  {
+    "content": "kind of Wow's your players it can start to become kind of boring you keep",
+    "start": 270
+  },
+  {
+    "content": "setting that bar up and up and up and then all of a sudden a big crazy",
+    "start": 277
+  },
+  {
+    "content": "elaborate set isn't that interesting if you change it up all the time and have a",
+    "start": 281
+  },
+  {
+    "content": "battle match sometimes maybe just theater of the mind and encounter",
+    "start": 285
+  },
+  {
+    "content": "because that's fine too when you put this stuff on the table it's gonna still",
+    "start": 288
+  },
+  {
+    "content": "have that wow factor and it's gonna relieve a lot of pressure to you as the",
+    "start": 293
+  },
+  {
+    "content": "DM knowing going into planning a game that you're not gonna be limited to or",
+    "start": 297
+  },
+  {
+    "content": "stressed out by having to create everything if you want to run a module",
+    "start": 302
+  },
+  {
+    "content": "and you come to a part that oh how am I gonna build this or I don't have time to",
+    "start": 306
+  },
+  {
+    "content": "build it then don't just run it our p8 theater of the mind it dry-erase battle",
+    "start": 311
+  },
+  {
+    "content": "mat it whatever just use the terrain sparingly as much as you want and don't",
+    "start": 317
+  },
+  {
+    "content": "feel you have to do it all the time when it comes to actually using and",
+    "start": 324
+  },
+  {
+    "content": "implementing the terrain a big question that comes up is doesn't it interfere",
+    "start": 329
+  },
+  {
+    "content": "with the game or slow the game down and in all honesty yeah it does end it and",
+    "start": 335
+  },
+  {
+    "content": "it can and that's okay the more you use it the faster you're gonna get at",
+    "start": 342
+  },
+  {
+    "content": "setting these things up when it comes to major set changes from one big elaborate",
+    "start": 348
+  },
+  {
+    "content": "setup to another if you're gonna have them back-to-back I find that the best",
+    "start": 356
+  },
+  {
+    "content": "way to deal with this is just to put a pause on the game let everybody take a",
+    "start": 361
+  },
+  {
+    "content": "five minute break go stretch their legs use the bathroom",
+    "start": 367
+  },
+  {
+    "content": "refill their drinks and snacks and whatever while you set everything up",
+    "start": 371
+  },
+  {
+    "content": "they're gonna come back they won't have seen you setting it all up which could",
+    "start": 376
+  },
+  {
+    "content": "kind of you know maybe make it less exciting they're gonna come back they're",
+    "start": 379
+  },
+  {
+    "content": "gonna be refreshed they're gonna see this new set up on the table and they're",
+    "start": 384
+  },
+  {
+    "content": "gonna sit down excited to jump into the next bit of gameplay so not only does",
+    "start": 388
+  },
+  {
+    "content": "this give you some breathing room as the DM to set up without a bunch of eyes",
+    "start": 394
+  },
+  {
+    "content": "watching you it actually is really healthy for the game",
+    "start": 398
+  },
+  {
+    "content": "itself because when you don't have those types of breaks just in general people",
+    "start": 401
+  },
+  {
+    "content": "can get fidgety and start you know kind of getting a little bit stir-crazy it's",
+    "start": 407
+  },
+  {
+    "content": "kind of disruptive you give the game that pause that break so that these",
+    "start": 411
+  },
+  {
+    "content": "little disruptions don't happen elsewhere and you give yourself a time",
+    "start": 417
+  },
+  {
+    "content": "to set up things in peace and quiet that being said I don't think you should be",
+    "start": 420
+  },
+  {
+    "content": "needing to do a lot of those big setup breaks during every game maybe one maybe",
+    "start": 425
+  },
+  {
+    "content": "two I play on a small gaming surface for a reason well a couple reasons both one",
+    "start": 431
+  },
+  {
+    "content": "of them is so that it contains the scope of the set up to a small little space a",
+    "start": 439
+  },
+  {
+    "content": "lot of people probably think I have a insane tile collection but I actually",
+    "start": 445
+  },
+  {
+    "content": "don't my basic tiles I only have like a dozen",
+    "start": 451
+  },
+  {
+    "content": "3x3 tiles a couple six by sixes and twelve by twelve I don't have a lot of",
+    "start": 455
+  },
+  {
+    "content": "them and the reason is that I don't set up big sprawling dungeons in one go I",
+    "start": 461
+  },
+  {
+    "content": "treat my games kind of like a side-scrolling video game well not",
+    "start": 467
+  },
+  {
+    "content": "really side-scrolling but like top-down there are some tiles on the table where",
+    "start": 472
+  },
+  {
+    "content": "the players currently are it might show the exits or the halls or the doors or",
+    "start": 478
+  },
+  {
+    "content": "whatever going out of that room as they move through the doorway or down the",
+    "start": 484
+  },
+  {
+    "content": "hall I will then place the next tile if there's a room or I'll remove that tile",
+    "start": 489
+  },
+  {
+    "content": "and replace it with the next one so it's kind of always constantly refreshing and",
+    "start": 496
+  },
+  {
+    "content": "you're not building up this big scene you just get a snapshot of any given",
+    "start": 502
+  },
+  {
+    "content": "moment in the game as to where things are this way you use less terrain it",
+    "start": 507
+  },
+  {
+    "content": "takes up less space and it's a lot easier to set up and this type of setup",
+    "start": 515
+  },
+  {
+    "content": "and terrain placement you don't do during breaks you actually do it while",
+    "start": 522
+  },
+  {
+    "content": "you're playing and this takes a little bit of practice essentially what you",
+    "start": 526
+  },
+  {
+    "content": "want to be as the DM is using the moment when the",
+    "start": 531
+  },
+  {
+    "content": "set is changing from room to room to do your narration and explain the whatever",
+    "start": 537
+  },
+  {
+    "content": "whatever exposition you're doing explaining what the room looks like",
+    "start": 544
+  },
+  {
+    "content": "smells like all that good stuff while you're placing tiles or answering",
+    "start": 547
+  },
+  {
+    "content": "questions if people are doing things you are role playing out the consequences of",
+    "start": 552
+  },
+  {
+    "content": "those things while you're setting it up and that way people are focused on you",
+    "start": 559
+  },
+  {
+    "content": "the DM and the story and not what your hands are doing setting up the tiles",
+    "start": 563
+  },
+  {
+    "content": "necessarily and the more you practice this the better you're gonna get at it",
+    "start": 566
+  },
+  {
+    "content": "this is also a time when you can take advantage of the kind of phenomenon that",
+    "start": 570
+  },
+  {
+    "content": "takes place in a gaming session where and you know this if you played a lot",
+    "start": 576
+  },
+  {
+    "content": "your players all of a sudden start talking back and forth and over",
+    "start": 581
+  },
+  {
+    "content": "analyzing something you're gonna go into the next room and they're talking in",
+    "start": 585
+  },
+  {
+    "content": "excruciating detail about who should go first and should I use the torch or",
+    "start": 591
+  },
+  {
+    "content": "should I use this and they get in this loop of kind of meta gaming and that's",
+    "start": 594
+  },
+  {
+    "content": "okay use that to your advantage because while they're doing that you are setting",
+    "start": 599
+  },
+  {
+    "content": "stuff up and by the time they've figured out what the hell they're gonna do the",
+    "start": 603
+  },
+  {
+    "content": "next room is ready for the minis to be placed on in order to do this really",
+    "start": 607
+  },
+  {
+    "content": "effectively and smoothly it does require some pre-planning so if you have a",
+    "start": 611
+  },
+  {
+    "content": "dungeon that you know the party is gonna be going through that night the best",
+    "start": 618
+  },
+  {
+    "content": "thing you can do is to take some time the night or the day before and kind of",
+    "start": 623
+  },
+  {
+    "content": "set up all those rooms and figure out what tiles you need and what scatter",
+    "start": 627
+  },
+  {
+    "content": "train what minis lay them out and then take them aside and put them somewhere",
+    "start": 631
+  },
+  {
+    "content": "in groups so you have kind of like room a B C D kind of all ready to go",
+    "start": 636
+  },
+  {
+    "content": "and where you put this is gonna depend on your gaming space typically what I do",
+    "start": 643
+  },
+  {
+    "content": "is I just use some fold up TV trays that I put behind me I have all the rooms and",
+    "start": 647
+  },
+  {
+    "content": "minis and items separate and ready to go I'll put a little DM screen in front of",
+    "start": 652
+  },
+  {
+    "content": "it so that people don't see it when I'm running the game I just turn around grab",
+    "start": 658
+  },
+  {
+    "content": "the stuff that room and I'm good to go and this",
+    "start": 663
+  },
+  {
+    "content": "helps if you have a dungeon where there's a couple different options of",
+    "start": 665
+  },
+  {
+    "content": "which way they're gonna go you have kind of all the next rooms ready and waiting",
+    "start": 669
+  },
+  {
+    "content": "how do you do this if you have a massive sprawling dungeon with a lot of",
+    "start": 674
+  },
+  {
+    "content": "different options for travel direction and it's not a very linear space how do",
+    "start": 680
+  },
+  {
+    "content": "you prepare that how do you prepare terrain for a more sandbox open-ended",
+    "start": 687
+  },
+  {
+    "content": "game or dungeon versus a more railroaded one this is where it's important to",
+    "start": 693
+  },
+  {
+    "content": "circle back to what I said about not having to represent everything and",
+    "start": 698
+  },
+  {
+    "content": "utilizing things like battle mats or just theater of the mind on a massive",
+    "start": 704
+  },
+  {
+    "content": "dungeon a great thing to do is to not worry about placing all the little rooms",
+    "start": 709
+  },
+  {
+    "content": "just roleplay those just do a battle mat to show all the little corridors and",
+    "start": 714
+  },
+  {
+    "content": "little rooms and then maybe just have the massive big important rooms set up",
+    "start": 719
+  },
+  {
+    "content": "and ready to go the boss battles are the ones that are cool puzzle rooms or",
+    "start": 724
+  },
+  {
+    "content": "whatever keep in mind that if you're planning a session and you're looking at",
+    "start": 728
+  },
+  {
+    "content": "the rooms or the layouts and you're thinking man this is way too complicated",
+    "start": 733
+  },
+  {
+    "content": "to do with terrain then it probably is so just don't you don't have to not run",
+    "start": 737
+  },
+  {
+    "content": "it or not do that room or module or whatever just don't use the terrain use",
+    "start": 744
+  },
+  {
+    "content": "some of those other tools that are at your disposal in these at the end of the",
+    "start": 750
+  },
+  {
+    "content": "day you can always fall back on theater of the mind it is nice when you're doing",
+    "start": 754
+  },
+  {
+    "content": "your own home brew settings and dungeons and stuff because then what you can do",
+    "start": 760
+  },
+  {
+    "content": "is actually plan out a map that works well around your tiles a lot of pre",
+    "start": 765
+  },
+  {
+    "content": "published maps don't work very well with tile systems or they might work well",
+    "start": 770
+  },
+  {
+    "content": "with one but not the other and if you're planning your own dungeons and drawing",
+    "start": 775
+  },
+  {
+    "content": "your own maps then you can actually use your terrain and tiles to kind of decide",
+    "start": 779
+  },
+  {
+    "content": "that layout and then it works really well for your system but of course if",
+    "start": 783
+  },
+  {
+    "content": "you're using somebody else's map just use something different or change the",
+    "start": 788
+  },
+  {
+    "content": "map do whatever it doesn't matter don't let",
+    "start": 792
+  },
+  {
+    "content": "stuff bog you down and get in the way of enjoying and running a successful game",
+    "start": 797
+  },
+  {
+    "content": "and as far as I'm concerned that's all the important stuff you need to know",
+    "start": 802
+  },
+  {
+    "content": "when approaching this subject like I said it's a massive subject and",
+    "start": 808
+  },
+  {
+    "content": "everybody's gonna think about it differently and possibly this video just",
+    "start": 812
+  },
+  {
+    "content": "raised more questions than it did answer so if you have more questions feel free",
+    "start": 816
+  },
+  {
+    "content": "to put them in the comments below and if you have your own tips and tricks and",
+    "start": 820
+  },
+  {
+    "content": "things that maybe I didn't mention also feel free to put those below I hope you",
+    "start": 825
+  },
+  {
+    "content": "guys enjoyed this video if you did hit the like button let me know I really",
+    "start": 829
+  },
+  {
+    "content": "hope this is helpful because I know this is an intimidating aspect of getting",
+    "start": 833
+  },
+  {
+    "content": "into this part of the Hobby for a lot of people it's one thing to sit down in",
+    "start": 838
+  },
+  {
+    "content": "your own time and build something but to actually use it in front of a group of",
+    "start": 842
+  },
+  {
+    "content": "players I know it can be very stressful but it doesn't have to be as usual if",
+    "start": 846
+  },
+  {
+    "content": "you enjoyed this video and the videos that I do there's two great ways that",
+    "start": 851
+  },
+  {
+    "content": "you can help me keep making them one is by doing your regular shopping for tools",
+    "start": 855
+  },
+  {
+    "content": "and supplies on my Amazon affiliate page at Blackmagic crafted Otzi a that way",
+    "start": 861
+  },
+  {
+    "content": "you get the stuff that I actually use and recommend doesn't cost you any extra",
+    "start": 866
+  },
+  {
+    "content": "and I get a small commission that helps fund videos like this one the other",
+    "start": 870
+  },
+  {
+    "content": "really awesome way you can help out is by supporting black magic crafts on",
+    "start": 874
+  },
+  {
+    "content": "patreon and through patreon you can join the black magic crafts fellowship which",
+    "start": 879
+  },
+  {
+    "content": "is a private Facebook group where there's a ton of cool people who will",
+    "start": 883
+  },
+  {
+    "content": "help you with all sorts of things really quickly I jump in there as much as I can",
+    "start": 888
+  },
+  {
+    "content": "and that's really becoming the only way to get me to answer specific questions",
+    "start": 893
+  },
+  {
+    "content": "because I am overloaded with them but I try to answer the ones there with the",
+    "start": 898
+  },
+  {
+    "content": "highest priority so consider checking it out and supporting black magic crafts",
+    "start": 902
+  },
+  {
+    "content": "that's it for this week guys Cheers see you again next week",
+    "start": 907
+  }
+]

@@ -1,0 +1,630 @@
+[
+  {
+    "content": "as you cross the threshold of absolute darkness you find yourself in a strange",
+    "start": 0
+  },
+  {
+    "content": "room as you look behind you back to where you came there is nothing but a",
+    "start": 5
+  },
+  {
+    "content": "solid stone wall at the center of the room stands a massive stone cauldron",
+    "start": 10
+  },
+  {
+    "content": "that is pulsating with color and energy there are four smaller wells within this",
+    "start": 17
+  },
+  {
+    "content": "room each guarded by a strange statue the walls are lined with bookcases",
+    "start": 23
+  },
+  {
+    "content": "filled with what must be hundreds of tomes the ceiling is angled and",
+    "start": 29
+  },
+  {
+    "content": "completely reflective what would you like to do hey folks welcome back to",
+    "start": 36
+  },
+  {
+    "content": "black magic crafts today I'm gonna be doing something a little bit different I",
+    "start": 48
+  },
+  {
+    "content": "spent over a hundred episodes showing you guys how to build cool things to use",
+    "start": 53
+  },
+  {
+    "content": "in your game but I spent very little time actually showing you how to",
+    "start": 57
+  },
+  {
+    "content": "implement and use those builds so today I want to show you one of the really",
+    "start": 62
+  },
+  {
+    "content": "interesting rooms that I designed and used in my last session this is the",
+    "start": 67
+  },
+  {
+    "content": "beacon of Plenty and it's an encounter room but there's no foes or enemies it's",
+    "start": 72
+  },
+  {
+    "content": "a bit of a puzzle there's threats and there are rewards and essentially the",
+    "start": 78
+  },
+  {
+    "content": "party has to find a way to get out of it and along the way they could encounter",
+    "start": 84
+  },
+  {
+    "content": "some great benefits and also some great threats the longer they work around this",
+    "start": 90
+  },
+  {
+    "content": "room and use it the more chances there are for beneficial effects and this room",
+    "start": 97
+  },
+  {
+    "content": "was designed specifically to give them a bit of a powerup before a big boss fight",
+    "start": 105
+  },
+  {
+    "content": "that they likely couldn't survive otherwise of course nothing in life",
+    "start": 111
+  },
+  {
+    "content": "comes easy or free so there's that great dynamic risk of a threat or multiple",
+    "start": 116
+  },
+  {
+    "content": "threats along the way the room setup is fairly simple I just used a single",
+    "start": 122
+  },
+  {
+    "content": "square 12 by 12 dungeon tile the party enters this room by descending",
+    "start": 127
+  },
+  {
+    "content": "staircase at the bottom of that staircase I described a wall of infinite",
+    "start": 134
+  },
+  {
+    "content": "blackness that no light source natural or magical could illuminate eventually",
+    "start": 138
+  },
+  {
+    "content": "they took the leap of faith and crossed that threshold when they entered the",
+    "start": 145
+  },
+  {
+    "content": "room behind them the stairwell they've come down on was completely gone and it",
+    "start": 150
+  },
+  {
+    "content": "was just solid stone and they found this room in the center of it is this",
+    "start": 154
+  },
+  {
+    "content": "summoning stone and I made this in a previous episode number 114 I think is",
+    "start": 159
+  },
+  {
+    "content": "that right yeah 114 and this was a great way to actually use it it's this big",
+    "start": 165
+  },
+  {
+    "content": "stone monolith that is swirling with energy and color the walls are lined",
+    "start": 171
+  },
+  {
+    "content": "with bookcases that are full full of hundreds and hundreds of books all that",
+    "start": 180
+  },
+  {
+    "content": "are dedicated to the various schools of magic there's four smaller wells that I",
+    "start": 185
+  },
+  {
+    "content": "described as looking just black or void of color and each one of those wells is",
+    "start": 192
+  },
+  {
+    "content": "flanked by a statue the great thing about this room is that you can kind of",
+    "start": 198
+  },
+  {
+    "content": "use any sort of random you have around this could just be a big stone",
+    "start": 203
+  },
+  {
+    "content": "these wells could be cauldrons whatever the bookcases I used these ones from one",
+    "start": 208
+  },
+  {
+    "content": "of the older Mantic trains create sets that I had but also you can use homemade",
+    "start": 214
+  },
+  {
+    "content": "ones I have a video about how to make bookcases or just use blocks whatever",
+    "start": 220
+  },
+  {
+    "content": "the statues I use these cool elephant things that I got from Blanco but you",
+    "start": 224
+  },
+  {
+    "content": "could use anything even a simple sphere or box the important thing is that you",
+    "start": 230
+  },
+  {
+    "content": "have something to represent these objects the other interesting thing",
+    "start": 236
+  },
+  {
+    "content": "about this room is that the ceiling is pyramid shaped it comes up to a point",
+    "start": 240
+  },
+  {
+    "content": "and that ceiling is completely reflective it is a perfect mirror as the",
+    "start": 245
+  },
+  {
+    "content": "party investigates this room some of the things that they can uncover with good",
+    "start": 252
+  },
+  {
+    "content": "perception or investigation checks is that the books all have pages missing",
+    "start": 258
+  },
+  {
+    "content": "and those pages are apparently random you just have pages",
+    "start": 264
+  },
+  {
+    "content": "that have been ripped out and there are some ashes on the floor that looked a",
+    "start": 269
+  },
+  {
+    "content": "bit like charred books all of the books are dedicated to magic they're not spell",
+    "start": 274
+  },
+  {
+    "content": "books but they are dedicated to magic and they're all clearly defined by the",
+    "start": 279
+  },
+  {
+    "content": "separate schools of magic another thing they can realize is that the reflective",
+    "start": 285
+  },
+  {
+    "content": "mirror like ceiling is at a very particular angle that works out so that",
+    "start": 290
+  },
+  {
+    "content": "if a beam of light were to project straight up from one of these statues it",
+    "start": 299
+  },
+  {
+    "content": "would hit that angle and be directed right into the center of this middle",
+    "start": 303
+  },
+  {
+    "content": "large well the way this room works is actually fairly simple once the party",
+    "start": 308
+  },
+  {
+    "content": "figures out the basics of it if they open one of these books and rip out a",
+    "start": 314
+  },
+  {
+    "content": "page and drop it in one of the four wells they will come to life and start",
+    "start": 320
+  },
+  {
+    "content": "swirling with energy and the statues in front of them will click and open and a",
+    "start": 325
+  },
+  {
+    "content": "beacon of light will shoot up towards the ceiling and reflect back into the",
+    "start": 332
+  },
+  {
+    "content": "center well and that well will create an effect that will target whoever dropped",
+    "start": 337
+  },
+  {
+    "content": "that paging and that effect is essentially a spell out of the players",
+    "start": 343
+  },
+  {
+    "content": "handbook that is in theme with the school of magic from which that page",
+    "start": 347
+  },
+  {
+    "content": "came from if they drop in a page from a book about conjuration a conjuration",
+    "start": 354
+  },
+  {
+    "content": "spell will be triggered targeted at that character if it's a book from the school",
+    "start": 361
+  },
+  {
+    "content": "of necromancy same thing it will trigger a necromancy spell targeted at that",
+    "start": 367
+  },
+  {
+    "content": "player or character now what I did for this was I went through in my journal",
+    "start": 373
+  },
+  {
+    "content": "before the game and I chose four spells for each school of magic",
+    "start": 380
+  },
+  {
+    "content": "I chose spells out of the players handbook that were about the same level",
+    "start": 386
+  },
+  {
+    "content": "or slightly lower than my party and I intentionally chose some spells that",
+    "start": 390
+  },
+  {
+    "content": "would have a positive effect on a character and some that would have",
+    "start": 397
+  },
+  {
+    "content": "a negative effect going more heavily on the positive",
+    "start": 401
+  },
+  {
+    "content": "the tricky thing here is that a lot of the spells in the players handbook as",
+    "start": 405
+  },
+  {
+    "content": "written don't quite work in this scenario where a thing would be casting",
+    "start": 409
+  },
+  {
+    "content": "it on a person but they would be getting the benefit of it after choosing the",
+    "start": 415
+  },
+  {
+    "content": "spells that I thought would have interesting dynamic effect I changed",
+    "start": 419
+  },
+  {
+    "content": "them slightly so that it made more sense in this scenario I also changed the",
+    "start": 424
+  },
+  {
+    "content": "duration of the spell so that they didn't just last a minute but they would",
+    "start": 430
+  },
+  {
+    "content": "last for several hours long enough to be in effect when they exited this room",
+    "start": 433
+  },
+  {
+    "content": "finally and went to the final boss showdown for example if the spell was",
+    "start": 438
+  },
+  {
+    "content": "something that created tendrils of dark magic that's like an attack the beacon",
+    "start": 446
+  },
+  {
+    "content": "in the middle would project that and target the creature but if it was",
+    "start": 453
+  },
+  {
+    "content": "something like a bless spell or whatever it would target that creature and it",
+    "start": 457
+  },
+  {
+    "content": "would go on to that creature character it requires some manipulation and it is",
+    "start": 462
+  },
+  {
+    "content": "a bit difficult in some of the schools of magic to find spells that could be",
+    "start": 468
+  },
+  {
+    "content": "both positive and negative some of them were easy like the school of necromancy",
+    "start": 475
+  },
+  {
+    "content": "it was pretty easy to find some that had positive effects or negative effects but",
+    "start": 481
+  },
+  {
+    "content": "some of them it was a little bit tricky like divination I couldn't find",
+    "start": 485
+  },
+  {
+    "content": "something that would have a negative effect but that was okay because the fun",
+    "start": 490
+  },
+  {
+    "content": "thing about this room is that in the process of figuring out what's going on",
+    "start": 494
+  },
+  {
+    "content": "the characters will start dropping these spells into these pools and random stuff",
+    "start": 499
+  },
+  {
+    "content": "will happen and it's really fun because you make a list I made four for each so",
+    "start": 505
+  },
+  {
+    "content": "when a character did it they roll a d4 I look on my list and then I would just",
+    "start": 510
+  },
+  {
+    "content": "open up the players handbook and read out the spell name and start reading the",
+    "start": 515
+  },
+  {
+    "content": "effects of that spell and I would slightly change it like I said to fit",
+    "start": 521
+  },
+  {
+    "content": "the scenario after a while the players will realize this",
+    "start": 525
+  },
+  {
+    "content": "is some sort of place where someone can harness the powers and effects of these",
+    "start": 532
+  },
+  {
+    "content": "spells without actually casting them and they will realize that there is a chance",
+    "start": 537
+  },
+  {
+    "content": "of negative things happening or positive things happening and the longer they do",
+    "start": 541
+  },
+  {
+    "content": "it the more they'll realize that the effects overall seem to be beneficial",
+    "start": 546
+  },
+  {
+    "content": "but there's always that little interesting dynamic risk the goal here",
+    "start": 551
+  },
+  {
+    "content": "is for the players to realize that and start taking that risk to try to buff",
+    "start": 555
+  },
+  {
+    "content": "themselves as much as possible before unlocking the room and moving into the",
+    "start": 562
+  },
+  {
+    "content": "final boss fight some of my players got a bunch of great effects because they",
+    "start": 567
+  },
+  {
+    "content": "kept trying things and it kept working out well and some of them well didn't",
+    "start": 573
+  },
+  {
+    "content": "work out quite as well the way this room is completed or exited four pages from a",
+    "start": 576
+  },
+  {
+    "content": "book of conjuration have to be placed simultaneously in all four wells the",
+    "start": 584
+  },
+  {
+    "content": "power of those four conjuration pages will create a dimension door that will",
+    "start": 591
+  },
+  {
+    "content": "appear from which the party can exit and enter the final boss room where the Big",
+    "start": 597
+  },
+  {
+    "content": "Bad is waiting in my game this played out kind of interestingly one of the",
+    "start": 603
+  },
+  {
+    "content": "players kind of keyed into this immediately and had that thought of",
+    "start": 610
+  },
+  {
+    "content": "conjuration door we should do something with those pages but the table Arpita",
+    "start": 614
+  },
+  {
+    "content": "doubt where some players or some characters didn't want to do that it",
+    "start": 621
+  },
+  {
+    "content": "ended up being revealed in game in story when one of the players triggered a",
+    "start": 625
+  },
+  {
+    "content": "divination spell causing a massive glowing eye to appear that they could",
+    "start": 631
+  },
+  {
+    "content": "target to look at any creature that they knew of course they target it on the big",
+    "start": 637
+  },
+  {
+    "content": "bat and what they saw was that big bad boss man in this exact same room but on",
+    "start": 646
+  },
+  {
+    "content": "a different plane of existence and that kind of made them clue in that when they",
+    "start": 653
+  },
+  {
+    "content": "crossed into this room they had gone into some other dimension or other plane",
+    "start": 658
+  },
+  {
+    "content": "and this room sort of floated in space and time and they saw him the big bad",
+    "start": 661
+  },
+  {
+    "content": "going around and doing this ritual dropping the pages in and gaining all",
+    "start": 667
+  },
+  {
+    "content": "these interesting effects and basically powering up to defeat them should they",
+    "start": 672
+  },
+  {
+    "content": "come looking and the great thing is I was able to then use that as a way to",
+    "start": 679
+  },
+  {
+    "content": "show them how to unlock the room because this big bad had some of his skeleton",
+    "start": 683
+  },
+  {
+    "content": "minions with him and when he was done he had them go flank the four wells drop in",
+    "start": 688
+  },
+  {
+    "content": "the pages from the conjuration book opened the door and leave and of course",
+    "start": 694
+  },
+  {
+    "content": "the party followed suit did that exact same thing created the door and then",
+    "start": 699
+  },
+  {
+    "content": "were able to go to face him in the final showdown overall I was really happy with",
+    "start": 705
+  },
+  {
+    "content": "how this room played out whenever you try to design a puzzle room like this it",
+    "start": 712
+  },
+  {
+    "content": "rarely works out in reality how you imagined it in your game prep and often",
+    "start": 720
+  },
+  {
+    "content": "these types of puzzles can play out awkwardly or frustratingly or worst",
+    "start": 724
+  },
+  {
+    "content": "really boring this one luckily played out really well I think it's unique",
+    "start": 731
+  },
+  {
+    "content": "enough there's enough odd things going on and there's enough randomness to",
+    "start": 737
+  },
+  {
+    "content": "actually make it dynamic and interesting and there's enough positive effects from",
+    "start": 742
+  },
+  {
+    "content": "exploration to entice the players to actually get into it and try different",
+    "start": 749
+  },
+  {
+    "content": "things rather than just trying to get out of the room I would encourage you to",
+    "start": 755
+  },
+  {
+    "content": "try something like this like I said the nice thing is you can use any terrain to",
+    "start": 759
+  },
+  {
+    "content": "represent the stuff he'll use Jenga blocks for the bookcases use bottle caps",
+    "start": 766
+  },
+  {
+    "content": "for the well it doesn't matter it's more the concept that is important just run",
+    "start": 771
+  },
+  {
+    "content": "with it go through your players handbook pick spells that you find interesting",
+    "start": 777
+  },
+  {
+    "content": "that are in theme maybe with your world that might be good or really bad for",
+    "start": 781
+  },
+  {
+    "content": "your particular party make your role tables I only made four of each but if",
+    "start": 785
+  },
+  {
+    "content": "you want to make 10 whatever go nuts make as many as you want",
+    "start": 791
+  },
+  {
+    "content": "fun with it I think it could be an interesting encounter in your game I",
+    "start": 798
+  },
+  {
+    "content": "hope you enjoyed this video guys I know it's a little bit different than usual",
+    "start": 803
+  },
+  {
+    "content": "and something you are only here to see me build stuff but I also know that a",
+    "start": 807
+  },
+  {
+    "content": "ton of you are really interested in my own games and while I don't record or",
+    "start": 811
+  },
+  {
+    "content": "stream my games I think this is a nice little insight into one encounter in one",
+    "start": 817
+  },
+  {
+    "content": "of my sessions let me know what you thought of this style of video if it's",
+    "start": 822
+  },
+  {
+    "content": "something that you would like me to do semi regularly and let me know what you",
+    "start": 826
+  },
+  {
+    "content": "think of this encounter itself and most importantly if you happen to run this at",
+    "start": 830
+  },
+  {
+    "content": "your table I'd love to see how it plays out and how it landed with your players",
+    "start": 835
+  },
+  {
+    "content": "hit that like button if you enjoyed this video guys Cheers",
+    "start": 841
+  },
+  {
+    "content": "I will see you again next week oh one more thing my session notes for this",
+    "start": 845
+  },
+  {
+    "content": "room I think are kind of interesting so what I'm gonna do is I'm gonna take some",
+    "start": 852
+  },
+  {
+    "content": "photos of this and I'm gonna put them up on my patreon to give a little bonus",
+    "start": 857
+  },
+  {
+    "content": "content to my patreon viewers so you guys check it out it'll be a separate",
+    "start": 861
+  },
+  {
+    "content": "post there if you want to see how I made notes for this crazy encounter peace",
+    "start": 865
+  },
+  {
+    "content": "",
+    "start": 888
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "content": "welcome back so here it is this is the one that you've been asking for even",
+    "start": 40
+  },
+  {
+    "content": "before I started this channel I've gotten PM's asking about how I do my",
+    "start": 45
+  },
+  {
+    "content": "cardstock miniatures so once and for all here are my methods laid plain and bare",
+    "start": 49
+  },
+  {
+    "content": "for you all right here i have adobe photoshop cs2 up so we're going to do a",
+    "start": 54
+  },
+  {
+    "content": "new document and we'll make this eight-and-a-half by eleven inches at 300",
+    "start": 59
+  },
+  {
+    "content": "pixels per inch and we will fill this with whites that's alt backspace and",
+    "start": 64
+  },
+  {
+    "content": "zoom in a bit go to the top left corner so this is our workspace here now",
+    "start": 69
+  },
+  {
+    "content": "another new document this will be quarter inch wide and 1 and 3/8 of an",
+    "start": 75
+  },
+  {
+    "content": "inch tall and we'll fill this with red ctrl a ctrl C to copy ctrl V to paste",
+    "start": 81
+  },
+  {
+    "content": "and we're done with that and let's name this layer Gage another new document 1",
+    "start": 89
+  },
+  {
+    "content": "inch wide and eighth of an inch tall and fill that with black and select all copy",
+    "start": 96
+  },
+  {
+    "content": "and paste and we'll call this tab alright now we need a figure so let's go",
+    "start": 104
+  },
+  {
+    "content": "to google image and today we'll do an orc image and you want to find something",
+    "start": 111
+  },
+  {
+    "content": "with an easy background to remove here's one with all white high resolution this",
+    "start": 116
+  },
+  {
+    "content": "looks good so let's copy image Photoshop new document it automatically puts in",
+    "start": 120
+  },
+  {
+    "content": "the size of whatever is on the clipboard so that's nice and we'll paste it in so",
+    "start": 126
+  },
+  {
+    "content": "now we're going to use the magic wand tool and select all the white space",
+    "start": 133
+  },
+  {
+    "content": "around him delete it now with some white space in",
+    "start": 137
+  },
+  {
+    "content": "here and there's some white space there and then there's some this ground at his",
+    "start": 141
+  },
+  {
+    "content": "feet so we're gonna use the lasso tool and manually remove that there all right",
+    "start": 145
+  },
+  {
+    "content": "select all copy and paste clothes that we don't need it anymore",
+    "start": 154
+  },
+  {
+    "content": "now we're going to call this called orc and we're going to press ctrl T to start",
+    "start": 159
+  },
+  {
+    "content": "a transform hold on to shift as you move this corner handle that will keep his",
+    "start": 165
+  },
+  {
+    "content": "proportions constrained and place the feet at the bottom of the gauge so right",
+    "start": 170
+  },
+  {
+    "content": "about there if the feet in the image are not at the same height I sort of split",
+    "start": 176
+  },
+  {
+    "content": "the distance so right about there and then scale them up so that his eyes are",
+    "start": 180
+  },
+  {
+    "content": "at the top of the gauge this will make the paper mini basically the same size",
+    "start": 184
+  },
+  {
+    "content": "as a games workshop or a Reaper mini all right and now we're done with the gauge",
+    "start": 189
+  },
+  {
+    "content": "so we can delete that so here's the orc and my printer prints kind of dark so",
+    "start": 193
+  },
+  {
+    "content": "I'm going to bump up the saturation a little bit as well as the lightness just",
+    "start": 199
+  },
+  {
+    "content": "a hair and that's good right there okay magic wand tool ctrl a to select all and",
+    "start": 204
+  },
+  {
+    "content": "hold alt as you click the white space now we just have the figure selected all",
+    "start": 211
+  },
+  {
+    "content": "right menu select modify expand by 10 pixels okay control-shift-n for a new",
+    "start": 218
+  },
+  {
+    "content": "layer and alt backspace to fill that layer with black and we'll call this",
+    "start": 227
+  },
+  {
+    "content": "layer shadow and we'll move that behind the figure this gives us a nice thick",
+    "start": 232
+  },
+  {
+    "content": "black line to cut around a lot a lot of room to play a little margin for error",
+    "start": 238
+  },
+  {
+    "content": "take the tab layer move it up so it's just at his feet and then notice the",
+    "start": 243
+  },
+  {
+    "content": "white space between the legs you can cut that out with an exacto knife later on",
+    "start": 249
+  },
+  {
+    "content": "but I'm not going to bother with that so I'm just gonna go to the shadow layer",
+    "start": 252
+  },
+  {
+    "content": "and fill some black in right there there we go",
+    "start": 256
+  },
+  {
+    "content": "all right last step get the line tool one pixel wide and we're going to draw",
+    "start": 259
+  },
+  {
+    "content": "it just over the head close close to the head hold on to shift as you draw that",
+    "start": 265
+  },
+  {
+    "content": "will make it go perfectly straight and so there's that so from here we're",
+    "start": 269
+  },
+  {
+    "content": "going to merge all four layers and this is our figure we'll call this figure so",
+    "start": 275
+  },
+  {
+    "content": "now duplicate that layer move it up a bit",
+    "start": 283
+  },
+  {
+    "content": "menu edit transform flip vertical and now the key is to make these lines match",
+    "start": 286
+  },
+  {
+    "content": "up exactly not overlap but but right next to each other",
+    "start": 293
+  },
+  {
+    "content": "Photoshop ought actually snaps into place you can see it's snap so that's",
+    "start": 297
+  },
+  {
+    "content": "nice other editors probably have a one pixel",
+    "start": 301
+  },
+  {
+    "content": "nudge if you use the arrows on the keyboard so you can do that to look and",
+    "start": 304
+  },
+  {
+    "content": "validate that in fact it's right where it needs to be so then press ctrl e to",
+    "start": 308
+  },
+  {
+    "content": "merge I didn't mention a moment ago ctrl emerges the layer down and this is ready",
+    "start": 315
+  },
+  {
+    "content": "to print so here's an orc and if you want to make a whole blister sheet of",
+    "start": 320
+  },
+  {
+    "content": "them just duplicate the layer move it over duplicate the layer move it over",
+    "start": 324
+  },
+  {
+    "content": "etc you can put as many as you can fit on the sheet just remember to leave",
+    "start": 328
+  },
+  {
+    "content": "quarter inch gap on the sides for your printer which most likely has a gutter",
+    "start": 331
+  },
+  {
+    "content": "of a quarter inch so this is ready to print and we will go to that step now",
+    "start": 336
+  },
+  {
+    "content": "so now onward to the crafting table first cut out the figure then fold",
+    "start": 348
+  },
+  {
+    "content": "exactly along the black line be very accurate with this as any small error",
+    "start": 356
+  },
+  {
+    "content": "will propagate next take any cardstock I would use anything thinner than",
+    "start": 361
+  },
+  {
+    "content": "chipboard but even that will work if you have good enough cutting tools this is",
+    "start": 369
+  },
+  {
+    "content": "the backing to a comic book sleeve use a liberal amount of glue stick to attach",
+    "start": 373
+  },
+  {
+    "content": "the figure to the card stock next take some clear packing tape and cover the",
+    "start": 378
+  },
+  {
+    "content": "figure this adds some gloss protects the paper and also helps the colors stand",
+    "start": 387
+  },
+  {
+    "content": "out now it's time to cut I use scissors but",
+    "start": 392
+  },
+  {
+    "content": "I have also used an exacto knife before try and get close to the figure and take",
+    "start": 402
+  },
+  {
+    "content": "as little advantage of that thick black line as possible",
+    "start": 406
+  },
+  {
+    "content": "that's your safety only now use a black sharpie and black in the",
+    "start": 409
+  },
+  {
+    "content": "exposed edge of the figure as for the bass there are two methods",
+    "start": 422
+  },
+  {
+    "content": "that I use for a square base take some dollar-store foam board and",
+    "start": 439
+  },
+  {
+    "content": "cut out a one-inch square you may want to do one inch light or even fifteen",
+    "start": 444
+  },
+  {
+    "content": "sixteenth of an inch just in case your tiles weren't perfect then mark exactly",
+    "start": 449
+  },
+  {
+    "content": "halfway across this square and score the foam but do not cut through the paper on",
+    "start": 455
+  },
+  {
+    "content": "the other side peel off the paper from this side and then fold the square in",
+    "start": 460
+  },
+  {
+    "content": "half if you didn't score very deep it may crack and that's fine now ensure",
+    "start": 465
+  },
+  {
+    "content": "your hot glue gun is fully hot and apply a thin bead of hot glue in the crack",
+    "start": 474
+  },
+  {
+    "content": "quickly insert the paper mini and quickly unfold the base and hold in this",
+    "start": 479
+  },
+  {
+    "content": "position while the glue cools this was the purpose of that 1/8 inch tab to have",
+    "start": 484
+  },
+  {
+    "content": "material to bite into the glue but still have the figures feet be visible at the",
+    "start": 491
+  },
+  {
+    "content": "surface of the base hot glue a penny or washer to the bottom this will both",
+    "start": 495
+  },
+  {
+    "content": "reinforce the base to keep it straight and add a lot of weight",
+    "start": 503
+  },
+  {
+    "content": "making the miniature bottom heavy and much easier to deal with at the game",
+    "start": 507
+  },
+  {
+    "content": "table in fact you can drop it from any height and 99% of the time it will stand",
+    "start": 511
+  },
+  {
+    "content": "itself up from here apply a thick coat of white glue to the base not",
+    "start": 517
+  },
+  {
+    "content": "watered-down flock with a couple of pebbles and then sand",
+    "start": 526
+  },
+  {
+    "content": "the other method for the bass is the one I prefer and have recently switched over",
+    "start": 541
+  },
+  {
+    "content": "to for this method you do not need the 1/8 inch tab so cut it off or don't",
+    "start": 546
+  },
+  {
+    "content": "bother including it in the first place when doing all your Photoshop work you",
+    "start": 553
+  },
+  {
+    "content": "can purchase one inch washers from any hardware store you may wish to trace and",
+    "start": 560
+  },
+  {
+    "content": "cut out a card stock circle to glue to the washer to cover the hole but I",
+    "start": 565
+  },
+  {
+    "content": "didn't bother with that here anyway apply a thin bead of hot glue across the",
+    "start": 569
+  },
+  {
+    "content": "middle and quickly place the miniature in it",
+    "start": 574
+  },
+  {
+    "content": "hold there very steady for a good 20 seconds I know how this looks in the",
+    "start": 578
+  },
+  {
+    "content": "video and the pictures but trust me after you make one you'll be surprised",
+    "start": 584
+  },
+  {
+    "content": "at how sturdy this connection really is again cover the base with a healthy",
+    "start": 587
+  },
+  {
+    "content": "layer of white glue and then flock with pebbles and sand for both bases the",
+    "start": 595
+  },
+  {
+    "content": "paint scheme is pretty simple base it completely in black and then dry brush",
+    "start": 605
+  },
+  {
+    "content": "with a gray I used slate grey here okay here's some example here's some",
+    "start": 613
+  },
+  {
+    "content": "skeletons again from google image you can see the detail really comes out I",
+    "start": 626
+  },
+  {
+    "content": "think the difference between a hundred and two hundred dpi is extremely",
+    "start": 632
+  },
+  {
+    "content": "noticeable two hundred and three hundred still noticeable anything above three",
+    "start": 636
+  },
+  {
+    "content": "hundred not so much so these are all printed at three hundred and that is the",
+    "start": 640
+  },
+  {
+    "content": "reason that many of you who have p.m. to me saying how do they look so",
+    "start": 644
+  },
+  {
+    "content": "photorealistic that's the reason you always want to scale things down not up",
+    "start": 648
+  },
+  {
+    "content": "if you scale them up you'll introduce noise this is my players my player",
+    "start": 653
+  },
+  {
+    "content": "characters party and I color-coded them to make it easier for my players to know",
+    "start": 658
+  },
+  {
+    "content": "which one was theirs it's pretty simple dark color underneath then dry brush",
+    "start": 662
+  },
+  {
+    "content": "with a lighter version of it and then I think coming up yeah we have some large",
+    "start": 667
+  },
+  {
+    "content": "miniatures so there's an OD ugh a cup of water elementals and Onaga I do not use",
+    "start": 673
+  },
+  {
+    "content": "two inch washers for these this is just a two inch chipboard circle that I use a",
+    "start": 680
+  },
+  {
+    "content": "compass to measure out and cut by hand two inch washers that are pretty",
+    "start": 685
+  },
+  {
+    "content": "expensive these aren't done yet obviously they're not flocked and I",
+    "start": 689
+  },
+  {
+    "content": "haven't traced the edges but you can see you can get some there's a mini four",
+    "start": 693
+  },
+  {
+    "content": "scale you get some good results and here's the naka that I've showed off",
+    "start": 697
+  },
+  {
+    "content": "before the skulls there are its victims those are just beads from Michaels",
+    "start": 701
+  },
+  {
+    "content": "so is that gemstone they're Nagas are historically very greedy it's that good",
+    "start": 706
+  },
+  {
+    "content": "weight to it that's a gold glitter with a Swarovski crystal and then that",
+    "start": 712
+  },
+  {
+    "content": "necklace down there is a costume jewelry hearing and so I use that in a recent",
+    "start": 717
+  },
+  {
+    "content": "adventure and then here is an adult dragon so this is a three inch base",
+    "start": 724
+  },
+  {
+    "content": "because it is huge and this is a bronze dragon there's a skeleton for scale but",
+    "start": 729
+  },
+  {
+    "content": "technique is exactly the same for larger bases for doing the squares it's just",
+    "start": 736
+  },
+  {
+    "content": "foam board looks like I lost a penny there but that guy's got a good weight",
+    "start": 740
+  },
+  {
+    "content": "handles pretty well so the again the big ones are no different for the",
+    "start": 744
+  },
+  {
+    "content": "Inc and here's the big collection all at once of course you've got to have a",
+    "start": 749
+  },
+  {
+    "content": "gelatinous cube and it's consumed a skeleton here's a black pudding next to",
+    "start": 754
+  },
+  {
+    "content": "that you can see a halfling and some other NPCs there's a cambian and here's",
+    "start": 761
+  },
+  {
+    "content": "the stuff we've just looked at just for scale and diorama is nice to look at and",
+    "start": 766
+  },
+  {
+    "content": "there's a pair of white worm laying dragons so they have the medium base a",
+    "start": 771
+  },
+  {
+    "content": "lot of art should look familiar if you've played Pathfinder or",
+    "start": 776
+  },
+  {
+    "content": "three-point-five there's a half-elf so that this is my collection and that's",
+    "start": 780
+  },
+  {
+    "content": "how I do card stock miniatures I am wild Locke thanks for joining me",
+    "start": 786
+  }
+]

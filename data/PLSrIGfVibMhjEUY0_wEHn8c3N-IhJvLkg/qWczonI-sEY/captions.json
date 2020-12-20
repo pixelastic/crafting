@@ -1,0 +1,1142 @@
+[
+  {
+    "content": "there's a clap hey guys welcome back to another episode of black magic crap this",
+    "start": 0
+  },
+  {
+    "content": "is gonna be the first in a multi-part series of videos focusing on traps now",
+    "start": 11
+  },
+  {
+    "content": "I've had people requesting trap tiles and trap features basically since the",
+    "start": 21
+  },
+  {
+    "content": "beginning of this channel and I've always decided to not do it not just in",
+    "start": 27
+  },
+  {
+    "content": "terms of not doing it for the channel but not doing it as a DM at my table my",
+    "start": 34
+  },
+  {
+    "content": "reasoning for this is such that I've always felt traps themselves are such a",
+    "start": 39
+  },
+  {
+    "content": "momentary feature or item in a game that they don't justify a full-fledged piece",
+    "start": 45
+  },
+  {
+    "content": "of terrain to represent them and that those are the kinds of things that",
+    "start": 53
+  },
+  {
+    "content": "should be left to theater of the mind you have your terrain laid out and",
+    "start": 57
+  },
+  {
+    "content": "people doing their thing and if all of a sudden the floor opens and they fall",
+    "start": 63
+  },
+  {
+    "content": "into a 10-foot pit I never felt the need to actually craft that little bit",
+    "start": 68
+  },
+  {
+    "content": "because it could just be narrative however I've been swayed and the reason",
+    "start": 72
+  },
+  {
+    "content": "that I've kind of changed my opinion on the matter is thanks to one of my",
+    "start": 79
+  },
+  {
+    "content": "patreon supporters in the black magic craft fellowship group George this is",
+    "start": 84
+  },
+  {
+    "content": "your fault George who's been one of my great supporters on patreon and an",
+    "start": 91
+  },
+  {
+    "content": "active member in the Fellowship posted some photos of some stuff he was working",
+    "start": 95
+  },
+  {
+    "content": "on and he had posted a photo of a little spike pit trap that he had made and this",
+    "start": 99
+  },
+  {
+    "content": "was the kind of thing that you know I've always said should just be narrative but",
+    "start": 106
+  },
+  {
+    "content": "honestly it just looked so cool then I was tempted to build it and I thought",
+    "start": 109
+  },
+  {
+    "content": "about it a little bit and my reasoning I still thought was sound that it can be a",
+    "start": 115
+  },
+  {
+    "content": "narrative quick moment but then I started to think about the trap as a",
+    "start": 120
+  },
+  {
+    "content": "of a obstacle or terrain or another character in the encounter once the trap",
+    "start": 125
+  },
+  {
+    "content": "is sprung so what I mean by that is the floor opens make it back save or fall",
+    "start": 131
+  },
+  {
+    "content": "onto some spikes that can be a fun little narrative thing but if the trap",
+    "start": 138
+  },
+  {
+    "content": "doesn't reset or I guess even if it does the party could then use that trap later",
+    "start": 143
+  },
+  {
+    "content": "as a tool to get monsters to fall into or whatever or it could be another",
+    "start": 149
+  },
+  {
+    "content": "threat to the party that's ongoing and therefore it makes sense to have it as a",
+    "start": 155
+  },
+  {
+    "content": "static item on the game table with this in mind I started developing a base",
+    "start": 161
+  },
+  {
+    "content": "system on which to build traps you know me I like to keep my stuff standardized",
+    "start": 167
+  },
+  {
+    "content": "and modular so that everything kind of has a format and basically what I came",
+    "start": 172
+  },
+  {
+    "content": "up with was some very thin little features that could replace 3x3 tiles on",
+    "start": 177
+  },
+  {
+    "content": "the board I made a very active decision not to make a two part kind of tile that",
+    "start": 185
+  },
+  {
+    "content": "you could open up and reveal a trap because that would stand out and could",
+    "start": 191
+  },
+  {
+    "content": "look different and players could spot it I don't think it was really necessary so",
+    "start": 195
+  },
+  {
+    "content": "essentially I wanted to make tiles that were their own that you could pull a",
+    "start": 198
+  },
+  {
+    "content": "tile out and replace it with the trap that's been sprung and I came up with a",
+    "start": 204
+  },
+  {
+    "content": "system that I think was pretty good essentially comes down to having a flat",
+    "start": 208
+  },
+  {
+    "content": "tile which I'll talk about in a moment on which to build your various traps",
+    "start": 212
+  },
+  {
+    "content": "so on this episode I'm gonna show you how I made these now these are there's",
+    "start": 218
+  },
+  {
+    "content": "not much to them they are essentially just a thin tile with some sludgy water",
+    "start": 225
+  },
+  {
+    "content": "and plant life that represents a pit trap no spikes no razor blades no",
+    "start": 230
+  },
+  {
+    "content": "crushing walls nothing just the basic fundamental pit trap and in later",
+    "start": 238
+  },
+  {
+    "content": "episodes I'll show you how to take these and build upon them for more elaborate",
+    "start": 244
+  },
+  {
+    "content": "and interesting trap ideas the most important thing when developing these",
+    "start": 251
+  },
+  {
+    "content": "for me was to make them as thin as poss which I'll explain in a moment and make",
+    "start": 256
+  },
+  {
+    "content": "them as flat as possible and I'm pretty happy with what I came up with to the",
+    "start": 261
+  },
+  {
+    "content": "point that these can actually sit on top of tiles instead of replacing them if",
+    "start": 266
+  },
+  {
+    "content": "you'd like because they're so thin so anyways let's go over to the workbench",
+    "start": 271
+  },
+  {
+    "content": "and I'll show you what I came up with so as a basis for our pit trap here and the",
+    "start": 275
+  },
+  {
+    "content": "other traps that I'm gonna do moving forward in videos the basic premise is",
+    "start": 282
+  },
+  {
+    "content": "just a 3x3 square same as my basic dungeon tiles it's going to function as",
+    "start": 287
+  },
+  {
+    "content": "a replacement tile that fits right into the same format so that you can use it",
+    "start": 295
+  },
+  {
+    "content": "when you lay out your tiles without disturbing the format now I know some",
+    "start": 303
+  },
+  {
+    "content": "people will talk about wanting to do traps where they actually have a tile",
+    "start": 309
+  },
+  {
+    "content": "where you can lift and reveal or do something",
+    "start": 313
+  },
+  {
+    "content": "I think that's unnecessary I also think that it can make those tiles",
+    "start": 317
+  },
+  {
+    "content": "recognizable so the idea for me is to just have something that you can remove",
+    "start": 321
+  },
+  {
+    "content": "a tile and then drop in whatever the trap is so the most basic of traps this",
+    "start": 327
+  },
+  {
+    "content": "pit trap I essentially just want to mimic depth and a fall and some debris",
+    "start": 333
+  },
+  {
+    "content": "and water and whatever is at the bottom of this thing now obviously you are",
+    "start": 340
+  },
+  {
+    "content": "going to be limited by the thickness of your tiles and if you're like me using",
+    "start": 344
+  },
+  {
+    "content": "half inch the lowest this drop could be is 1/2 inch but you know if you have",
+    "start": 348
+  },
+  {
+    "content": "some difference in height you know your players can then you know imagine the",
+    "start": 355
+  },
+  {
+    "content": "rest you can tell them it's a 10-foot drop or 20 or whatever it is but the",
+    "start": 360
+  },
+  {
+    "content": "idea is to have some sort of depth obviously then you want to be able to",
+    "start": 364
+  },
+  {
+    "content": "make your trap on a tile that is as thin as possible",
+    "start": 369
+  },
+  {
+    "content": "now for me I've achieved this and I've gotten my trap to be you know no more",
+    "start": 374
+  },
+  {
+    "content": "than 2 millimeters thick it is very thin so that I can take advantage of the full",
+    "start": 381
+  },
+  {
+    "content": "thickness of the tiles what I use as my foundation are these Formica",
+    "start": 387
+  },
+  {
+    "content": "samples this is countertop material you know it's about maybe not even two",
+    "start": 392
+  },
+  {
+    "content": "millimeters thick it is extremely hard it is very flat it gives me a very flat",
+    "start": 398
+  },
+  {
+    "content": "thin surface to work on now the challenge there because anybody can pick",
+    "start": 403
+  },
+  {
+    "content": "this stuff up you can walk into a Home Depot and go up and just grab some",
+    "start": 408
+  },
+  {
+    "content": "samples or you can go into a countertop company and ask them I have hundreds of",
+    "start": 412
+  },
+  {
+    "content": "these things from you know my profession in renovations the but anybody can get",
+    "start": 415
+  },
+  {
+    "content": "these the challenge with them is is cutting it which I'm going to touch upon",
+    "start": 421
+  },
+  {
+    "content": "in a moment you don't need to use that you just need to use something as thin",
+    "start": 425
+  },
+  {
+    "content": "as you can that you are comfortable working with you could just take some",
+    "start": 430
+  },
+  {
+    "content": "XPS foam like I've done here and rip it down a bit thinner on the procs on table",
+    "start": 435
+  },
+  {
+    "content": "and to about a quarter-inch thick and you know cover it Mod Podge to make it a",
+    "start": 439
+  },
+  {
+    "content": "little harder and that will still give you some draw you could in theory use",
+    "start": 444
+  },
+  {
+    "content": "the like dollar-store foam core board but I find that you're gonna probably",
+    "start": 449
+  },
+  {
+    "content": "end up with some warpage but you can do it and I'll touch upon when we get to",
+    "start": 455
+  },
+  {
+    "content": "the resin how you can kind of prevent some of that warpage another great",
+    "start": 460
+  },
+  {
+    "content": "alternative would be some plywood or MDF if you use some you know or hard hard",
+    "start": 465
+  },
+  {
+    "content": "hard 'back board like chipboard whatever basically something that is as thin as",
+    "start": 470
+  },
+  {
+    "content": "possible that you can cut into 3 by 3 squares fairly easily and that is going",
+    "start": 477
+  },
+  {
+    "content": "to reduce warpage as much as possible this Formica that is in my opinion the",
+    "start": 483
+  },
+  {
+    "content": "absolute best thing but it has some serious kind of difficulties in cutting",
+    "start": 489
+  },
+  {
+    "content": "it that you have to be first of all comfortable doing and have the correct",
+    "start": 496
+  },
+  {
+    "content": "tools to do it but that's how I do it and I'm gonna show you the tool I used",
+    "start": 500
+  },
+  {
+    "content": "to make that happen to cut this stuff you are not really going to be able to",
+    "start": 503
+  },
+  {
+    "content": "do it with a knife or scissors it is way too stiff to cut with a utility knife",
+    "start": 508
+  },
+  {
+    "content": "scissors or shears will just crack it and flake it you have to cut this with a",
+    "start": 513
+  },
+  {
+    "content": "saw of some kind a power tool you can absolutely cut this on your standard",
+    "start": 518
+  },
+  {
+    "content": "table saw that you would you know use in your workshop if you have a table",
+    "start": 524
+  },
+  {
+    "content": "saw and you're comfortable using it then you should also know correct kind of",
+    "start": 529
+  },
+  {
+    "content": "procedure to cut material this thin and I'm not going to touch on that here I'm",
+    "start": 534
+  },
+  {
+    "content": "gonna say if you don't know how to cut this on a table saw don't do it I don't",
+    "start": 538
+  },
+  {
+    "content": "really want to be going outside and setting up my big table saw to do this",
+    "start": 545
+  },
+  {
+    "content": "so I'm gonna make use of this amazingly cute little table saw that proc some",
+    "start": 550
+  },
+  {
+    "content": "sent me it is a small table saw with this really tiny blade that is meant for",
+    "start": 555
+  },
+  {
+    "content": "cutting small hobby materials the blade cuts through this stuff perfectly gives",
+    "start": 562
+  },
+  {
+    "content": "me a really nice edge I'm gonna use it here it's on my desk and I don't need to",
+    "start": 567
+  },
+  {
+    "content": "set anything up if you'd like to pick one of these up I'll put a link Amazon",
+    "start": 572
+  },
+  {
+    "content": "affiliate link in the description of the video this is a fantastic hobby tool but",
+    "start": 576
+  },
+  {
+    "content": "it is also not a requirement it's one of those things that if you're really",
+    "start": 582
+  },
+  {
+    "content": "serious in the hobby you will get a lot of mileage out of if you're really",
+    "start": 585
+  },
+  {
+    "content": "passive and just kind of do stuff once in a while it's probably not for you if",
+    "start": 588
+  },
+  {
+    "content": "you build a lot of stuff this thing is amazing the one limitation however and",
+    "start": 592
+  },
+  {
+    "content": "it's just because of the size of tile I want to make three inches by three",
+    "start": 597
+  },
+  {
+    "content": "inches this table saw is so small that the RIP fence maxes out at what is that",
+    "start": 603
+  },
+  {
+    "content": "I believe two and a half inches so I can't actually use this rip fence as it",
+    "start": 609
+  },
+  {
+    "content": "as it's you know made at three inches I think I will at some point just like",
+    "start": 619
+  },
+  {
+    "content": "make a modified one at three inches because that's my standard it's just",
+    "start": 626
+  },
+  {
+    "content": "that the it falls off the guide at that point so for this I actually have to",
+    "start": 630
+  },
+  {
+    "content": "freehand it but I'm really comfortable doing it because I've worked on table",
+    "start": 634
+  },
+  {
+    "content": "saws my whole life so I can do a nice straight freehand cut on the back of",
+    "start": 639
+  },
+  {
+    "content": "this I've penciled off my three inch by three inch square and I'm just gonna",
+    "start": 645
+  },
+  {
+    "content": "freehand rip this and I'm gonna put on some safety glasses because I don't want",
+    "start": 649
+  },
+  {
+    "content": "any shards of this little Formica jabbing me in the eyeball holes oh also",
+    "start": 654
+  },
+  {
+    "content": "I'm gonna do something that I don't necessarily recommend and I'm gonna do",
+    "start": 659
+  },
+  {
+    "content": "it without the safety guard up so that I can see my line again if you know what",
+    "start": 662
+  },
+  {
+    "content": "you're doing this is fine don't know what you're doing maybe stick with a",
+    "start": 666
+  },
+  {
+    "content": "different material and a different tool",
+    "start": 670
+  },
+  {
+    "content": "[Applause]",
+    "start": 674
+  },
+  {
+    "content": "[Applause]",
+    "start": 681
+  },
+  {
+    "content": "so now I have this perfect 3x3 square with a beautiful cut edge like I said",
+    "start": 701
+  },
+  {
+    "content": "I'm free handing it I'm using this guard up I don't recommend that unless you are",
+    "start": 708
+  },
+  {
+    "content": "very skilled and comfortable with table saws so this is really like kind of like",
+    "start": 713
+  },
+  {
+    "content": "an advanced procedure here but sometimes the advanced material and procedure",
+    "start": 720
+  },
+  {
+    "content": "gives the best results and I don't want to sacrifice best results just for the",
+    "start": 724
+  },
+  {
+    "content": "sake of the channel this is for my game and I want it to be perfect if you're",
+    "start": 729
+  },
+  {
+    "content": "thinking about getting one of these I would recommend maybe doing what I'm",
+    "start": 733
+  },
+  {
+    "content": "gonna do and make a three inch guide because then you don't have to freehand",
+    "start": 737
+  },
+  {
+    "content": "it and you can use this guard down if there was a guide or if you're working",
+    "start": 743
+  },
+  {
+    "content": "in a different format 2x2 using this rip fence this becomes a very safe easy tool",
+    "start": 747
+  },
+  {
+    "content": "to use i ripping something through like this I would recommend for anybody even",
+    "start": 752
+  },
+  {
+    "content": "if they're you know new it's not that bad it's just the freehand cuts",
+    "start": 758
+  },
+  {
+    "content": "require some extra intuitive skills that you know take you know years of practice",
+    "start": 761
+  },
+  {
+    "content": "to learn but anyways we're gonna proceed to actually making the fun part of the",
+    "start": 767
+  },
+  {
+    "content": "traps here all right so now the fun part turning your little tile into a cool",
+    "start": 772
+  },
+  {
+    "content": "slimy pool of gooey water like this if you used foam or something it's a good",
+    "start": 777
+  },
+  {
+    "content": "idea to coach stuff in mod podge first especially these edges to make a little",
+    "start": 782
+  },
+  {
+    "content": "bit stronger and you're probably going to want to paint things",
+    "start": 787
+  },
+  {
+    "content": "underneath it's mostly gonna get covered by the water but the goal is to have",
+    "start": 790
+  },
+  {
+    "content": "translucent kind of swirling water to show some",
+    "start": 795
+  },
+  {
+    "content": "depth you don't want it to just look like paint blob Don that's a bit shiny",
+    "start": 799
+  },
+  {
+    "content": "which means that you will kind of see the substrate underneath through it a",
+    "start": 803
+  },
+  {
+    "content": "little bit I spray-painted my tile gray so that it just you know looks like any",
+    "start": 808
+  },
+  {
+    "content": "thing seeing through sees stone underneath I could have in theory",
+    "start": 814
+  },
+  {
+    "content": "depending on the exact sample of Formica you just left the pattern on it because",
+    "start": 819
+  },
+  {
+    "content": "as you can see like this had like a stone pattern I could have used that but",
+    "start": 824
+  },
+  {
+    "content": "for the sake of consistency as well as to cover up the text from the sample",
+    "start": 829
+  },
+  {
+    "content": "that actually landed on this piece I didn't want that text showing through i",
+    "start": 833
+  },
+  {
+    "content": "spray-painted it out whatever Tyler use you know painted out basically gray",
+    "start": 836
+  },
+  {
+    "content": "don't you know be too thorough with it and now you can mix up the water so I'm",
+    "start": 840
+  },
+  {
+    "content": "going to move these out of the way and I'm gonna go probably with a slightly",
+    "start": 845
+  },
+  {
+    "content": "different look on this one then this one this one's very Brown and it might do",
+    "start": 849
+  },
+  {
+    "content": "something different here and the foundation for this is going to be this",
+    "start": 853
+  },
+  {
+    "content": "five minute epoxy that I buy at Dollarama you can buy this probably at",
+    "start": 857
+  },
+  {
+    "content": "any dollar store pound store or five-and-dime whatever and it's just a",
+    "start": 862
+  },
+  {
+    "content": "basic five minute clear epoxy that you want to use if you are having trouble",
+    "start": 867
+  },
+  {
+    "content": "finding it I posted a link to a comparable product just another brand on",
+    "start": 872
+  },
+  {
+    "content": "my Amazon affiliate shop so you can grab it through there I'll put a link in the",
+    "start": 877
+  },
+  {
+    "content": "description now because we're going to be doing this epoxy right to the edge",
+    "start": 882
+  },
+  {
+    "content": "it's gonna be difficult to handle this so I'm gonna use the same thing I use",
+    "start": 887
+  },
+  {
+    "content": "for minis to hold this and basically it's just a pill bottle that I filled",
+    "start": 892
+  },
+  {
+    "content": "with sand for some weight and some hot glue so the stays and stays at the",
+    "start": 896
+  },
+  {
+    "content": "bottom some blue poster tack or sticky tack I'm gonna press this in and now I",
+    "start": 902
+  },
+  {
+    "content": "will have a handle to work with and you know what place for this to sit and dry",
+    "start": 907
+  },
+  {
+    "content": "you will also want to have some embellishments prepared I'm gonna use",
+    "start": 912
+  },
+  {
+    "content": "some of this these little like vines from this Moss this is the moss you can",
+    "start": 916
+  },
+  {
+    "content": "get at any craft store or dollar store I'm just gonna break off a few pieces to",
+    "start": 920
+  },
+  {
+    "content": "make it look like there's some plant life and vines growing in this pit of",
+    "start": 925
+  },
+  {
+    "content": "sludge as well as just you know some course blocking to make a little bit of",
+    "start": 929
+  },
+  {
+    "content": "shrubbery and this one I actually put some little branches and logs you know",
+    "start": 934
+  },
+  {
+    "content": "that you know got trapped when this pit had been open but obviously it doesn't",
+    "start": 939
+  },
+  {
+    "content": "make sense to have logs in all of them because how many blogs are there in a",
+    "start": 944
+  },
+  {
+    "content": "dungeon it depends on the dungeon a great place to use your bits box for",
+    "start": 948
+  },
+  {
+    "content": "minis put some skulls put some bodies put some skeleton parts whatever you",
+    "start": 952
+  },
+  {
+    "content": "want to dress it up that's where the fun comes in but I'm gonna keep this one",
+    "start": 957
+  },
+  {
+    "content": "simple to just show you the water and the greenery so I'm gonna take my five",
+    "start": 961
+  },
+  {
+    "content": "minute epoxy I'm gonna use this little clear disposable shot glass and I'm just",
+    "start": 965
+  },
+  {
+    "content": "gonna pour a bunch of this stuff into here and you're gonna have to guess",
+    "start": 970
+  },
+  {
+    "content": "about how much you need I'm gonna say that's about good you know obviously if",
+    "start": 976
+  },
+  {
+    "content": "you're making several of these you can make a bigger batch you want to stir",
+    "start": 984
+  },
+  {
+    "content": "this up really really well and when you stir this kind of epoxy up you can see",
+    "start": 988
+  },
+  {
+    "content": "it turns silver for a moment and that's the two chemicals meeting each other and",
+    "start": 992
+  },
+  {
+    "content": "the chemical reaction already starting to take place remember",
+    "start": 997
+  },
+  {
+    "content": "this is five minute epoxy you only have about five minutes to work with this",
+    "start": 1000
+  },
+  {
+    "content": "stuff so don't mix too big of a batch at once I like to give it a good little bit",
+    "start": 1003
+  },
+  {
+    "content": "of a stir first and then add some paint and now the amount of paint you want to",
+    "start": 1009
+  },
+  {
+    "content": "add is so incredibly minimal it's actually difficult to add such a small",
+    "start": 1015
+  },
+  {
+    "content": "amount but just the tiniest of drops and less is more you can always add more",
+    "start": 1020
+  },
+  {
+    "content": "later but remember that you want things to be translucent in there that is",
+    "start": 1027
+  },
+  {
+    "content": "starting to look like a nice sludge and you can add a little bit of brown as",
+    "start": 1037
+  },
+  {
+    "content": "well if you want green Brown whatever you want and just experiment until",
+    "start": 1043
+  },
+  {
+    "content": "you're happy then you can take this stuff",
+    "start": 1049
+  },
+  {
+    "content": "or some out onto your tile don't overdo it and just spread it around with a",
+    "start": 1053
+  },
+  {
+    "content": "popsicle stick I'm actually thinking here it looks like I could maybe make",
+    "start": 1060
+  },
+  {
+    "content": "this a little bit darker so I'm gonna add a bit more paint because I don't",
+    "start": 1068
+  },
+  {
+    "content": "want too much of that gray showing through and I can already feel holding",
+    "start": 1073
+  },
+  {
+    "content": "that shot glass it's starting to get really warm because the chemical",
+    "start": 1078
+  },
+  {
+    "content": "reaction hardening this works through heat so once you start feeling that heat",
+    "start": 1082
+  },
+  {
+    "content": "you know you are already running low on time but the nice thing is that this",
+    "start": 1087
+  },
+  {
+    "content": "will be table ready within you know several minutes you don't have to wait",
+    "start": 1095
+  },
+  {
+    "content": "Andes for this stuff to cure looks like I mixed up just the right amount and",
+    "start": 1100
+  },
+  {
+    "content": "this shot glass is getting very hot right now if you use something like foam",
+    "start": 1109
+  },
+  {
+    "content": "core where there's a risk of warpage this resin when it dries will be",
+    "start": 1113
+  },
+  {
+    "content": "rock-hard and it will actually you know your tile will stay whatever shape it",
+    "start": 1119
+  },
+  {
+    "content": "was when the resin cured so if you make sure to attach your foam core or",
+    "start": 1125
+  },
+  {
+    "content": "whatever material using that might warp to something flat so that it holds flat",
+    "start": 1131
+  },
+  {
+    "content": "while this resin is curing that will ensure that you have a nice flat on warp",
+    "start": 1136
+  },
+  {
+    "content": "tile at the end so now before this stuff completely hardens on me I'm just gonna",
+    "start": 1142
+  },
+  {
+    "content": "drop in some greenery little bits of plant life that's growing here and I",
+    "start": 1147
+  },
+  {
+    "content": "don't really want to overdo it take some of these vines have them maybe growing",
+    "start": 1153
+  },
+  {
+    "content": "out of the spots where I put some little shrubberies and then use a toothpick to",
+    "start": 1159
+  },
+  {
+    "content": "push it into the resin so that I don't get my fingers all covered in goo and",
+    "start": 1165
+  },
+  {
+    "content": "this like most projects I do is going to be a matter of taste of how much of this",
+    "start": 1170
+  },
+  {
+    "content": "you want to do you could do absolutely none or you could cover the whole thing",
+    "start": 1175
+  },
+  {
+    "content": "it all depends on how you want it to look now I know somebody out there is",
+    "start": 1180
+  },
+  {
+    "content": "to say well but if this is like a pit trap in a dark dungeon and it's just you",
+    "start": 1186
+  },
+  {
+    "content": "know this hole in the ground where there's no light there wouldn't be any",
+    "start": 1191
+  },
+  {
+    "content": "plant life growing and it's like well sure if we're talking about the real",
+    "start": 1195
+  },
+  {
+    "content": "world that's true but we're talking about dungeon dragons in a fantasy world",
+    "start": 1201
+  },
+  {
+    "content": "where an eyeball beast that shoots lasers from his eyes lives so again",
+    "start": 1204
+  },
+  {
+    "content": "don't get stuck on real-world limitations here that's already starting",
+    "start": 1213
+  },
+  {
+    "content": "to harden up and I think I'm going to call that done so we're gonna come back",
+    "start": 1220
+  },
+  {
+    "content": "in about 5-10 minutes and take a look at it once it's hard alright so it's been",
+    "start": 1225
+  },
+  {
+    "content": "about 10 minutes since I put down this epoxy went ate two slices of pizza came",
+    "start": 1231
+  },
+  {
+    "content": "back and the resin is now cured and hard it is still very slightly tacky so",
+    "start": 1237
+  },
+  {
+    "content": "immediately after I would be careful about really pushing it and getting",
+    "start": 1244
+  },
+  {
+    "content": "fingerprints embedded on it but it is hard and if you let it sit for",
+    "start": 1248
+  },
+  {
+    "content": "I'd say probably about another hour it's gonna be a hundred percent cured and you",
+    "start": 1252
+  },
+  {
+    "content": "can touch it and it's fine so this is something you can actually make fairly",
+    "start": 1258
+  },
+  {
+    "content": "last minute before a game if you need to and have some pretty cool results one",
+    "start": 1263
+  },
+  {
+    "content": "thing you can also do which I will do on this one and I've done on previous ones",
+    "start": 1269
+  },
+  {
+    "content": "is actually to spray everything after with polyurethane but a gloss",
+    "start": 1273
+  },
+  {
+    "content": "polyurethane now obviously as you can see by all the reflection off this resin",
+    "start": 1279
+  },
+  {
+    "content": "you don't need that for the wet look of the water but any kind of little details",
+    "start": 1284
+  },
+  {
+    "content": "that you've added like these vines and shrubs or sticks or whatever you've put",
+    "start": 1289
+  },
+  {
+    "content": "in there to polyurethane spray will actually protect those and you know make",
+    "start": 1293
+  },
+  {
+    "content": "them a bit harder but it will also make them look wet right it's gonna give that",
+    "start": 1298
+  },
+  {
+    "content": "wet look over the whole thing and the gloss is gonna go right over this resin",
+    "start": 1304
+  },
+  {
+    "content": "and keep it looking nice and shiny and wet just make sure you do",
+    "start": 1308
+  },
+  {
+    "content": "it with a gloss not a satin or even a semi-gloss you want this to look as what",
+    "start": 1312
+  },
+  {
+    "content": "that's possible and then that's really it then you're done and ready for the",
+    "start": 1317
+  },
+  {
+    "content": "table",
+    "start": 1322
+  },
+  {
+    "content": "so there you have it guys that is what I",
+    "start": 1335
+  },
+  {
+    "content": "came up with as a foundation point for basic dungeon tile traps and like I",
+    "start": 1344
+  },
+  {
+    "content": "mentioned before in future episodes in this series I'm going to build more",
+    "start": 1351
+  },
+  {
+    "content": "elaborate and interesting little trap details like spikes and various other",
+    "start": 1355
+  },
+  {
+    "content": "things so put your comments below of the type",
+    "start": 1360
+  },
+  {
+    "content": "of trap that you would like to see may something that maybe you use a lot in",
+    "start": 1363
+  },
+  {
+    "content": "your games or that you just struggling with how to make yourself because I will",
+    "start": 1368
+  },
+  {
+    "content": "absolutely consider them when moving forward in this series",
+    "start": 1374
+  },
+  {
+    "content": "as usual if you found this video useful hit that like button and let me know in",
+    "start": 1379
+  },
+  {
+    "content": "the comments below hit subscribe if you aren't already a subscriber I put out",
+    "start": 1382
+  },
+  {
+    "content": "new videos every Friday for you guys and the reason I'm able to put out those",
+    "start": 1386
+  },
+  {
+    "content": "videos every Friday is because of the support the very generous support of the",
+    "start": 1390
+  },
+  {
+    "content": "people on patreon I highly encourage you to consider taking a look at my patreon",
+    "start": 1396
+  },
+  {
+    "content": "page seeing what it's all about and seeing how it helps me in creating these",
+    "start": 1401
+  },
+  {
+    "content": "videos the best part about that little group there is that people who pledge at",
+    "start": 1405
+  },
+  {
+    "content": "the 5 dollar a month level become automatic members of the black magic",
+    "start": 1411
+  },
+  {
+    "content": "craft fellowship and get granted access to a private little Facebook community",
+    "start": 1415
+  },
+  {
+    "content": "where we hang out discuss stuff and come up with cool ideas brainstorm share tips",
+    "start": 1419
+  },
+  {
+    "content": "and tricks and inspire me to make stuff like this these this video would never",
+    "start": 1426
+  },
+  {
+    "content": "have been made if it wasn't for the members of that little patreon group so",
+    "start": 1432
+  },
+  {
+    "content": "I highly encourage you to go check it out and become a member and a supporter",
+    "start": 1438
+  },
+  {
+    "content": "it'll be good for you and it will be excellent for me because that help is so",
+    "start": 1442
+  },
+  {
+    "content": "important for this channel to keep going at this pace another way you can support",
+    "start": 1446
+  },
+  {
+    "content": "the channel if you'd like is by purchasing things through my Amazon",
+    "start": 1450
+  },
+  {
+    "content": "affiliate links on black magic raft up CA I have my essential equipment store",
+    "start": 1455
+  },
+  {
+    "content": "in the links to most away videos I have links to products that I use clicking",
+    "start": 1460
+  },
+  {
+    "content": "and buying those links ensures you get the correct product for the task things",
+    "start": 1464
+  },
+  {
+    "content": "that I stand behind and recommend fully and Amazon pays",
+    "start": 1469
+  },
+  {
+    "content": "Blackmagic rap a small Commission on any of those sales and those little",
+    "start": 1473
+  },
+  {
+    "content": "Commission add up to actual revenue that I can use to keep this channel going and",
+    "start": 1478
+  },
+  {
+    "content": "you know what to help provide for my family a little bit and justify the time",
+    "start": 1485
+  },
+  {
+    "content": "lost on my Saturdays when I'm making these videos for you guys and I would",
+    "start": 1490
+  },
+  {
+    "content": "love it if these videos continue for years to come because I love making them",
+    "start": 1496
+  },
+  {
+    "content": "I love hanging out with you guys so until next week Cheers happy crafting",
+    "start": 1501
+  },
+  {
+    "content": "I hope you have an awesome game this weekend and just keep on being awesome",
+    "start": 1507
+  },
+  {
+    "content": "guys peace out",
+    "start": 1511
+  }
+]

@@ -1,0 +1,934 @@
+[
+  {
+    "content": "today i'm going to be making modular docks but more importantly i'm going to",
+    "start": 0
+  },
+  {
+    "content": "be demonstrating how you can make the same terrain out of whatever",
+    "start": 3
+  },
+  {
+    "content": "material you happen to have available hey guys welcome back to blackmagic",
+    "start": 7
+  },
+  {
+    "content": "craft this week's episode is sponsored by the dragon trappers lodge and they're",
+    "start": 21
+  },
+  {
+    "content": "a company that provides really cool models that you can 3d print",
+    "start": 25
+  },
+  {
+    "content": "at home when they showed me the renders for",
+    "start": 28
+  },
+  {
+    "content": "this month i saw this crazy shark source model and i knew that i had to print it",
+    "start": 31
+  },
+  {
+    "content": "out and paint it as well as this really neat pirate rat",
+    "start": 36
+  },
+  {
+    "content": "it's just super cool my gut instinct was to make a cool little diorama but i also",
+    "start": 40
+  },
+  {
+    "content": "thought it would be a really good opportunity to make some",
+    "start": 46
+  },
+  {
+    "content": "modular nautical terrain so i turned the decision over to",
+    "start": 48
+  },
+  {
+    "content": "my patreon supporters and they overwhelmingly supported the idea of",
+    "start": 52
+  },
+  {
+    "content": "modular docs so that's what i am making today modular docs i",
+    "start": 57
+  },
+  {
+    "content": "really wanted to demonstrate the same project using",
+    "start": 63
+  },
+  {
+    "content": "three completely different materials whatever you have on hand whatever tools",
+    "start": 67
+  },
+  {
+    "content": "whatever materials crack them out just make things with",
+    "start": 71
+  },
+  {
+    "content": "them i kept them low so that they're about the same height",
+    "start": 75
+  },
+  {
+    "content": "as my basic tiles this is a great way to use them to transition",
+    "start": 78
+  },
+  {
+    "content": "from land city streets whatever to water on top of your favorite battle mat",
+    "start": 82
+  },
+  {
+    "content": "i also avoided adding any kind of like water splashing effects around the posts",
+    "start": 87
+  },
+  {
+    "content": "so that they could be used as generic wood platforms in any setting",
+    "start": 91
+  },
+  {
+    "content": "like a cave they could also be used as bridges",
+    "start": 96
+  },
+  {
+    "content": "keeping your terrain as generic and modular as possible",
+    "start": 99
+  },
+  {
+    "content": "is a great way to get the most bang for your buck out of your efforts as a",
+    "start": 102
+  },
+  {
+    "content": "builder so now let's get building",
+    "start": 107
+  },
+  {
+    "content": "what seems like an obvious choice for this project and really it is a good one",
+    "start": 115
+  },
+  {
+    "content": "i'm not using balsa wood because for a lot of people including myself",
+    "start": 119
+  },
+  {
+    "content": "balsa wood isn't readily available in large quantities for a good price",
+    "start": 123
+  },
+  {
+    "content": "but basic crafting wood like dowels coffee stir sticks popsicle sticks that",
+    "start": 127
+  },
+  {
+    "content": "sort of thing this is something that just about",
+    "start": 131
+  },
+  {
+    "content": "everyone can get their hands on unfortunately these kinds of craft",
+    "start": 134
+  },
+  {
+    "content": "sticks need to be carved up to make them look",
+    "start": 137
+  },
+  {
+    "content": "more like old hand-hewn lumber instead of well",
+    "start": 140
+  },
+  {
+    "content": "craft sticks you can do this with a knife if that's all you've got it works",
+    "start": 143
+  },
+  {
+    "content": "just as well but it's a slow process if you happen to",
+    "start": 148
+  },
+  {
+    "content": "have a rotary tool you can make very fast work of this by using a sanding",
+    "start": 151
+  },
+  {
+    "content": "drum it's really hard to get visible wood",
+    "start": 154
+  },
+  {
+    "content": "grain in the wood which i know is ironic but it's the",
+    "start": 156
+  },
+  {
+    "content": "truth and it's one of the reasons i often don't use wood to make miniature",
+    "start": 160
+  },
+  {
+    "content": "wood things what you can do is shoot for uneven",
+    "start": 165
+  },
+  {
+    "content": "beveled edges on the pieces and kind of roughen them up a bit and that",
+    "start": 169
+  },
+  {
+    "content": "will make them look more like timber now for the posts and this will be true",
+    "start": 173
+  },
+  {
+    "content": "of all three materials i made them one inch tall i also marked",
+    "start": 177
+  },
+  {
+    "content": "out half inch increments on them as this would be the level of the actual",
+    "start": 181
+  },
+  {
+    "content": "docking to bring it in line with half inch thick tiles",
+    "start": 185
+  },
+  {
+    "content": "obviously you're going to want to adjust this to suit whatever thickness of tiles",
+    "start": 189
+  },
+  {
+    "content": "you use regularly if you use one inch thick",
+    "start": 193
+  },
+  {
+    "content": "tiles make your docks taller if you use thinner tiles",
+    "start": 196
+  },
+  {
+    "content": "make them shorter you want to cut two thinner dowels to",
+    "start": 199
+  },
+  {
+    "content": "act as support rods i made these six inches long the docks",
+    "start": 202
+  },
+  {
+    "content": "end up being six inches by two inches which is a nice",
+    "start": 206
+  },
+  {
+    "content": "form factor to work on a one inch grid and with one inch base",
+    "start": 209
+  },
+  {
+    "content": "tiles a dab of pva glue on your posts is all you need to attach the support rods",
+    "start": 213
+  },
+  {
+    "content": "if you're making a lot of these docks i suggest making all of the side pieces at",
+    "start": 218
+  },
+  {
+    "content": "the same time so you can align them with each other",
+    "start": 222
+  },
+  {
+    "content": "and so that they have time to dry and bond well before moving on",
+    "start": 224
+  },
+  {
+    "content": "you can cut your planking at two inches long or slightly longer if you want a",
+    "start": 228
+  },
+  {
+    "content": "little bit of an overhang i don't love using super glue on wood",
+    "start": 232
+  },
+  {
+    "content": "but to attach the first and last plank super glue and",
+    "start": 236
+  },
+  {
+    "content": "some accelerant is very helpful this way you can get your basic frame",
+    "start": 239
+  },
+  {
+    "content": "secure and then use pva to place the remaining planks",
+    "start": 243
+  },
+  {
+    "content": "pva is a lot stronger on wood but it takes a lot longer to dry",
+    "start": 247
+  },
+  {
+    "content": "the nice thing about using it to place the planks though is that you have",
+    "start": 251
+  },
+  {
+    "content": "working time so you can kind of slide them and move them around",
+    "start": 254
+  },
+  {
+    "content": "to fit and sit the way you want if you end up with a dock that's kind of wibbly",
+    "start": 257
+  },
+  {
+    "content": "wobbly and posts that are maybe a bit wonky just snap one of them off then",
+    "start": 261
+  },
+  {
+    "content": "glue it back in place while firmly holding down the other posts",
+    "start": 265
+  },
+  {
+    "content": "this way you can ensure that all of the posts are making good contact with the",
+    "start": 269
+  },
+  {
+    "content": "table and that's it wood is probably the most",
+    "start": 272
+  },
+  {
+    "content": "durable option here and it looks pretty good",
+    "start": 275
+  },
+  {
+    "content": "the downside is that it's a bit fiddly to work with and assemble",
+    "start": 278
+  },
+  {
+    "content": "and despite actually being real wood it can be very difficult to get it to",
+    "start": 281
+  },
+  {
+    "content": "look like wood at scale it's really hard to get any kind of wood grain that",
+    "start": 287
+  },
+  {
+    "content": "visually stands out but for long lasting pieces",
+    "start": 292
+  },
+  {
+    "content": "this is probably your best bet well if foam is your go-to material for",
+    "start": 295
+  },
+  {
+    "content": "this project it's safe to assume that you are well versed in foam crafting and",
+    "start": 304
+  },
+  {
+    "content": "that you probably have a hot wire table at your disposal",
+    "start": 308
+  },
+  {
+    "content": "if not well the other two materials may be a better choice",
+    "start": 311
+  },
+  {
+    "content": "you want to make some quarter inch by quarter inch strips to create the posts",
+    "start": 315
+  },
+  {
+    "content": "and the support rails now these end up being a bit chunkier in",
+    "start": 319
+  },
+  {
+    "content": "size than you might want visually but you have to be careful when making",
+    "start": 322
+  },
+  {
+    "content": "delicate items out of foam if you make pieces that are too thin",
+    "start": 326
+  },
+  {
+    "content": "well they're going to end up being really flimsy and might be too fragile",
+    "start": 329
+  },
+  {
+    "content": "to work or use for the planking cut some thinner strips",
+    "start": 333
+  },
+  {
+    "content": "out of some half inch foam i just eyeballed the thickness that i thought",
+    "start": 336
+  },
+  {
+    "content": "would be just thick enough to hold up but thin enough to still look okay which",
+    "start": 339
+  },
+  {
+    "content": "is about 3 16 of an inch some great looking wood grain can be",
+    "start": 343
+  },
+  {
+    "content": "added to the pieces using a wire brush you can also hand carve in the wood",
+    "start": 347
+  },
+  {
+    "content": "grain with a sharp tool or a pencil which will give a less realistic but",
+    "start": 352
+  },
+  {
+    "content": "more dramatic wood grain for the posts you want to chamfer the",
+    "start": 355
+  },
+  {
+    "content": "edges of the piece with a sharp knife before applying the wood grain this will",
+    "start": 358
+  },
+  {
+    "content": "give you something that looks a little bit more like a rounded",
+    "start": 362
+  },
+  {
+    "content": "wood timber the support timbers are again cut to 6",
+    "start": 366
+  },
+  {
+    "content": "inches long but in this case with foam you need a bit more support",
+    "start": 369
+  },
+  {
+    "content": "and you're going to want to put end pieces and",
+    "start": 373
+  },
+  {
+    "content": "a middle rail the best way to assemble the frame is with some dabs of",
+    "start": 375
+  },
+  {
+    "content": "pva glue and a push pin you can actually use a push pin through the post",
+    "start": 379
+  },
+  {
+    "content": "and intersecting frame pieces all in one go and you can just leave this pin in",
+    "start": 384
+  },
+  {
+    "content": "place for some more durability if you don't like the way that big push",
+    "start": 388
+  },
+  {
+    "content": "pin head looks you can actually just snip it off before pushing the pin all",
+    "start": 392
+  },
+  {
+    "content": "the way in to make the planks look more realistic i find it helps to",
+    "start": 395
+  },
+  {
+    "content": "cut them with slightly wavy cuts on each side so if you're using that half inch",
+    "start": 399
+  },
+  {
+    "content": "wide strip cut both edges then do a cut in the",
+    "start": 404
+  },
+  {
+    "content": "middle and don't worry about being perfectly straight just freehand it this",
+    "start": 407
+  },
+  {
+    "content": "will give you some great wavy variety in your widths and this is going to look",
+    "start": 410
+  },
+  {
+    "content": "really good once assembled in my opinion foam ends up with the best",
+    "start": 415
+  },
+  {
+    "content": "looking option on the table but it's definitely the most difficult",
+    "start": 419
+  },
+  {
+    "content": "to make and easily the least durable so there's a",
+    "start": 424
+  },
+  {
+    "content": "big trade-off here this would be my preferred method for a",
+    "start": 427
+  },
+  {
+    "content": "group of adult gamers who play in a space where the terrain never needs",
+    "start": 430
+  },
+  {
+    "content": "to be transported if you travel with terrain play with",
+    "start": 434
+  },
+  {
+    "content": "strangers who might not handle your pieces carefully",
+    "start": 437
+  },
+  {
+    "content": "or if you game with kids this probably is not the best option for you",
+    "start": 439
+  },
+  {
+    "content": "but if it's looks that matter most this is the best fit",
+    "start": 444
+  },
+  {
+    "content": "now before i demonstrate how to build these docks out of paper",
+    "start": 447
+  },
+  {
+    "content": "i want to take a second to highlight this week's sponsor",
+    "start": 451
+  },
+  {
+    "content": "the dragon trappers lodge is a monthly patreon-based service for getting",
+    "start": 454
+  },
+  {
+    "content": "3d printable miniatures for your tabletop games every single month there",
+    "start": 458
+  },
+  {
+    "content": "is a unique gargantuan scale dragon model",
+    "start": 461
+  },
+  {
+    "content": "as well as the heroes to slay it oh and there's also a mounted creature for your",
+    "start": 464
+  },
+  {
+    "content": "minis to ride on every month which is really neat they",
+    "start": 469
+  },
+  {
+    "content": "all come with cool custom bases and many of the models also come with several",
+    "start": 472
+  },
+  {
+    "content": "different hand and weapon options a nice bonus is that each month",
+    "start": 476
+  },
+  {
+    "content": "they provide 5th edition dungeons and dragon stat blocks for the dragons",
+    "start": 479
+  },
+  {
+    "content": "these models are less focused on generic monsters or hordes and more focused on",
+    "start": 483
+  },
+  {
+    "content": "just really cool characters the models are",
+    "start": 488
+  },
+  {
+    "content": "really flavorful and surprisingly unique which is a difficult thing to do in",
+    "start": 490
+  },
+  {
+    "content": "such a growing market of printable minis these ones really stand out i think it's",
+    "start": 495
+  },
+  {
+    "content": "safe to say they're making some of the most",
+    "start": 499
+  },
+  {
+    "content": "original and fresh miniatures on the market today they're pushing the",
+    "start": 501
+  },
+  {
+    "content": "boundaries of what gaming miniatures look like seriously",
+    "start": 505
+  },
+  {
+    "content": "you can get a rap pirate and a huge shark",
+    "start": 508
+  },
+  {
+    "content": "source model it's awesome they all come as",
+    "start": 510
+  },
+  {
+    "content": "pre-supported files making it drag and drop and",
+    "start": 514
+  },
+  {
+    "content": "really user friendly if you want to get some of these really cool models from",
+    "start": 517
+  },
+  {
+    "content": "december's theme well you want to jump over to their patreon and join up before",
+    "start": 521
+  },
+  {
+    "content": "the month is over i'll put a link in the video description",
+    "start": 525
+  },
+  {
+    "content": "so you can check them out for yourself i know",
+    "start": 527
+  },
+  {
+    "content": "you can't resist this shark asaurus seriously you need this in your life",
+    "start": 529
+  },
+  {
+    "content": "yes you can totally make these docks entirely out of paper products",
+    "start": 539
+  },
+  {
+    "content": "for the frame i'm using medium weight chipboard which is just very",
+    "start": 544
+  },
+  {
+    "content": "dense paper it's basically the same sort of material",
+    "start": 547
+  },
+  {
+    "content": "that's used for matte boards in picture frames you could replace this",
+    "start": 550
+  },
+  {
+    "content": "with thinner cardstock from something like a cereal box if that's all you can",
+    "start": 554
+  },
+  {
+    "content": "get you'll just need to make a few more layers for the frame to make a sturdy",
+    "start": 558
+  },
+  {
+    "content": "frame you want it to be one piece so start by cutting out a two",
+    "start": 561
+  },
+  {
+    "content": "inch by six inch rectangle well actually a couple of them then you want to cut",
+    "start": 565
+  },
+  {
+    "content": "out an inner rectangle leaving a border that's about a quarter inch all the way",
+    "start": 569
+  },
+  {
+    "content": "around you can measure out and draw this with a",
+    "start": 572
+  },
+  {
+    "content": "ruler or just use some mad finger gauging skills if you got them",
+    "start": 574
+  },
+  {
+    "content": "now carefully cut out the inner rectangle ensuring not to over",
+    "start": 578
+  },
+  {
+    "content": "cut and weaken the corners you can then use your first one",
+    "start": 582
+  },
+  {
+    "content": "as a guide to lay out the rest then just glue the layers together now if you're",
+    "start": 586
+  },
+  {
+    "content": "using chipboard type material like i am two layers is enough if you're using",
+    "start": 590
+  },
+  {
+    "content": "thinner material you may need three or four layers in the end the",
+    "start": 594
+  },
+  {
+    "content": "results are going to be the same if you want you can bevel the edges of",
+    "start": 597
+  },
+  {
+    "content": "the paper to make it look a bit more like timber but",
+    "start": 600
+  },
+  {
+    "content": "realistically you won't see much of this frame in the finished",
+    "start": 604
+  },
+  {
+    "content": "product you can make planks out of the same medium weight chipboard material",
+    "start": 607
+  },
+  {
+    "content": "which will be nice and sturdy or again you can absolutely just use thin",
+    "start": 611
+  },
+  {
+    "content": "cardstock from food packaging an easy way to do this is",
+    "start": 615
+  },
+  {
+    "content": "to cut a rectangle of material slightly wider than your frame",
+    "start": 618
+  },
+  {
+    "content": "you can use a knife to score some wood grain lines into it before cutting it if",
+    "start": 622
+  },
+  {
+    "content": "you'd like this effect isn't great but it can help",
+    "start": 625
+  },
+  {
+    "content": "to make it look a little bit less like paper in the end with this",
+    "start": 628
+  },
+  {
+    "content": "material it's best to apply your planks to the frame",
+    "start": 632
+  },
+  {
+    "content": "first and then add your posts and the post is where you need to get a little",
+    "start": 635
+  },
+  {
+    "content": "bit clever with the material you can use basic construction paper to",
+    "start": 639
+  },
+  {
+    "content": "make some decent looking wood posts though",
+    "start": 643
+  },
+  {
+    "content": "simply cut some strips making them as wide as you want your posts to be",
+    "start": 645
+  },
+  {
+    "content": "tall from there you can just roll them up to make logs",
+    "start": 649
+  },
+  {
+    "content": "it helps to dampen the paper a bit with water before applying a",
+    "start": 653
+  },
+  {
+    "content": "thin layer of pva glue then just roll them up until you get the diameter you",
+    "start": 656
+  },
+  {
+    "content": "want and cut off any excess with wet glue soaked sticky fingers you",
+    "start": 660
+  },
+  {
+    "content": "can kind of smush up the outside and sort of hide that paper seam",
+    "start": 665
+  },
+  {
+    "content": "by hydrating the paper and flattening it",
+    "start": 670
+  },
+  {
+    "content": "with your fingers or your fingernail this step sort of burrs up the paper a",
+    "start": 672
+  },
+  {
+    "content": "bit which actually helps to simulate a more rougher wood texture place your",
+    "start": 676
+  },
+  {
+    "content": "planked frame on a scrap bit of foam and just hot glue the posts in place you",
+    "start": 681
+  },
+  {
+    "content": "could use pva as well for this if you aren't in a",
+    "start": 685
+  },
+  {
+    "content": "hurry but using hot glue is going to be a lot faster and if you are going to use",
+    "start": 688
+  },
+  {
+    "content": "hot glue it's really important to make sure that those paper logs are",
+    "start": 691
+  },
+  {
+    "content": "really well dried before attaching them paper is obviously the least realistic",
+    "start": 695
+  },
+  {
+    "content": "looking option here but given its cost and the effort involved",
+    "start": 700
+  },
+  {
+    "content": "it's a pretty great option if that's all you have to work with it's also a very",
+    "start": 704
+  },
+  {
+    "content": "durable option it actually might be more durable than",
+    "start": 708
+  },
+  {
+    "content": "wood in a lot of cases as it wouldn't shatter",
+    "start": 711
+  },
+  {
+    "content": "at the joint if you were to say drop it on the floor and the paper stays a",
+    "start": 714
+  },
+  {
+    "content": "little bit flexible this is definitely the best option for",
+    "start": 718
+  },
+  {
+    "content": "gaming with young kids if that's your situation",
+    "start": 721
+  },
+  {
+    "content": "especially since they won't mind the less realistic",
+    "start": 724
+  },
+  {
+    "content": "look and there you go the same basic idea made with three totally different",
+    "start": 727
+  },
+  {
+    "content": "materials i should mention that with the foam and the paper before",
+    "start": 731
+  },
+  {
+    "content": "painting you're going to want to put on a coat of mod podge or watered down pva",
+    "start": 735
+  },
+  {
+    "content": "glue to harden it up and make it a little bit",
+    "start": 739
+  },
+  {
+    "content": "more durable i think each of these materials has pros and",
+    "start": 741
+  },
+  {
+    "content": "cons and the best option depends on what you prioritize",
+    "start": 744
+  },
+  {
+    "content": "your choice might be made for you by your own limitations when it comes to",
+    "start": 749
+  },
+  {
+    "content": "tools or materials but if you have access to all of them you can really",
+    "start": 753
+  },
+  {
+    "content": "just pick what looks the best or what best suits",
+    "start": 756
+  },
+  {
+    "content": "your gaming habits or simply what option you would find the",
+    "start": 759
+  },
+  {
+    "content": "most enjoyable to make in bulk and make sure to give that aspect good",
+    "start": 763
+  },
+  {
+    "content": "consideration if you plan on making a bunch of these it's pretty important to",
+    "start": 766
+  },
+  {
+    "content": "know which one you're going to enjoy doing the most",
+    "start": 770
+  },
+  {
+    "content": "over and over again of course you could also mix elements from all three to",
+    "start": 773
+  },
+  {
+    "content": "create the perfect option for you personally i like the idea of the foam",
+    "start": 777
+  },
+  {
+    "content": "planks visually but would prefer a wood frame for",
+    "start": 781
+  },
+  {
+    "content": "durability there's nothing saying you can't combine them",
+    "start": 784
+  },
+  {
+    "content": "well i hope you guys enjoyed this week's video and",
+    "start": 787
+  },
+  {
+    "content": "i really hope it inspired you to realize that whatever your limitations",
+    "start": 790
+  },
+  {
+    "content": "may be if you can't get foam where you live very easily if you",
+    "start": 797
+  },
+  {
+    "content": "can't afford a hot wire table if for some reason you can't get wood",
+    "start": 800
+  },
+  {
+    "content": "all you have is paper that it doesn't really matter that a lot of projects",
+    "start": 803
+  },
+  {
+    "content": "can be made with a variety of different materials you just",
+    "start": 807
+  },
+  {
+    "content": "got to get a little resourceful and you know",
+    "start": 810
+  },
+  {
+    "content": "don't limit yourself saying well i can't do this because i don't have x",
+    "start": 814
+  },
+  {
+    "content": "just build it with whatever you got if you enjoyed this video and i hope that",
+    "start": 818
+  },
+  {
+    "content": "you did hit the like button let me know in the comments",
+    "start": 822
+  },
+  {
+    "content": "section below share it with your friends share it in your favorite hobby group",
+    "start": 824
+  },
+  {
+    "content": "and if you do want to pick up some tools or supplies or whatever to you know give",
+    "start": 829
+  },
+  {
+    "content": "you more options to build and you want to help out the channel in the process",
+    "start": 833
+  },
+  {
+    "content": "you can do so by visiting blackmagicraft.ca there i have my",
+    "start": 837
+  },
+  {
+    "content": "essential equipment page which is a great resource for explaining all the",
+    "start": 841
+  },
+  {
+    "content": "stuff that i use regularly and you can buy it through the links and",
+    "start": 844
+  },
+  {
+    "content": "that helps fund the production of videos like this",
+    "start": 847
+  },
+  {
+    "content": "but there's an even better way you can help fund this channel and help me keep",
+    "start": 849
+  },
+  {
+    "content": "living my dream doing this and providing videos for the community every week and",
+    "start": 853
+  },
+  {
+    "content": "that is by supporting the channel on patreon that support cannot be",
+    "start": 857
+  },
+  {
+    "content": "underestimated thank you to all of my current and past and future",
+    "start": 861
+  },
+  {
+    "content": "patrons i would love to have you as the newest",
+    "start": 865
+  },
+  {
+    "content": "member of the blackmagic craft fellowship",
+    "start": 868
+  },
+  {
+    "content": "that's it for this week guys cheers i'll see you again",
+    "start": 870
+  },
+  {
+    "content": "next week",
+    "start": 873
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "content": "Oh hi there why lock here welcome back it",
+    "start": 0
+  },
+  {
+    "content": "is perhaps the ultimate in nerdism to take Magic the Gathering Dungeons &",
+    "start": 35
+  },
+  {
+    "content": "Dragons and somehow join them together I first read about this when I was like 12",
+    "start": 41
+  },
+  {
+    "content": "years old and reading in quest magazine back in 1998 or something like that of",
+    "start": 46
+  },
+  {
+    "content": "course only second edition was out then but here's some ideas on how you might",
+    "start": 51
+  },
+  {
+    "content": "use Magic the Gathering in your Dungeons & Dragons fifth edition game long have",
+    "start": 54
+  },
+  {
+    "content": "geeks contemplated and devised systems for converting magic the gathering",
+    "start": 61
+  },
+  {
+    "content": "content into Dungeons & Dragons compatible material I've seen formulas",
+    "start": 64
+  },
+  {
+    "content": "that rely on creature casting costs power and toughness ratios and",
+    "start": 70
+  },
+  {
+    "content": "correction factors to adjust what the word damage actually means and",
+    "start": 74
+  },
+  {
+    "content": "everything else in between with D&D 5th edition and the return to focus on",
+    "start": 78
+  },
+  {
+    "content": "qualitative rules as opposed to quantitative rules",
+    "start": 83
+  },
+  {
+    "content": "I think Magic the Gathering cards are a goldmine for the DM who wants to",
+    "start": 86
+  },
+  {
+    "content": "homebrew if you do not homebrew because you find yourself unable to come up with",
+    "start": 90
+  },
+  {
+    "content": "interesting ideas then this video is for you I'll show you how I use less than 10",
+    "start": 95
+  },
+  {
+    "content": "cards to develop an entire miner campaign setting and all its unique",
+    "start": 100
+  },
+  {
+    "content": "elements so to be clear this is not a rules adaptation where you'll be using",
+    "start": 104
+  },
+  {
+    "content": "cards at the D&D table other than maybe to show artwork rather this is an",
+    "start": 109
+  },
+  {
+    "content": "example of how to craft a world from the ground up without having to do much of",
+    "start": 114
+  },
+  {
+    "content": "any creative brainstorming so pull out your collection from under the bed or go",
+    "start": 118
+  },
+  {
+    "content": "buy a booster pack or use one of the many online draft simulators I'll be",
+    "start": 124
+  },
+  {
+    "content": "using gatherer which is the official card database of Wizards of the coast",
+    "start": 129
+  },
+  {
+    "content": "before we dive right into it a brief note on the schools of magic white is",
+    "start": 134
+  },
+  {
+    "content": "equated to abjuration blue to illusion black to necromancy red to evoke Asian",
+    "start": 139
+  },
+  {
+    "content": "and green to transmutation this leaves three unaccounted for",
+    "start": 147
+  },
+  {
+    "content": "conjuration divination and enchantment well Magic the Gathering itself is fully",
+    "start": 153
+  },
+  {
+    "content": "centered around conjuration of creatures so it's equally applicable to all five",
+    "start": 158
+  },
+  {
+    "content": "colors and therefore not specific to any divination and enchantment as read from",
+    "start": 162
+  },
+  {
+    "content": "The Player's Handbook arguably fit also with blue but for sake of consistency I",
+    "start": 167
+  },
+  {
+    "content": "chose illusion as the closest match the usage of these equivalencies is pretty",
+    "start": 172
+  },
+  {
+    "content": "uncommon anyways now let's go build a campaign now let's suppose we want to",
+    "start": 177
+  },
+  {
+    "content": "come up with a setting for our adventure so we'll go to the advanced search and",
+    "start": 182
+  },
+  {
+    "content": "we're gonna set the type to land and we're going to set the rarity to rare",
+    "start": 186
+  },
+  {
+    "content": "because we only want things that are interesting or harder-hitting so we'll",
+    "start": 191
+  },
+  {
+    "content": "do a search and we'll we'll go ahead and nab say the first two results pull those",
+    "start": 196
+  },
+  {
+    "content": "up and then let's search for another legendary how about this one right here",
+    "start": 202
+  },
+  {
+    "content": "and then let's just scroll down randomly and try and find another land of any",
+    "start": 207
+  },
+  {
+    "content": "sort this looks good all right so what we pull first Academy",
+    "start": 213
+  },
+  {
+    "content": "ruins I like to start with the flavor text so it says its secrets once brought",
+    "start": 219
+  },
+  {
+    "content": "the greatest artifice ever known now crabs loot the rubble to decorate",
+    "start": 224
+  },
+  {
+    "content": "their shells alright so this was an Academy probably a place that wasn't",
+    "start": 229
+  },
+  {
+    "content": "evil in nature but something bad has befallen it and now it's ruined and",
+    "start": 233
+  },
+  {
+    "content": "drowned alright so the cards abilities add one new narrative mana pool while",
+    "start": 238
+  },
+  {
+    "content": "all lands produced mana in magic so there's not much there I'm going to",
+    "start": 244
+  },
+  {
+    "content": "ignore that but the second ability put target artifact card from graveyard on",
+    "start": 247
+  },
+  {
+    "content": "top of library alright so what I'm thinking here is that despite the",
+    "start": 251
+  },
+  {
+    "content": "destruction and drowning of this place there was something special hidden in",
+    "start": 256
+  },
+  {
+    "content": "the remains something really magical really powerful so I'm thinking a scene",
+    "start": 261
+  },
+  {
+    "content": "underwater will be in order somehow to possibly retrieve that item",
+    "start": 266
+  },
+  {
+    "content": "alright what else did we pull the at our car wastes alright again one manna to",
+    "start": 272
+  },
+  {
+    "content": "your manna pool doesn't do much and ignore that but it's other ability add",
+    "start": 278
+  },
+  {
+    "content": "white or blue to your mana pool the dark art wastes deals one damage to you all",
+    "start": 282
+  },
+  {
+    "content": "right so one hit point of damage doesn't really mean anything in D&D not even",
+    "start": 288
+  },
+  {
+    "content": "worth tracking doesn't offer much flavor but the essence of what this is getting",
+    "start": 292
+  },
+  {
+    "content": "at is when you use that type of magic there's some kind of adverse impact",
+    "start": 296
+  },
+  {
+    "content": "maybe it's a chance of spell failure these are wastes after all so it's a",
+    "start": 300
+  },
+  {
+    "content": "desolate place actually I see water in the artwork so maybe the Academy ruins",
+    "start": 305
+  },
+  {
+    "content": "are somewhere here in the wastes deep under water and actually now that I",
+    "start": 312
+  },
+  {
+    "content": "think about it what if the people at the academy missed cast something long ago",
+    "start": 317
+  },
+  {
+    "content": "or dabbled in magic that was way over their head and it went wrong and it",
+    "start": 321
+  },
+  {
+    "content": "caused a local Cataclysm and so it used to be a lush area is now the Adar car",
+    "start": 325
+  },
+  {
+    "content": "wastes okay so the magical afterglow of",
+    "start": 331
+  },
+  {
+    "content": "whatever that disaster was persists even today and so anyone who attempts to cast",
+    "start": 334
+  },
+  {
+    "content": "an illusion or abjuration spell while in the wastes gains two levels of",
+    "start": 340
+  },
+  {
+    "content": "exhaustion that's an easy rule to remember it captures the flavor of the",
+    "start": 346
+  },
+  {
+    "content": "card and it'll make the downtime wilderness travelling much more",
+    "start": 350
+  },
+  {
+    "content": "interesting as well both saya Juhu shelters all",
+    "start": 353
+  },
+  {
+    "content": "alright the art is very evocative this is a massive tree there are trees and",
+    "start": 360
+  },
+  {
+    "content": "the Adar car wastes so let's assume that this is the second notable location on",
+    "start": 365
+  },
+  {
+    "content": "our regional map with the first being the Drowned Academy ruins all right so",
+    "start": 370
+  },
+  {
+    "content": "the ability enters about a field tapped I can't think of anything there all",
+    "start": 375
+  },
+  {
+    "content": "right pay to life had managed to your mana pool if that mana is spent on an",
+    "start": 379
+  },
+  {
+    "content": "instant or sorcery that spell can't be countered all right right away I'm",
+    "start": 384
+  },
+  {
+    "content": "thinking that can't be countered in D&D simply means that all resistances and",
+    "start": 388
+  },
+  {
+    "content": "immunities to all magic not just damage but charm sleep that kind of stuff all",
+    "start": 393
+  },
+  {
+    "content": "those are ignored the aura of this tree just shelters all and levels the playing",
+    "start": 399
+  },
+  {
+    "content": "field but this is activated so the benefit is optional so maybe in order to",
+    "start": 404
+  },
+  {
+    "content": "enjoy the benefit you've got to donate some of your lifeforce",
+    "start": 409
+  },
+  {
+    "content": "to the tree and maybe that's what keeps it alive and thriving despite being in",
+    "start": 412
+  },
+  {
+    "content": "the wastes so if you want to cast a spell or use a magic item or basically",
+    "start": 417
+  },
+  {
+    "content": "do anything that will have a magical impact on your turn you have the option",
+    "start": 421
+  },
+  {
+    "content": "when you're taking your action at that moment to also say I'll sacrifice two",
+    "start": 425
+  },
+  {
+    "content": "points of constitution to activate this ability all right so now you've got a",
+    "start": 431
+  },
+  {
+    "content": "lower Constitution we'll treat this condition as a disease that cannot",
+    "start": 437
+  },
+  {
+    "content": "spread but otherwise is just a disease so it can be cured B of the usual means",
+    "start": 441
+  },
+  {
+    "content": "like lesser restoration of course lesser restoration is an AB duration spell and",
+    "start": 445
+  },
+  {
+    "content": "we know what happens in the dark are wastes when you cast an AB duration",
+    "start": 451
+  },
+  {
+    "content": "spell guilt leaf palace okay right away I'm",
+    "start": 454
+  },
+  {
+    "content": "looking at the art and our bow say a Jew tree fits right in okay so this elven",
+    "start": 464
+  },
+  {
+    "content": "palace was raised around the great paseo Jew tree in the Adar car wastes all",
+    "start": 469
+  },
+  {
+    "content": "right flavor text Dawn's light greatest Palace of guilt leaf wood is built on",
+    "start": 474
+  },
+  {
+    "content": "tears of wood and power all right we'll keep that in mind when I see built on",
+    "start": 480
+  },
+  {
+    "content": "power I think politics first ability as it comes into play you may reveal on elf",
+    "start": 485
+  },
+  {
+    "content": "if you don't it comes into play tapped alright I'm going to translate this to",
+    "start": 491
+  },
+  {
+    "content": "D&D as the palace and its inhabitants will be hostile to any Outsiders unless",
+    "start": 496
+  },
+  {
+    "content": "those Outsiders include an elf let's say a wood elf because this is after all the",
+    "start": 502
+  },
+  {
+    "content": "gilt leaf palace alright so if the party doesn't have a wood elf amongst their",
+    "start": 508
+  },
+  {
+    "content": "ranks then they're going to be met either hostly",
+    "start": 512
+  },
+  {
+    "content": "or at least not in a friendly manner may be taken captive all right and the",
+    "start": 516
+  },
+  {
+    "content": "second ability add manna to your manna pool so we already know that these",
+    "start": 520
+  },
+  {
+    "content": "aren't the friendliest of elves but maybe they also dabble in some",
+    "start": 525
+  },
+  {
+    "content": "necromancy because I see at black or green so maybe they're not necessarily",
+    "start": 529
+  },
+  {
+    "content": "evil but entertaining a bit of the dark side and maybe that's controversial",
+    "start": 534
+  },
+  {
+    "content": "maybe there's a political or religious tension around the palace right now",
+    "start": 539
+  },
+  {
+    "content": "because of it actually when I revisit the flavor text that kind of fits so",
+    "start": 543
+  },
+  {
+    "content": "there's a power struggle going on over what's right okay so I got a subplot",
+    "start": 547
+  },
+  {
+    "content": "idea there all right so we've got a good setting",
+    "start": 551
+  },
+  {
+    "content": "laid out here some plot ideas let's home brew up some magic items now",
+    "start": 557
+  },
+  {
+    "content": "and make our campaign a little more interesting",
+    "start": 561
+  },
+  {
+    "content": "so we'll again we'll go to gatherer we're gonna search for the type artifact",
+    "start": 564
+  },
+  {
+    "content": "and we're also going to search or not creature we don't want artifact",
+    "start": 568
+  },
+  {
+    "content": "creatures we're gonna find some inspiration for magic items here so",
+    "start": 572
+  },
+  {
+    "content": "we'll do a search and let's just let's go ahead and pop the the first three",
+    "start": 577
+  },
+  {
+    "content": "that showed up and we'll draw inspiration from these what's up the",
+    "start": 583
+  },
+  {
+    "content": "first abzan banner okay so I see tap to add white black or green to mana pool",
+    "start": 589
+  },
+  {
+    "content": "well two of those colors match the concentrations of guilt leaf Palace so",
+    "start": 597
+  },
+  {
+    "content": "let's say right off the bat that this banner was made by that enclave of wood",
+    "start": 602
+  },
+  {
+    "content": "elves now let's look at the flavor text stone to indoor roots to remember that",
+    "start": 606
+  },
+  {
+    "content": "kind of fits trees have roots in fact maybe to activate this magic item",
+    "start": 613
+  },
+  {
+    "content": "there's a voice-activated phrase and this would be the one it's something to",
+    "start": 617
+  },
+  {
+    "content": "think about now back to the ability adding manage of the mana pool with a",
+    "start": 621
+  },
+  {
+    "content": "second option to sacrifice the banner and draw a card here's how I'll",
+    "start": 627
+  },
+  {
+    "content": "translate this it's a wondrous item requiring",
+    "start": 631
+  },
+  {
+    "content": "attunement whoever is carrying it gains one additional spell slot per day of up",
+    "start": 634
+  },
+  {
+    "content": "to third level but that slot can only be used to cast an AB duration necromancy",
+    "start": 641
+  },
+  {
+    "content": "or transmutation spell that is on their class list and just prior to casting",
+    "start": 647
+  },
+  {
+    "content": "that spell they must shout out the battlecry stone - and your roots -",
+    "start": 652
+  },
+  {
+    "content": "remember a Quarters shield let's check out the",
+    "start": 657
+  },
+  {
+    "content": "flavor text first a noriaki shield is polished to a mirror finish even on the",
+    "start": 666
+  },
+  {
+    "content": "inside enabling its bearer to watch foes ahead and behind boom don't need to go",
+    "start": 671
+  },
+  {
+    "content": "any further cannot be flanked cannot be dealt sneak attack damage now you look",
+    "start": 677
+  },
+  {
+    "content": "at the abilities and equip creature gets plus zero plus three and you might think",
+    "start": 682
+  },
+  {
+    "content": "well could it be a shield plus three but remember in D&D 5th edition a plus 3",
+    "start": 686
+  },
+  {
+    "content": "item is now an epic or legendary even artifact type of item plus 3 means a lot",
+    "start": 691
+  },
+  {
+    "content": "and remember we're not trying to do total conversion of the cards there is",
+    "start": 697
+  },
+  {
+    "content": "no formula that works for converting Magic the Gathering stats to D&D stats",
+    "start": 700
+  },
+  {
+    "content": "that's not what we're trying to do we're trying to draw inspiration from these",
+    "start": 705
+  },
+  {
+    "content": "cards and I think this flavor text did all the work for us what's next",
+    "start": 709
+  },
+  {
+    "content": "acidic dagger from Mirage so the ability pay and tap to destroy any creature that",
+    "start": 718
+  },
+  {
+    "content": "receives combat damage from target creature this turn so normally you would",
+    "start": 724
+  },
+  {
+    "content": "target one of your own creatures if targeted creature leaves play very",
+    "start": 728
+  },
+  {
+    "content": "acidic dagger use this ability only before defense is chosen all right so",
+    "start": 732
+  },
+  {
+    "content": "it's not a consumable item but it's got a vulnerability it's in looks like its",
+    "start": 737
+  },
+  {
+    "content": "intended to wipe out whatever it touches no matter how big which kind of sounds",
+    "start": 742
+  },
+  {
+    "content": "more like poison to me but we'll try and stay true to the original flavor which",
+    "start": 746
+  },
+  {
+    "content": "is acid so let's make it a dagger plus one let's make it require attunement",
+    "start": 750
+  },
+  {
+    "content": "because you have to target the creature in the card so yeah we'll make it",
+    "start": 756
+  },
+  {
+    "content": "require a tune mint and we'll say if it injures a creature then that creature",
+    "start": 760
+  },
+  {
+    "content": "takes an additional 1 d6 acid damage plus 1 d6 acid damage every turn",
+    "start": 765
+  },
+  {
+    "content": "thereafter until let's say until another creature is struck by the dagger and",
+    "start": 771
+  },
+  {
+    "content": "then lastly we'll say if the wielder falls in combat remember he's attuned so",
+    "start": 777
+  },
+  {
+    "content": "if he falls in combat the dagger instantly dissolves into a puddle",
+    "start": 783
+  },
+  {
+    "content": "and let's see what's what's a famous okay melts Asadero",
+    "start": 787
+  },
+  {
+    "content": "so let's call this item melts fleeting Dirk how about that let's look at some",
+    "start": 793
+  },
+  {
+    "content": "non player characters so we'll go back to gatherer do an advanced search and",
+    "start": 801
+  },
+  {
+    "content": "we'll search for creature and we'll do an and and also look for legendary so we",
+    "start": 806
+  },
+  {
+    "content": "only want legendary creatures okay we'll do the search and once again let's just",
+    "start": 812
+  },
+  {
+    "content": "you know for sake of example look at the first three results abortion the",
+    "start": 818
+  },
+  {
+    "content": "cephalad emperor ok abortion says no one can fight the tide forever so it looks",
+    "start": 825
+  },
+  {
+    "content": "like he lives underwater which is a perfect fit for the Adar car wastes so I",
+    "start": 832
+  },
+  {
+    "content": "can already envision an underwater cephalad lair somewhere so let's add a",
+    "start": 836
+  },
+  {
+    "content": "location to our regional map I'm gonna make a gut call from the flavor text",
+    "start": 840
+  },
+  {
+    "content": "that this guy is probably an antagonist of some sort and maybe even had a hand",
+    "start": 844
+  },
+  {
+    "content": "in the Cataclysm we described earlier so his abilities tap an untapped",
+    "start": 849
+  },
+  {
+    "content": "cephalad to tap target permanent and pay three blue to tap all creatures without",
+    "start": 854
+  },
+  {
+    "content": "flying awesome alright so inevitably there's going to be a showdown with this",
+    "start": 860
+  },
+  {
+    "content": "guy and it won't be a one-on-one fight I'll have lots of his cephalad thralls",
+    "start": 864
+  },
+  {
+    "content": "around him so we'll give him a special ability so he can as an action cast hold",
+    "start": 868
+  },
+  {
+    "content": "person on one of those thralls with no save and simultaneously cast hold person",
+    "start": 875
+  },
+  {
+    "content": "on a PC or maybe he could cast confusion I'm not sure but the key is he must have",
+    "start": 880
+  },
+  {
+    "content": "a cephalic nearby that cephalad gets no save and this whole thing is a spell",
+    "start": 886
+  },
+  {
+    "content": "like ability it is not casting a spell or two spells for that matter so we have",
+    "start": 891
+  },
+  {
+    "content": "our villain a tomorrow first to desire now this guy",
+    "start": 897
+  },
+  {
+    "content": "is weird I've got to use this artwork ability power and toughness are each",
+    "start": 904
+  },
+  {
+    "content": "equal to the number of cards in the hand of the opponent with the most cards in",
+    "start": 909
+  },
+  {
+    "content": "hand all right here's what I've got for this his hip",
+    "start": 913
+  },
+  {
+    "content": "points are equal to the highest number of unspent to spell slots among the PCs",
+    "start": 917
+  },
+  {
+    "content": "whoever has the most left that's the number that his hip points are at any",
+    "start": 922
+  },
+  {
+    "content": "given time when attacking if he hits there is no damage role he deals a",
+    "start": 927
+  },
+  {
+    "content": "static amount of damage and it's equal to his current hit points now this could",
+    "start": 932
+  },
+  {
+    "content": "be a fun puzzle for the PCs since he's a spirit let's make him immune to all",
+    "start": 937
+  },
+  {
+    "content": "damage and all magic his static damage should provide a good clue as to how to",
+    "start": 942
+  },
+  {
+    "content": "defeat it everyone just cast spells at abandoned",
+    "start": 947
+  },
+  {
+    "content": "until all their slots are gone at which point Adam ro goes to zero hit",
+    "start": 950
+  },
+  {
+    "content": "points and vanishes from existence let's consider the flavor textu beware a",
+    "start": 954
+  },
+  {
+    "content": "tomorrow in him all pain and anger is perfected all right let's make his",
+    "start": 959
+  },
+  {
+    "content": "damage necrotic a Doon Oakenshield I can already tell",
+    "start": 965
+  },
+  {
+    "content": "this guy's gonna be a tag-along NPC for the party the errata for this card says",
+    "start": 976
+  },
+  {
+    "content": "he's a human but let's make him an elf in fact let's make him one of the",
+    "start": 980
+  },
+  {
+    "content": "leaders at the guilt League palace ok flavor text and that his passing the",
+    "start": 984
+  },
+  {
+    "content": "bodies of the world's great warrior shall rise from their graves and follow",
+    "start": 989
+  },
+  {
+    "content": "him to battle and the ablity kind of backs that up something in this guy is",
+    "start": 993
+  },
+  {
+    "content": "one of their champions I would roll him up as a mid to high level paladin and",
+    "start": 998
+  },
+  {
+    "content": "give him a once per day special ability to cast Ray's dead",
+    "start": 1003
+  },
+  {
+    "content": "maybe he carries the ik orders shield from earlier and will ultimately donate",
+    "start": 1007
+  },
+  {
+    "content": "it to the players so there you go several sessions worth of content from",
+    "start": 1012
+  },
+  {
+    "content": "only 10 Magic the Gathering cards I have a few more ideas but at this point I've",
+    "start": 1017
+  },
+  {
+    "content": "gone on long enough so maybe we'll revisit in the future so I'm why Locke",
+    "start": 1021
+  },
+  {
+    "content": "thank you for joining me I'll see you next time",
+    "start": 1025
+  },
+  {
+    "content": "Oh",
+    "start": 1030
+  }
+]

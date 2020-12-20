@@ -1,0 +1,1162 @@
+[
+  {
+    "content": "when you want to do lighting in your terrain the go-to is to scavenge from",
+    "start": 0
+  },
+  {
+    "content": "tealights right and most of the time that's fine usually you can find",
+    "start": 6
+  },
+  {
+    "content": "multiple colors or whatever but sometimes you can you're also limited by",
+    "start": 11
+  },
+  {
+    "content": "the size of the components so a little bit there you have your restricted by",
+    "start": 16
+  },
+  {
+    "content": "what you're able to find I'm going to show you how to design your own circuits",
+    "start": 21
+  },
+  {
+    "content": "and build your own custom lighting rigs I'm going to teach you a little bit",
+    "start": 25
+  },
+  {
+    "content": "about electrical theory as long as you know basic algebra you'll be able to",
+    "start": 31
+  },
+  {
+    "content": "follow this I promise so you'll learn that you'll be able to",
+    "start": 34
+  },
+  {
+    "content": "design your own circuits within an hour or two and then I'm going to show you",
+    "start": 38
+  },
+  {
+    "content": "how to use the digit key website digi-key is one of several excellent",
+    "start": 41
+  },
+  {
+    "content": "online suppliers of components I'm going to show you how to go in and search for",
+    "start": 46
+  },
+  {
+    "content": "the right part it can be daunting if you don't know what you're doing because",
+    "start": 51
+  },
+  {
+    "content": "there's literally hundreds of thousands of parts in inventory so I'm gonna show",
+    "start": 53
+  },
+  {
+    "content": "you how to whittle down and know what you're looking for know what's important",
+    "start": 57
+  },
+  {
+    "content": "and what's not and show you how to design source your parts and solder up",
+    "start": 61
+  },
+  {
+    "content": "your own custom lighting very excited about this episode I've been working on",
+    "start": 67
+  },
+  {
+    "content": "it for about eight months now an engineer by background so very excited",
+    "start": 71
+  },
+  {
+    "content": "about it let's get to it",
+    "start": 79
+  },
+  {
+    "content": "we begin with the fundamental equation that voltage equals current times",
+    "start": 97
+  },
+  {
+    "content": "resistance this is called Ohm's law voltage represented by V is a",
+    "start": 101
+  },
+  {
+    "content": "measurement of electrical potential between two points the higher the",
+    "start": 108
+  },
+  {
+    "content": "voltage between two points the greater the difference in charge between those",
+    "start": 112
+  },
+  {
+    "content": "two points as an analogy consider a glass of water if you drill a hole at",
+    "start": 115
+  },
+  {
+    "content": "the bottom you'll get a stream of water coming out but if we've make that glass",
+    "start": 120
+  },
+  {
+    "content": "50 feet tall fill it up and drill the same hole in the same spot you'll get a",
+    "start": 125
+  },
+  {
+    "content": "much higher flow rate but before the holes are drilled the water is just",
+    "start": 131
+  },
+  {
+    "content": "sitting there in either case so for this analogy the",
+    "start": 135
+  },
+  {
+    "content": "very tall glass has a higher voltage a higher potential so voltage is how we",
+    "start": 138
+  },
+  {
+    "content": "quantify potential and it has units of volts current represented by I is a",
+    "start": 144
+  },
+  {
+    "content": "measurement of actual electric flow back to our analogy the water flow from the",
+    "start": 151
+  },
+  {
+    "content": "first glass would be a fairly low current the water flow from the very",
+    "start": 156
+  },
+  {
+    "content": "tall glass would be a high current current is how we quantify the flow of",
+    "start": 160
+  },
+  {
+    "content": "electricity itself and it has units of amperes resistance represented by R is a",
+    "start": 165
+  },
+  {
+    "content": "measurement of the opposition to the flow of electricity again to our analogy",
+    "start": 173
+  },
+  {
+    "content": "we drilled a hole in the glass right but what if we drilled a larger hole well",
+    "start": 177
+  },
+  {
+    "content": "over any given time more water would be flowing than if it were a smaller hole",
+    "start": 183
+  },
+  {
+    "content": "and that's true for the normal glass and the very tall glass so resistance is how",
+    "start": 187
+  },
+  {
+    "content": "we quantify the opposition to the flow of electricity and it has units of ohms",
+    "start": 191
+  },
+  {
+    "content": "so here's a basic circuit about as basic as you can get it has a voltage source",
+    "start": 198
+  },
+  {
+    "content": "in this case a 9-volt battery and it has a switch which right now is open if we",
+    "start": 203
+  },
+  {
+    "content": "close the switch electric current will begin to flow in the direction you see",
+    "start": 209
+  },
+  {
+    "content": "here from the positive terminal of the source to the negative terminal of the",
+    "start": 213
+  },
+  {
+    "content": "source but how much current well right now the circuit has no devices in it it",
+    "start": 216
+  },
+  {
+    "content": "has no resistance so if we apply Ohm's law 9 divided by zero gives us infinity",
+    "start": 221
+  },
+  {
+    "content": "of course there isn't infinite current all",
+    "start": 226
+  },
+  {
+    "content": "materials including the wire in the circuit have some amount of electric",
+    "start": 229
+  },
+  {
+    "content": "resistance but in a common wire it's near zero it's negligible so the point",
+    "start": 233
+  },
+  {
+    "content": "is with nothing to resist the current this battery it's gonna max out we call",
+    "start": 238
+  },
+  {
+    "content": "this a short circuit because it has no loads it usually means some portion of",
+    "start": 242
+  },
+  {
+    "content": "the circuit is going to be damaged so we can put devices in our circuit to",
+    "start": 247
+  },
+  {
+    "content": "receive the power and offer resistance the very simplest one is called a",
+    "start": 251
+  },
+  {
+    "content": "resistor here's what a common resistor looks like notice that it has two leads",
+    "start": 256
+  },
+  {
+    "content": "on it which you would use to solder it in place",
+    "start": 260
+  },
+  {
+    "content": "resistors do not have polarity so you can attach them either way let's insert",
+    "start": 263
+  },
+  {
+    "content": "a 40 ohm resistor into our circuit now we have a controlled current nine volts",
+    "start": 268
+  },
+  {
+    "content": "divided by 40 ohms equals 0.2 - five amps or 225 milliamps but what if we",
+    "start": 274
+  },
+  {
+    "content": "create another link in the circuit like this with 45 ohm resistor this",
+    "start": 281
+  },
+  {
+    "content": "arrangement is called in parallel in a parallel circuit the voltage across each",
+    "start": 287
+  },
+  {
+    "content": "branch is the same in other words between the two blue points you have a",
+    "start": 292
+  },
+  {
+    "content": "difference of nine volts and between the two red points you also have a",
+    "start": 296
+  },
+  {
+    "content": "difference of nine volts this makes calculating the behavior of",
+    "start": 300
+  },
+  {
+    "content": "each branch very easy the current of the new branch is nine divided by 45 which",
+    "start": 304
+  },
+  {
+    "content": "is 200 milliamps that means that the total current for the entire circuit is",
+    "start": 309
+  },
+  {
+    "content": "225 plus 200 which is 425 milliamps the more current there is the shorter the",
+    "start": 314
+  },
+  {
+    "content": "battery life now here's those two resistors again but arranged in series",
+    "start": 321
+  },
+  {
+    "content": "instead of parallel the math governing a series circuit is different than a",
+    "start": 326
+  },
+  {
+    "content": "parallel circuit I'm not going to go into it because we're not going to use",
+    "start": 331
+  },
+  {
+    "content": "it for our custom lighting and I wanted to keep this tutorial as simple and",
+    "start": 335
+  },
+  {
+    "content": "focused as possible but if you're interested just google something like",
+    "start": 339
+  },
+  {
+    "content": "series versus parallel circuits now let's add some devices to our",
+    "start": 342
+  },
+  {
+    "content": "circuit specifically LEDs an LED is a light emitting diode which means that it",
+    "start": 348
+  },
+  {
+    "content": "only permits current to flow in one direction in other words they do have",
+    "start": 355
+  },
+  {
+    "content": "polarity and so they do need to be soldered into the circuit in the correct",
+    "start": 359
+  },
+  {
+    "content": "orientation they also have a zero or near zero resistance",
+    "start": 363
+  },
+  {
+    "content": "so as we calculate our circuits overall current we don't need to care about them",
+    "start": 367
+  },
+  {
+    "content": "however LEDs are interesting in that they do require a certain amount of",
+    "start": 371
+  },
+  {
+    "content": "voltage to begin emitting light which is called the forward voltage",
+    "start": 375
+  },
+  {
+    "content": "I'm not going to delve into detail here as to what this is because you don't",
+    "start": 379
+  },
+  {
+    "content": "really need to understand it to be able to build these simple circuits but let's",
+    "start": 383
+  },
+  {
+    "content": "simply say that LEDs sort of leach some of the voltage in order to gather enough",
+    "start": 386
+  },
+  {
+    "content": "power to actually begin lighting up and the amount leached is called the forward",
+    "start": 392
+  },
+  {
+    "content": "voltage so when you use Ohm's law to calculate the current going through an",
+    "start": 396
+  },
+  {
+    "content": "LED you need to adjust the V term specifically you need to subtract the",
+    "start": 401
+  },
+  {
+    "content": "forward voltage from the source voltage the result is what the LED will actually",
+    "start": 405
+  },
+  {
+    "content": "experience we're going to step through that mathematically later on",
+    "start": 410
+  },
+  {
+    "content": "step-by-step but for now just remember that the forward voltage of the LED is",
+    "start": 414
+  },
+  {
+    "content": "an important thing so where do we begin well first consider the type of project",
+    "start": 419
+  },
+  {
+    "content": "you're doing if for example it's a torch in the sconce",
+    "start": 425
+  },
+  {
+    "content": "well then a nine volt battery is office we're not going to work you'd need a",
+    "start": 429
+  },
+  {
+    "content": "small coin battery that can be hidden easily perhaps in the circular base of",
+    "start": 432
+  },
+  {
+    "content": "the Scott's but if you're doing a large set piece that'll have dozens of LEDs",
+    "start": 436
+  },
+  {
+    "content": "then you probably want to spring for a nine volt because chances are if you're",
+    "start": 440
+  },
+  {
+    "content": "doing a piece that big there's probably someplace in the piece that you can hide",
+    "start": 445
+  },
+  {
+    "content": "the battery so I know I'm only going to power two LEDs simple a small coin",
+    "start": 448
+  },
+  {
+    "content": "battery should do so I'm gonna go to digikey.com and select battery products",
+    "start": 455
+  },
+  {
+    "content": "from the main menu and then click the search button",
+    "start": 461
+  },
+  {
+    "content": "from here I want batteries non-rechargeable and now I begin to",
+    "start": 464
+  },
+  {
+    "content": "filter for what I want now I know that I don't need a lot of voltage so I'm gonna",
+    "start": 468
+  },
+  {
+    "content": "start by looking only at three volt batteries that's what a typical coin",
+    "start": 473
+  },
+  {
+    "content": "battery is I just happen to know that well let's see what other information do",
+    "start": 477
+  },
+  {
+    "content": "I know to help whittle down my search well I know I want an active part",
+    "start": 481
+  },
+  {
+    "content": "something that is still made and not obsolete so I'll go ahead and apply that",
+    "start": 485
+  },
+  {
+    "content": "filter and I know I want a plain old coin battery nothing attached to it so",
+    "start": 488
+  },
+  {
+    "content": "I'll select requires holder from the termination style now I know that this",
+    "start": 493
+  },
+  {
+    "content": "battery is going to be hidden in a large set piece so I really don't care about",
+    "start": 501
+  },
+  {
+    "content": "its size but if I did care about size this is where I would apply a filter",
+    "start": 504
+  },
+  {
+    "content": "based on the battery cell size but I do know that longevity would be nice so I",
+    "start": 508
+  },
+  {
+    "content": "don't have to change it often so I'm going to search for a high-capacity the",
+    "start": 515
+  },
+  {
+    "content": "units here are milliamp hours which is just what it sounds like",
+    "start": 518
+  },
+  {
+    "content": "so I'll filter on 620 and that gives me all the batteries which are capable of",
+    "start": 522
+  },
+  {
+    "content": "providing a current of 620 milliamps for one hour or 310 milliamps for two hours",
+    "start": 527
+  },
+  {
+    "content": "and so on that's what a milliamp hour is and there are two search results they",
+    "start": 535
+  },
+  {
+    "content": "appear to be nearly identical so I'll just go for the Energizer one when I",
+    "start": 541
+  },
+  {
+    "content": "click it I get the product page and while I'm here I'll go ahead and",
+    "start": 545
+  },
+  {
+    "content": "download the datasheet for it just in case I need it",
+    "start": 549
+  },
+  {
+    "content": "and add it to my cart now I need a holder for this battery pack so back to",
+    "start": 552
+  },
+  {
+    "content": "the main menu battery products then battery holders clips and contacts",
+    "start": 559
+  },
+  {
+    "content": "okay we need to whittle this down what do we know about what we want well the",
+    "start": 567
+  },
+  {
+    "content": "size of the battery should help a lot remember that our battery is a coin",
+    "start": 573
+  },
+  {
+    "content": "battery and it's twenty four and a half millimeters in diameter so right here in",
+    "start": 576
+  },
+  {
+    "content": "battery cell size we'll apply that filter and again an active product is",
+    "start": 580
+  },
+  {
+    "content": "desired and then the number of cells we know we only need one and we know that",
+    "start": 587
+  },
+  {
+    "content": "we'll want actual posts to solder to so this is a through-hole mounting type not",
+    "start": 593
+  },
+  {
+    "content": "a surface mount I don't want an open holder style as opposed to a retainer",
+    "start": 598
+  },
+  {
+    "content": "and we've got a few search results here really just a matter of preference at",
+    "start": 603
+  },
+  {
+    "content": "this point and he should work fine so I'm gonna buy the first one on the list",
+    "start": 608
+  },
+  {
+    "content": "made by MPD download the datasheet and Add to Cart now we need a switch to turn",
+    "start": 611
+  },
+  {
+    "content": "the whole thing on and off back to the main menu",
+    "start": 619
+  },
+  {
+    "content": "switches slide switches are good for what we're doing because they're small",
+    "start": 622
+  },
+  {
+    "content": "and low-profile now what do we know well we're gonna have a simple circuit we're",
+    "start": 629
+  },
+  {
+    "content": "gonna be controlling on and off we're not trying to toggle between two",
+    "start": 635
+  },
+  {
+    "content": "different circuits or activating different parts of one complex circuit",
+    "start": 639
+  },
+  {
+    "content": "this is very simple on-off so we want an SP ST type of circuit which means single",
+    "start": 642
+  },
+  {
+    "content": "pole single throw single pole means that it's only controlling a single circuit",
+    "start": 648
+  },
+  {
+    "content": "single throw means that the position of the switch itself can only be in one",
+    "start": 654
+  },
+  {
+    "content": "position to close it this is the simplest type of switch that exists and",
+    "start": 658
+  },
+  {
+    "content": "for most of your purposes it should be the one that you use use Google for",
+    "start": 662
+  },
+  {
+    "content": "further detail on poles and throws for switches and we'd like an active part",
+    "start": 667
+  },
+  {
+    "content": "and again we want a through-hole",
+    "start": 673
+  },
+  {
+    "content": "mounting type and from here these really don't matter we're at extremely low",
+    "start": 676
+  },
+  {
+    "content": "voltage so any switch is going to be rated for what we're trying to do really",
+    "start": 682
+  },
+  {
+    "content": "I just want the small as possible so which I can find so I'll try and filter",
+    "start": 687
+  },
+  {
+    "content": "on the actuator in length and look that took me directly to the product page",
+    "start": 690
+  },
+  {
+    "content": "because there's only one search result I like it",
+    "start": 696
+  },
+  {
+    "content": "download the datasheet and Add to Cart now let's find our LEDs I want a green",
+    "start": 699
+  },
+  {
+    "content": "one and a yellow one so home page menu optoelectronics LED indication discreet",
+    "start": 707
+  },
+  {
+    "content": "ok tens of thousands of products let's we'll it down I know I want a green one",
+    "start": 718
+  },
+  {
+    "content": "I want a through-hole mounting type I want an active part I want a round one",
+    "start": 723
+  },
+  {
+    "content": "with a flat top hold the control key while you click other items in the menu",
+    "start": 737
+  },
+  {
+    "content": "in order to select more than one at a time I want to diffused lens",
+    "start": 741
+  },
+  {
+    "content": "transparency because diffused lenses allow the colored light to be seen from",
+    "start": 749
+  },
+  {
+    "content": "wider angles so we've got it down to only one page of search results this",
+    "start": 753
+  },
+  {
+    "content": "five-millimeter one here made by king bright looks pretty good will download",
+    "start": 759
+  },
+  {
+    "content": "the datasheet but make a note right now of two important parameters the forward",
+    "start": 764
+  },
+  {
+    "content": "voltage is 2.2 volts and the test current is 20 milliamps add-to-cart now",
+    "start": 768
+  },
+  {
+    "content": "I want a yellow one but I want it to be the same shape and everything is my",
+    "start": 777
+  },
+  {
+    "content": "green one so let's not go through that whole search again we already know that",
+    "start": 780
+  },
+  {
+    "content": "the vendor is King bright let's apply that for the manufacturer filter and",
+    "start": 784
+  },
+  {
+    "content": "then yellow for the color diffused for the lens transparency round with a flat",
+    "start": 790
+  },
+  {
+    "content": "top and there it is they do make a five millimeter yellow one specs are slightly",
+    "start": 799
+  },
+  {
+    "content": "different the forward voltage is 2.1 volts but the test current again is 20",
+    "start": 809
+  },
+  {
+    "content": "milliamps all right now we apply our theory the",
+    "start": 814
+  },
+  {
+    "content": "equals IR Ohm's law so the voltage of interest is our source",
+    "start": 819
+  },
+  {
+    "content": "which is the battery which is 3 volts minus the forward voltage for the green",
+    "start": 823
+  },
+  {
+    "content": "one that was 2.2 so the first voltage is 0.8 volts and remember that the current",
+    "start": 829
+  },
+  {
+    "content": "we want is 20 milliamps or point zero 2 amps keep your units correct",
+    "start": 836
+  },
+  {
+    "content": "so 0.8 divided by point zero 2 gives you 40 ohms",
+    "start": 843
+  },
+  {
+    "content": "that's the resistance we want and for the yellow one 3 volts minus 2 point one",
+    "start": 848
+  },
+  {
+    "content": "for the forward voltage gives me 0.9 again the current is 0.02 amps so 0.9",
+    "start": 854
+  },
+  {
+    "content": "divided by 0.02 is 45 ohms we need to buy a 40 ohm resistor and a 45 ohm",
+    "start": 861
+  },
+  {
+    "content": "resistor home page resistors through-hole resistors active product",
+    "start": 867
+  },
+  {
+    "content": "resistance 40 ohms axial for the packaging that means that the leads",
+    "start": 879
+  },
+  {
+    "content": "stick out of the sides like you see in those thumbnails of the search results",
+    "start": 887
+  },
+  {
+    "content": "below tolerance we want one percent or better that means that the true resistor",
+    "start": 890
+  },
+  {
+    "content": "was manufactured to be within 1% of what was advertised at this point still a ton",
+    "start": 896
+  },
+  {
+    "content": "of results just find one that can be purchased in a minimum quantity of one",
+    "start": 903
+  },
+  {
+    "content": "and which is available for delivery right now also I know from my days",
+    "start": 907
+  },
+  {
+    "content": "building hi-fi audio amplifiers that vishay Dale is a good brand",
+    "start": 911
+  },
+  {
+    "content": "so here's one I'm going to add this to my cart I'm going to hit back in my",
+    "start": 915
+  },
+  {
+    "content": "browser twice to get back to my search results I'm going to delete the",
+    "start": 921
+  },
+  {
+    "content": "resistance and re-add it for 45 ohms now this is interesting because all of",
+    "start": 924
+  },
+  {
+    "content": "my search results require a large minimum order quantity you can't buy",
+    "start": 933
+  },
+  {
+    "content": "just one so that's not gonna work so I'm gonna clear that filter again and now",
+    "start": 937
+  },
+  {
+    "content": "I'm going to add a bunch of others 45 points something ohms and see what turns",
+    "start": 942
+  },
+  {
+    "content": "up that's close enough getting a lot of search results now in the interest of",
+    "start": 947
+  },
+  {
+    "content": "getting as close as possible I'm gonna sort the results based on resistance and",
+    "start": 952
+  },
+  {
+    "content": "I'm gonna scroll down until I find the first option that allows me a minimum",
+    "start": 958
+  },
+  {
+    "content": "order quantity of 1 and wouldn't you know it there it is a vishay Dale 45",
+    "start": 961
+  },
+  {
+    "content": "point 3 ohm which is available right now close enough add it to cart a 1 final",
+    "start": 966
+  },
+  {
+    "content": "topic on theory which is probably not going to be relevant to you unless",
+    "start": 976
+  },
+  {
+    "content": "you're designing big circuits or using big batteries like a 9-volt power is",
+    "start": 979
+  },
+  {
+    "content": "defined as current times voltage and it has units of watts all components can",
+    "start": 983
+  },
+  {
+    "content": "only handle certain amount of power going through them and so we say that",
+    "start": 989
+  },
+  {
+    "content": "they are rated for a given wattage let's look at the green LED branch of our",
+    "start": 992
+  },
+  {
+    "content": "circuit there's 20 milliamps going through this branch right so the power",
+    "start": 997
+  },
+  {
+    "content": "is 3 volts times point 0 2 amps which is point 0 6 watts now look back at the",
+    "start": 1001
+  },
+  {
+    "content": "resistor we bought for it you can see right there in the description that it's",
+    "start": 1008
+  },
+  {
+    "content": "rated for 5 watts so we're definitely good to go 6 hundredths of a watt has",
+    "start": 1011
+  },
+  {
+    "content": "minuscule compared to what it's rated for but if there was more than 5 watts",
+    "start": 1016
+  },
+  {
+    "content": "flowing through the circuit you would want to find a different resistor one",
+    "start": 1020
+  },
+  {
+    "content": "that is obviously rated for higher than it will experience and in fact if you",
+    "start": 1024
+  },
+  {
+    "content": "look up with the filters you'll see you can filter your search results based on",
+    "start": 1028
+  },
+  {
+    "content": "the parts power rating right soldering soldering is not a daunting thing you",
+    "start": 1032
+  },
+  {
+    "content": "can buy a basic soldering iron kit and a set of tips and a spool of solder for",
+    "start": 1039
+  },
+  {
+    "content": "around 20 dollars here's one I found on Amazon without even trying and while",
+    "start": 1043
+  },
+  {
+    "content": "you're at it by some connecting wire a higher gauge means a thinner wire high",
+    "start": 1048
+  },
+  {
+    "content": "gauge is fine does not need to be fancy here's an example a soldering iron gets",
+    "start": 1052
+  },
+  {
+    "content": "extremely hot and it melts solder that flows onto",
+    "start": 1058
+  },
+  {
+    "content": "in order to create an electrical connection solder is sold on spools like",
+    "start": 1062
+  },
+  {
+    "content": "this it's a very soft metal the key to making a good solder connection is",
+    "start": 1067
+  },
+  {
+    "content": "tinning your leads this means coat the things you want to",
+    "start": 1074
+  },
+  {
+    "content": "join together with solder individually first then touch them together and",
+    "start": 1078
+  },
+  {
+    "content": "briefly apply the soldering iron again they'll quickly melt flow together and",
+    "start": 1083
+  },
+  {
+    "content": "cool in other words don't just take two bare ends and try to hold them together",
+    "start": 1087
+  },
+  {
+    "content": "while also applying solder tin them individually first it's easier and it",
+    "start": 1091
+  },
+  {
+    "content": "gives a better quality connection in a future episode we're gonna make a power",
+    "start": 1096
+  },
+  {
+    "content": "station but one feature of it is our green and yellow LEDs so now that my",
+    "start": 1100
+  },
+  {
+    "content": "digi-key order has arrived we're gonna build that circuit that we designed",
+    "start": 1105
+  },
+  {
+    "content": "right now first off here's the two resistors I ordered notice that the 40",
+    "start": 1108
+  },
+  {
+    "content": "ohm one is huge compared to the 45 ohm 1 this is because it's rated for 5 watts",
+    "start": 1113
+  },
+  {
+    "content": "that tiny 45 on one is rated for only a quarter watt the bigger one is more able",
+    "start": 1118
+  },
+  {
+    "content": "to deal with the higher heat associated with higher power it's still just 40",
+    "start": 1124
+  },
+  {
+    "content": "ohms so don't be deceived by the size it's just bigger and able to handle more",
+    "start": 1127
+  },
+  {
+    "content": "power why did we end up with these two well remember we didn't search based on",
+    "start": 1131
+  },
+  {
+    "content": "power rating we only search for the cheapest part we could find luckily for",
+    "start": 1135
+  },
+  {
+    "content": "this project I don't care about size because I have lots of room in the",
+    "start": 1139
+  },
+  {
+    "content": "terrain to hide this thing but if you do care about size good rule of thumb for",
+    "start": 1142
+  },
+  {
+    "content": "resistors is to look at the power rating as we discussed earlier in this video",
+    "start": 1146
+  },
+  {
+    "content": "calculate what power you need and as a double check you can always look at the",
+    "start": 1150
+  },
+  {
+    "content": "datasheet for the products actual dimensions before you buy it so here's",
+    "start": 1153
+  },
+  {
+    "content": "all my parts and I like to use some cardboard to prop up the parts as I'm",
+    "start": 1158
+  },
+  {
+    "content": "working on them basically I'm just gonna tin the leads and connect all these",
+    "start": 1162
+  },
+  {
+    "content": "parts as shown in our circuit from earlier I'll use short lengths of",
+    "start": 1166
+  },
+  {
+    "content": "connecting wire wherever I need just use some wire cutters and strip away about a",
+    "start": 1170
+  },
+  {
+    "content": "quarter inch of the insulation from the end of the wire before you tin it",
+    "start": 1175
+  },
+  {
+    "content": "okay here's the simple circuit assembled we have our battery in the battery clip",
+    "start": 1180
+  },
+  {
+    "content": "and then connected to the posts I have some connecting wire we go out here to",
+    "start": 1185
+  },
+  {
+    "content": "the switch which is currently off if I turn it on it lights up the lights very",
+    "start": 1191
+  },
+  {
+    "content": "nice turn it back off so connect it to the other post of the switch it goes",
+    "start": 1195
+  },
+  {
+    "content": "over and then here we split and we have both resistors so you can see this is",
+    "start": 1200
+  },
+  {
+    "content": "the in parallel that we talked about and the resistors are connected to their",
+    "start": 1206
+  },
+  {
+    "content": "associated LEDs as we calculated earlier and then the LEDs meet back up with the",
+    "start": 1212
+  },
+  {
+    "content": "another piece of wire and end that parallel portion I guess you'd say",
+    "start": 1218
+  },
+  {
+    "content": "note that LEDs are one-way devices so they do have polarity when you dry fit",
+    "start": 1223
+  },
+  {
+    "content": "it before you solder if it doesn't light up simply flip it around and you'll see",
+    "start": 1229
+  },
+  {
+    "content": "that it does light up don't worry you won't damage it and then that wire",
+    "start": 1233
+  },
+  {
+    "content": "returns to the battery itself when the switch is closed and powered and go",
+    "start": 1237
+  },
+  {
+    "content": "through and when the switch is open no power goes through very simple and here",
+    "start": 1245
+  },
+  {
+    "content": "I've integrated it into a project I'm working on this will be in a future",
+    "start": 1253
+  },
+  {
+    "content": "episode note that we have a lot of exposed leads here and when you stuff",
+    "start": 1257
+  },
+  {
+    "content": "them into the terrain they might bunch up and contact each other creating a",
+    "start": 1261
+  },
+  {
+    "content": "short-circuit the proper fix for this is to use heat shrink tubing but you can",
+    "start": 1264
+  },
+  {
+    "content": "see I'm just coating them with hot glue and then while it's still hot I'm",
+    "start": 1269
+  },
+  {
+    "content": "securing it to the inside of the terrain also also note that I was very sloppy",
+    "start": 1272
+  },
+  {
+    "content": "with my wire lengths here because I could afford to be in a very small",
+    "start": 1276
+  },
+  {
+    "content": "project you probably won't need any wire at all and also don't be afraid to snip",
+    "start": 1280
+  },
+  {
+    "content": "the leads on the resistors and the LEDs down as short as they can go in order to",
+    "start": 1284
+  },
+  {
+    "content": "save space so all those parts cost me $12.90 of",
+    "start": 1288
+  },
+  {
+    "content": "course I already owned a soldering iron solder and connecting wire but once you",
+    "start": 1301
+  },
+  {
+    "content": "get through those startup costs fairly cheap for a battery capacity of 620",
+    "start": 1305
+  },
+  {
+    "content": "milliamp hours and a total current of 40 milliamps I calculate this battery",
+    "start": 1309
+  },
+  {
+    "content": "should last about 15 hours or so now some of you watching probably know as",
+    "start": 1313
+  },
+  {
+    "content": "much or more than me about all this stuff and you might be feeling like I",
+    "start": 1318
+  },
+  {
+    "content": "left out some things or was perhaps a little bit dishonest from a technical",
+    "start": 1322
+  },
+  {
+    "content": "standpoint on a few topics and yeah that was intentional I wanted to keep this as",
+    "start": 1325
+  },
+  {
+    "content": "simple and as accessible to a layman as possible so someone who hasn't seen any",
+    "start": 1330
+  },
+  {
+    "content": "of this since eighth grade physics could get into it and start designing and",
+    "start": 1335
+  },
+  {
+    "content": "building their own simple circuits so I know some resistor types do have",
+    "start": 1339
+  },
+  {
+    "content": "polarity we didn't talk about parasitic capacitance I didn't even touch on AC",
+    "start": 1342
+  },
+  {
+    "content": "power or the nonlinear rundown of batteries but none that really matters",
+    "start": 1346
+  },
+  {
+    "content": "for being able to do this so I left it out so to sum up scavenging from t likes",
+    "start": 1350
+  },
+  {
+    "content": "is quick and easy that's the easy solution but digit key stocks tens of",
+    "start": 1356
+  },
+  {
+    "content": "thousands of LEDs varying in diameter shape transparency brightness color",
+    "start": 1360
+  },
+  {
+    "content": "multicolor oscillating you name it it's out there so today I happen to choose a",
+    "start": 1364
+  },
+  {
+    "content": "round flat top five millimeter diameter style there are tons of other",
+    "start": 1369
+  },
+  {
+    "content": "combinations depending on the look you want",
+    "start": 1373
+  },
+  {
+    "content": "the typical coin battery that we use today right the three volt this comes in",
+    "start": 1376
+  },
+  {
+    "content": "most tea lights your watches that kind of thing but they make them much smaller",
+    "start": 1381
+  },
+  {
+    "content": "than that and you could use them say in the base of a miniature to light up the",
+    "start": 1385
+  },
+  {
+    "content": "miniatures torch or quarter staff or something like that I don't know but the",
+    "start": 1390
+  },
+  {
+    "content": "point is if you want to use those neat custom parts you've got to know how to",
+    "start": 1394
+  },
+  {
+    "content": "use them and that's what this video is for so you can design your own basic",
+    "start": 1398
+  },
+  {
+    "content": "circuits and do them you got to do some basic math think through it and build",
+    "start": 1401
+  },
+  {
+    "content": "the circuit so it's a little more expensive than just using tea lights but",
+    "start": 1406
+  },
+  {
+    "content": "you have infinitely more options as well as the sense of accomplishment after you",
+    "start": 1410
+  },
+  {
+    "content": "design and build your first circuit and that LED lights up for the first time",
+    "start": 1414
+  },
+  {
+    "content": "and doesn't and you did it right it's a great",
+    "start": 1418
+  },
+  {
+    "content": "feeling so I have been while och thank you very much for joining me and I will",
+    "start": 1421
+  },
+  {
+    "content": "see you next time",
+    "start": 1426
+  },
+  {
+    "content": "you",
+    "start": 1437
+  }
+]

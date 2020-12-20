@@ -1,0 +1,414 @@
+[
+  {
+    "content": "hi why lock here I assume you're here because you're",
+    "start": 12
+  },
+  {
+    "content": "familiar with diem Scotty the dmg info and you're a disciple of terrain",
+    "start": 16
+  },
+  {
+    "content": "crafting like myself hot glue and beer right there's lots of fantastic YouTube",
+    "start": 20
+  },
+  {
+    "content": "channels out there and I wouldn't want to rehash content so I've never done",
+    "start": 26
+  },
+  {
+    "content": "anything until now but I have an idea that I wanted to share and it is the use",
+    "start": 29
+  },
+  {
+    "content": "of a one and a quarter inch grid the first few videos in my youtube channel",
+    "start": 32
+  },
+  {
+    "content": "the first little sub series will be on crafting my modular tiles which use a",
+    "start": 37
+  },
+  {
+    "content": "one and a quarter inch grid here is an example of them",
+    "start": 42
+  },
+  {
+    "content": "now everything I I do assumes that you have some familiarity with terrain",
+    "start": 48
+  },
+  {
+    "content": "crafting if you don't google DM Scotty the DMS craft and the dmg info those",
+    "start": 53
+  },
+  {
+    "content": "guys have they are the gold standard they have great ideas most of what",
+    "start": 61
+  },
+  {
+    "content": "you'll see me do is not my idea I'll try to cite where I can but it would be",
+    "start": 65
+  },
+  {
+    "content": "overwhelming to do so so in this first video I'm just going to try and explain",
+    "start": 69
+  },
+  {
+    "content": "what new thing I hope to bring to the Hobby I'll lead off by saying I'm gonna",
+    "start": 74
+  },
+  {
+    "content": "reference products like dwarven Forge and Hirst arts a lot because they are",
+    "start": 80
+  },
+  {
+    "content": "the industry standards and it's convenient to cite them as a reference",
+    "start": 84
+  },
+  {
+    "content": "point to demonstrate why my tiles are different in no way am i bashing those",
+    "start": 88
+  },
+  {
+    "content": "companies those products are amazing you can spend days at a time going through",
+    "start": 94
+  },
+  {
+    "content": "Google Image looking at beautiful dungeons laid out they look phenomenal",
+    "start": 99
+  },
+  {
+    "content": "they're great all around but in my opinion they suffer from one significant",
+    "start": 105
+  },
+  {
+    "content": "drawback and that's how walls are represented that's what I hope to solve",
+    "start": 109
+  },
+  {
+    "content": "with my one and a quarter inch grid last note before we go off I am releasing the",
+    "start": 113
+  },
+  {
+    "content": "first several videos on the same day because I hope to earn you as a YouTube",
+    "start": 120
+  },
+  {
+    "content": "follower rather than post now lose your interest and you maybe come back next",
+    "start": 124
+  },
+  {
+    "content": "week to see how to start constructing the tiles undoing everything you'll be",
+    "start": 129
+  },
+  {
+    "content": "able to go cradle-to-grave today if you want to so as soon as this",
+    "start": 133
+  },
+  {
+    "content": "video is over you can go to zero zero two alright so off we go if you use",
+    "start": 136
+  },
+  {
+    "content": "gridded tiles you're probably aware of the problem of wall thickness consider",
+    "start": 143
+  },
+  {
+    "content": "this excerpt from a map the scale is 1 square equals 10 feet there are two",
+    "start": 147
+  },
+  {
+    "content": "hallways coming in from the West which share a wall with each other and a",
+    "start": 153
+  },
+  {
+    "content": "hallway coming from the east sharing a wall with the room now the vast majority",
+    "start": 157
+  },
+  {
+    "content": "of dwarven forage and Hirst art styles are 2 inches by 2 inches",
+    "start": 162
+  },
+  {
+    "content": "allowing for 4 squares totaling the 10 foot box the miniature for a standard",
+    "start": 166
+  },
+  {
+    "content": "medium sized character has a 1 inch base and for a large character a two inch",
+    "start": 173
+  },
+  {
+    "content": "bass this means the large creature should be",
+    "start": 180
+  },
+  {
+    "content": "able to physically fit in the hallway tiles but consider the usual approaches",
+    "start": 183
+  },
+  {
+    "content": "to modeling the standard ten-foot hallway some argue for placing the walls",
+    "start": 188
+  },
+  {
+    "content": "on top of the squares this preserves the overall size of the dungeon however",
+    "start": 193
+  },
+  {
+    "content": "there's only one physical inch of space in that tile assuming the walls or the",
+    "start": 198
+  },
+  {
+    "content": "typical half inch thick this means medium characters have to march",
+    "start": 203
+  },
+  {
+    "content": "single-file and a large sized mini cannot fit at all which is mechanically",
+    "start": 207
+  },
+  {
+    "content": "incorrect another approach is attaching the walls to the sides this preserves",
+    "start": 211
+  },
+  {
+    "content": "the play area such that miniatures can fit however it is impossible to",
+    "start": 217
+  },
+  {
+    "content": "construct the two hallways to the west still another approach is to attach the",
+    "start": 222
+  },
+  {
+    "content": "walls to the sides but offset the squares by 1/2 this is helpful in a few",
+    "start": 228
+  },
+  {
+    "content": "ways such as handling door spaces but requires miniatures to straddle the grid",
+    "start": 234
+  },
+  {
+    "content": "lines and the tile presents the same problem as the previous one in that it",
+    "start": 238
+  },
+  {
+    "content": "simply cannot fit in the space that it needs to although I've only Illustrated",
+    "start": 243
+  },
+  {
+    "content": "hallways here this same concept applies to corners and sides why is this a big",
+    "start": 247
+  },
+  {
+    "content": "deal if the dungeon is nonlinear and reconnects with itself at any point any",
+    "start": 253
+  },
+  {
+    "content": "offset introduced such as by wall thickness will propagate and it will",
+    "start": 260
+  },
+  {
+    "content": "never meet up properly so what is the solution some would say simply redraw",
+    "start": 265
+  },
+  {
+    "content": "the map to account for squares lost to walls while preserving the original",
+    "start": 272
+  },
+  {
+    "content": "spirit and intent of the map others might just adjust the map on-the-fly",
+    "start": 277
+  },
+  {
+    "content": "when placing the tiles on the game table still others would simply ignore it",
+    "start": 282
+  },
+  {
+    "content": "disregarding the inaccuracy is unimportant and of course all of these",
+    "start": 287
+  },
+  {
+    "content": "are fine but my personal goal was to be able to build any dungeon mapped with",
+    "start": 291
+  },
+  {
+    "content": "the conventional 10-foot scale and to build it as originally drawn this is",
+    "start": 296
+  },
+  {
+    "content": "because many old-school modules which I happen to enjoy were drawn using shared",
+    "start": 301
+  },
+  {
+    "content": "walls well before the time of tiles and also I found that in my home brewing",
+    "start": 306
+  },
+  {
+    "content": "modules it's a pain to have to draw a map while leaving half square dead space",
+    "start": 311
+  },
+  {
+    "content": "for wall thickness so my solution is this instead of one inch squares use one",
+    "start": 315
+  },
+  {
+    "content": "and a quarter inch squares instead of half inch walls use quarter inch walls",
+    "start": 324
+  },
+  {
+    "content": "place the walls on the tile I'm going to rescale some things on the screen now",
+    "start": 330
+  },
+  {
+    "content": "the map is the same a square still represents 10 feet and therefore",
+    "start": 337
+  },
+  {
+    "content": "contains a 2x2 set of spaces each of which is intended to hold a single",
+    "start": 342
+  },
+  {
+    "content": "medium-sized creature however each of those spaces is now 1.25 inches instead",
+    "start": 347
+  },
+  {
+    "content": "of one inch this means a single tile is no longer 2 inches squared but rather 2",
+    "start": 355
+  },
+  {
+    "content": "and a half inches squared miniature bases remain exactly the same",
+    "start": 361
+  },
+  {
+    "content": "but are rescaled on the screen according to our new scale consider the following",
+    "start": 366
+  },
+  {
+    "content": "scenario here's a standard one wall tile or a side tile the wall eats a quarter",
+    "start": 372
+  },
+  {
+    "content": "inch of space but an inch still remains on the two affected squares so a",
+    "start": 379
+  },
+  {
+    "content": "standard miniature still fits and the grid has been perfectly preserved with",
+    "start": 385
+  },
+  {
+    "content": "no space lost or gained so we've talked about the mechanical",
+    "start": 391
+  },
+  {
+    "content": "advantages of the one and a quarter inch grid here are some other ancillary",
+    "start": 397
+  },
+  {
+    "content": "benefits for one thing its aesthetically pleasing it just plain looks less",
+    "start": 400
+  },
+  {
+    "content": "cramped but it's not so much larger that your standard miniatures look",
+    "start": 405
+  },
+  {
+    "content": "disproportionate in fact if anything I think they look more appropriate in",
+    "start": 410
+  },
+  {
+    "content": "context on a related note it's a little easier to fit furniture and other",
+    "start": 413
+  },
+  {
+    "content": "dungeon trappings that you craft last it inherently supports 30",
+    "start": 418
+  },
+  {
+    "content": "millimeter heroic scale minis for those who prefer to use them by the way",
+    "start": 423
+  },
+  {
+    "content": "there's certainly no rule that you must make only 2 by 2 tiles it is totally",
+    "start": 428
+  },
+  {
+    "content": "possible to make any custom shape that you want to I have chosen to focus on",
+    "start": 433
+  },
+  {
+    "content": "the 2 by 2 standard because I want to mimic the collectability storability",
+    "start": 437
+  },
+  {
+    "content": "and uniform tactile feel of dwarven forage and Hirst arts products how about",
+    "start": 441
+  },
+  {
+    "content": "the downsides well for starters you'll lose 20% of your table space if you're",
+    "start": 447
+  },
+  {
+    "content": "the kind of DM like me who only lays down tiles that the characters can see",
+    "start": 453
+  },
+  {
+    "content": "shuffling them out as the party moves along then this isn't a concern but if",
+    "start": 458
+  },
+  {
+    "content": "you like to lay out all of under mountain on your game table this will",
+    "start": 463
+  },
+  {
+    "content": "become a factor also if you want to model a narrow one square wide hallway",
+    "start": 466
+  },
+  {
+    "content": "the system breaks down because there will only be three quarters of an inch",
+    "start": 471
+  },
+  {
+    "content": "usable space however this limitation is no better or",
+    "start": 475
+  },
+  {
+    "content": "worse than the standard 1-inch approach as I discussed earlier so it's not",
+    "start": 478
+  },
+  {
+    "content": "really a problem specific to the one and a quarter inch system",
+    "start": 482
+  },
+  {
+    "content": "so there you have it the case for a one and a quarter inch grid this has even",
+    "start": 487
+  },
+  {
+    "content": "remotely piqued your interest I ask that you stick around for the next few videos",
+    "start": 492
+  },
+  {
+    "content": "as I show you how to build my version of modular tiles as well as doors for them",
+    "start": 495
+  },
+  {
+    "content": "there are two ways to handle doors it's an advantage of the system I believe I",
+    "start": 500
+  },
+  {
+    "content": "didn't get into it in this video again I'm doing the whole mini series here",
+    "start": 503
+  },
+  {
+    "content": "upfront you can go click oo2 after you're done with this I won't",
+    "start": 507
+  },
+  {
+    "content": "always be that prolific but to get started and hopefully earn you as a",
+    "start": 511
+  },
+  {
+    "content": "youtube follower doing this whole series right now so go ahead click on 0:02 and",
+    "start": 514
+  },
+  {
+    "content": "we'll see you there you",
+    "start": 519
+  }
+]

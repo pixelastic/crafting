@@ -1,0 +1,682 @@
+[
+  {
+    "content": "storm the castle gates battering rams up",
+    "start": 1
+  },
+  {
+    "content": "hey guys welcome back to Blackmagic craft it's really good to be back with",
+    "start": 25
+  },
+  {
+    "content": "you this week with a build I made a siege tower really nifty bit of",
+    "start": 29
+  },
+  {
+    "content": "scatter terrain I don't know does this count as terrain it's really more of a",
+    "start": 36
+  },
+  {
+    "content": "vehicle this is a bit of a departure for my usual builds because I didn't use",
+    "start": 42
+  },
+  {
+    "content": "foam for this often when I'm you know building things to look like wood I like",
+    "start": 46
+  },
+  {
+    "content": "to use foam because it's really easy to get nice-looking realistic scale wood",
+    "start": 50
+  },
+  {
+    "content": "with foam and I find that wood is kind of a pain in the butt to work with but",
+    "start": 54
+  },
+  {
+    "content": "if you're willing to put in the effort and the time you can get some really",
+    "start": 59
+  },
+  {
+    "content": "cool-looking you know builds out of wood the process",
+    "start": 63
+  },
+  {
+    "content": "can actually be quite fun if you're in the mood for it but why did I build this",
+    "start": 67
+  },
+  {
+    "content": "why did I build a siege tower well I was inspired by the models from the sponsor",
+    "start": 71
+  },
+  {
+    "content": "of this week's video loot is a company that creates very detailed miniatures",
+    "start": 78
+  },
+  {
+    "content": "that you can 3d print at home by joining as a monthly member you get access to a",
+    "start": 83
+  },
+  {
+    "content": "different set of heroes monsters and sceneries every month",
+    "start": 88
+  },
+  {
+    "content": "what makes loot a bit different from other companies offering a similar",
+    "start": 92
+  },
+  {
+    "content": "service is that they're miniatures tell a story each month they're campaigning",
+    "start": 96
+  },
+  {
+    "content": "heroes Johnny K X and korma I hope I'm saying those right will fight a new set",
+    "start": 100
+  },
+  {
+    "content": "of foes and get new items and abilities from the Jun goblin trouble bundle I",
+    "start": 105
+  },
+  {
+    "content": "decided to print off a few of the infantry goblins this was made",
+    "start": 111
+  },
+  {
+    "content": "incredibly easy as they don't only provide the STL files the models all",
+    "start": 115
+  },
+  {
+    "content": "come pre supported and they include the STL files as well as the chi 2 box files",
+    "start": 120
+  },
+  {
+    "content": "making setting up the print a super easy and almost instant process they also",
+    "start": 126
+  },
+  {
+    "content": "provide files for both thirty two millimeter gaming scale and seventy",
+    "start": 131
+  },
+  {
+    "content": "millimeter scale for display painting I'm by no means an expert printer yet",
+    "start": 136
+  },
+  {
+    "content": "and the thing I struggle with the most is placing support so having this done",
+    "start": 140
+  },
+  {
+    "content": "for me is a huge help when you join in addition to the current month you will",
+    "start": 144
+  },
+  {
+    "content": "also get a super cool welcome pack full of really neat models further loot has a",
+    "start": 149
+  },
+  {
+    "content": "great painter on their team and each month you'll get",
+    "start": 154
+  },
+  {
+    "content": "access to a painting guide for that month's boss the monthly subscription",
+    "start": 157
+  },
+  {
+    "content": "fee is fifteen bucks but the first 100 people to sign up using the promo code",
+    "start": 161
+  },
+  {
+    "content": "in the video description below will pay only $10 a month forever that's a third",
+    "start": 167
+  },
+  {
+    "content": "of the price reduced permanently for your membership forever that's no joke",
+    "start": 173
+  },
+  {
+    "content": "that's a pretty good discount so if you're interested in signing up use that",
+    "start": 178
+  },
+  {
+    "content": "code below first hundred people can get that discount I was thinking of these",
+    "start": 182
+  },
+  {
+    "content": "goblin minis as though they would be part of a large horde and I challenged",
+    "start": 187
+  },
+  {
+    "content": "myself to see what kind of paint job I could do in a very limited time loop",
+    "start": 192
+  },
+  {
+    "content": "provides detailed basis to print for every model but I want a generic",
+    "start": 196
+  },
+  {
+    "content": "scorched Middle earth kind of basis so I just use plain plastic bases and added",
+    "start": 200
+  },
+  {
+    "content": "some texture paste I gave myself a strict time limit of two hours to do",
+    "start": 205
+  },
+  {
+    "content": "this and to paint all seven models for me this is a crazy time limit I'm not",
+    "start": 209
+  },
+  {
+    "content": "that fast of a painter but I wanted to see what I could pull off in that time",
+    "start": 214
+  },
+  {
+    "content": "relying mostly on airbrush under shading and inks followed by a bit of detail",
+    "start": 218
+  },
+  {
+    "content": "work I ended up with a scheme I thought was more than acceptable I'd be totally",
+    "start": 224
+  },
+  {
+    "content": "happy to have a legion of goblins printed up and painted just like this",
+    "start": 228
+  },
+  {
+    "content": "but I guess I should probably start talking about the actual build wood this",
+    "start": 233
+  },
+  {
+    "content": "build is basically entirely made from wood dowels of various sizes and coffee",
+    "start": 237
+  },
+  {
+    "content": "stir sticks I prefer coffee stir sticks to popsicle sticks as they're thinner",
+    "start": 243
+  },
+  {
+    "content": "and narrower and just look a whole lot better at this scale the reason building",
+    "start": 248
+  },
+  {
+    "content": "models out of this stuff is challenging is that it's all smooth it really",
+    "start": 253
+  },
+  {
+    "content": "doesn't look like wood once painted you need to put in some effort to carve up",
+    "start": 258
+  },
+  {
+    "content": "the pieces a bit beforehand to give them some variance and texture and character",
+    "start": 262
+  },
+  {
+    "content": "personally I find the best way to do this is with a rotary tool and a sanding",
+    "start": 267
+  },
+  {
+    "content": "drum this lets you really quickly make a smooth piece look like old hand hewn",
+    "start": 271
+  },
+  {
+    "content": "lumber of course you can do this with a knife but it takes a lot longer and you",
+    "start": 276
+  },
+  {
+    "content": "often end up driving the blade into the grain and splitting the piece using the",
+    "start": 281
+  },
+  {
+    "content": "rotary tool is fast but it creates a lot of dust so I like to keep a shop vac",
+    "start": 286
+  },
+  {
+    "content": "running the whole time and sand right beside the hose this sucks up basically",
+    "start": 290
+  },
+  {
+    "content": "all the dust you're making but I still wear a mask and glasses through the",
+    "start": 295
+  },
+  {
+    "content": "whole process just in case the assembly here was very improvised",
+    "start": 299
+  },
+  {
+    "content": "but there were a few important decisions I made before jumping in one was to",
+    "start": 303
+  },
+  {
+    "content": "texture as many pieces as possible before starting to build doing as much",
+    "start": 307
+  },
+  {
+    "content": "of this ahead of time as you can handle before going completely bored out of",
+    "start": 311
+  },
+  {
+    "content": "your mind is really important when you're constructing you don't want to",
+    "start": 315
+  },
+  {
+    "content": "have to stop to sand more pieces but inevitably you probably will end up",
+    "start": 318
+  },
+  {
+    "content": "having to do that so just accept that fact for measurements I use the one-inch",
+    "start": 323
+  },
+  {
+    "content": "grid on my cutting mat this also helped me keep things somewhat square during",
+    "start": 327
+  },
+  {
+    "content": "the construction another decision I made early was to use",
+    "start": 331
+  },
+  {
+    "content": "PVA glue for assembly rather than hot glue now Hockney was a lot faster and in",
+    "start": 337
+  },
+  {
+    "content": "many ways a heck of a lot easier but PVA in the end is far stronger and a lot",
+    "start": 342
+  },
+  {
+    "content": "cleaner the downside is that it doesn't instantly hold so you have to be more",
+    "start": 348
+  },
+  {
+    "content": "patient and careful while building which one you choose really comes down to the",
+    "start": 352
+  },
+  {
+    "content": "mood you're in sometimes banging together a build",
+    "start": 356
+  },
+  {
+    "content": "quickly with hot glue is fun but sometimes the more deliberate and",
+    "start": 359
+  },
+  {
+    "content": "methodical method of using PVA is more satisfying and enjoyable both are",
+    "start": 362
+  },
+  {
+    "content": "totally fine on this day I was in the mood for the painstaking process of PVA",
+    "start": 367
+  },
+  {
+    "content": "glue and patience",
+    "start": 372
+  },
+  {
+    "content": "at a certain point I decided I wanted to make the top wall that drops down into a",
+    "start": 487
+  },
+  {
+    "content": "bridge to actually work I'm not generally the type to want functional",
+    "start": 493
+  },
+  {
+    "content": "terrain in the sense that you can actually move the parts but this seems",
+    "start": 498
+  },
+  {
+    "content": "like a situation where it would actually be really cool if I did I thought I",
+    "start": 501
+  },
+  {
+    "content": "could create a hinge using the plastic tube from a cotton swab and a metal wire",
+    "start": 505
+  },
+  {
+    "content": "I think the idea was sound but well in the end I glued something wrong and it",
+    "start": 510
+  },
+  {
+    "content": "ended up all stuck together and wouldn't close rather than try to redo it I just",
+    "start": 518
+  },
+  {
+    "content": "decided to remove the hinge entirely and make it stay permanently down wheels",
+    "start": 523
+  },
+  {
+    "content": "I needed some wheels there's actually a really easy way to make wooden wheels if",
+    "start": 529
+  },
+  {
+    "content": "you have some mini bases like these ones that Reaper makes you can use them as a",
+    "start": 535
+  },
+  {
+    "content": "great starting point you can glue wood planks to them the trick though is to",
+    "start": 538
+  },
+  {
+    "content": "rough up the surface first and use superglue to attach the stir sticks you",
+    "start": 542
+  },
+  {
+    "content": "can then cut off the excess with scissors or Clips and then use a rotary",
+    "start": 546
+  },
+  {
+    "content": "tool and a sanding drum to get them perfectly flush a bit of paper for iron",
+    "start": 550
+  },
+  {
+    "content": "banding and boom great looking wheels for wagons or whatever I drilled in some",
+    "start": 555
+  },
+  {
+    "content": "poles for the axles once I had made my first one it was really easy to use that",
+    "start": 561
+  },
+  {
+    "content": "one as a jig for the rest I didn't have a bit that was quite the right size for",
+    "start": 564
+  },
+  {
+    "content": "the smaller dowels so I made a hole that was just too small for the larger ones",
+    "start": 569
+  },
+  {
+    "content": "this way I could carve them to a point and just wedge them in the hole I really",
+    "start": 574
+  },
+  {
+    "content": "didn't think it would be worth the trouble to try and make these actually",
+    "start": 579
+  },
+  {
+    "content": "turn there would just be too many ways for this to go wrong and really they",
+    "start": 582
+  },
+  {
+    "content": "don't need to turn to move it around on the gaming table plus locking them in",
+    "start": 587
+  },
+  {
+    "content": "place is actually beneficial for most games as you don't want them",
+    "start": 591
+  },
+  {
+    "content": "accidentally moving around during a game while the glue on the wheels dried it",
+    "start": 594
+  },
+  {
+    "content": "was the perfect time to make some quick ladders",
+    "start": 601
+  },
+  {
+    "content": "now it was time to paint and I know some",
+    "start": 605
+  },
+  {
+    "content": "of you are thinking it's already wood why paint it to look like wood unpainted",
+    "start": 617
+  },
+  {
+    "content": "real wood just doesn't blend in well with all of the other painted stuff that",
+    "start": 622
+  },
+  {
+    "content": "you have your painted minis and other terrain will have a certain aesthetic",
+    "start": 626
+  },
+  {
+    "content": "you want all of your pieces to kind of mesh and vibe well together",
+    "start": 630
+  },
+  {
+    "content": "plain unpainted wood just stands out like crazy this wood is also a very",
+    "start": 634
+  },
+  {
+    "content": "light yellow and looks like fresh pine which isn't what I wanted I wanted",
+    "start": 638
+  },
+  {
+    "content": "something that didn't look brand-new plus there's glue and paper all over",
+    "start": 642
+  },
+  {
+    "content": "this thing that wouldn't look right unpainted you can just stay in the wood",
+    "start": 647
+  },
+  {
+    "content": "and that can have a nice effect but you need to do that before assembly because",
+    "start": 651
+  },
+  {
+    "content": "the glue that's on the wood will block the stain and it will just look terrible",
+    "start": 655
+  },
+  {
+    "content": "much like theater actors paint on giant eyebrows even though they have real",
+    "start": 659
+  },
+  {
+    "content": "eyebrows you want your stuff to look good from a few feet away on the table",
+    "start": 665
+  },
+  {
+    "content": "and an exaggerated paint job helps with this now I've got several videos showing",
+    "start": 669
+  },
+  {
+    "content": "how to paint wood schemes with craft paints and brushes so on this one I let",
+    "start": 674
+  },
+  {
+    "content": "myself try a more mature painting style using primarily the airbrush and inks",
+    "start": 678
+  },
+  {
+    "content": "with a spray primer white under shading and two Brown inks I got an almost",
+    "start": 683
+  },
+  {
+    "content": "complete paint job in under 15 minutes including dry time between coats",
+    "start": 689
+  },
+  {
+    "content": "it's pretty amazing it took longer to dry brush on some tan and paint out the",
+    "start": 693
+  },
+  {
+    "content": "little metal details than it did to spray all that wood using a brush on a",
+    "start": 699
+  },
+  {
+    "content": "piece with this many hard-to-reach little spots would have taken so much",
+    "start": 703
+  },
+  {
+    "content": "longer and I don't think wood had even close to as nice of a result after paint",
+    "start": 707
+  },
+  {
+    "content": "the metal bands were looking a bit plain now I'd love to have put on some raised",
+    "start": 712
+  },
+  {
+    "content": "rivets on these details but that's actually quite tricky to do instead I",
+    "start": 716
+  },
+  {
+    "content": "opted for using a pin to make some small screw holes adding small nail holes to",
+    "start": 720
+  },
+  {
+    "content": "all the wood planks also added a nice little detail next time I do this before",
+    "start": 725
+  },
+  {
+    "content": "paint however now for the battering ram none of my dowels were big enough so I",
+    "start": 730
+  },
+  {
+    "content": "turned to nature I cut a few branches of different diameters and baked them in",
+    "start": 735
+  },
+  {
+    "content": "the oven to disinfect this seemed especially important",
+    "start": 740
+  },
+  {
+    "content": "since some of these branches I found had been used by squirrels to chew on and",
+    "start": 743
+  },
+  {
+    "content": "who knows what kind of diseases they are carrying actually hanging this thing in",
+    "start": 748
+  },
+  {
+    "content": "place was by far the hardest part of this whole build I used some miniature",
+    "start": 755
+  },
+  {
+    "content": "chain from the jewelry department of Michaels but man actually getting it",
+    "start": 759
+  },
+  {
+    "content": "mounted in there I really can't describe how exceptionally challenging this was",
+    "start": 764
+  },
+  {
+    "content": "in the end I got it but it wasn't as",
+    "start": 770
+  },
+  {
+    "content": "well done as I would have hoped I messed around with some washes and rusty",
+    "start": 806
+  },
+  {
+    "content": "pigment powder on the chains and overall this just created a mess and I didn't",
+    "start": 811
+  },
+  {
+    "content": "like the results at all so just ignore this whole part I should have just stuck",
+    "start": 815
+  },
+  {
+    "content": "with washes unfortunately the latter hole that I",
+    "start": 819
+  },
+  {
+    "content": "hadn't made didn't work with the hanging battering ram I didn't think that",
+    "start": 822
+  },
+  {
+    "content": "through enough during the build but I didn't let myself get too upset about",
+    "start": 826
+  },
+  {
+    "content": "this I just glued the ladder to the outside and moved on it honestly it",
+    "start": 829
+  },
+  {
+    "content": "looks fine it's not even that big of a deal",
+    "start": 833
+  },
+  {
+    "content": "I really enjoyed the process of building",
+    "start": 835
+  },
+  {
+    "content": "this project it's sometimes nice to work with materials and mediums outside of",
+    "start": 868
+  },
+  {
+    "content": "your go to usual stuff working with wood still is not my favorite though because",
+    "start": 873
+  },
+  {
+    "content": "of all the front-end prep work involved I mean I guess foam also has a lot of",
+    "start": 877
+  },
+  {
+    "content": "milling work but somehow I personally find it less annoying balsa wood would",
+    "start": 882
+  },
+  {
+    "content": "have been a nice alternative it's a lot easier to work with in pine craft sticks",
+    "start": 886
+  },
+  {
+    "content": "but I just don't have a source of it that's readily available and cheap where",
+    "start": 890
+  },
+  {
+    "content": "I live if you do that's a great option and you should give it a go so what do",
+    "start": 894
+  },
+  {
+    "content": "you guys think let me know in the comments section below if you did like",
+    "start": 898
+  },
+  {
+    "content": "this video hit that like button I got to say thanks to my sponsors lute for",
+    "start": 901
+  },
+  {
+    "content": "sponsoring this build inspiring it giving me some new cool minis for my",
+    "start": 906
+  },
+  {
+    "content": "game and thanks for supporting youtubers the help from sponsors like loot helps",
+    "start": 912
+  },
+  {
+    "content": "me help you if you want to pick up any tools or supplies for your own building",
+    "start": 917
+  },
+  {
+    "content": "needs maybe you want to get a rotary tool to do this tedious sort of work",
+    "start": 922
+  },
+  {
+    "content": "check out black magic crafts and dot CA there I have my essential equipment page",
+    "start": 927
+  },
+  {
+    "content": "I list most of the stuff that I use regularly I explain why I use it and I",
+    "start": 931
+  },
+  {
+    "content": "have links to where you can purchase it yourself last if you really enjoy these",
+    "start": 935
+  },
+  {
+    "content": "videos that I make and you want to help me keep making them the best way you can",
+    "start": 939
+  },
+  {
+    "content": "do that is by supporting the channel on patreon it's through those funds that I",
+    "start": 944
+  },
+  {
+    "content": "am able to dedicate my time and energy into making these videos and running",
+    "start": 948
+  },
+  {
+    "content": "this channel and it's through that support that I'm able to support my",
+    "start": 954
+  },
+  {
+    "content": "family doing it so it's really appreciate it and I'd love to have you",
+    "start": 957
+  },
+  {
+    "content": "as the newest member of the black magic craft fellowship that's it for this week",
+    "start": 960
+  },
+  {
+    "content": "guys Cheers I'll see you again next week",
+    "start": 964
+  },
+  {
+    "content": "you",
+    "start": 986
+  }
+]

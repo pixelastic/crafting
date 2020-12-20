@@ -1,0 +1,422 @@
+[
+  {
+    "content": "bought an airbrush yep you thought about it or you have any reservations I",
+    "start": 5
+  },
+  {
+    "content": "recommend you just take the plunge this is the one I got and I love it no great",
+    "start": 10
+  },
+  {
+    "content": "shakes or anything but I mean perfect for learning perfect for a newbie like",
+    "start": 14
+  },
+  {
+    "content": "me not that expensive I mean you can see the results that you can get even with a",
+    "start": 18
+  },
+  {
+    "content": "cheap one like this fairly decent so today we're going to build something",
+    "start": 22
+  },
+  {
+    "content": "that is similar to and inspired by but definitely not the same as a macron",
+    "start": 27
+  },
+  {
+    "content": "monolith",
+    "start": 32
+  },
+  {
+    "content": "so in the description below this video is a link to download some templates",
+    "start": 50
+  },
+  {
+    "content": "that I made start with a big one that's in two pieces trace and cut out these",
+    "start": 54
+  },
+  {
+    "content": "pieces from cereal box and lightly score along all the internal lines to make",
+    "start": 59
+  },
+  {
+    "content": "them fold easier make four copies I secure them with thin beads of hot glue",
+    "start": 64
+  },
+  {
+    "content": "along the inner edges now from some clear plastic that came from some kind",
+    "start": 72
+  },
+  {
+    "content": "of package I cut out a rectangle one and a half inches wide by 100 recore of an",
+    "start": 77
+  },
+  {
+    "content": "inch tall and apply a swirl of hot glue to it and set that aside for now I'm",
+    "start": 82
+  },
+  {
+    "content": "going to collect parts to power three green LEDs here's the parts list and",
+    "start": 97
+  },
+  {
+    "content": "remember to revisit episode 56 for information on how to design and build",
+    "start": 104
+  },
+  {
+    "content": "custom lighting circuits here's a bunch of fake diamonds I bought at the",
+    "start": 109
+  },
+  {
+    "content": "crafting store it was like a pouch of them for five bucks included a few big",
+    "start": 113
+  },
+  {
+    "content": "ones so we're going to take one of those and set it aside for now I've cut a 5",
+    "start": 117
+  },
+  {
+    "content": "inch square from sturdy chipboard here's the stuff that I use and draw lines on",
+    "start": 123
+  },
+  {
+    "content": "it to indicate where those four main body pieces are going to be attached",
+    "start": 131
+  },
+  {
+    "content": "basically measure in one and three quarters of an inch from each corner and",
+    "start": 135
+  },
+  {
+    "content": "connect the lines across now print this smaller template and again build four of",
+    "start": 139
+  },
+  {
+    "content": "them from cereal box next print this template trace and cut",
+    "start": 146
+  },
+  {
+    "content": "out three copies of it from double corrugated cardboard and apply",
+    "start": 155
+  },
+  {
+    "content": "corrugation cladding if you're new to the channel that just means hot glue on",
+    "start": 159
+  },
+  {
+    "content": "some very thin cardstock to the corrugation and then with this piece",
+    "start": 163
+  },
+  {
+    "content": "trace and cut out two pieces of dollar-store foam board and two pieces",
+    "start": 170
+  },
+  {
+    "content": "of single corrugated cardboard again with corrugation cladding",
+    "start": 174
+  },
+  {
+    "content": "so you sandwich all these together with hot glue and the overall thickness comes",
+    "start": 179
+  },
+  {
+    "content": "out to one and a half inches nice make sure to align them about the inner",
+    "start": 184
+  },
+  {
+    "content": "bottom corner now hot glue the whole thing to the base plate",
+    "start": 188
+  },
+  {
+    "content": "and then hot glue two of the main body pieces to each side of it as shown",
+    "start": 198
+  },
+  {
+    "content": "make sure to glue the bottoms and sides for strength work quickly so that the",
+    "start": 204
+  },
+  {
+    "content": "hot glue doesn't cool on you now one thing I forgot to do cut out that middle",
+    "start": 208
+  },
+  {
+    "content": "one and a half inch square then cut three half inch tall double corrugated",
+    "start": 215
+  },
+  {
+    "content": "cardboard strips and hot glue those at the locations shown one on each side of",
+    "start": 220
+  },
+  {
+    "content": "the hole and one at what will later become the front of the monolith now I'm",
+    "start": 225
+  },
+  {
+    "content": "going to stage a pair of wires through the hole in the base plate leaving lots",
+    "start": 231
+  },
+  {
+    "content": "of slack on both ends just pin them to the wall with a bit of hot glue for",
+    "start": 235
+  },
+  {
+    "content": "right now and again from chipboard cut out this rectangle dimensions as shown",
+    "start": 238
+  },
+  {
+    "content": "and hot glue it on as you see here bending the flap at the end",
+    "start": 245
+  },
+  {
+    "content": "now you have a little compartment underneath and this is where you hide",
+    "start": 258
+  },
+  {
+    "content": "your battery and switch in hindsight I should have soldered those up before",
+    "start": 261
+  },
+  {
+    "content": "attaching the wires would have been a lot easier",
+    "start": 265
+  },
+  {
+    "content": "but anyways get them connected up again episode 56 if you need a refresher on",
+    "start": 267
+  },
+  {
+    "content": "the circuit now I prepare my LEDs by soldering their",
+    "start": 273
+  },
+  {
+    "content": "resistors to one leg and a bit of hot glue for strength and insulation and see",
+    "start": 276
+  },
+  {
+    "content": "what I've done here just a bit of foam board to mount them to and solder them",
+    "start": 282
+  },
+  {
+    "content": "to those wires that we'd staged before which I've cut down to proper size now",
+    "start": 286
+  },
+  {
+    "content": "also you'll see a new pair of wires tapped in here as well these are going",
+    "start": 291
+  },
+  {
+    "content": "to be used later on for the third LED",
+    "start": 295
+  },
+  {
+    "content": "now we can go ahead and hot glue our portal surface on right at the front",
+    "start": 306
+  },
+  {
+    "content": "edge and ensuring that it's parallel to the main body then attach a strip of",
+    "start": 310
+  },
+  {
+    "content": "cereal box to complete this sort of chamber take the opportunity and slather",
+    "start": 317
+  },
+  {
+    "content": "the compartment with a light or lime green color now hot glue on the other",
+    "start": 325
+  },
+  {
+    "content": "big pieces those arcs and the two main body quadrants and another strip of",
+    "start": 329
+  },
+  {
+    "content": "chipboard one and a half inches wide scored lightly to give sections of two",
+    "start": 342
+  },
+  {
+    "content": "inches three inches and four and three-eighths of an inch punch a hole as",
+    "start": 347
+  },
+  {
+    "content": "shown for the wires and hot glue it in place",
+    "start": 352
+  },
+  {
+    "content": "now I raided my old Lego collection for",
+    "start": 362
+  },
+  {
+    "content": "technics pieces I look for some structural members that were black and",
+    "start": 370
+  },
+  {
+    "content": "which I could use to make a sort of curving boom arm just like the original",
+    "start": 374
+  },
+  {
+    "content": "inspirational image here's what I came up with and a little superglue to make",
+    "start": 379
+  },
+  {
+    "content": "them permanent hot glue a strip of cereal box to that and then I realized",
+    "start": 384
+  },
+  {
+    "content": "that the holes in these pieces would be a neat opportunity to intertwine the",
+    "start": 401
+  },
+  {
+    "content": "wires through so I did that and solder the third LED in place attaching it to",
+    "start": 405
+  },
+  {
+    "content": "the boom arm with hot glue let's make the front door chipboard one and a half",
+    "start": 413
+  },
+  {
+    "content": "inches wide by one and three quarters of an inch tall and a thinner piece of",
+    "start": 422
+  },
+  {
+    "content": "cereal box glued to the middle of that then I rated my bead collection and",
+    "start": 426
+  },
+  {
+    "content": "found some circular metal bits and chopped those as well as some toothpicks",
+    "start": 430
+  },
+  {
+    "content": "attaching them with superglue to recreate the icon from the inspirational",
+    "start": 434
+  },
+  {
+    "content": "image set the door aside for now as for the back inject hot glue into some",
+    "start": 438
+  },
+  {
+    "content": "drinking straws and attach those and then attach an applesauce pouch cap this",
+    "start": 446
+  },
+  {
+    "content": "is the same time I used for the airship back in episode 47 okay airbrush I love",
+    "start": 452
+  },
+  {
+    "content": "this thing it's entry level very cheap but for under 100 bucks it was the",
+    "start": 459
+  },
+  {
+    "content": "compressor and this so the price was right for a new tube like myself I've",
+    "start": 463
+  },
+  {
+    "content": "based the whole model in black ignore the highlights you see on the right now",
+    "start": 468
+  },
+  {
+    "content": "I was just experimenting before I got started so I start with grass green or",
+    "start": 472
+  },
+  {
+    "content": "any really kind of forest green will do mix it directly in the cup with a few",
+    "start": 476
+  },
+  {
+    "content": "drops of deionized water and then go I'm running at about 10 psi here I tried to",
+    "start": 480
+  },
+  {
+    "content": "add a faint glow to most of the black so I sprayed from a distance so it would be",
+    "start": 486
+  },
+  {
+    "content": "a light application then along the corners and edges I got a bit closer to",
+    "start": 490
+  },
+  {
+    "content": "create the first stage of a goo in effect next up is a lime-green color",
+    "start": 496
+  },
+  {
+    "content": "which I only applied to the corners and edges a little closer in so that the",
+    "start": 507
+  },
+  {
+    "content": "width of the beam is slightly smaller than the original base screen again",
+    "start": 511
+  },
+  {
+    "content": "we're working up towards a glow effect lastly I took some yellow thinned",
+    "start": 516
+  },
+  {
+    "content": "slightly and edge highlighted the entire model you can clearly see where I",
+    "start": 526
+  },
+  {
+    "content": "started to get impatient on the backside and I did a really bad job but this is",
+    "start": 530
+  },
+  {
+    "content": "cardboard as a proxy if I everybody the real thing then I would dedicate time to",
+    "start": 534
+  },
+  {
+    "content": "make it perfect note that when you apply the yellow will seem too bold but have",
+    "start": 538
+  },
+  {
+    "content": "faith when it dries it will be muted and finally I took that fake diamond and",
+    "start": 543
+  },
+  {
+    "content": "hot glued it to some random black Lego piece which I attach to the top and here",
+    "start": 555
+  },
+  {
+    "content": "it is in my army of necrons including the annihilation barge we did back in",
+    "start": 561
+  },
+  {
+    "content": "episode 55 if there's well well there's a bunch of things I do different but I",
+    "start": 565
+  },
+  {
+    "content": "wish there was a way I could have made the portal surface a little foggier so",
+    "start": 570
+  },
+  {
+    "content": "that it would throw more light right now it's see-through and you can see the two",
+    "start": 574
+  },
+  {
+    "content": "lights and it doesn't really glow although in the dark it's not so bad",
+    "start": 578
+  },
+  {
+    "content": "where we'll get a look at it in the dark this is a particularly challenging",
+    "start": 582
+  },
+  {
+    "content": "project if you're thinking about an airbrush I recommend you pull the",
+    "start": 590
+  },
+  {
+    "content": "trigger and you do it again here's the one I bought alright guys I'm going to",
+    "start": 594
+  },
+  {
+    "content": "be off for two or maybe three weeks got some big renovations for the channel",
+    "start": 601
+  },
+  {
+    "content": "coming up very excited about it so I'm why lock and I will see you next",
+    "start": 606
+  },
+  {
+    "content": "time you",
+    "start": 611
+  },
+  {
+    "content": "",
+    "start": 616
+  }
+]

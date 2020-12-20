@@ -1,0 +1,1558 @@
+[
+  {
+    "content": "huh a letter from frankie",
+    "start": 3
+  },
+  {
+    "content": "all right let's see what we got here dear mr",
+    "start": 9
+  },
+  {
+    "content": "wylock mr please you can refer to me as your god king",
+    "start": 12
+  },
+  {
+    "content": "you may not know who i am yeah i do we met in north carolina last year",
+    "start": 17
+  },
+  {
+    "content": "although at the time i didn't realize who you were",
+    "start": 22
+  },
+  {
+    "content": "but i have a bone to pick with you oh maybe that's because i didn't realize",
+    "start": 25
+  },
+  {
+    "content": "who you were i wanted to challenge you to a duel to the death",
+    "start": 29
+  },
+  {
+    "content": "but my girlfriend informed me that that's not a thing people do anymore",
+    "start": 33
+  },
+  {
+    "content": "yeah girlfriend sure so after my girlfriend shut down three more of my",
+    "start": 38
+  },
+  {
+    "content": "ideas she suggested i simply challenge you to a non-deadly craft off",
+    "start": 43
+  },
+  {
+    "content": "using non-radioactive materials i suggest that we have your patrons",
+    "start": 48
+  },
+  {
+    "content": "choose the theme and my patrons choose the material okay",
+    "start": 54
+  },
+  {
+    "content": "mine chose diesel punk skytrain and yours chose salvaged electronics",
+    "start": 58
+  },
+  {
+    "content": "yours truly frankie d crafter yours truly your god king",
+    "start": 64
+  },
+  {
+    "content": "here we go",
+    "start": 79
+  },
+  {
+    "content": "what exactly is diesel punk yeah i definitely could not have a",
+    "start": 89
+  },
+  {
+    "content": "repeat of the steampunk tile incident here so let's go ahead and",
+    "start": 94
+  },
+  {
+    "content": "search okay diesel punk is a genre similar to steampunk that combines the",
+    "start": 98
+  },
+  {
+    "content": "aesthetics of the diesel based technology of the interwar period",
+    "start": 102
+  },
+  {
+    "content": "through the 1950s with retro-futuristic technology",
+    "start": 107
+  },
+  {
+    "content": "and post-modern sensibilities okay a bit of a mouthful",
+    "start": 111
+  },
+  {
+    "content": "but i think from this image over on the right i sort of am starting to get it",
+    "start": 114
+  },
+  {
+    "content": "i'm just gonna go ahead and search for diesel punk train",
+    "start": 118
+  },
+  {
+    "content": "ah okay so that 1930s 40s 50s sort of art deco look",
+    "start": 121
+  },
+  {
+    "content": "oh i like this one yeah i like this so this will be challenging it's very clean",
+    "start": 127
+  },
+  {
+    "content": "looking i'm not going to be able to hide my sins with weathering",
+    "start": 131
+  },
+  {
+    "content": "i'm going to use this as the basis so let's get started",
+    "start": 134
+  },
+  {
+    "content": "and remember that our sponsor is heroes hoard for you 3d printers out there",
+    "start": 137
+  },
+  {
+    "content": "excellent selection including all true tiles lines",
+    "start": 141
+  },
+  {
+    "content": "what i've got here is a dvd player from the attic it's been up there for",
+    "start": 145
+  },
+  {
+    "content": "eight uh maybe 10 years something like that",
+    "start": 150
+  },
+  {
+    "content": "anyway there's surprisingly little inside of it just took it apart",
+    "start": 153
+  },
+  {
+    "content": "use the screwdriver pry bar whatever is needed",
+    "start": 157
+  },
+  {
+    "content": "and found all kinds of neat little components some of these i'm going to",
+    "start": 161
+  },
+  {
+    "content": "use decoratively and i decided that some i will actually use",
+    "start": 164
+  },
+  {
+    "content": "as electronic components i'll explain what i mean later",
+    "start": 168
+  },
+  {
+    "content": "circuit boards not very diesel punk but all this other stuff i'm gonna find a",
+    "start": 171
+  },
+  {
+    "content": "use for whether it's in this project or another",
+    "start": 177
+  },
+  {
+    "content": "it is helpful when taking apart old electronics to have",
+    "start": 180
+  },
+  {
+    "content": "flush cut snips and a soldering iron handy",
+    "start": 183
+  },
+  {
+    "content": "another preliminary i know i'm gonna need christmas lights i've used these",
+    "start": 187
+  },
+  {
+    "content": "before in several projects so i won't go too deep into this but",
+    "start": 191
+  },
+  {
+    "content": "these are the led kind so i'm gonna go ahead and test them",
+    "start": 194
+  },
+  {
+    "content": "into my electronic supply box to get some wire and some resistors",
+    "start": 199
+  },
+  {
+    "content": "now some basic research on these led christmas lights",
+    "start": 203
+  },
+  {
+    "content": "it varies from manufacturer to manufacturer but in general",
+    "start": 206
+  },
+  {
+    "content": "they have a forward voltage of about 1.2 and an ideal carrying current between 40",
+    "start": 209
+  },
+  {
+    "content": "and 60 milliamps so on this 9 volt battery i tried out a",
+    "start": 215
+  },
+  {
+    "content": "100 ohm resistor and it worked just fine",
+    "start": 219
+  },
+  {
+    "content": "okay pringles can i cut off the top and the bottom",
+    "start": 225
+  },
+  {
+    "content": "and then i cut it in half exactly and then i cut",
+    "start": 229
+  },
+  {
+    "content": "those halves in half a ruler is essential here",
+    "start": 233
+  },
+  {
+    "content": "so these will kind of form the top of the train that tubular",
+    "start": 238
+  },
+  {
+    "content": "shape that you see this is the basis for it this is how we start",
+    "start": 242
+  },
+  {
+    "content": "now the curve at the front is going to be a little tricky",
+    "start": 246
+  },
+  {
+    "content": "what i did is measure out one inch increments",
+    "start": 249
+  },
+  {
+    "content": "five of them and then cut almost all the way through just maybe a few millimeters",
+    "start": 252
+  },
+  {
+    "content": "left uncut and then the idea is that those",
+    "start": 257
+  },
+  {
+    "content": "will fold under each other a little bit to form the curve a little",
+    "start": 260
+  },
+  {
+    "content": "dab of hot glue at each i guess fold or cascade whatever",
+    "start": 265
+  },
+  {
+    "content": "you'd call it and i end up with the curve very nice",
+    "start": 268
+  },
+  {
+    "content": "and you can see that smooth silver on the inside you may think that nothing's",
+    "start": 273
+  },
+  {
+    "content": "going to stick to that it's actually very papery it does take",
+    "start": 276
+  },
+  {
+    "content": "glue very well the hot glue sticks just fine",
+    "start": 279
+  },
+  {
+    "content": "doing the other side and this is mirrored so be careful of that",
+    "start": 283
+  },
+  {
+    "content": "now with some cereal box just a thinner cardstock it's my other",
+    "start": 288
+  },
+  {
+    "content": "preferred material i cut a one and a quarter inch strip and hot glued it to",
+    "start": 291
+  },
+  {
+    "content": "the underside just welding it basically with hot glue from",
+    "start": 296
+  },
+  {
+    "content": "the underside i also threw some patches on there you",
+    "start": 300
+  },
+  {
+    "content": "can see to reinforce those joints now moving on to chipboard this is",
+    "start": 306
+  },
+  {
+    "content": "graphics medium chipboard it's the stuff at the back of a legal pad",
+    "start": 311
+  },
+  {
+    "content": "but you can buy it in bulk like i do if you want there's links in the video",
+    "start": 315
+  },
+  {
+    "content": "description below anyway i cut a shape to form the wall of",
+    "start": 318
+  },
+  {
+    "content": "the train car and it's going to need two pieces but",
+    "start": 322
+  },
+  {
+    "content": "again this is just hot glued on to the inside",
+    "start": 325
+  },
+  {
+    "content": "and then hot gluing a panel onto the back and for these weird curved pieces",
+    "start": 329
+  },
+  {
+    "content": "i find that rather than measure it's easier to just hot glue on an oversized",
+    "start": 333
+  },
+  {
+    "content": "piece and then cut away the excess using the",
+    "start": 337
+  },
+  {
+    "content": "body of the piece as a jig like you see me doing with the",
+    "start": 340
+  },
+  {
+    "content": "scissors here that's how you get the smoothest result",
+    "start": 343
+  },
+  {
+    "content": "so here's the shell nice and strong ready to go",
+    "start": 347
+  },
+  {
+    "content": "this is double corrugated cardboard i harvest this stuff from",
+    "start": 352
+  },
+  {
+    "content": "the things that i buy anyway i'm gonna trace the shell",
+    "start": 356
+  },
+  {
+    "content": "onto it and then cut it out this is the base plate for the actual playable",
+    "start": 359
+  },
+  {
+    "content": "interior for doing curves multiple passes like six or seven passes starting",
+    "start": 364
+  },
+  {
+    "content": "with a very light one we'll get you a good curve in double",
+    "start": 370
+  },
+  {
+    "content": "corrugated cardboard then i have some very light card stock",
+    "start": 373
+  },
+  {
+    "content": "even paper would work here whatever this is corrugation cladding so",
+    "start": 377
+  },
+  {
+    "content": "i just hot glue it onto the edge very nice you might recognize these wood",
+    "start": 381
+  },
+  {
+    "content": "bits from the crafting store like michael's or a hobby lobby or",
+    "start": 392
+  },
+  {
+    "content": "whatever you have in your neck of the woods",
+    "start": 396
+  },
+  {
+    "content": "so i'm going to glue three of these to some chipboard cut away the excess",
+    "start": 398
+  },
+  {
+    "content": "and this is a bank of hover pads or engines or whatever you want to call",
+    "start": 403
+  },
+  {
+    "content": "them there will be 12 total three per bank i",
+    "start": 406
+  },
+  {
+    "content": "black bombed them punched holes to mount christmas lights here",
+    "start": 410
+  },
+  {
+    "content": "here's where those leds come in the blue ones testing it with a nine volt",
+    "start": 414
+  },
+  {
+    "content": "and it glows nicely this is gonna look good all right next up base coat with a",
+    "start": 419
+  },
+  {
+    "content": "metallic silver inside and out doing it on the inside as",
+    "start": 423
+  },
+  {
+    "content": "well really helps the glow to be more pronounced",
+    "start": 427
+  },
+  {
+    "content": "and you can see these are mounted to the back using hot glue",
+    "start": 432
+  },
+  {
+    "content": "from here i'm soldering on the resistors one for each led",
+    "start": 436
+  },
+  {
+    "content": "and all the electronics in this piece are going to be done in parallel",
+    "start": 440
+  },
+  {
+    "content": "a lot of battery draw but it is a 9 volt so i'm not too worried",
+    "start": 444
+  },
+  {
+    "content": "also what i'm doing here is strain relief putting some hot glue on to",
+    "start": 448
+  },
+  {
+    "content": "mitigate any minor bending that might happen and to prevent the leads from",
+    "start": 452
+  },
+  {
+    "content": "touching each other hardy ready to go now i'm going to cut",
+    "start": 455
+  },
+  {
+    "content": "the pads to which those engines will be mounted",
+    "start": 462
+  },
+  {
+    "content": "and i'm cutting at a 45 degree angle here so look at my hand",
+    "start": 464
+  },
+  {
+    "content": "and i'll show it again there turn cutting at 45 degrees",
+    "start": 467
+  },
+  {
+    "content": "so that i get a nice rectangle with these sloped edges",
+    "start": 472
+  },
+  {
+    "content": "just like that and then when these are hot glued on",
+    "start": 476
+  },
+  {
+    "content": "they'll be at a nice angle you won't actually be able to see the led",
+    "start": 480
+  },
+  {
+    "content": "itself just the glow emanating out and sort of downward",
+    "start": 483
+  },
+  {
+    "content": "and these two assemblies get glued to the underside of the base plate",
+    "start": 489
+  },
+  {
+    "content": "at positions that are just aesthetically pleasing so you can see the line on",
+    "start": 494
+  },
+  {
+    "content": "there i pre-measured where i wanted it to go",
+    "start": 497
+  },
+  {
+    "content": "and then i eyeballed to make sure there was some overhang on each side",
+    "start": 499
+  },
+  {
+    "content": "there's about five millimeters on each side and that's important that's what",
+    "start": 503
+  },
+  {
+    "content": "the shell actually sits on to make everything",
+    "start": 506
+  },
+  {
+    "content": "flush all right so at this point i got to do",
+    "start": 509
+  },
+  {
+    "content": "some fun stuff the electronics start coming together",
+    "start": 512
+  },
+  {
+    "content": "tying all these leads together checking the polarities first",
+    "start": 515
+  },
+  {
+    "content": "using solder this is some good old-fashioned leaded solder",
+    "start": 519
+  },
+  {
+    "content": "that is literally from the basement of a campus",
+    "start": 523
+  },
+  {
+    "content": "nuclear reactor that i was a licensed operator for",
+    "start": 526
+  },
+  {
+    "content": "i smuggled it out on my last day after graduation anyway again for strain",
+    "start": 529
+  },
+  {
+    "content": "relief hot gluing these down once they're all tied together",
+    "start": 534
+  },
+  {
+    "content": "now i'm checking for roughly where i want the rooms to be i know i want there",
+    "start": 538
+  },
+  {
+    "content": "to be a pilot area a middle main gathering area and then an",
+    "start": 541
+  },
+  {
+    "content": "engine room so for the engine room that's where the",
+    "start": 545
+  },
+  {
+    "content": "9 volt battery is going to go it's sort of going to be the power source just",
+    "start": 548
+  },
+  {
+    "content": "like the engine would be and so i'm just sort of figuring out",
+    "start": 551
+  },
+  {
+    "content": "where the wall is going to go and then punching a hole through to run",
+    "start": 554
+  },
+  {
+    "content": "the mains for the 9 volt this is a header from the dvd player and",
+    "start": 558
+  },
+  {
+    "content": "these wires are very thin wispy um very delicate i think they'd be",
+    "start": 566
+  },
+  {
+    "content": "easy to run through corrugation and stuff so i'm going to switch to using",
+    "start": 570
+  },
+  {
+    "content": "these instead of that stiffer stranded lead wire that i was",
+    "start": 573
+  },
+  {
+    "content": "using measuring out and puncturing holes in",
+    "start": 576
+  },
+  {
+    "content": "just the right places in what will become the wall so only going",
+    "start": 579
+  },
+  {
+    "content": "halfway through like one layer of this double corrugated",
+    "start": 584
+  },
+  {
+    "content": "and that way i could run a pair of wires through the channel and they're hidden",
+    "start": 587
+  },
+  {
+    "content": "in the wall i punched a corresponding hole in the",
+    "start": 591
+  },
+  {
+    "content": "floor on the base plate pulled the wires through and then hot",
+    "start": 595
+  },
+  {
+    "content": "glued that wall in place",
+    "start": 598
+  },
+  {
+    "content": "the compartment for the nine volt battery was simply made out of",
+    "start": 607
+  },
+  {
+    "content": "rectangles of chipboard i just measured out how big i needed add a few",
+    "start": 610
+  },
+  {
+    "content": "millimeters in each direction and hot glue them on there piece of cake",
+    "start": 613
+  },
+  {
+    "content": "for the top of it for the lid i cut two",
+    "start": 621
+  },
+  {
+    "content": "rectangles one a bit smaller than the other",
+    "start": 629
+  },
+  {
+    "content": "and these are actually measured down to the millimeter very precise",
+    "start": 631
+  },
+  {
+    "content": "because you'll see it's sort of keyed to fit in",
+    "start": 635
+  },
+  {
+    "content": "to the opening this way the lid can't slide around",
+    "start": 638
+  },
+  {
+    "content": "there very sturdy you see what i mean and then this thing it looks like a",
+    "start": 641
+  },
+  {
+    "content": "transformer maybe i it came out of the dvd player but i",
+    "start": 647
+  },
+  {
+    "content": "think i'm going to mount it on the top it kind of looks like",
+    "start": 650
+  },
+  {
+    "content": "uh i i don't know maybe engine ish and then these capacitors also cut off the",
+    "start": 653
+  },
+  {
+    "content": "circuit boards from the dvd player these will look like cylinders",
+    "start": 657
+  },
+  {
+    "content": "and then another wall with wires inside to create the",
+    "start": 663
+  },
+  {
+    "content": "compartment for the pilot or the driver whatever you want to call it",
+    "start": 667
+  },
+  {
+    "content": "and while i was up there i was thinking about control panel so here's just a",
+    "start": 671
+  },
+  {
+    "content": "little bit of chipboard and here's some resistors ripped off the",
+    "start": 674
+  },
+  {
+    "content": "dvd player if i cut off one end of the leads and",
+    "start": 678
+  },
+  {
+    "content": "sort of unbend the other one they're nice looking levers sort of",
+    "start": 682
+  },
+  {
+    "content": "either i don't know diesel punk steampunk certainly not modern",
+    "start": 686
+  },
+  {
+    "content": "definitely anachronistic",
+    "start": 689
+  },
+  {
+    "content": "once again rocking the shell of a hair curler from the dollar store",
+    "start": 696
+  },
+  {
+    "content": "snipped a short length of that and then glued on some chipboard",
+    "start": 701
+  },
+  {
+    "content": "punched a hole and mounted a single throw switch",
+    "start": 705
+  },
+  {
+    "content": "in there this will tap back to the battery mains",
+    "start": 708
+  },
+  {
+    "content": "and so basically up in the compartment where you would control",
+    "start": 711
+  },
+  {
+    "content": "the train that's where you'll control all of the power like for the lights and",
+    "start": 714
+  },
+  {
+    "content": "stuff so you can see i've put a hole in the",
+    "start": 718
+  },
+  {
+    "content": "floor there and i'm doing a little painting ahead of time as well because",
+    "start": 720
+  },
+  {
+    "content": "it's cleaner that way but ultimately the whole control panel",
+    "start": 723
+  },
+  {
+    "content": "would be run through and that switch is gonna turn stuff on",
+    "start": 727
+  },
+  {
+    "content": "and off for all the lights in the piece",
+    "start": 730
+  },
+  {
+    "content": "i don't have any drawing like artistic talent so i google image searched for",
+    "start": 739
+  },
+  {
+    "content": "some art deco wallpaper printed it up cut it punched holes in",
+    "start": 743
+  },
+  {
+    "content": "the corresponding areas and then glued it onto the wall",
+    "start": 747
+  },
+  {
+    "content": "with a glue stick those leads i attached some amber",
+    "start": 751
+  },
+  {
+    "content": "colored christmas lights to and for these i think i used the 220 ohm",
+    "start": 760
+  },
+  {
+    "content": "resistor because most leds other than blue",
+    "start": 763
+  },
+  {
+    "content": "have a lower forward voltage but honestly it would probably work fine",
+    "start": 766
+  },
+  {
+    "content": "with 100 as well anyways those just got glued to the wall",
+    "start": 770
+  },
+  {
+    "content": "the slack taken up everything tied together underneath and",
+    "start": 773
+  },
+  {
+    "content": "here's the first test run legit the first time i turned everything",
+    "start": 775
+  },
+  {
+    "content": "on and it's good to go 12 engines and four cozy dim amber",
+    "start": 779
+  },
+  {
+    "content": "lights now i'm not yet done with the shell",
+    "start": 785
+  },
+  {
+    "content": "let's take another look at the inspirational image i'm going off of",
+    "start": 788
+  },
+  {
+    "content": "there's these personnel walkways sort of on these uh",
+    "start": 792
+  },
+  {
+    "content": "buttresses or flanks on the side of the shell",
+    "start": 795
+  },
+  {
+    "content": "so to build that going back to chipboard and i'm going to cut it at a",
+    "start": 798
+  },
+  {
+    "content": "slant to sort of contrast with the curve that's at the front",
+    "start": 802
+  },
+  {
+    "content": "i think that sort of is one of the elements of the",
+    "start": 806
+  },
+  {
+    "content": "the diesel punk art deco whatever of this period",
+    "start": 809
+  },
+  {
+    "content": "and then a three-quarter inch wide strip of double corrugated cardboard to make",
+    "start": 813
+  },
+  {
+    "content": "the walkway so that gets hot glued on and while i",
+    "start": 816
+  },
+  {
+    "content": "was here it occurred to me those curves up in the front for those",
+    "start": 820
+  },
+  {
+    "content": "seams i'm gonna lay down thin beads of hot glue to make them look",
+    "start": 823
+  },
+  {
+    "content": "like weld lines i did this before for the fuel depot and",
+    "start": 827
+  },
+  {
+    "content": "it worked out great then so we'll see how this goes",
+    "start": 830
+  },
+  {
+    "content": "also while i was at it some cereal box card stock to just cover up",
+    "start": 835
+  },
+  {
+    "content": "a bunch of the other exposed edges and generally just clean it up make it look",
+    "start": 838
+  },
+  {
+    "content": "a little nicer so with two supports on the side and",
+    "start": 842
+  },
+  {
+    "content": "then some healthy beads of hot glue i put on the chipboard slab and you can",
+    "start": 847
+  },
+  {
+    "content": "see i had pre-drawn and cut out the like oval shaped",
+    "start": 851
+  },
+  {
+    "content": "nacelles where the engines are going to show",
+    "start": 855
+  },
+  {
+    "content": "through yeah just like that so there's a quarter inch there that is",
+    "start": 857
+  },
+  {
+    "content": "going to allow the miniature to sort of lean against the body of the train even",
+    "start": 863
+  },
+  {
+    "content": "though most bases are one inch wide so that makes it a perfectly playable",
+    "start": 867
+  },
+  {
+    "content": "exterior surface like if you're being boarded or something",
+    "start": 871
+  },
+  {
+    "content": "i've got some smooth gloss slick paper here so i'm going to take this outside",
+    "start": 875
+  },
+  {
+    "content": "and prime it before trying to paint it while the primer is drying here are some",
+    "start": 879
+  },
+  {
+    "content": "wooden crafting picks i just painted them up with a metallic",
+    "start": 884
+  },
+  {
+    "content": "silver and then white glued on a few flat back",
+    "start": 887
+  },
+  {
+    "content": "gemstones 12 of them six per stick these are going to be like the indicator",
+    "start": 890
+  },
+  {
+    "content": "lights for which engines are operational and i glued them to the wall behind the",
+    "start": 896
+  },
+  {
+    "content": "pilot because it can't be a ylc project",
+    "start": 901
+  },
+  {
+    "content": "without gratuitous bejeweling this is some thick low gauge wire i",
+    "start": 904
+  },
+  {
+    "content": "don't remember where i got it i tried to bend it into shape to sort of",
+    "start": 912
+  },
+  {
+    "content": "trail along the side of the train again like the",
+    "start": 916
+  },
+  {
+    "content": "source image but proved too difficult to work with so instead these styrene",
+    "start": 920
+  },
+  {
+    "content": "crafting rods they're already straight out of the box",
+    "start": 924
+  },
+  {
+    "content": "and they're pretty flexible you can use heat to keep them in place but i was",
+    "start": 928
+  },
+  {
+    "content": "able to do it just with glue so i used some dabs of super glue in the",
+    "start": 932
+  },
+  {
+    "content": "right spots a little bit of accelerant and so that's how i achieve those",
+    "start": 936
+  },
+  {
+    "content": "runners at the back of the train i want a",
+    "start": 940
+  },
+  {
+    "content": "platform to stand on so i measured out some double corrugated cardboard and cut",
+    "start": 944
+  },
+  {
+    "content": "a piece and then i clad it with cereal box now",
+    "start": 948
+  },
+  {
+    "content": "this is i don't know half inch thick so it's got",
+    "start": 952
+  },
+  {
+    "content": "a lip and it sort of overhangs a little bit on the top",
+    "start": 954
+  },
+  {
+    "content": "then hot glued to the back done and done at this point i also realized it'd be",
+    "start": 958
+  },
+  {
+    "content": "good to have access ladders to go from that platform",
+    "start": 963
+  },
+  {
+    "content": "up to the catwalks on the side of the shell so",
+    "start": 967
+  },
+  {
+    "content": "again back to the dollar store hair curlers taking the interior portion out",
+    "start": 970
+  },
+  {
+    "content": "and cutting one row of rungs out perfect okay so i lied earlier",
+    "start": 975
+  },
+  {
+    "content": "now i'm going to take it out and do some primer except there's one other thing i",
+    "start": 982
+  },
+  {
+    "content": "need to check look at this the front kind of looks",
+    "start": 986
+  },
+  {
+    "content": "dodgy when it's put on the interior base something about it just looks clipped",
+    "start": 988
+  },
+  {
+    "content": "off this needs to mirror the back so that's what i did",
+    "start": 993
+  },
+  {
+    "content": "i cut another curved piece of double corrugated to attach to the front",
+    "start": 996
+  },
+  {
+    "content": "with a similar lip of cereal box cardstock",
+    "start": 1000
+  },
+  {
+    "content": "and then glued that to the underside of the base plate",
+    "start": 1004
+  },
+  {
+    "content": "what this does is hide the bottom of the front of the shell and sort of give it a",
+    "start": 1008
+  },
+  {
+    "content": "nice rounded out appearance again trying to aim for that",
+    "start": 1012
+  },
+  {
+    "content": "inspirational image now for real once it's primed up i gave",
+    "start": 1016
+  },
+  {
+    "content": "it a base coat with sort of a slate gray a darkish bluish gray and then i took",
+    "start": 1021
+  },
+  {
+    "content": "metallic silver and went all over i used some masking tape",
+    "start": 1026
+  },
+  {
+    "content": "put on some stripes did some details really just two colors so far",
+    "start": 1030
+  },
+  {
+    "content": "the metallic silver and the dark bluish gray going for a clean look",
+    "start": 1035
+  },
+  {
+    "content": "so no weathering for the catwalks this is cross stitch mesh",
+    "start": 1039
+  },
+  {
+    "content": "sometimes referred to as granny grating again there's links in the video",
+    "start": 1045
+  },
+  {
+    "content": "description below but i've primed it up and then i'm gonna",
+    "start": 1048
+  },
+  {
+    "content": "quickly paint it with more metallic silver",
+    "start": 1051
+  },
+  {
+    "content": "and then use some white glue to set that into the catwalk",
+    "start": 1054
+  },
+  {
+    "content": "moving back to the inside for the actual gathering meeting area",
+    "start": 1060
+  },
+  {
+    "content": "i cut various lengths of popsicle stick and hot glued them on",
+    "start": 1064
+  },
+  {
+    "content": "with no particular pattern and here it is all done up",
+    "start": 1068
+  },
+  {
+    "content": "base coated with black and to make sure i got into the edges a",
+    "start": 1071
+  },
+  {
+    "content": "wet brush is helpful here after that's dry and over brush",
+    "start": 1075
+  },
+  {
+    "content": "across the grain with brown like this then another over brush with terra cotta",
+    "start": 1079
+  },
+  {
+    "content": "sort of an orangey color i think i did actually mix in some pure",
+    "start": 1085
+  },
+  {
+    "content": "orange with this 5050 i can't remember honestly",
+    "start": 1089
+  },
+  {
+    "content": "and lastly a honey brown so this is the typical wood kit that i've used for",
+    "start": 1095
+  },
+  {
+    "content": "all wood that i've ever done again it's lightly applied against the grain",
+    "start": 1099
+  },
+  {
+    "content": "and in the end you get a real nice looking sort of",
+    "start": 1105
+  },
+  {
+    "content": "antique wood which i think fits for this piece pretty nicely",
+    "start": 1108
+  },
+  {
+    "content": "this is the actual platter that the dvd would sit on",
+    "start": 1117
+  },
+  {
+    "content": "and would spin it's surprisingly heavy and it spins very easily so i'm thinking",
+    "start": 1121
+  },
+  {
+    "content": "let's base it up this is with primer with some light gray",
+    "start": 1126
+  },
+  {
+    "content": "then some product packaging just thin clear plastic i think this was for a saw",
+    "start": 1130
+  },
+  {
+    "content": "blade i cut a rectangle and with a sharpie i",
+    "start": 1134
+  },
+  {
+    "content": "drew on the briefing materials this is going to be like a display for",
+    "start": 1137
+  },
+  {
+    "content": "the briefing or the meeting or whatever the party is doing",
+    "start": 1142
+  },
+  {
+    "content": "and this is my first attempt it's not the one i actually glued on but",
+    "start": 1145
+  },
+  {
+    "content": "you can see sharpie sticks on this pretty good you can get creative with",
+    "start": 1148
+  },
+  {
+    "content": "this again i can't draw here's a transistor again",
+    "start": 1152
+  },
+  {
+    "content": "ripped off a circuit board i'm gonna chop it down make it a nice",
+    "start": 1156
+  },
+  {
+    "content": "mounting piece for this clear screen and super glue that onto the base which",
+    "start": 1161
+  },
+  {
+    "content": "i've painted up in handsome white and black",
+    "start": 1165
+  },
+  {
+    "content": "and now it spins sweet so anyone who needs to look at the materials can sort",
+    "start": 1170
+  },
+  {
+    "content": "of swivel it around i need an idea for a",
+    "start": 1174
+  },
+  {
+    "content": "chair so back to google image search",
+    "start": 1178
+  },
+  {
+    "content": "and this one looks interesting",
+    "start": 1182
+  },
+  {
+    "content": "so it's like a u-shaped shell made out of sheet metal",
+    "start": 1187
+  },
+  {
+    "content": "and then patted brown leather for the chair inside",
+    "start": 1191
+  },
+  {
+    "content": "okay once again back to the hair curler and then cutting away i think i did four",
+    "start": 1195
+  },
+  {
+    "content": "of these tall enough that it would scale pretty good with a 28 millimeter",
+    "start": 1200
+  },
+  {
+    "content": "miniature and also be large enough that it's gonna make it's gonna",
+    "start": 1204
+  },
+  {
+    "content": "look okay when they're actually placed on it",
+    "start": 1207
+  },
+  {
+    "content": "then i encased it with a strip of cereal box cardstock",
+    "start": 1210
+  },
+  {
+    "content": "to smooth it out just hot glue in there and then i traced it onto some chipboard",
+    "start": 1213
+  },
+  {
+    "content": "and cut out that semi-circle to form the seat itself",
+    "start": 1219
+  },
+  {
+    "content": "now this i actually i've done this with foam i saw eric's hobby workshop he did",
+    "start": 1224
+  },
+  {
+    "content": "this recently i can't believe i never thought of it but",
+    "start": 1229
+  },
+  {
+    "content": "you can score and then gouge out with a pen to",
+    "start": 1231
+  },
+  {
+    "content": "like put textures into chipboard just like you can foam",
+    "start": 1234
+  },
+  {
+    "content": "it doesn't look quite as good but that's kind of the idea here so",
+    "start": 1238
+  },
+  {
+    "content": "that's what i did and then cut it out and hot glued it into place",
+    "start": 1241
+  },
+  {
+    "content": "yeah now from there it's just a couple other bits of chipboard to sort of round",
+    "start": 1247
+  },
+  {
+    "content": "out put the back in and the foot rest and you can see that a",
+    "start": 1252
+  },
+  {
+    "content": "standard one-inch base miniature fits in there just",
+    "start": 1255
+  },
+  {
+    "content": "perfectly nice and from there it's painting same",
+    "start": 1258
+  },
+  {
+    "content": "metallic silver all over and then brown on the inside",
+    "start": 1267
+  },
+  {
+    "content": "with a wash i'm not going to go into too much detail here",
+    "start": 1272
+  },
+  {
+    "content": "but this looked a little boring so looking at that image again it has some",
+    "start": 1274
+  },
+  {
+    "content": "like riveted together sheets of metal so i attached some more and painted them",
+    "start": 1279
+  },
+  {
+    "content": "up i also stippled on some metallic silver this is not a shimmering",
+    "start": 1284
+  },
+  {
+    "content": "silver it's like a darker gunmetal or whatever but it just gives it a",
+    "start": 1289
+  },
+  {
+    "content": "little bit of variety makes it a little more interesting sweet",
+    "start": 1293
+  },
+  {
+    "content": "so i made four of those also knocked out some doors so these are",
+    "start": 1296
+  },
+  {
+    "content": "just 1 by 2 inch chipboard rectangles i nicked off the four corners took some",
+    "start": 1300
+  },
+  {
+    "content": "resistors from the dvd player and cut their leads and they make good",
+    "start": 1306
+  },
+  {
+    "content": "door handles so i super glued those on along with some gears from my random",
+    "start": 1310
+  },
+  {
+    "content": "bits stock and some of these small beads that i've",
+    "start": 1315
+  },
+  {
+    "content": "used before these make good rivets so one in each corner",
+    "start": 1319
+  },
+  {
+    "content": "yeah that works paint it up with a primer then metallics and then a wash to",
+    "start": 1323
+  },
+  {
+    "content": "mucky it up going back to the engine room you can see i've laid down the",
+    "start": 1328
+  },
+  {
+    "content": "base bluish grayish color in there and then painted some white glue and laid",
+    "start": 1334
+  },
+  {
+    "content": "down more of that grainy grating here is the",
+    "start": 1338
+  },
+  {
+    "content": "engine which has been primed and now i'm basing it with a metallic",
+    "start": 1341
+  },
+  {
+    "content": "gunmetal followed by a homemade wash i actually",
+    "start": 1345
+  },
+  {
+    "content": "use the formula by midwinter minis i'll put a card on the",
+    "start": 1349
+  },
+  {
+    "content": "screen great formula it is very different from agrax earthshade so",
+    "start": 1352
+  },
+  {
+    "content": "even though it kind of seems like it could be",
+    "start": 1357
+  },
+  {
+    "content": "considered a homemade replacement it's not but i love it",
+    "start": 1359
+  },
+  {
+    "content": "for that reason it is wonderful so highly recommend that video this is a",
+    "start": 1362
+  },
+  {
+    "content": "fuse you can harvest it from most electronics",
+    "start": 1369
+  },
+  {
+    "content": "or buy it online or at most hardware stores i'm going to color it with a",
+    "start": 1372
+  },
+  {
+    "content": "sharpie and then super glue a few of them together and then stick it on the",
+    "start": 1376
+  },
+  {
+    "content": "wall it's the same technique i did for the",
+    "start": 1379
+  },
+  {
+    "content": "adeptus mechanicus objective markers way back when i'll throw a card on the",
+    "start": 1382
+  },
+  {
+    "content": "screen for that too so there it goes up on the wall",
+    "start": 1386
+  },
+  {
+    "content": "this thing another component from a circuit board in the dvd player i don't",
+    "start": 1392
+  },
+  {
+    "content": "know what it is but looks kind of generatory kind of cool so",
+    "start": 1396
+  },
+  {
+    "content": "i just glued it down there next to the fuses that wash i applied it",
+    "start": 1399
+  },
+  {
+    "content": "again to the floor here i want it to be dirty i think it's okay this is the",
+    "start": 1404
+  },
+  {
+    "content": "engine room this is where the diesel engine would be",
+    "start": 1408
+  },
+  {
+    "content": "well where it is so i think it's okay to muddy it up a",
+    "start": 1411
+  },
+  {
+    "content": "little bit there's the top fits on nicely so that's",
+    "start": 1414
+  },
+  {
+    "content": "the engine really it's the 9-volt battery but it's",
+    "start": 1418
+  },
+  {
+    "content": "providing the power for the train lastly in the very front of the train i",
+    "start": 1421
+  },
+  {
+    "content": "did put in an led holder it's on its own circuit with a three volt coin battery",
+    "start": 1428
+  },
+  {
+    "content": "and its own little switch there because this is the top shell and it gets",
+    "start": 1432
+  },
+  {
+    "content": "removed but this i think rounds out to look you",
+    "start": 1435
+  },
+  {
+    "content": "got to have this all right grand tour finished product i",
+    "start": 1438
+  },
+  {
+    "content": "think i've gone as far as i could with these particular materials",
+    "start": 1443
+  },
+  {
+    "content": "uh that being cardboard and a pringles can",
+    "start": 1448
+  },
+  {
+    "content": "so it is a little bit crude but you know it's got some charm to it as a result",
+    "start": 1451
+  },
+  {
+    "content": "also pretty rare that i'm not you know sponging or washing things to give them",
+    "start": 1456
+  },
+  {
+    "content": "weathering this was supposed to be straight up sort",
+    "start": 1460
+  },
+  {
+    "content": "of a cleaner look to try and match that inspirational image",
+    "start": 1463
+  },
+  {
+    "content": "it was a challenge and it kind of revealed some weaknesses for me so",
+    "start": 1466
+  },
+  {
+    "content": "good to know i can work on the weld lines",
+    "start": 1470
+  },
+  {
+    "content": "did not come out like i hoped that they would",
+    "start": 1473
+  },
+  {
+    "content": "uh a little bit rough that's okay and here again i'm showing a miniature",
+    "start": 1476
+  },
+  {
+    "content": "up on that catwalk so you can imagine if the party was being boarded by",
+    "start": 1481
+  },
+  {
+    "content": "invaders or something there could be a fight up here on the catwalk",
+    "start": 1486
+  },
+  {
+    "content": "fully playable exterior and obligatory in the dark shot there",
+    "start": 1489
+  },
+  {
+    "content": "you go and we can crack this thing open and",
+    "start": 1495
+  },
+  {
+    "content": "take a look at the finished interior",
+    "start": 1498
+  },
+  {
+    "content": "yep pilots room notice those sort of trapezoidal pieces that the door",
+    "start": 1504
+  },
+  {
+    "content": "is mounted on and then the spikes that go down and",
+    "start": 1510
+  },
+  {
+    "content": "they point at the bottom i kind of imagine like a 1930s theater",
+    "start": 1513
+  },
+  {
+    "content": "right like that art deco kind of look that's what i was going for here",
+    "start": 1517
+  },
+  {
+    "content": "wheeling around to the engine room i probably shouldn't but i do geek out a",
+    "start": 1522
+  },
+  {
+    "content": "bit over the fact that the engine truly is the power source for the",
+    "start": 1527
+  },
+  {
+    "content": "whole terrain piece and so there it is yep the 9 volt",
+    "start": 1531
+  },
+  {
+    "content": "battery and you'll notice for the front and for",
+    "start": 1537
+  },
+  {
+    "content": "this room i put the doors going into the center into the living area",
+    "start": 1540
+  },
+  {
+    "content": "but the living area doesn't have any doors i'd like to save that wall space i",
+    "start": 1544
+  },
+  {
+    "content": "think i'm going to put some other cool features on them",
+    "start": 1548
+  },
+  {
+    "content": "or just leave this space open so i can populate it with different scatter",
+    "start": 1550
+  },
+  {
+    "content": "i'll just say there's an interstitial space where it's assumed that the party",
+    "start": 1554
+  },
+  {
+    "content": "can you know move from one room to the other",
+    "start": 1558
+  },
+  {
+    "content": "this is abstracted it doesn't need to be perfect",
+    "start": 1560
+  },
+  {
+    "content": "so that's mine and let's take a look at his which you can see over",
+    "start": 1562
+  },
+  {
+    "content": "in his video and i'll put a card on the screen i",
+    "start": 1566
+  },
+  {
+    "content": "did not expect that there's a crab or something like that",
+    "start": 1569
+  },
+  {
+    "content": "i must say i don't think there's anything that's been done like this",
+    "start": 1573
+  },
+  {
+    "content": "before in the tabletop crafters guild community",
+    "start": 1577
+  },
+  {
+    "content": "is that blood awesome he had the same idea with the",
+    "start": 1580
+  },
+  {
+    "content": "light you've got to have that leading light on a train",
+    "start": 1583
+  },
+  {
+    "content": "and the thing i admire about frankie is he's not afraid of color",
+    "start": 1586
+  },
+  {
+    "content": "like i am this is a very vivid thing also there's not a right angle to be",
+    "start": 1590
+  },
+  {
+    "content": "found on here i love that too all right special thanks to frankie d",
+    "start": 1594
+  },
+  {
+    "content": "crafter thank you for watching make sure you go and watch his video and subscribe",
+    "start": 1599
+  },
+  {
+    "content": "until i see you next time i'm wilac make things and play games",
+    "start": 1603
+  },
+  {
+    "content": "you",
+    "start": 1625
+  }
+]

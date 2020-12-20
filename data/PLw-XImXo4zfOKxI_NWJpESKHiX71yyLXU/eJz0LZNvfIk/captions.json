@@ -1,0 +1,442 @@
+[
+  {
+    "content": "this is dmg and we're going to be talking about mapping and fog of war",
+    "start": 0
+  },
+  {
+    "content": "stick around",
+    "start": 8
+  },
+  {
+    "content": "so for mapping and fog of war the first thing you do is clear off the table of",
+    "start": 32
+  },
+  {
+    "content": "any debris like that and start to set out a tile so I'm just going to do all",
+    "start": 36
+  },
+  {
+    "content": "of this in real time so that you can see how quick it actually is to do all of",
+    "start": 45
+  },
+  {
+    "content": "this and what I'm doing is grabbing a few different sized rooms just small",
+    "start": 50
+  },
+  {
+    "content": "ones for this demonstration I do have larger ones but I'm just going to use",
+    "start": 55
+  },
+  {
+    "content": "smaller ones and you'll just see how I lay out the rooms and the corridors and",
+    "start": 59
+  },
+  {
+    "content": "the stairs I'm not going to put any of the furniture and that kind of stuff and",
+    "start": 65
+  },
+  {
+    "content": "I pretty much do that as I run the game so as a rummage discovered I then place",
+    "start": 69
+  },
+  {
+    "content": "all the little bits and pieces that are in the room so this is really just to",
+    "start": 75
+  },
+  {
+    "content": "lay out the dungeon itself so typically when I'm creating it down in you know I",
+    "start": 79
+  },
+  {
+    "content": "start to think really about why this place was actually built in the first",
+    "start": 87
+  },
+  {
+    "content": "place and you know what sort of things would have existed to to get in the way",
+    "start": 92
+  },
+  {
+    "content": "sort of natural elements and things like that but the main the main thing is to",
+    "start": 97
+  },
+  {
+    "content": "think about why was this dungeon built in the first place so there's a couple",
+    "start": 102
+  },
+  {
+    "content": "of reasons usually it would be like a conduit from one place to another a",
+    "start": 106
+  },
+  {
+    "content": "prison or a place of concentration a residence of some type for a monster or",
+    "start": 110
+  },
+  {
+    "content": "a race an important military establishment or reminder military",
+    "start": 117
+  },
+  {
+    "content": "establishment or even a place of refuge and also a place of obfuscation which is",
+    "start": 121
+  },
+  {
+    "content": "really where like a maze or a misdirection to protect another location",
+    "start": 127
+  },
+  {
+    "content": "it could also be a place of interment like a crypt or burial methods like you",
+    "start": 133
+  },
+  {
+    "content": "know ancient ancient families built up bearing all the family members in one",
+    "start": 138
+  },
+  {
+    "content": "location or it could have been a cult or something like that it could be in an",
+    "start": 145
+  },
+  {
+    "content": "area to cultivate fauna or even flora and a place to store things that you",
+    "start": 149
+  },
+  {
+    "content": "know that supply another location so you know it could be a be a storeroom for",
+    "start": 155
+  },
+  {
+    "content": "thieves guild or or for a town or it could be a store in",
+    "start": 159
+  },
+  {
+    "content": "case of a natural disaster or something the town keeps things is so there's a",
+    "start": 163
+  },
+  {
+    "content": "variety of things even things like amenities so something that serves",
+    "start": 168
+  },
+  {
+    "content": "another location so would be things like a sewer or canal or a waterway so that's",
+    "start": 172
+  },
+  {
+    "content": "sort of my thinking behind it no constructing the dungeon and thinking",
+    "start": 178
+  },
+  {
+    "content": "about what is actually you know what what was the purpose of this originally",
+    "start": 183
+  },
+  {
+    "content": "being built then I think about you know one of the natural features so in this",
+    "start": 187
+  },
+  {
+    "content": "current when you're seeing me build there's no natural features that get in",
+    "start": 191
+  },
+  {
+    "content": "the way this is basically just a slight maze type dungeon more of a storage kind",
+    "start": 194
+  },
+  {
+    "content": "of look as what was going through my mind and you know so I start to think",
+    "start": 200
+  },
+  {
+    "content": "you know if there were natural features like a river or lava or or something",
+    "start": 206
+  },
+  {
+    "content": "like that where would those bees and be and how would you go around it and you",
+    "start": 210
+  },
+  {
+    "content": "know then once I've gone through that I I then think about what it's actually",
+    "start": 216
+  },
+  {
+    "content": "used for now so obviously it had a purpose before it may now be we have",
+    "start": 221
+  },
+  {
+    "content": "changed its its use so it could now be you know a ruinous location or place of",
+    "start": 227
+  },
+  {
+    "content": "ill repair it could be under construction in new",
+    "start": 235
+  },
+  {
+    "content": "areas could be under construction the monsters may have moved into something",
+    "start": 239
+  },
+  {
+    "content": "that was in underground town or or a sewer system or something like that and",
+    "start": 243
+  },
+  {
+    "content": "so that's what I think about what it useful now and allow that to influence",
+    "start": 249
+  },
+  {
+    "content": "the theme of the actual dungeon that I'm creating so after I've come up with a",
+    "start": 252
+  },
+  {
+    "content": "theme I start to think about structural things like you know where the secret",
+    "start": 258
+  },
+  {
+    "content": "locations what are the secret locations for is it for ease of travel or storage",
+    "start": 264
+  },
+  {
+    "content": "or refuge or something like that what kind of doors would be used in this this",
+    "start": 268
+  },
+  {
+    "content": "theme you know there's no reason to have strong impenetrable metal doors in",
+    "start": 273
+  },
+  {
+    "content": "something that's used to grow mushrooms and likewise you know I begin to think",
+    "start": 278
+  },
+  {
+    "content": "about things like where do they go to the loo where do they sleep where do",
+    "start": 286
+  },
+  {
+    "content": "they eat etc and they get in and how do they get out so",
+    "start": 289
+  },
+  {
+    "content": "where the stairs ladders shafts Citra for the for the occupants of the actual",
+    "start": 293
+  },
+  {
+    "content": "dungeon if any what I don't like is if you're wandering through a dungeon and",
+    "start": 298
+  },
+  {
+    "content": "you open and you pick up and open the lock of a door and find a unicorn inside",
+    "start": 304
+  },
+  {
+    "content": "and it's been there for 4,000 years behind a solid metal door that's a bit",
+    "start": 308
+  },
+  {
+    "content": "silly you know I don't like that kind of thing you know there there must be a",
+    "start": 313
+  },
+  {
+    "content": "reason why that monsters behind the door so once I finished putting together the",
+    "start": 317
+  },
+  {
+    "content": "map yeah I started thinking where that character is going to be coming in up i",
+    "start": 321
+  },
+  {
+    "content": "place markers down as you can see with letters on them so here we go a B C and",
+    "start": 326
+  },
+  {
+    "content": "then d EF etc and this is really so that I can when I do the map I know where",
+    "start": 331
+  },
+  {
+    "content": "everything is and what are allowed to do and I can just do a list I can write out",
+    "start": 339
+  },
+  {
+    "content": "a list of what's in the room in terms of encounters or treasure or monsters etc",
+    "start": 342
+  },
+  {
+    "content": "and after that I then place little markers to represent the secret passages",
+    "start": 349
+  },
+  {
+    "content": "I usually just use numbers for that so 1 2 3 4 etc and then I place another set",
+    "start": 355
+  },
+  {
+    "content": "of small markers for traps and I use Roman numerals for that just to",
+    "start": 362
+  },
+  {
+    "content": "differentiate you'll see that now as I place them in the passage and usually",
+    "start": 365
+  },
+  {
+    "content": "when I'm placing things like a traps I consider their location in terms of what",
+    "start": 371
+  },
+  {
+    "content": "they're protecting and it's not super super random unless this is designed to",
+    "start": 377
+  },
+  {
+    "content": "be a death trap as you can see I use a mobile phone to take a photo of the",
+    "start": 382
+  },
+  {
+    "content": "dungeon that I've laid out with all the markers on it and you could use a tablet",
+    "start": 388
+  },
+  {
+    "content": "or a digital camera or any sort of camera or you could actually draw it out",
+    "start": 393
+  },
+  {
+    "content": "on graph paper seeing as these are using a universal size of six and a half",
+    "start": 397
+  },
+  {
+    "content": "centimeters you can use 1 1 square is 6.5 centimeters in the actual dungeon",
+    "start": 403
+  },
+  {
+    "content": "and you can draw it out by hand but I find it much quicker to just use my",
+    "start": 409
+  },
+  {
+    "content": "smartphone then what I do is I've got black paper which basically I got a",
+    "start": 412
+  },
+  {
+    "content": "sketch binder with black paper in it and I ripped it apart",
+    "start": 419
+  },
+  {
+    "content": "into a five pieces of paper and I use that for fog of war",
+    "start": 422
+  },
+  {
+    "content": "so first thing I do is cover all the rooms with it",
+    "start": 427
+  },
+  {
+    "content": "that leaves the corridors exposed so obviously the character is going to be",
+    "start": 431
+  },
+  {
+    "content": "walking through the corridors and you know making their way through so by",
+    "start": 434
+  },
+  {
+    "content": "placing the rooms first it's easier to take the paper off when you're going",
+    "start": 440
+  },
+  {
+    "content": "through the corridors and then as you reveal a room you can take take the",
+    "start": 447
+  },
+  {
+    "content": "paper off the room so by laying it down this way it's much easier to reveal as",
+    "start": 451
+  },
+  {
+    "content": "you go and you know it took me a few tries to figure this out not the",
+    "start": 457
+  },
+  {
+    "content": "cleverest person sometimes when it comes to these sort of things but eventually I",
+    "start": 463
+  },
+  {
+    "content": "get there so as you can see it's really you know it's because I only use the",
+    "start": 467
+  },
+  {
+    "content": "three layers of cardboard and I don't really have an issue with people being",
+    "start": 473
+  },
+  {
+    "content": "able to guess what's underneath the I mean sometimes you do get slightly",
+    "start": 478
+  },
+  {
+    "content": "raised areas but I haven't had a situation where anyone's actually being",
+    "start": 481
+  },
+  {
+    "content": "able to guess what's underneath the paper you can cut smaller pieces or",
+    "start": 485
+  },
+  {
+    "content": "custom sized pieces and that sort of thing however custom sized pieces tend",
+    "start": 489
+  },
+  {
+    "content": "to you know give you an idea of the layout of the dungeon anyway",
+    "start": 494
+  },
+  {
+    "content": "whereas this method it's sort of looks jumbled and it's difficult to pick up",
+    "start": 497
+  },
+  {
+    "content": "what's what so as you can see now I'm basically going over the corridors I'm",
+    "start": 502
+  },
+  {
+    "content": "just placing paper over the top of them so that it that covers the corridors and",
+    "start": 508
+  },
+  {
+    "content": "then you can as you're playing through you can reveal each corridor up to the",
+    "start": 513
+  },
+  {
+    "content": "vision distance of the characters that are in the dungeon at the time doesn't",
+    "start": 519
+  },
+  {
+    "content": "really slow down play in any way so that's how I do mapping and fog of war",
+    "start": 523
+  },
+  {
+    "content": "with my tiles of course there's many other ways you're doing or one of my",
+    "start": 527
+  },
+  {
+    "content": "earlier videos you may have seen I was using a black sheep I don't use that",
+    "start": 530
+  },
+  {
+    "content": "anymore I use this method with the black paper but there are other ways of doing",
+    "start": 533
+  },
+  {
+    "content": "it that's just the way that I do it so don't feel like you need to be roped in",
+    "start": 539
+  },
+  {
+    "content": "yeah thank you for watching my videos I love to read your comments and respond",
+    "start": 544
+  },
+  {
+    "content": "to them down in the comment section you can also press this button if you like",
+    "start": 548
+  },
+  {
+    "content": "the video you can subscribe and you'll get all the new videos and come out",
+    "start": 552
+  },
+  {
+    "content": "and you can visit the Facebook page where I post regular pictures about the",
+    "start": 555
+  },
+  {
+    "content": "things we had up to end is a website you may have heard of which is the DMZ in",
+    "start": 557
+  },
+  {
+    "content": "fact that was very difficult to say",
+    "start": 561
+  }
+]

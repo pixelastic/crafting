@@ -1,0 +1,782 @@
+[
+  {
+    "content": "",
+    "start": 6
+  },
+  {
+    "content": "hey guys welcome back to black magic",
+    "start": 34
+  },
+  {
+    "content": "crafts today I'm finally getting a much-needed thing off my to-do list I'm",
+    "start": 39
+  },
+  {
+    "content": "going to build myself a spray booth for my airbrush winter is coming so I I just",
+    "start": 44
+  },
+  {
+    "content": "I gotta get it done I spent a bit of time in preparation",
+    "start": 51
+  },
+  {
+    "content": "ordering some parts I got a whole bunch of stuff from Amazon a fan some ducting",
+    "start": 55
+  },
+  {
+    "content": "stuff today I went out to Home Depot got supplies to build the encasement and",
+    "start": 61
+  },
+  {
+    "content": "hopefully I can knock this whole thing out in my allotted build time I think",
+    "start": 66
+  },
+  {
+    "content": "it's possible I feel like this is a weekend project type thing I do want to",
+    "start": 71
+  },
+  {
+    "content": "say right off the bat that my decisions in building this aren't necessarily what",
+    "start": 77
+  },
+  {
+    "content": "I think are the most cost-effective or easiest they're just the things that",
+    "start": 82
+  },
+  {
+    "content": "I've chosen because it's the way I want to do it I ordered my fan and some",
+    "start": 87
+  },
+  {
+    "content": "ducting off Amazon and I will put a list of that equipment in the video",
+    "start": 91
+  },
+  {
+    "content": "description below if you want to check it out use it as a reference of course",
+    "start": 96
+  },
+  {
+    "content": "you might find better options locally I went for the convenience but I also",
+    "start": 100
+  },
+  {
+    "content": "bought a ton of stuff at Home Depot I'm making this out of MDF it's going to be",
+    "start": 105
+  },
+  {
+    "content": "a piece of furniture that I can move around I am going to install it",
+    "start": 111
+  },
+  {
+    "content": "permanently into my house I'm gonna cut a hole in my wall duct it out properly",
+    "start": 116
+  },
+  {
+    "content": "this is not gonna be a little rinky dinky collapsible thing that plugs out",
+    "start": 120
+  },
+  {
+    "content": "the window so while I still have some daylight",
+    "start": 126
+  },
+  {
+    "content": "I gotta get started and the first thing I need to do is actually plan out my",
+    "start": 130
+  },
+  {
+    "content": "cuts on the frame my initial plan for this booth was to make a spray booth for",
+    "start": 135
+  },
+  {
+    "content": "the airbrush with a fan that sucked out air and utilized the same fan",
+    "start": 142
+  },
+  {
+    "content": "with a T on the ducting to also suck out air from an encasement for my 3d",
+    "start": 147
+  },
+  {
+    "content": "printers 3d printers that I don't actually own yet but no eventually I'll",
+    "start": 155
+  },
+  {
+    "content": "probably get one my idea was that this whole side would be one piece and it",
+    "start": 159
+  },
+  {
+    "content": "would be a combined unit but I've actually shifted away from this I don't",
+    "start": 163
+  },
+  {
+    "content": "think I'm gonna build it with this encasement on it because with resin",
+    "start": 167
+  },
+  {
+    "content": "printing if I have a print going and I want to use this airbrush booth I",
+    "start": 171
+  },
+  {
+    "content": "concerned that the motion the movement from the bottom to the top could screw",
+    "start": 176
+  },
+  {
+    "content": "up the prints I don't know I could be wrong about that I thought it might be a",
+    "start": 180
+  },
+  {
+    "content": "bad idea to keep this attached so instead I'm going to focus right now",
+    "start": 183
+  },
+  {
+    "content": "just on building the bottom section in the future I can build a second box that",
+    "start": 187
+  },
+  {
+    "content": "I either bolt to this one or bolt to the wall separately or put somewhere else",
+    "start": 193
+  },
+  {
+    "content": "but still utilizes the same fan the idea here is that I have an inline fan on the",
+    "start": 197
+  },
+  {
+    "content": "wall going through one duct that has a T Y and blast gates to be able to divert",
+    "start": 202
+  },
+  {
+    "content": "the fan from the spray booth or to the resin printer or open up both I need to",
+    "start": 209
+  },
+  {
+    "content": "figure out this shape I'm just going to make use of some of the size of the",
+    "start": 214
+  },
+  {
+    "content": "material as it already is which is 48 inches long and 24 inches wide there's",
+    "start": 219
+  },
+  {
+    "content": "going to be a shelf at 28 inches which will be my work surface what I really",
+    "start": 225
+  },
+  {
+    "content": "have to figure out is this angle here I'm not quite sure how big I want these",
+    "start": 228
+  },
+  {
+    "content": "things to be it's going to be dictated by the filter that I got and I think I'm",
+    "start": 235
+  },
+  {
+    "content": "just going to lay it out and figure it out on the material itself",
+    "start": 240
+  },
+  {
+    "content": "I actually was surprised to find that you can get 10 by 20 filters I thought",
+    "start": 244
+  },
+  {
+    "content": "for sure it would be at least 24 inches long and this is good because I don't",
+    "start": 248
+  },
+  {
+    "content": "want my spray booth to be super wide it has to fit in a specific spot and I'm",
+    "start": 252
+  },
+  {
+    "content": "limited in its size I know that I want this filter to sit at an angle kind of",
+    "start": 257
+  },
+  {
+    "content": "goes against some of the spray booth designs I've seen the ones that are on",
+    "start": 262
+  },
+  {
+    "content": "the market usually they take up the whole back and perhaps that is better",
+    "start": 266
+  },
+  {
+    "content": "for airflow but I want my exhaust port to come off the rear of this it's going",
+    "start": 270
+  },
+  {
+    "content": "to have to turn into the ducting and if I put this all right at the back",
+    "start": 276
+  },
+  {
+    "content": "then this whole units gonna have to sit pretty far away from the wall and",
+    "start": 281
+  },
+  {
+    "content": "encroach on my workspace in a way that I don't want so I kind of want to cut in",
+    "start": 284
+  },
+  {
+    "content": "at an angle that means I want this like this again I also want to make sure I",
+    "start": 288
+  },
+  {
+    "content": "leave enough of a top surface here in the event I want to add that 3d printer",
+    "start": 294
+  },
+  {
+    "content": "area I feel like the top I would like to have let's say 13 inches which shouldn't",
+    "start": 300
+  },
+  {
+    "content": "be an issue for this now the natural thing to do would be to make this a",
+    "start": 309
+  },
+  {
+    "content": "45-degree angle but again because of this actually want to try to raise this",
+    "start": 313
+  },
+  {
+    "content": "up as vertically as possible so I'm gonna make this a wider angle and this",
+    "start": 317
+  },
+  {
+    "content": "is going to involve absolutely no measurements because measurements are",
+    "start": 323
+  },
+  {
+    "content": "really irrelevant here except for this one that looks about how I want this to",
+    "start": 327
+  },
+  {
+    "content": "sit I'm just gonna eyeball it commit to it with a sharpie marker and that's my",
+    "start": 331
+  },
+  {
+    "content": "cut now I want my work surface to be 28 inches from the bottom so I'll just",
+    "start": 337
+  },
+  {
+    "content": "measure that out put an X down X down that's not a cut but it lets me see what",
+    "start": 343
+  },
+  {
+    "content": "my finished work area is gonna be like and I think that this is enough room I",
+    "start": 352
+  },
+  {
+    "content": "mean I'm not airbrushing huge things it's small models I think that is enough",
+    "start": 357
+  },
+  {
+    "content": "space I need to go outside and cut two of these pieces exactly like this just",
+    "start": 362
+  },
+  {
+    "content": "that one cut off the corner there but I also need to cut pieces for the tops",
+    "start": 367
+  },
+  {
+    "content": "here the back and this shelf that's about as in-depth as my planning gets",
+    "start": 372
+  },
+  {
+    "content": "when I build this sort of thing so those side cuts some material",
+    "start": 378
+  },
+  {
+    "content": "",
+    "start": 382
+  },
+  {
+    "content": "two pieces same time",
+    "start": 400
+  },
+  {
+    "content": "okay that's all my cuts no you go inside",
+    "start": 442
+  },
+  {
+    "content": "put it together",
+    "start": 448
+  },
+  {
+    "content": "hi this is where I've gotten after a few hours of building and I gotta say I'm",
+    "start": 538
+  },
+  {
+    "content": "pretty okay with this turned out pretty decent",
+    "start": 545
+  },
+  {
+    "content": "I am already a little bit regretting that I didn't take more time to pull up",
+    "start": 549
+  },
+  {
+    "content": "the table saw and make some of these pieces that I made out a quarter inch",
+    "start": 555
+  },
+  {
+    "content": "MDF out of half-inch and do some nice mitered cuts to really make this thing",
+    "start": 558
+  },
+  {
+    "content": "look good but then I also remembered that this is just a wood box that I'm",
+    "start": 565
+  },
+  {
+    "content": "gonna spray paint into so I really shouldn't waste my time worrying about",
+    "start": 571
+  },
+  {
+    "content": "it which leads me to my next change my original concept was to have the air",
+    "start": 574
+  },
+  {
+    "content": "filter here and then use some of this pegboard or whole board whatever you",
+    "start": 581
+  },
+  {
+    "content": "call it to put in front to act as a baffle to try and catch some of the over",
+    "start": 587
+  },
+  {
+    "content": "spray paint before it hits the filter to make the filter last a little bit longer",
+    "start": 592
+  },
+  {
+    "content": "I feel like it's gonna be kind of a pain in the butt to make that fit in there",
+    "start": 597
+  },
+  {
+    "content": "and stand away from it and make everything removable especially because",
+    "start": 602
+  },
+  {
+    "content": "I have plans on adding lights here and you know what I think I'm just gonna",
+    "start": 606
+  },
+  {
+    "content": "skip it I think I'm gonna keep it simple I'm just gonna put the filter there and",
+    "start": 610
+  },
+  {
+    "content": "yeah maybe the air filters need to get changed more often I'm gonna keep that",
+    "start": 614
+  },
+  {
+    "content": "piece so that if I find they clog up way too fast I still have it and I can still",
+    "start": 618
+  },
+  {
+    "content": "do it that piece cost me $4.50 so I don't feel",
+    "start": 623
+  },
+  {
+    "content": "too bad if I don't use it now I got to paint this thing I'm gonna paint the",
+    "start": 627
+  },
+  {
+    "content": "outside all black to blend in with my room but I'm gonna paint the inside",
+    "start": 630
+  },
+  {
+    "content": "white so that it's bright and I can actually see what I'm doing while",
+    "start": 633
+  },
+  {
+    "content": "painting while the paint is drying on this thing",
+    "start": 637
+  },
+  {
+    "content": "I'm gonna start working on the venting and the biggest part of that task is",
+    "start": 648
+  },
+  {
+    "content": "getting the exhaust vent through the wall so I first have to drill a hole",
+    "start": 654
+  },
+  {
+    "content": "through my exterior wall that's always super fun the biggest challenge is that",
+    "start": 659
+  },
+  {
+    "content": "their stucco on the outside so I'll need to use a grinder to cut that out and the",
+    "start": 664
+  },
+  {
+    "content": "other challenge is hitting a spot where I want it both inside and outside",
+    "start": 669
+  },
+  {
+    "content": "without hitting a stud so wish me luck",
+    "start": 673
+  },
+  {
+    "content": "[Applause]",
+    "start": 692
+  },
+  {
+    "content": "[Applause]",
+    "start": 700
+  },
+  {
+    "content": "[Applause]",
+    "start": 711
+  },
+  {
+    "content": "getting pretty close to this thing",
+    "start": 770
+  },
+  {
+    "content": "actually being up and running and I am really glad to have that vent cut out",
+    "start": 830
+  },
+  {
+    "content": "now the stucco cutting sucks to do and I just looked at the weather and we have",
+    "start": 836
+  },
+  {
+    "content": "snow coming up in the forecast for like the next five or six days straight man",
+    "start": 842
+  },
+  {
+    "content": "even for Winnipeg this is super weird for early October the trees haven't even",
+    "start": 846
+  },
+  {
+    "content": "lost their leaves yet they're totally sagging under all this wet icy snow",
+    "start": 851
+  },
+  {
+    "content": "there's like 20 trees down in the neighborhood and 40,000 people lost",
+    "start": 855
+  },
+  {
+    "content": "power today so I had excellent time in getting this done essentially I just got",
+    "start": 859
+  },
+  {
+    "content": "a connect point A to point B I'm gonna use this four inch hose I went out of my",
+    "start": 864
+  },
+  {
+    "content": "way to order a black one because you know I was gonna use a t Y and some",
+    "start": 870
+  },
+  {
+    "content": "blast gates so that I could divert the draw of the air from the spray booth to",
+    "start": 877
+  },
+  {
+    "content": "like I said a 3d printer enclosure I don't have my 3d printer yet when I get",
+    "start": 883
+  },
+  {
+    "content": "one I don't know where it's going I'm I'm still not really sure what I'm gonna",
+    "start": 888
+  },
+  {
+    "content": "do with it so I think I'm gonna leave this out for now and just directly hook",
+    "start": 892
+  },
+  {
+    "content": "it up and I can always add this in later part of the reason I'm not bothering to",
+    "start": 897
+  },
+  {
+    "content": "connect it right now is that I ordered all these parts from this company called",
+    "start": 900
+  },
+  {
+    "content": "power tech it's specifically extraction air parts like it's meant for dust stuff",
+    "start": 904
+  },
+  {
+    "content": "in shops got these blast gates but the really silly thing is that they didn't",
+    "start": 910
+  },
+  {
+    "content": "sell couplers to attach part to part you can only attach hose to the pieces and",
+    "start": 916
+  },
+  {
+    "content": "these blast gates they require a lot of force to open and close so I don't want",
+    "start": 921
+  },
+  {
+    "content": "them just in the middle of a floppy cord I want them connected really securely so",
+    "start": 926
+  },
+  {
+    "content": "I gotta try to source out a coupler or inside connection that will work for",
+    "start": 931
+  },
+  {
+    "content": "these they're an odd size they look like ABS plumbing but they're not I'm gonna",
+    "start": 936
+  },
+  {
+    "content": "have to go to a store with one of these and try to",
+    "start": 941
+  },
+  {
+    "content": "get something to fit but for now that's not a problem because I'm just gonna",
+    "start": 945
+  },
+  {
+    "content": "skip it and just use the fan and the hose now this fan I got here is a pretty",
+    "start": 947
+  },
+  {
+    "content": "hefty fan it is 205 CFM which is fairly strong your typical bath fan is going to",
+    "start": 953
+  },
+  {
+    "content": "be less than half of that usually a big bath times like 95 CFM maybe 110 for a",
+    "start": 963
+  },
+  {
+    "content": "larger one this is also an inline fan and the",
+    "start": 970
+  },
+  {
+    "content": "reason I chose an inline fan rather than a bath fan or hood range fan that would",
+    "start": 973
+  },
+  {
+    "content": "connect just to this is again so that I could use that one fan for multiple",
+    "start": 977
+  },
+  {
+    "content": "sources of extraction because I can divert it and one thing I got to say",
+    "start": 982
+  },
+  {
+    "content": "about this fan in almost every extraction fan you will find these are",
+    "start": 987
+  },
+  {
+    "content": "not rated as spark proof so what that means is if you're using an aerosol",
+    "start": 992
+  },
+  {
+    "content": "spray paint there is technically a small chance that the vapors could ignite from",
+    "start": 997
+  },
+  {
+    "content": "a spark it's an incredibly small chance but it is a chance and nonetheless so",
+    "start": 1002
+  },
+  {
+    "content": "this I'm just saying is really just meant for airbrushing and stuff now I",
+    "start": 1007
+  },
+  {
+    "content": "may or may not use it for spray paint in the future but I'm telling you",
+    "start": 1012
+  },
+  {
+    "content": "technically I'm not supposed to now i'm gonna mount this somewhere on the wall",
+    "start": 1016
+  },
+  {
+    "content": "and connect the hoses and see if it works and then I can add lighting and",
+    "start": 1020
+  },
+  {
+    "content": "get this thing set up to use",
+    "start": 1026
+  },
+  {
+    "content": "oh boy that was that's bright Oh",
+    "start": 1117
+  },
+  {
+    "content": "and that's a wrap this thing is done I have been procrastinating on building",
+    "start": 1162
+  },
+  {
+    "content": "one of these for at least a year now so I'm very happy that it's finally",
+    "start": 1170
+  },
+  {
+    "content": "complete now I can airbrush it without worrying about the dust going everywhere",
+    "start": 1174
+  },
+  {
+    "content": "I can spray stuff in the winter which is basically starting now I'm really happy",
+    "start": 1179
+  },
+  {
+    "content": "I finally built this thing couple things to keep in mind these led tape lights I",
+    "start": 1185
+  },
+  {
+    "content": "used they're super cheap they're not the highest quality they may end up having",
+    "start": 1190
+  },
+  {
+    "content": "dead leds at some point in time but they're so cheap I can just replace them",
+    "start": 1195
+  },
+  {
+    "content": "also in order to turn them and make bends you can do that by soldering on",
+    "start": 1200
+  },
+  {
+    "content": "little jumper connectors or using the corner clip-ons that are just like a",
+    "start": 1205
+  },
+  {
+    "content": "snip and click that make things really easy",
+    "start": 1208
+  },
+  {
+    "content": "I used that on my lighting on my desk and I found them to be kind of crappy",
+    "start": 1211
+  },
+  {
+    "content": "and they just sort of fall apart so here I just folded them to make 90-degree",
+    "start": 1215
+  },
+  {
+    "content": "corners and it worked perfectly fine some of the items for this build I got",
+    "start": 1219
+  },
+  {
+    "content": "online and some of them I got at Home Depot but I will put a list of all of",
+    "start": 1224
+  },
+  {
+    "content": "the things used in this build in the video description below some of them are",
+    "start": 1230
+  },
+  {
+    "content": "just gonna be listed cuz you're gonna have to go to store to buy them some of",
+    "start": 1235
+  },
+  {
+    "content": "them I will link to the products that I bought on Amazon of course shop around",
+    "start": 1239
+  },
+  {
+    "content": "find what works best for you in terms of pricing because I know some",
+    "start": 1243
+  },
+  {
+    "content": "of you're wondering what it costs to built this thing that's sort of hard to",
+    "start": 1247
+  },
+  {
+    "content": "gauge because I bought a bunch of different things didn't use it all",
+    "start": 1249
+  },
+  {
+    "content": "I was buying stuff where I buy it in my city in my country with my taxes and my",
+    "start": 1252
+  },
+  {
+    "content": "availability and currency exchange and basically it came out to being about",
+    "start": 1258
+  },
+  {
+    "content": "double the price of one of those off-the-shelf little cheap ready-to-go",
+    "start": 1263
+  },
+  {
+    "content": "ones that you can buy but the fan I used is a lot more powerful its venting right",
+    "start": 1267
+  },
+  {
+    "content": "outside and this is a piece of furniture it's solid and its hefty so I think the",
+    "start": 1272
+  },
+  {
+    "content": "price was worth it to me I also spent more on the fan than you might want to",
+    "start": 1278
+  },
+  {
+    "content": "again I want to stress that this fan is not an explosion",
+    "start": 1283
+  },
+  {
+    "content": "proof fan there is always a slight risk that using aerosol spray paint through",
+    "start": 1286
+  },
+  {
+    "content": "it if the bushings in the fan spark and there's enough flammable vapor in the",
+    "start": 1292
+  },
+  {
+    "content": "line it could theoretically ignite that's gonna be the same for a bath fan",
+    "start": 1297
+  },
+  {
+    "content": "a hood range fan basically any fan that isn't rated as an explosion-proof fan",
+    "start": 1302
+  },
+  {
+    "content": "and finding one of those is very difficult and very expensive I'm doing",
+    "start": 1309
+  },
+  {
+    "content": "my due diligence and saying hey it's not for this it's for airbrushing use your",
+    "start": 1313
+  },
+  {
+    "content": "own judgment do some of your own research to see if you feel comfortable",
+    "start": 1318
+  },
+  {
+    "content": "spraying with aerosols through a regular exhaust fan if you liked this video hit",
+    "start": 1323
+  },
+  {
+    "content": "the like button and let me know in the comments section below I hope you found",
+    "start": 1328
+  },
+  {
+    "content": "it helpful of course if you want to pick up any",
+    "start": 1332
+  },
+  {
+    "content": "other tools or supplies for your hobby needs",
+    "start": 1335
+  },
+  {
+    "content": "head over to Blackmagic craft CA that's where I list all of the stuff that I use",
+    "start": 1338
+  },
+  {
+    "content": "regularly and linked to it so you can get the right thing you don't need to",
+    "start": 1342
+  },
+  {
+    "content": "ask me what I use for this thought the other thing it's probably listed there",
+    "start": 1345
+  },
+  {
+    "content": "and if you really enjoy my videos and my output and you want to help me keep",
+    "start": 1349
+  },
+  {
+    "content": "making them the best way you can do that is by supporting the channel on patreon",
+    "start": 1354
+  },
+  {
+    "content": "it's through the funds there that I'm able to dedicate my full time efforts to",
+    "start": 1357
+  },
+  {
+    "content": "this hobby and to this channel that I hope serves the community well that's it",
+    "start": 1362
+  },
+  {
+    "content": "for this week guys I'm just gonna spray all of the things now I'm just gonna",
+    "start": 1368
+  },
+  {
+    "content": "paint and paint and paint and paint and paint and paint and paint and paint and",
+    "start": 1371
+  },
+  {
+    "content": "paint see again next week Cheers",
+    "start": 1376
+  }
+]
