@@ -1,12 +1,37 @@
 {
   "description": "DungeonMasterG demonstrates how to paint a more advanced stone tile pattern on your modular dungeon tiles. The tiles are made from cardboard and you can see how this is done in episode DMG#002.\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.com/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (frompoint 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,industrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock Files have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 9,
+    "seconds": 10
+  },
   "id": "QlEnv67dqao",
-  "position": 5,
-  "publishedAt": 1371728407,
+  "publishedAt": 1371729038,
+  "ranking": {
+    "likes": 1784,
+    "views": null
+  },
+  "tags": [
+    "cardboard terrain",
+    "modular dungeon terrain",
+    "modular dungeon tiles",
+    "dungeon tiles",
+    "d&d tiles",
+    "pathfinder tiles",
+    "pathfinder terrain",
+    "painting guide",
+    "painting stonework",
+    "painting masonry",
+    "role-playing game terrain",
+    "rpg tiles",
+    "miniature terrain",
+    "Dungeons & Dragons (Game)"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/QlEnv67dqao/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/QlEnv67dqao/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/QlEnv67dqao/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/QlEnv67dqao/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/QlEnv67dqao/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/QlEnv67dqao/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/QlEnv67dqao/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/QlEnv67dqao/default.jpg"
   },
   "title": "Painting more advanced stone work on modular dungeon tiles for D&D DMG#005"
 }

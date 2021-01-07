@@ -1,12 +1,49 @@
 {
   "description": "DungeonMasterG (TheDMG) shows us how to craft mushrooms and toadstools for use in Dungeons and Dragons and Pathfinder games.\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\nLatest Subscriber Competition - https://www.youtube.com/watch?v=dI96D3_2-yo\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.com/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,industrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock Files have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 7,
+    "seconds": 45
+  },
   "id": "pNysn2f4H8M",
-  "position": 23,
-  "publishedAt": 1378163001,
+  "publishedAt": 1378163231,
+  "ranking": {
+    "likes": 640,
+    "views": null
+  },
+  "tags": [
+    "Modular Dungeon Terrain",
+    "Cardboard Dungeon Tiles",
+    "magic mushrooms",
+    "Crafting Dungeon Tiles",
+    "Dungeon Tiles",
+    "Cheap Dungeon Terrain",
+    "Homemade Terrain",
+    "mini mushrooms",
+    "Role Playing Game Terrain",
+    "Miniatures",
+    "Dungeons And Dragons",
+    "Miniature Terrain",
+    "mini toadstools",
+    "Pathfinder Terrain",
+    "plants",
+    "magical mushrooms",
+    "miniature toadstools",
+    "Crafting Terrain",
+    "crafting miniature plants",
+    "miniature fungus",
+    "Modular Terrain",
+    "Rpg Terrain",
+    "Dungeon Terrain",
+    "fungus",
+    "miniature mushrooms",
+    "Pathfinder"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/pNysn2f4H8M/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/pNysn2f4H8M/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/pNysn2f4H8M/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/pNysn2f4H8M/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/pNysn2f4H8M/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/pNysn2f4H8M/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/pNysn2f4H8M/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/pNysn2f4H8M/default.jpg"
   },
   "title": "How to make mushrooms and toadstools in miniature for D&D dungeon tiles DMG#023"
 }

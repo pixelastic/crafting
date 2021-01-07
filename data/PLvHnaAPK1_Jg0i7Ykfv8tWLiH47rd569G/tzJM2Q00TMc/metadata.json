@@ -1,12 +1,38 @@
 {
   "description": "DM Scotty show you how to craft alien nests in part one of this two part tutorial.\n\nFollow DM Scotty's Facebook group for DM's Craft updates and info: \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\nVisit the DM's Craft Forum to meet other crafters, see cool pics of crafted stuff and pick up great tips and tricks: http://dmscraft.proboards.com/ A special thanks to Mad Lad Designs, AJ and DMG for helping to moderate The DM's Craft forum. Another thank you to Earlteagrey for the new DM's Craft intro.\n\nMusic: \"Epic Battle And War Music,\" under royalty free license from Footage Firm Inc.\n\nAlso vist TheDMGinfo channel for more great 2.5D projects and ideas: https://www.youtube.com/channel/UCJLqz6kcB1gMPiVnL0XfUDg",
+  "duration": {
+    "minutes": 5,
+    "seconds": 3
+  },
   "id": "tzJM2Q00TMc",
-  "position": 264,
-  "publishedAt": 1460737125,
+  "publishedAt": 1396470058,
+  "ranking": {
+    "likes": 220,
+    "views": 8586
+  },
+  "tags": [
+    "alien",
+    "aliens",
+    "eggs",
+    "nest",
+    "tyranid",
+    "terrain",
+    "diy",
+    "make",
+    "craft",
+    "build",
+    "wargame",
+    "wh40k",
+    "table",
+    "top",
+    "miniature"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/tzJM2Q00TMc/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/tzJM2Q00TMc/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/tzJM2Q00TMc/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/tzJM2Q00TMc/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/tzJM2Q00TMc/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/tzJM2Q00TMc/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/tzJM2Q00TMc/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/tzJM2Q00TMc/default.jpg"
   },
   "title": "Make cheap ALIEN HIVE NESTS for your game table (The DM'S Craft 96/01)"
 }

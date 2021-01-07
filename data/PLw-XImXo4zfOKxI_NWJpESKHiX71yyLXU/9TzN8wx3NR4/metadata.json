@@ -1,12 +1,31 @@
 {
   "description": "DungeonMasterG goes through the list of the basic tools you will need to start crafting your own cheap home made modular dungeon terrain for Dungeons & Dragons and Pathfinder.\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.com/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,\nindustrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock\nFiles have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 8,
+    "seconds": 36
+  },
   "id": "9TzN8wx3NR4",
-  "position": 1,
-  "publishedAt": 1370941879,
+  "publishedAt": 1370942456,
+  "ranking": {
+    "likes": 1207,
+    "views": null
+  },
+  "tags": [
+    "cheap",
+    "home made",
+    "dungeon terrain",
+    "modular terrain",
+    "role-playing terrain",
+    "tools",
+    "dungeons and dragons",
+    "pathfinder"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/9TzN8wx3NR4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/9TzN8wx3NR4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/9TzN8wx3NR4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/9TzN8wx3NR4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/9TzN8wx3NR4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/9TzN8wx3NR4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/9TzN8wx3NR4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/9TzN8wx3NR4/default.jpg"
   },
   "title": "Basic tools required for cheap home made modular dungeon terrain crafting DMG#001"
 }

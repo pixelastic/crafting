@@ -1,12 +1,36 @@
 {
   "description": "Here's a more modern take on this project: https://www.youtube.com/watch?v=Zca367cND08\n\nHow to build chemical spill scatter terrain for your sci-fi or modern tabletop game (Warhammer 40k, Warpath, etc.)\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nAirbrush used in this episode: http://amzn.to/2oXMGRX\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 11,
+    "seconds": 10
+  },
   "id": "S07hHjXgd60",
-  "position": 55,
-  "publishedAt": 1482936648,
+  "publishedAt": 1482936647,
+  "ranking": {
+    "likes": 1388,
+    "views": 51435
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "scatter terrain",
+    "Kings of War",
+    "warhammer",
+    "40k"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/S07hHjXgd60/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/S07hHjXgd60/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/S07hHjXgd60/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/S07hHjXgd60/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/S07hHjXgd60/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/S07hHjXgd60/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/S07hHjXgd60/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/S07hHjXgd60/default.jpg"
   },
   "title": "How to Make a Chemical Spill for Warhammer 40k"
 }

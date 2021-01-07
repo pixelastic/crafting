@@ -1,12 +1,50 @@
 {
   "description": "The first \"natural\" beast in my D&D Miniatures series. In this crafting tutorial you will see how to create a cheap Giant Scorpion miniature and perhaps you'll learn some new crafting techniques.\n\nFollow us on Facebook: https://tinyurl.com/y3n8m7s6",
+  "duration": {
+    "minutes": 7,
+    "seconds": 33
+  },
   "id": "EL9LT1_cn-o",
-  "position": 33,
-  "publishedAt": 1548515303,
+  "publishedAt": 1548515039,
+  "ranking": {
+    "likes": 332,
+    "views": 6349
+  },
+  "tags": [
+    "bard's craft",
+    "giant scorpion",
+    "dnd monster miniature",
+    "d&d monster miniature",
+    "dnd",
+    "d&d",
+    "dungeons and dragons",
+    "monster miniatures",
+    "dnd diy",
+    "diy d&d miniature",
+    "crafting a miniature",
+    "diy tabletop miniature",
+    "miniature",
+    "crafting",
+    "crafting tutorial",
+    "d&d miniature",
+    "miniature painting",
+    "5e",
+    "simple monster miniature",
+    "how to craft",
+    "diy crafting",
+    "crafting a scorpion",
+    "giant scorpion miniature",
+    "satisfying crafting",
+    "asmr crafting",
+    "dnd miniature",
+    "miniatures for dnd"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/EL9LT1_cn-o/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/EL9LT1_cn-o/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/EL9LT1_cn-o/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/EL9LT1_cn-o/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/EL9LT1_cn-o/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/EL9LT1_cn-o/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/EL9LT1_cn-o/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/EL9LT1_cn-o/default.jpg"
   },
   "title": "Crafting a Scorpion from Household Items (DnD Miniature Tutorial)"
 }

@@ -1,12 +1,35 @@
 {
   "description": "A real mess of a tutorial that takes something pretty simple and presents it way more complicated than necessary.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 4,
+    "seconds": 23
+  },
   "id": "6vxGBuwTXQA",
-  "position": 73,
-  "publishedAt": 1497358256,
+  "publishedAt": 1497358255,
+  "ranking": {
+    "likes": 685,
+    "views": 20150
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "scatter terrain",
+    "Kings of War",
+    "warhammer",
+    "40k"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/6vxGBuwTXQA/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/6vxGBuwTXQA/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/6vxGBuwTXQA/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/6vxGBuwTXQA/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/6vxGBuwTXQA/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/6vxGBuwTXQA/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/6vxGBuwTXQA/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/6vxGBuwTXQA/default.jpg"
   },
   "title": "How to Make a Stepped Pyramid for Dungeons & Dragons, Pathfinder, Warhammer"
 }

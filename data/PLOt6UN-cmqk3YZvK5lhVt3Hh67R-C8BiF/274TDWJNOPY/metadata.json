@@ -1,12 +1,36 @@
 {
   "description": "How to make a (pretty terrible) Land Speeder proxy for Warhammer (\"Poorhammer\") 40k.\nTemplate: https://drive.google.com/file/d/0B6DUFiaF6EbpYlhUQ0Y1UGlnQkE/view?usp=drivesdk\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 5,
+    "seconds": 1
+  },
   "id": "274TDWJNOPY",
-  "position": 70,
-  "publishedAt": 1493304278,
+  "publishedAt": 1493304277,
+  "ranking": {
+    "likes": 285,
+    "views": 9885
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "scatter terrain",
+    "Kings of War",
+    "warhammer",
+    "40k",
+    "land speeder"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/274TDWJNOPY/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/274TDWJNOPY/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/274TDWJNOPY/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/274TDWJNOPY/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/274TDWJNOPY/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/274TDWJNOPY/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/274TDWJNOPY/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/274TDWJNOPY/default.jpg"
   },
   "title": "How to Make a Land Speeder Proxy for Poorhammer 40k"
 }

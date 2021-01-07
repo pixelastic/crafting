@@ -1,12 +1,35 @@
 {
   "description": "http://www.thedmscraft.com/\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\n\nScotty’s favorite glue gun (Amazon affiliated link): http://amzn.to/2gYKRhV\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft\n\n\nMusic:\n\"This House\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 1,
+    "seconds": 45
+  },
   "id": "eoa_gG8o0bY",
-  "position": 444,
-  "publishedAt": 1451249715,
+  "publishedAt": 1450164624,
+  "ranking": {
+    "likes": 89,
+    "views": 4353
+  },
+  "tags": [
+    "Dog (Domesticated Animal)",
+    "Zombicide",
+    "Zombie (Character Species)",
+    "painted",
+    "hand",
+    "miniature",
+    "Dogs",
+    "model",
+    "Board Game (Game Genre)",
+    "walking dead dogs",
+    "game",
+    "crafted"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/eoa_gG8o0bY/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/eoa_gG8o0bY/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/eoa_gG8o0bY/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/eoa_gG8o0bY/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/eoa_gG8o0bY/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/eoa_gG8o0bY/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/eoa_gG8o0bY/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/eoa_gG8o0bY/default.jpg"
   },
   "title": "My Painted Zombicide Dogs"
 }

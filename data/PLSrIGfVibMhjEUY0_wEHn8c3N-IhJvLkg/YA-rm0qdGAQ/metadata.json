@@ -1,12 +1,39 @@
 {
   "description": "Buy the tentacles online: http://amzn.to/2r7r1af\n(As an Amazon Associate I earn from qualifying purchases)\n\nMake some cool looking giant tentacles for your sea based tabletop encounters. Giant octopus, Giant squid, or even a Kraken. A major threat to terrify your players. \n\nJoin us on facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094/?ref=bookmarks\n\nBlack Magic Craft title music by Black Magic Craft\n\nBackground music:\nKevin MacLeod (incompetech.com)\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 8,
+    "seconds": 36
+  },
   "id": "YA-rm0qdGAQ",
-  "position": 8,
-  "publishedAt": 1461434517,
+  "publishedAt": 1461457061,
+  "ranking": {
+    "likes": 1989,
+    "views": 60424
+  },
+  "tags": [
+    "Dungeons & Dragons",
+    "D&D",
+    "terrain",
+    "tabletop gamingtutorial",
+    "how to",
+    "Tentacles",
+    "D&D tentacles",
+    "tentacle terrain",
+    "tentacle miniature",
+    "how to make tentacles",
+    "octopus mini",
+    "kraken",
+    "miniature kraken",
+    "d&d kraken",
+    "dungeons & dragons kraken",
+    "black magic craft"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/YA-rm0qdGAQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/YA-rm0qdGAQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/YA-rm0qdGAQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/YA-rm0qdGAQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/YA-rm0qdGAQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/YA-rm0qdGAQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/YA-rm0qdGAQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/YA-rm0qdGAQ/default.jpg"
   },
   "title": "Giant Tentacles For D&D Tutorial (Episode 09)"
 }

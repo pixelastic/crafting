@@ -1,12 +1,34 @@
 {
   "description": "How to craft Necron portal objective markers for Warhammer 40k.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 5,
+    "seconds": 7
+  },
   "id": "hMbuVicdVC4",
-  "position": 91,
-  "publishedAt": 1516815673,
+  "publishedAt": 1516815672,
+  "ranking": {
+    "likes": 732,
+    "views": 17057
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "scenery",
+    "warhammer 40000",
+    "warhammer",
+    "warhammer 40k",
+    "black magic craft",
+    "luke's aps",
+    "thedmscraft"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/hMbuVicdVC4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/hMbuVicdVC4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/hMbuVicdVC4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/hMbuVicdVC4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/hMbuVicdVC4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/hMbuVicdVC4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/hMbuVicdVC4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/hMbuVicdVC4/default.jpg"
   },
   "title": "How to Make Necron Portal Objective Markers for Warhammer 40k"
 }

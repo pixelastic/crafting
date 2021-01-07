@@ -1,12 +1,50 @@
 {
   "description": "Watch as DM Scotty shows you how to craft your own forest boards for use in D&D, Pathfinder and other RPGs.\n\nJoin DM Scotty's Facebook group for DM's Craft updates and info: \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nVisit the DM's Craft Forum to meet other crafters, see cool pics of crafted stuff and pick up great tips and tricks: http://dmscraft.proboards.com/ A special thanks to Mad Lad Designs, AJ and DMG for helping to moderate The DM's Craft forum.\n\nAlso vist TheDMGinfo channel for more great 2.5D projects and ideas: https://www.youtube.com/channel/UCJLqz6kcB1gMPiVnL0XfUDg",
+  "duration": {
+    "minutes": 11,
+    "seconds": 47
+  },
   "id": "My3hxS9CCls",
-  "position": 22,
-  "publishedAt": 1460734350,
+  "publishedAt": 1336346679,
+  "ranking": {
+    "likes": 302,
+    "views": 17688
+  },
+  "tags": [
+    "Dungeon",
+    "dragon",
+    "tile",
+    "pathfinder",
+    "dm",
+    "scotty",
+    "d&D",
+    "craft",
+    "game",
+    "gm",
+    "and",
+    "rpg",
+    "master",
+    "role",
+    "playing",
+    "dungeons & dragons",
+    "dnd",
+    "map",
+    "battle",
+    "mat",
+    "forest",
+    "woods",
+    "wargame",
+    "tree",
+    "skirmish",
+    "diy",
+    "make"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/My3hxS9CCls/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/My3hxS9CCls/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/My3hxS9CCls/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/My3hxS9CCls/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/My3hxS9CCls/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/My3hxS9CCls/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/My3hxS9CCls/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/My3hxS9CCls/default.jpg"
   },
   "title": "How to craft a forest area for D&D (The DM's Craft Ep 11, p 2)"
 }

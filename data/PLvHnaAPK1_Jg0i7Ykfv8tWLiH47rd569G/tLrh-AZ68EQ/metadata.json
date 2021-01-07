@@ -1,12 +1,36 @@
 {
   "description": "http://www.thedmscraft.com/\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\n\nScotty’s favorite glue gun (Amazon affiliated link): http://amzn.to/2gYKRhV\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft.",
+  "duration": {
+    "minutes": 31,
+    "seconds": 47
+  },
   "id": "tLrh-AZ68EQ",
-  "position": 366,
-  "publishedAt": 1451250061,
+  "publishedAt": 1423667606,
+  "ranking": {
+    "likes": 15,
+    "views": 730
+  },
+  "tags": [
+    "Role-playing Game (Game Genre)",
+    "dungeon world",
+    "rpg",
+    "game",
+    "table",
+    "evernight",
+    "dm scotty",
+    "live",
+    "savage worlds",
+    "running",
+    "actual",
+    "Games",
+    "Gameplay"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/tLrh-AZ68EQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/tLrh-AZ68EQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/tLrh-AZ68EQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/tLrh-AZ68EQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/tLrh-AZ68EQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/tLrh-AZ68EQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/tLrh-AZ68EQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/tLrh-AZ68EQ/default.jpg"
   },
   "title": "RPG Mashup DUNGEON WORLD & EVERNIGHT with DM Scotty (Ep#5)"
 }

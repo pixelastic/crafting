@@ -1,12 +1,61 @@
 {
   "description": "For more information on DM crafting visit my website:\nhttp://www.thedmscraft.com/\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCra",
+  "duration": {
+    "minutes": 4,
+    "seconds": 42
+  },
   "id": "8nBJXO1DioQ",
-  "position": 616,
-  "publishedAt": 1518046736,
+  "publishedAt": 1518046735,
+  "ranking": {
+    "likes": 265,
+    "views": 7570
+  },
+  "tags": [
+    "Dragons and Dragons (Game)",
+    "Role-playing Game (Game Genre)",
+    "Tabletop Game (Game Genre)",
+    "Pathfinder Roleplaying Game (Game)",
+    "Session",
+    "Play",
+    "how to play",
+    "DnD",
+    "DnD5e",
+    "roleplaying",
+    "Dungeon Master",
+    "DnD 5e",
+    "how to play dungeons and dragons",
+    "dnd",
+    "how to play dnd",
+    "dnd for dummies",
+    "tutorial",
+    "dungeon master",
+    "dm",
+    "game master",
+    "dungeonmaster",
+    "rpg",
+    "tabletop rpg",
+    "beginners",
+    "Terrain",
+    "dungeon tiles",
+    "encounter design",
+    "miniatures",
+    "DM Scotty",
+    "adventure",
+    "3D",
+    "diy",
+    "money",
+    "treasure",
+    "gems",
+    "gold",
+    "silver",
+    "coins"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/8nBJXO1DioQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/8nBJXO1DioQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/8nBJXO1DioQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/8nBJXO1DioQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/8nBJXO1DioQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/8nBJXO1DioQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/8nBJXO1DioQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/8nBJXO1DioQ/default.jpg"
   },
   "title": "Make D&D More Fun...Remove Money (Advice from DM Scotty)"
 }

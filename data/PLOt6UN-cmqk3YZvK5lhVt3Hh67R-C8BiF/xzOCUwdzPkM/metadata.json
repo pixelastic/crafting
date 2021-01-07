@@ -1,12 +1,34 @@
 {
   "description": "A one-shot adventure for D&D 5th edition, plus some other end-of-season content.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 17,
+    "seconds": 30
+  },
   "id": "xzOCUwdzPkM",
-  "position": 29,
-  "publishedAt": 1450808613,
+  "publishedAt": 1450817964,
+  "ranking": {
+    "likes": 1528,
+    "views": 56744
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "module",
+    "julinda's gauntlet",
+    "pathfinder"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/xzOCUwdzPkM/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/xzOCUwdzPkM/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/xzOCUwdzPkM/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/xzOCUwdzPkM/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/xzOCUwdzPkM/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/xzOCUwdzPkM/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/xzOCUwdzPkM/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/xzOCUwdzPkM/default.jpg"
   },
   "title": "Julinda's Gauntlet - A One Shot for Dungeons & Dragons"
 }

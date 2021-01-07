@@ -1,12 +1,39 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 36,
+    "seconds": 11
+  },
   "id": "e4NNo2x2B68",
-  "position": 118,
-  "publishedAt": 1460736428,
+  "publishedAt": 1364182554,
+  "ranking": {
+    "likes": 75,
+    "views": 8228
+  },
+  "tags": [
+    "d&d",
+    "dnd",
+    "pathfinder",
+    "dungeons",
+    "and",
+    "dragons",
+    "rpg",
+    "game",
+    "dm",
+    "dungeon tiles",
+    "mausoluem",
+    "actual play",
+    "undead",
+    "running a gamem",
+    "encounter building",
+    "adventure"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/e4NNo2x2B68/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/e4NNo2x2B68/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/e4NNo2x2B68/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/e4NNo2x2B68/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/e4NNo2x2B68/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/e4NNo2x2B68/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/e4NNo2x2B68/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/e4NNo2x2B68/default.jpg"
   },
   "title": "Gridless D&D game play with DM Scotty (Episode 2)"
 }

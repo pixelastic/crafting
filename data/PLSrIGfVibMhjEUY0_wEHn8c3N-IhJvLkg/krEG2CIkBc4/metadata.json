@@ -1,12 +1,54 @@
 {
   "description": "On this episode I show you how I built a catacomb entrance for D&D out of styrofoam.\n\n\nSupport the channel on Patreon: http://patreon.com/blackmagiccraft\n\nJoin us on facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094/?ref=bookmarks\n\nBlack Magic Craft intro music by Black Magic Craft\n\nBackground music:\nKevin MacLeod (incompetech.com)\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 12,
+    "seconds": 57
+  },
   "id": "krEG2CIkBc4",
-  "position": 18,
-  "publishedAt": 1485497935,
+  "publishedAt": 1485528624,
+  "ranking": {
+    "likes": 1123,
+    "views": 37408
+  },
+  "tags": [
+    "dungeons & dragons",
+    "d&d",
+    "pathfinder",
+    "tabletop",
+    "tabletop rpg",
+    "craft",
+    "terrain",
+    "crafting",
+    "terrain building",
+    "d&d terrain",
+    "dungeons & dragons terrain",
+    "tabletop terrain",
+    "wargaming terrain",
+    "how to build",
+    "how to build for d&d",
+    "modular terrain",
+    "tutorial",
+    "terrain tutorial",
+    "craft tutorial",
+    "d&d tutorial",
+    "terrain door",
+    "terrain wooden door",
+    "d&d door",
+    "d&d catacomb",
+    "dungeon entrance d&d entrance",
+    "stone door",
+    "wooden door",
+    "styrofoam dungeon",
+    "black magic craft",
+    "dungeon door",
+    "catacomb entranc"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/krEG2CIkBc4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/krEG2CIkBc4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/krEG2CIkBc4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/krEG2CIkBc4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/krEG2CIkBc4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/krEG2CIkBc4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/krEG2CIkBc4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/krEG2CIkBc4/default.jpg"
   },
   "title": "Project Showcase: Catacomb Entrance for D&D (Black Magic Craft Episode 019)"
 }

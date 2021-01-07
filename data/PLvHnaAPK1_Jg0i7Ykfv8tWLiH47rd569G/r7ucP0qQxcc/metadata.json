@@ -1,12 +1,40 @@
 {
   "description": "An easy way to combine two half full glue bottles into one.",
+  "duration": {
+    "minutes": 1,
+    "seconds": 37
+  },
   "id": "r7ucP0qQxcc",
-  "position": 314,
-  "publishedAt": 1460737125,
+  "publishedAt": 1406041208,
+  "ranking": {
+    "likes": 84,
+    "views": 3447
+  },
+  "tags": [
+    "white glue",
+    "pva",
+    "craft",
+    "combine",
+    "half",
+    "full",
+    "diy",
+    "Adhesive",
+    "Do It Yourself (Hobby)",
+    "Paper",
+    "school",
+    "glue",
+    "How-to (Website Category)",
+    "Hobby (Interest)",
+    "art",
+    "class",
+    "tip"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/r7ucP0qQxcc/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/r7ucP0qQxcc/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/r7ucP0qQxcc/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/r7ucP0qQxcc/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/r7ucP0qQxcc/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/r7ucP0qQxcc/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/r7ucP0qQxcc/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/r7ucP0qQxcc/default.jpg"
   },
   "title": "How to Combine Two Half Full Glue Bottles into One"
 }

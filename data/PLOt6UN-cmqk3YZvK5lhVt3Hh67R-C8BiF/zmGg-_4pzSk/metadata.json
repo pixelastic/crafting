@@ -1,12 +1,32 @@
 {
   "description": "How to craft a potion vendor stand for your tabletop roleplaying games such as Dungeons & Dragons.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.\n\n---\n\nThe two threads cited in the vid:\nhttp://dmscraft.proboards.com/thread/2710/privy\nhttp://dmscraft.proboards.com/thread/445/brads-mini-potion-bottle-tutorial",
+  "duration": {
+    "minutes": 9,
+    "seconds": 35
+  },
   "id": "zmGg-_4pzSk",
-  "position": 6,
-  "publishedAt": 1432411600,
+  "publishedAt": 1432413466,
+  "ranking": {
+    "likes": 1778,
+    "views": 75686
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "potion"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/zmGg-_4pzSk/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/zmGg-_4pzSk/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/zmGg-_4pzSk/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/zmGg-_4pzSk/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/zmGg-_4pzSk/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/zmGg-_4pzSk/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/zmGg-_4pzSk/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/zmGg-_4pzSk/default.jpg"
   },
   "title": "How to Craft a Potion Vendor Stand for Dungeons & Dragons"
 }

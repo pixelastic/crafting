@@ -1,12 +1,46 @@
 {
   "description": "ESSENTIAL EQUIPMENT: http://bit.ly/EssentialEquip\nJOIN the \"FELLOWSHIP\" on PATREON: http://bit.ly/JoinTheBMC_Fellowship\nOFFICIAL BMC MERCH: http://bit.ly/BMCmerch\n\n#BlackMagicCraft #Episode157 #BEGINNER\n\nThis project is as simple as it gets and covers some of the most important fundamentals of crafting. An obelisk is a great piece of scatter terrain that works well in skirmish games as well as narrative driven TTRPG's.\n\n---------------------------------------------------------------------\n➳  http://www.blackmagiccraft.ca\n➳ Facebook: https://goo.gl/hvNgQL\n➳ Join the Tabletop Crafters Guild: https://goo.gl/RMMqoh",
+  "duration": {
+    "minutes": 18,
+    "seconds": 7
+  },
   "id": "je_ffKDWlYg",
-  "position": 156,
-  "publishedAt": 1567742437,
+  "publishedAt": 1567742435,
+  "ranking": {
+    "likes": 4215,
+    "views": 83835
+  },
+  "tags": [
+    "Black magic craft",
+    "obelisk",
+    "pillar",
+    "foam",
+    "xps foam",
+    "styrofoam",
+    "beginner",
+    "basics",
+    "scatter terrain",
+    "dungeons and dragons",
+    "simple terrain",
+    "easy terrain",
+    "practice project for beginners",
+    "wargaming terrain",
+    "tabletop terrain",
+    "painting stone",
+    "black wash",
+    "modular terrain",
+    "dungeon terrain",
+    "miniature",
+    "miniatures",
+    "scale modeling",
+    "fairy garden"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/je_ffKDWlYg/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/je_ffKDWlYg/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/je_ffKDWlYg/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/je_ffKDWlYg/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/je_ffKDWlYg/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/je_ffKDWlYg/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/je_ffKDWlYg/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/je_ffKDWlYg/default.jpg"
   },
   "title": "THE OBELISK - Practice Project for BEGINNERS"
 }

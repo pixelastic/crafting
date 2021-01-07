@@ -1,12 +1,46 @@
 {
   "description": "📐 Tools & Supplies I Recommend: http://bit.ly/EssentialEquip\n⚔️Join the \"Fellowship\" on Patreon: http://bit.ly/JoinTheBMC_Fellowship\n👕Grab a BMC Shirt: http://bit.ly/BMCmerch\n\n#BlackMagicCraft #Episode126 #BASICS\n\nIt's OK to be new at something. It's OK to not be good at something. It's OK to fail. In this episode I discuss my journey from beginner to \"expert\".\n\n\n---------------------------------------------------------------------\n➳  http://www.blackmagiccraft.ca\n➳ Facebook: https://goo.gl/hvNgQL\n➳ Join the Tabletop Crafters Guild: https://goo.gl/RMMqoh",
+  "duration": {
+    "minutes": 12,
+    "seconds": 38
+  },
   "id": "cHcKSxC18GA",
-  "position": 126,
-  "publishedAt": 1548997474,
+  "publishedAt": 1548997473,
+  "ranking": {
+    "likes": 5017,
+    "views": 113275
+  },
+  "tags": [
+    "Black magic craft",
+    "tutorial",
+    "miniature",
+    "how to",
+    "build",
+    "dungeons & dragons",
+    "dungeons and dragons",
+    "d&d",
+    "tabletop",
+    "rpg",
+    "ttrpg",
+    "it's ok to be a beginner",
+    "my crafting journey",
+    "retrospective",
+    "n00b",
+    "rookie",
+    "new crafter",
+    "how to start crafting",
+    "how to start building terrain",
+    "beginner",
+    "simple terrain",
+    "basic terrain",
+    "how to start tabletop gaming"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/cHcKSxC18GA/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/cHcKSxC18GA/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/cHcKSxC18GA/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/cHcKSxC18GA/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/cHcKSxC18GA/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/cHcKSxC18GA/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/cHcKSxC18GA/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/cHcKSxC18GA/default.jpg"
   },
   "title": "It's OK to be a BEGINNER - My Crafting Journey"
 }

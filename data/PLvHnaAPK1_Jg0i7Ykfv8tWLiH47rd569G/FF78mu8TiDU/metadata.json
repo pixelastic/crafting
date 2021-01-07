@@ -1,12 +1,39 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 19,
+    "seconds": 17
+  },
   "id": "FF78mu8TiDU",
-  "position": 122,
-  "publishedAt": 1460736428,
+  "publishedAt": 1364600710,
+  "ranking": {
+    "likes": 192,
+    "views": 6825
+  },
+  "tags": [
+    "D&D",
+    "DM",
+    "Mausoleum",
+    "dungeons",
+    "and",
+    "dragons",
+    "scotty",
+    "pathfinder",
+    "encounter",
+    "tiles",
+    "encounter building",
+    "adventure",
+    "mausoleum",
+    "undead",
+    "dungeon tiles",
+    "scatter terrain"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/FF78mu8TiDU/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/FF78mu8TiDU/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/FF78mu8TiDU/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/FF78mu8TiDU/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/FF78mu8TiDU/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/FF78mu8TiDU/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/FF78mu8TiDU/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/FF78mu8TiDU/default.jpg"
   },
   "title": "Mausoleum encounter after game breakdown (The DM's Craft, EP54)"
 }

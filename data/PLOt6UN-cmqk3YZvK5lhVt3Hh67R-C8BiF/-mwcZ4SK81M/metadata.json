@@ -1,12 +1,22 @@
 {
   "description": "Turning packing insert trash into a Necron tombworld for Warhammer 40k.\n\nPhoto gallery of the final table: https://imgur.com/a/A2NDOaV\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 8,
+    "seconds": 0
+  },
   "id": "-mwcZ4SK81M",
-  "position": 114,
-  "publishedAt": 1548046565,
+  "publishedAt": 1548046563,
+  "ranking": {
+    "likes": 1562,
+    "views": 29760
+  },
+  "tags": ["necron terrain", "warhammer 40k", "40k", "necron", "tombworld"],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/-mwcZ4SK81M/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/-mwcZ4SK81M/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/-mwcZ4SK81M/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/-mwcZ4SK81M/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/-mwcZ4SK81M/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/-mwcZ4SK81M/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/-mwcZ4SK81M/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/-mwcZ4SK81M/default.jpg"
   },
   "title": "How to Make a Necron Tombworld from Packing Inserts for Warhammer 40k"
 }

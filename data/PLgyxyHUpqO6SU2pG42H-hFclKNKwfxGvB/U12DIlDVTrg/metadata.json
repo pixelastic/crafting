@@ -1,11 +1,46 @@
 {
   "description": "Towers are essential parts for building a castle. If your heroes are currently in need of a fortified dwelling, browse no further!\n\nI made the towers with pretty much the same techniques as the walls: https://www.youtube.com/watch?v=0bBE0TV5aAA\n\nMaterials Used: XPS foam, PVA glue & acrylic paint\n\nMusic: https://www.bensound.com",
+  "duration": {
+    "minutes": 2,
+    "seconds": 16
+  },
   "id": "U12DIlDVTrg",
-  "position": 56,
-  "publishedAt": 1540981603,
+  "publishedAt": 1539714961,
+  "ranking": {
+    "likes": 256,
+    "views": 5029
+  },
+  "tags": [
+    "cheap tabletop terrain",
+    "diy dnd terrain",
+    "dungeons and dragons terrain",
+    "easy d&d terrain",
+    "fast tabletop terrain",
+    "cheap rpg terrain",
+    "pathfinder terrain",
+    "simple tabletop terrain",
+    "simple wargaming terrain",
+    "tabletop foam terrain",
+    "cheap d&d terrain",
+    "warhammer terrain building",
+    "dungeons and dragons",
+    "warhammer",
+    "wargaming",
+    "dnd diy",
+    "tabletop terrain tutorial",
+    "castle wall tower",
+    "simple rpg tower",
+    "castle",
+    "tower",
+    "simple castle wall",
+    "miniature castle tower",
+    "simple rpg castle"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/U12DIlDVTrg/sddefault.jpg",
-    "small": "https://i.ytimg.com/vi/U12DIlDVTrg/mqdefault.jpg"
+    "large": "https://i.ytimg.com/vi/U12DIlDVTrg/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/U12DIlDVTrg/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/U12DIlDVTrg/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/U12DIlDVTrg/default.jpg"
   },
   "title": "Miniature Castle Tower for D&D / Wargaming"
 }

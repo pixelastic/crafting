@@ -1,12 +1,33 @@
 {
   "description": "DMG shows us how to make a reusable hole for use on dungeons and dragons modular dungeon and cave tiles. Not to be confused with a portable hole...\nAlso great for pathfinder terrain or any other RPG.\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\nNewsletter: http://eepurl.com/da4s2T\nTwitter: https://twitter.com/TheDMGinfo\nLatest Subscriber Competition - https://www.youtube.com/watch?v=dI96D3_2-yo\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.net/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,industrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock Files have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 6,
+    "seconds": 26
+  },
   "id": "ixCScOXoFIg",
-  "position": 40,
-  "publishedAt": 1393767406,
+  "publishedAt": 1393768199,
+  "ranking": {
+    "likes": 491,
+    "views": null
+  },
+  "tags": [
+    "cave terrain",
+    "hole",
+    "crafting a hole",
+    "cave hole",
+    "dungeon hole",
+    "modular hole",
+    "making a hole",
+    "crafting holes",
+    "cheap dungeon terrain",
+    "cheap cave terrain"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/ixCScOXoFIg/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/ixCScOXoFIg/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/ixCScOXoFIg/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/ixCScOXoFIg/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/ixCScOXoFIg/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/ixCScOXoFIg/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/ixCScOXoFIg/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/ixCScOXoFIg/default.jpg"
   },
   "title": "How to craft a reusable hole for modular dnd cave tiles DMG#040"
 }

@@ -1,12 +1,21 @@
 {
   "description": "How I made my Tyranid themed objective markers for Warhammer 40k\n\nThe tutorial I used to paint my Tyranids - https://www.youtube.com/watch?v=hDKVU4IKGAc\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 2,
+    "seconds": 46
+  },
   "id": "yxHIjYON6RA",
-  "position": 154,
   "publishedAt": 1597791055,
+  "ranking": {
+    "likes": 545,
+    "views": 7259
+  },
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/yxHIjYON6RA/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/yxHIjYON6RA/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/yxHIjYON6RA/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/yxHIjYON6RA/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/yxHIjYON6RA/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/yxHIjYON6RA/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/yxHIjYON6RA/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/yxHIjYON6RA/default.jpg"
   },
   "title": "Tyranid Objective Markers for Warhammer 40k"
 }

@@ -1,12 +1,53 @@
 {
   "description": "Dungeons and Dragons Birthday song sung just for your favorite adventurer. Enjoy their face as they experience the twist ending.\n\nhttp://www.thedmscraft.com/\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\n\nScotty’s favorite glue gun (Amazon affiliated link): http://amzn.to/2gYKRhV\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft\n\nLyrics by DM Scotty\n\nMusic by Arthur Charles",
+  "duration": {
+    "minutes": 0,
+    "seconds": 45
+  },
   "id": "gICJZ5qb1d0",
-  "position": 502,
-  "publishedAt": 1469686285,
+  "publishedAt": 1469686284,
+  "ranking": {
+    "likes": 257,
+    "views": 15378
+  },
+  "tags": [
+    "birthday dnd",
+    "happy birthday d&d style",
+    "dungeons and dragons birthday",
+    "d&d happy birthday",
+    "d&d birthday",
+    "d&d birthday song",
+    "dnd happy birthday",
+    "dungeons and dragons happy birthday",
+    "happy birthday d&d",
+    "happy birthday dungeon master",
+    "happy birthday dungeons and dragons",
+    "dnd birthday",
+    "happy birthday dnd",
+    "d&d song",
+    "roderick",
+    "birthday",
+    "twist ending",
+    "D&D",
+    "5e",
+    "epic",
+    "song",
+    "game",
+    "dm scotty",
+    "pathfinder",
+    "dungeons and dragons",
+    "dnd song",
+    "party",
+    "special",
+    "5th edition",
+    "dungeons & dragons (game)"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/gICJZ5qb1d0/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/gICJZ5qb1d0/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/gICJZ5qb1d0/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/gICJZ5qb1d0/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/gICJZ5qb1d0/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/gICJZ5qb1d0/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/gICJZ5qb1d0/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/gICJZ5qb1d0/default.jpg"
   },
   "title": "Dungeons and Dragons Birthday Song Sung By Roderick the Ranger"
 }

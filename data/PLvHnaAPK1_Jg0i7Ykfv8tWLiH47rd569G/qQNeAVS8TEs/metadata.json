@@ -1,12 +1,32 @@
 {
   "description": "#mace #gamecon #dnd\nGareth and Scotty tell you all about their adventures at the MACE 2019 Game convention in Charlotte North Carolina.\n\nInfo about MACE: https://www.justusproductions.com/mace-home/",
+  "duration": {
+    "minutes": 22,
+    "seconds": 36
+  },
   "id": "qQNeAVS8TEs",
-  "position": 680,
-  "publishedAt": 1576739014,
+  "publishedAt": 1576738955,
+  "ranking": {
+    "likes": 158,
+    "views": 2767
+  },
+  "tags": [
+    "mace game convention",
+    "dm scotty.",
+    "dm scotty",
+    "dmginfo",
+    "quest givers",
+    "the dms craft",
+    "dungeons and dragons",
+    "game crafting",
+    "gareth"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/qQNeAVS8TEs/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/qQNeAVS8TEs/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/qQNeAVS8TEs/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/qQNeAVS8TEs/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/qQNeAVS8TEs/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/qQNeAVS8TEs/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/qQNeAVS8TEs/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/qQNeAVS8TEs/default.jpg"
   },
   "title": "Fun, Friends, Crafting and Quests at MACE 2019"
 }

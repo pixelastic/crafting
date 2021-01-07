@@ -1,12 +1,30 @@
 {
   "description": "Designing and building your own cheap and easy custom model storage box for Warhammer 40k.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 8,
+    "seconds": 43
+  },
   "id": "Hd_jlyumAs0",
-  "position": 107,
-  "publishedAt": 1534571246,
+  "publishedAt": 1534571876,
+  "ranking": {
+    "likes": 2606,
+    "views": 55809
+  },
+  "tags": [
+    "40k",
+    "warhammer",
+    "black magic craft",
+    "luke's aps",
+    "terraintutor",
+    "wyloch",
+    "miniature storage"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/Hd_jlyumAs0/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/Hd_jlyumAs0/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/Hd_jlyumAs0/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/Hd_jlyumAs0/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/Hd_jlyumAs0/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/Hd_jlyumAs0/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/Hd_jlyumAs0/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/Hd_jlyumAs0/default.jpg"
   },
   "title": "How to Build Your Own Custom Miniature Storage Box for Warhammer 40k (WCV 109)"
 }

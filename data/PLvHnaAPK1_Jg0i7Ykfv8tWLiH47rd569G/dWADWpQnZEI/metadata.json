@@ -1,12 +1,44 @@
 {
   "description": "👉Pick up all these great products at our website:  https://questgivers.com/",
+  "duration": {
+    "minutes": 4,
+    "seconds": 38
+  },
   "id": "dWADWpQnZEI",
-  "position": 676,
-  "publishedAt": 1554911873,
+  "publishedAt": 1559605382,
+  "ranking": {
+    "likes": 135,
+    "views": 2644
+  },
+  "tags": [
+    "quest givers",
+    "the dmg info",
+    "dm scotty",
+    "writing dungeons and dragons adventures",
+    "dungeons and dragons",
+    "dungeons and dragons quests",
+    "quest books",
+    "beginner adventures",
+    "best adventures",
+    "basic adventures",
+    "classic adventures",
+    "youtube channel",
+    "the dmg info youtube",
+    "dm's craft",
+    "quest ideas",
+    "adventure path",
+    "dungeons and dragons adventures",
+    "dungeon master",
+    "OSR",
+    "old school roleplaying",
+    "DnD"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/dWADWpQnZEI/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/dWADWpQnZEI/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/dWADWpQnZEI/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/dWADWpQnZEI/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/dWADWpQnZEI/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/dWADWpQnZEI/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/dWADWpQnZEI/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/dWADWpQnZEI/default.jpg"
   },
   "title": "⚔ QUEST GIVERS RPG ⚔  System Neutral Fantasy Adventure Content"
 }

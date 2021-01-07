@@ -1,12 +1,45 @@
 {
   "description": "📐 Tools & Supplies I Recommend: http://bit.ly/EssentialEquip\n⚔️Join the \"Fellowship\" on Patreon: http://bit.ly/JoinTheBMC_Fellowship\n👕Grab a BMC Shirt: http://bit.ly/BMCmerch\n\n#BlackMagicCraft #Episode145\n\nIn this video I build some modular steel barricades for Kill Team, but they could be used for any modern or post apocalyptic tabletop game from 40k-Gaslands.\n---------------------------------------------------------------------\n➳  http://www.blackmagiccraft.ca\n➳ Facebook: https://goo.gl/hvNgQL\n➳ Join the Tabletop Crafters Guild: https://goo.gl/RMMqoh",
+  "duration": {
+    "minutes": 12,
+    "seconds": 22
+  },
   "id": "Q736BOtUAJc",
-  "position": 144,
-  "publishedAt": 1560446369,
+  "publishedAt": 1560484802,
+  "ranking": {
+    "likes": 3318,
+    "views": 83257
+  },
+  "tags": [
+    "Black magic craft",
+    "modular barricades",
+    "metal barricades",
+    "steel barricades",
+    "scatter terrain",
+    "kill team",
+    "40k",
+    "gaslands",
+    "rusty barricades",
+    "modular terrain",
+    "tabletop games",
+    "miniature barricades",
+    "modular walls",
+    "warhammer",
+    "40k scatter terrain",
+    "gaslands terrain",
+    "modular terrain tutorial",
+    "modular terrain 40k",
+    "modular tabletop terrain",
+    "modern terrain",
+    "post apocalyptic terrain",
+    "sci fi terrain"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/Q736BOtUAJc/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/Q736BOtUAJc/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/Q736BOtUAJc/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/Q736BOtUAJc/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/Q736BOtUAJc/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/Q736BOtUAJc/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/Q736BOtUAJc/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/Q736BOtUAJc/default.jpg"
   },
   "title": "Modular Metal Barricades for Kill Team, Warhammer 40k, or Gaslands"
 }

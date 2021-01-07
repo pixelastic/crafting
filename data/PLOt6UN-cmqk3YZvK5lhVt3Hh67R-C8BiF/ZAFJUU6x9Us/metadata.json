@@ -1,12 +1,35 @@
 {
   "description": "A quick introduction, sharing rapid lessons learned from someone who recently started airbrushing.\n\nNext Level Painting: https://www.youtube.com/channel/UCTfnfIY3Kyxcv8sWck4sxvQ\nDevious Dungeons Painting: https://www.youtube.com/user/666windrammer666\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nMaster Airbrush Kit: http://amzn.to/2CtYNNK\nIwata Eclipse: http://amzn.to/2CeteTW\nFlow Improver: http://amzn.to/2Crt3Zs\nCleaner: http://amzn.to/2qgHeLi\nRespirator: http://amzn.to/2CwtjFW\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 8,
+    "seconds": 28
+  },
   "id": "ZAFJUU6x9Us",
-  "position": 88,
-  "publishedAt": 1514939618,
+  "publishedAt": 1514939617,
+  "ranking": {
+    "likes": 368,
+    "views": 10658
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "airbrushing",
+    "black magic craft",
+    "luke's aps",
+    "thedmscraft"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/ZAFJUU6x9Us/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/ZAFJUU6x9Us/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/ZAFJUU6x9Us/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/ZAFJUU6x9Us/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/ZAFJUU6x9Us/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/ZAFJUU6x9Us/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/ZAFJUU6x9Us/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/ZAFJUU6x9Us/default.jpg"
   },
   "title": "Introduction to Hobby Model and Terrain Airbrushing"
 }

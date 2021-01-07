@@ -1,12 +1,21 @@
 {
   "description": "04/01\nClick here: https://www.youtube.com/watch?v=RksDK7EVVD4",
+  "duration": {
+    "minutes": 0,
+    "seconds": 9
+  },
   "id": "pyV767KIJds",
-  "position": 67,
-  "publishedAt": 1491065308,
+  "publishedAt": 1491065307,
+  "ranking": {
+    "likes": 53,
+    "views": 10809
+  },
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/pyV767KIJds/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/pyV767KIJds/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/pyV767KIJds/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/pyV767KIJds/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/pyV767KIJds/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/pyV767KIJds/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/pyV767KIJds/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/pyV767KIJds/default.jpg"
   },
   "title": "(April Fool's) How to Make Full Dungeon Room Tiles for Dungeons & Dragons, Pathfinder Terrain"
 }

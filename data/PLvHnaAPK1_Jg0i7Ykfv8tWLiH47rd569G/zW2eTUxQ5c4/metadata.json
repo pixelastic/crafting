@@ -1,12 +1,61 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 11,
+    "seconds": 37
+  },
   "id": "zW2eTUxQ5c4",
-  "position": 241,
-  "publishedAt": 1460736905,
+  "publishedAt": 1390241577,
+  "ranking": {
+    "likes": 197,
+    "views": 5901
+  },
+  "tags": [
+    "D&D",
+    "dnd",
+    "Dungeons & Dragons (Roleplaying Game)",
+    "Pathfinder Roleplaying Game (Game)",
+    "craft",
+    "make",
+    "terrain",
+    "diy",
+    "advice",
+    "tip",
+    "Role-playing Game (Game Genre)",
+    "Tabletop Game (Game Genre)",
+    "Session",
+    "Play",
+    "how to play",
+    "DnD",
+    "DnD5e",
+    "roleplaying",
+    "Dungeon Master",
+    "DnD 5e",
+    "how to play dungeons and dragons",
+    "how to play dnd",
+    "dnd for dummies",
+    "tutorial",
+    "dungeon master",
+    "dm",
+    "game master",
+    "dungeonmaster",
+    "rpg",
+    "tabletop rpg",
+    "beginners",
+    "Terrain",
+    "dungeon tiles",
+    "encounter design",
+    "miniatures",
+    "DM Scotty",
+    "adventure",
+    "3D"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/zW2eTUxQ5c4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/zW2eTUxQ5c4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/zW2eTUxQ5c4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/zW2eTUxQ5c4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/zW2eTUxQ5c4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/zW2eTUxQ5c4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/zW2eTUxQ5c4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/zW2eTUxQ5c4/default.jpg"
   },
   "title": "How to Narrow Your Crafting Focus for D&D Games (The DM's Craft, Gamethunk #10)"
 }

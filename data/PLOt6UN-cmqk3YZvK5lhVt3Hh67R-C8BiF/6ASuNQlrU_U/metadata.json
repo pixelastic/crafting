@@ -1,12 +1,33 @@
 {
   "description": "** WARNING **: This video is super old and terrible.  For a modernized look at this concept, try these two videos:\nhttps://www.youtube.com/watch?v=xRBx9hfZDkM\nhttps://www.youtube.com/watch?v=JUecWG1W-ss\n\nConsider this dissertation on the mechanical advantages of a 1.25\" grid over a 1\" grid.  Then, continue watching this series for how to cheaply build your own modular dungeon tiles for your tabletop roleplaying games such as Dungeons & Dragons.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 8,
+    "seconds": 54
+  },
   "id": "6ASuNQlrU_U",
-  "position": 0,
-  "publishedAt": 1432171133,
+  "publishedAt": 1431910320,
+  "ranking": {
+    "likes": 2072,
+    "views": 96996
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "dwarven forge",
+    "hirst arts"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/6ASuNQlrU_U/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/6ASuNQlrU_U/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/6ASuNQlrU_U/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/6ASuNQlrU_U/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/6ASuNQlrU_U/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/6ASuNQlrU_U/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/6ASuNQlrU_U/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/6ASuNQlrU_U/default.jpg"
   },
   "title": "Why a 1.25\" Grid is Better than 1\" Grid on Dungeon Tiles for Dungeons & Dragons"
 }

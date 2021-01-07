@@ -1,12 +1,33 @@
 {
   "description": "How to create volcanic lava terrain for Warhammer 40k, Dungeons & Dragons, etc.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 17,
+    "seconds": 3
+  },
   "id": "H08KLilnKMs",
-  "position": 126,
-  "publishedAt": 1564575083,
+  "publishedAt": 1564603061,
+  "ranking": {
+    "likes": 2603,
+    "views": 47561
+  },
+  "tags": [
+    "volcanic terrain",
+    "warhammer 40k",
+    "volcano",
+    "lava terrain",
+    "lava",
+    "luke's aps",
+    "terraintutor",
+    "black magic craft",
+    "kill team terrain",
+    "terrain"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/H08KLilnKMs/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/H08KLilnKMs/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/H08KLilnKMs/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/H08KLilnKMs/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/H08KLilnKMs/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/H08KLilnKMs/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/H08KLilnKMs/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/H08KLilnKMs/default.jpg"
   },
   "title": "How to Make Volcanic Lava Terrain"
 }

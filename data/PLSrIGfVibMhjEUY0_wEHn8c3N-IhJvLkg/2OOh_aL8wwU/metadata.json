@@ -1,12 +1,52 @@
 {
   "description": "How to build quick and easy, awesome looking, modular cave tiles that double as mountain/rock elevations for tabletop gaming.\n\n3d look and feel with the playability of 2.5d.\n\nJoin us on facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094\n\nBlack Magic Craft title music by Black Magic Craft\n\n\"Darkest Child\", \"The Path of the Goblin King v2\", \"Moonlight Hall\", \"Shamanistic\"\nKevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 15,
+    "seconds": 28
+  },
   "id": "2OOh_aL8wwU",
-  "position": 0,
-  "publishedAt": 1447027337,
+  "publishedAt": 1446646286,
+  "ranking": {
+    "likes": 3207,
+    "views": 177460
+  },
+  "tags": [
+    "dungeons & dragons",
+    "terrain",
+    "tabletop gaming",
+    "tutorial",
+    "how to",
+    "3d dungeon tiles",
+    "d&d dungeon tiles",
+    "d&d tiles",
+    "dungeon crawl tiles",
+    "dungeon map tiles",
+    "dungeon tile",
+    "role-playing games",
+    "modular terrain",
+    "modular dungeon",
+    "modular dungeon tiles",
+    "dungeon tiles",
+    "dungeon room",
+    "dungeon corridor",
+    "crafting terrain",
+    "Pathfinder Roleplaying Game",
+    "2.5d",
+    "miniature roleplaying",
+    "cave tiles",
+    "d&d cave tiles",
+    "modular cave",
+    "modular cave tile",
+    "cave terrain",
+    "easy cave tile",
+    "gridless"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/2OOh_aL8wwU/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/2OOh_aL8wwU/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/2OOh_aL8wwU/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/2OOh_aL8wwU/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/2OOh_aL8wwU/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/2OOh_aL8wwU/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/2OOh_aL8wwU/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/2OOh_aL8wwU/default.jpg"
   },
   "title": "Modular Cave Tiles For D&D Tutorial (Episode 001)"
 }

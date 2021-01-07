@@ -1,12 +1,48 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 16,
+    "seconds": 11
+  },
   "id": "l5RPNMdPzF8",
-  "position": 131,
-  "publishedAt": 1460736905,
+  "publishedAt": 1371072988,
+  "ranking": {
+    "likes": 333,
+    "views": 24380
+  },
+  "tags": [
+    "D&D",
+    "dnd",
+    "pathfinder",
+    "encounter",
+    "DM",
+    "Scotty",
+    "rpg",
+    "game",
+    "craft",
+    "ogre",
+    "giant",
+    "terrain",
+    "wargame",
+    "boss fight",
+    "encounter design",
+    "cheap",
+    "easy",
+    "cardboard",
+    "dungeon tiles",
+    "giants",
+    "ogres",
+    "dungeond and dragons",
+    "4e",
+    "make",
+    "adventure"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/l5RPNMdPzF8/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/l5RPNMdPzF8/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/l5RPNMdPzF8/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/l5RPNMdPzF8/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/l5RPNMdPzF8/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/l5RPNMdPzF8/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/l5RPNMdPzF8/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/l5RPNMdPzF8/default.jpg"
   },
   "title": "Boss Fight D&D Encounter and Tile (the DM's Craft, EP61)"
 }

@@ -1,12 +1,50 @@
 {
   "description": "How to build a kick ass looking longboat or ship for your D&D, Pathfinder, or other tabletop role playing game. Free template included that you can use to complete this project.\n\nDownload the template: http://drivethrurpg.com/product/178641/Longboat-Template\n\nJoin us on facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094/?ref=bookmarks\n\nBlack Magic Craft title music by Black Magic Craft\n\nBackground music:\nKevin MacLeod (incompetech.com)\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 14,
+    "seconds": 7
+  },
   "id": "Cov0BHeRHO8",
-  "position": 7,
-  "publishedAt": 1459206516,
+  "publishedAt": 1459195011,
+  "ranking": {
+    "likes": 4341,
+    "views": 133343
+  },
+  "tags": [
+    "Dungeons & Dragons",
+    "D&D",
+    "terrain",
+    "tabletop gamingtutorial",
+    "how to",
+    "3d dungeon tiles",
+    "2.5d tiles",
+    "d&d tiles",
+    "role playing games",
+    "modular terrain",
+    "crafting terrain",
+    "miniature roleplaying",
+    "gridless",
+    "d&d crafting",
+    "d&d gridless",
+    "D&D boat",
+    "D&D ship",
+    "ship terrain",
+    "boat terrain",
+    "build a boat for dungeons & dragons",
+    "miniature longboat",
+    "miniature ship",
+    "miniature boat",
+    "viking ship",
+    "viking ship for d&d",
+    "black magic craft",
+    "episode 08"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/Cov0BHeRHO8/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/Cov0BHeRHO8/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/Cov0BHeRHO8/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/Cov0BHeRHO8/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/Cov0BHeRHO8/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/Cov0BHeRHO8/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/Cov0BHeRHO8/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/Cov0BHeRHO8/default.jpg"
   },
   "title": "Longboat (Ship) For D&D Tutorial (Episode 08)"
 }

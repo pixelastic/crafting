@@ -1,12 +1,45 @@
 {
   "description": "Rules for measureless and gridless combats in D&D\n\nRounds are broken into movement phase and action phase for each side of a conflict. The idea is to simulate everyone moving at once and not the conga-line mentality of most games.\n\nCharacters can move any amount within reason.\n\nObstacles that call for checks may cause the model to not move as far as they intended.\n\nAn enemy that moves in melee range of you means that you are \"engaged\".\n\nBeing \"engaged\" stops your movement for the round.\n\nCharacters and enemies can intercept each other if they have not yet moved or are not engaged.\n\nIntercepting a character or enemy that is running away gives the interceptor disadvantage unless the character is running from being previously engaged. Example-a character or enemy that was not in melee and decided to run.\n\nCharacters or enemies can use ranged at will attacks in the movement phase (snap fire) but lose their action in the action phase\n\nCharging characters or enemies can attack when they charge (in movement phase) but can be intercepted and must fight the intercepting enemy.\n\nAttacks of opportunity act as normal and can be liberalized to include a general area at DM discretion.\n\nEncounter powers and daily powers can only be used in the action phase.\n\nCharacters can use their standard action, (in the action phase) as a move if they had not been \"engaged\" that round.",
+  "duration": {
+    "minutes": 32,
+    "seconds": 50
+  },
   "id": "94aqO7jQp8E",
-  "position": 250,
-  "publishedAt": 1460736905,
+  "publishedAt": 1391583698,
+  "ranking": {
+    "likes": 253,
+    "views": 14536
+  },
+  "tags": [
+    "Dungeons & Dragons (Roleplaying Game)",
+    "D&D",
+    "dnd",
+    "rpg",
+    "pathfinder",
+    "combat",
+    "grid",
+    "gridless",
+    "measureless",
+    "measure",
+    "game",
+    "table",
+    "terrain",
+    "movement",
+    "advice",
+    "rules",
+    "wargame",
+    "dm",
+    "run",
+    "dming",
+    "running",
+    "playing"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/94aqO7jQp8E/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/94aqO7jQp8E/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/94aqO7jQp8E/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/94aqO7jQp8E/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/94aqO7jQp8E/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/94aqO7jQp8E/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/94aqO7jQp8E/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/94aqO7jQp8E/default.jpg"
   },
   "title": "Rules for Measureless and Gridless Combats in D&D (The DM's Craft #88)"
 }

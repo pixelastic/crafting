@@ -1,11 +1,35 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 14,
+    "seconds": 8
+  },
   "id": "ZCCLesc_fRs",
-  "position": 64,
-  "publishedAt": 1460734350,
+  "publishedAt": 1349820392,
+  "ranking": {
+    "likes": 276,
+    "views": 11721
+  },
+  "tags": [
+    "paint",
+    "dnd",
+    "pathfinder",
+    "dm",
+    "scotty",
+    "craft dungeon",
+    "dragon",
+    "d&D",
+    "rpg",
+    "supplies",
+    "dm crafting",
+    "craft paints",
+    "recommended"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/ZCCLesc_fRs/sddefault.jpg",
-    "small": "https://i.ytimg.com/vi/ZCCLesc_fRs/mqdefault.jpg"
+    "large": "https://i.ytimg.com/vi/ZCCLesc_fRs/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/ZCCLesc_fRs/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/ZCCLesc_fRs/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/ZCCLesc_fRs/default.jpg"
   },
   "title": "Starting out paints for DM Craftin' (The DM's Craft,Short tip, EP11)"
 }

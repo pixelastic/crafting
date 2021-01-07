@@ -1,12 +1,62 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 3,
+    "seconds": 52
+  },
   "id": "A4lPbN4epsc",
-  "position": 154,
-  "publishedAt": 1460736905,
+  "publishedAt": 1376022248,
+  "ranking": {
+    "likes": 57,
+    "views": 2532
+  },
+  "tags": [
+    "D&D",
+    "dnd",
+    "pathfinder",
+    "monster",
+    "rpg",
+    "dice",
+    "damage",
+    "advice",
+    "roll",
+    "die",
+    "dm",
+    "scotty",
+    "Role-playing Game (Game Genre)",
+    "Tabletop Game (Game Genre)",
+    "Pathfinder Roleplaying Game (Game)",
+    "Session",
+    "Play",
+    "how to play",
+    "DnD",
+    "DnD5e",
+    "roleplaying",
+    "Dungeon Master",
+    "how to play dungeons and dragons",
+    "how to play dnd",
+    "dnd for dummies",
+    "tutorial",
+    "dungeon master",
+    "game master",
+    "dungeonmaster",
+    "tabletop rpg",
+    "beginners",
+    "Terrain",
+    "dungeon tiles",
+    "encounter design",
+    "miniatures",
+    "DM Scotty",
+    "adventure",
+    "3D",
+    "diy"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/A4lPbN4epsc/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/A4lPbN4epsc/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/A4lPbN4epsc/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/A4lPbN4epsc/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/A4lPbN4epsc/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/A4lPbN4epsc/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/A4lPbN4epsc/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/A4lPbN4epsc/default.jpg"
   },
   "title": "Rolless Median Monster Damage for D&D (GameThunk w/DM Scotty #2)"
 }

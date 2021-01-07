@@ -1,12 +1,21 @@
 {
   "description": "Find out why they call me Craftfather and what DM crafting is about.\n🌟STOCK UP FOR THIS CRAFT!  🌟(You help the channel with every purchase at no extra cost to you!) 🌟 https://www.amazon.com/shop/thedmscraft 🌟",
+  "duration": {
+    "minutes": 2,
+    "seconds": 44
+  },
   "id": "r2urH6gOyNI",
-  "position": 688,
-  "publishedAt": 1596310786,
+  "publishedAt": 1596311521,
+  "ranking": {
+    "likes": 599,
+    "views": 6465
+  },
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/r2urH6gOyNI/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/r2urH6gOyNI/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/r2urH6gOyNI/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/r2urH6gOyNI/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/r2urH6gOyNI/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/r2urH6gOyNI/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/r2urH6gOyNI/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/r2urH6gOyNI/default.jpg"
   },
   "title": "Crafting for Dungeons and Dragons the DM's Craft Way"
 }

@@ -1,12 +1,37 @@
 {
   "description": "DungeonMasterG (TheDMG) shows how he makes his bed...s for use with dungeon tiles in role-playing games, Dungeons and Dragons and Pathfinder\n\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\nLatest Subscriber Competition - https://www.youtube.com/watch?v=dI96D3_2-yo\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.com/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,industrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock Files have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 11,
+    "seconds": 8
+  },
   "id": "EAx9U9yxD-0",
-  "position": 28,
-  "publishedAt": 1384093403,
+  "publishedAt": 1384093258,
+  "ranking": {
+    "likes": 778,
+    "views": null
+  },
+  "tags": [
+    "Making Dungeon Terrain",
+    "Pathfinder",
+    "Homemade Terrain",
+    "Modular Terrain",
+    "Painting Custom Terrain",
+    "crafting beds",
+    "Cheap Dungeon Terrain",
+    "making dungeon beds",
+    "Modular Dungeon Tiles",
+    "Crafting Terrain",
+    "Dungeon Terrain",
+    "Role Playing Games",
+    "Dmscotty",
+    "Dungeons And Dragons"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/EAx9U9yxD-0/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/EAx9U9yxD-0/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/EAx9U9yxD-0/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/EAx9U9yxD-0/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/EAx9U9yxD-0/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/EAx9U9yxD-0/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/EAx9U9yxD-0/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/EAx9U9yxD-0/default.jpg"
   },
   "title": "Crafting beds and bedding for dungeon tiles in D&D and Pathfinder DMG#028"
 }

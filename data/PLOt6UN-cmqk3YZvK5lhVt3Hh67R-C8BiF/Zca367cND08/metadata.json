@@ -1,12 +1,21 @@
 {
   "description": "Cheap and easy scratch-built Promethium pipes for Warhammer 40k, Kill Team, etc. terrain.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 11,
+    "seconds": 25
+  },
   "id": "Zca367cND08",
-  "position": 134,
-  "publishedAt": 1576530243,
+  "publishedAt": 1576535128,
+  "ranking": {
+    "likes": 2084,
+    "views": 41729
+  },
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/Zca367cND08/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/Zca367cND08/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/Zca367cND08/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/Zca367cND08/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/Zca367cND08/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/Zca367cND08/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/Zca367cND08/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/Zca367cND08/default.jpg"
   },
   "title": "Cheap and Easy Promethium Pipes Terrain for Warhammer 40k, Kill Team"
 }

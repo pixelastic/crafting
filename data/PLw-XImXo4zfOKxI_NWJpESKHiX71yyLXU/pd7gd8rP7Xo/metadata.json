@@ -1,12 +1,46 @@
 {
   "description": "DungeonMasterG shows us how to design and construct (craft) basic modular dungeon tiles cheaply, using cardboard, for role-playing games like Dungeons and Dragons and Pathfinder.\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.com/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,\nindustrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock\nFiles have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 10,
+    "seconds": 43
+  },
   "id": "pd7gd8rP7Xo",
-  "position": 2,
-  "publishedAt": 1371293289,
+  "publishedAt": 1371294410,
+  "ranking": {
+    "likes": 3708,
+    "views": null
+  },
+  "tags": [
+    "role-playing games",
+    "dungeons and dragons",
+    "modular dungeon",
+    "modular dungeon tiles",
+    "dungeon tiles",
+    "dungeon room",
+    "dungeon corridor",
+    "roleplaying games",
+    "crafting terrain",
+    "Dungeons & Dragons (Game)",
+    "Pathfinder Roleplaying Game (Game)",
+    "cheap terrain",
+    "pathfinder",
+    "terrain",
+    "crafting",
+    "how to make terrain",
+    "how to build terrain",
+    "cheapest terrain",
+    "cheapest dnd terrain",
+    "cheapest modular dnd terrain",
+    "how to make my own terrain",
+    "how to make my own dnd terrain",
+    "how to craft my own dungeon tiles"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/pd7gd8rP7Xo/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/pd7gd8rP7Xo/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/pd7gd8rP7Xo/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/pd7gd8rP7Xo/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/pd7gd8rP7Xo/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/pd7gd8rP7Xo/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/pd7gd8rP7Xo/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/pd7gd8rP7Xo/default.jpg"
   },
   "title": "How to design and craft cheap basic modular dungeon tiles terrain for D&D and Pathfinder DMG#002"
 }

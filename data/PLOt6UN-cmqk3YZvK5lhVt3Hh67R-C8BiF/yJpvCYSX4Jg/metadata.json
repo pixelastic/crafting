@@ -1,12 +1,22 @@
 {
   "description": "Quick kitbash of a water weird miniature for Dungeons & Dragons.\n\nOther projects in this video:\nGeneric Crags - https://www.youtube.com/watch?v=hbw226IPoec\nUnderdark Scatter - https://www.youtube.com/watch?v=Sjh_wnjjU7U\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 7,
+    "seconds": 14
+  },
   "id": "yJpvCYSX4Jg",
-  "position": 130,
-  "publishedAt": 1571585126,
+  "publishedAt": 1571597405,
+  "ranking": {
+    "likes": 1067,
+    "views": 15697
+  },
+  "tags": ["water weird", "d&d miniatures", "black magic craft"],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/yJpvCYSX4Jg/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/yJpvCYSX4Jg/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/yJpvCYSX4Jg/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/yJpvCYSX4Jg/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/yJpvCYSX4Jg/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/yJpvCYSX4Jg/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/yJpvCYSX4Jg/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/yJpvCYSX4Jg/default.jpg"
   },
   "title": "Kitbashing a Water Weird Miniature for Dungeons and Dragons"
 }

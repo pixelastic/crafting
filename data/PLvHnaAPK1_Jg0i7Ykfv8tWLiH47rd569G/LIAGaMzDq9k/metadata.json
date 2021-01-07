@@ -1,12 +1,35 @@
 {
   "description": "Get hooked on adventure and pick up The Loyalists here: https://bit.ly/30Hnrmq",
+  "duration": {
+    "minutes": 9,
+    "seconds": 2
+  },
   "id": "LIAGaMzDq9k",
-  "position": 674,
-  "publishedAt": 1558423182,
+  "publishedAt": 1558423181,
+  "ranking": {
+    "likes": 101,
+    "views": 1828
+  },
+  "tags": [
+    "dm scotty",
+    "dungeons and dragons",
+    "dungeon master",
+    "quest givers dm scotty",
+    "the loyalists",
+    "rpg modules",
+    "rpg adventure",
+    "dms craft",
+    "walkthrough",
+    "system independent rpg module",
+    "adventure modules",
+    "DnD adventures"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/LIAGaMzDq9k/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/LIAGaMzDq9k/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/LIAGaMzDq9k/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/LIAGaMzDq9k/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/LIAGaMzDq9k/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/LIAGaMzDq9k/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/LIAGaMzDq9k/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/LIAGaMzDq9k/default.jpg"
   },
   "title": "Loyalists Quest Givers Module Walk Through with DM Scotty"
 }

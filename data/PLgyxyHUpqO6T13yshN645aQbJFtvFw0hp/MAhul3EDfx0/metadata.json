@@ -1,12 +1,51 @@
 {
   "description": "This is my take on the Ringwraith or Nazgûl from Tolkiens lore, The Lord of The Rings. The crafting tutorial shows you how to create a cheap miniature of this creature, using only extremely cheap materials and simple techniques. This miniature works well for Dungeons & Dragons or LotR SBG. Subscribe!: https://tinyurl.com/y2qxwefo\n\nFollow us on Facebook: https://tinyurl.com/y3n8m7s6\nInstagram: https://www.instagram.com/bardscraft/\n\nLOTR music is from: http://moviethemes.net\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
+  "duration": {
+    "minutes": 6,
+    "seconds": 16
+  },
   "id": "MAhul3EDfx0",
-  "position": 29,
-  "publishedAt": 1550403991,
+  "publishedAt": 1550403753,
+  "ranking": {
+    "likes": 631,
+    "views": 9690
+  },
+  "tags": [
+    "nazgul miniature",
+    "nazgul",
+    "ringwraith miniature",
+    "the lord of the rings",
+    "lotr miniatures",
+    "lord of the rings strategy battle game",
+    "lotr sbg",
+    "lotr sbg miniatures",
+    "crafting tutorial",
+    "bard's craft",
+    "wargaming miniatures",
+    "crafting",
+    "miniature",
+    "d&d",
+    "dungeons and dragons",
+    "dnd diy",
+    "d&d miniatures",
+    "cheap miniatures",
+    "painting miniatures",
+    "ttrpg",
+    "lotr",
+    "wargaming",
+    "wraith miniature",
+    "lotr miniature",
+    "asmr crafting",
+    "lotr sbg miniature",
+    "custom miniature",
+    "black magic craft"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/MAhul3EDfx0/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/MAhul3EDfx0/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/MAhul3EDfx0/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/MAhul3EDfx0/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/MAhul3EDfx0/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/MAhul3EDfx0/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/MAhul3EDfx0/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/MAhul3EDfx0/default.jpg"
   },
   "title": "LotR - Crafting a Nazgul / Ringwraith Miniature (Custom Miniature Crafting Tutorial)"
 }

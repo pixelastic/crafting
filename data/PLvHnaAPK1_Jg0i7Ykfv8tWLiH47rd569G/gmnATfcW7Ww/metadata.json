@@ -1,12 +1,51 @@
 {
   "description": "DM Scotty shows you how to take a monster (dinosaur), and make it unique.\n\nJoin DM Scotty's Facebook group for DM's Craft updates and info: \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nVisit the DM's Craft Forum to meet other crafters, see cool pics of crafted stuff and pick up great tips and tricks: http://dmscraft.proboards.com/ A special thanks to Mad Lad Designs, AJ and DMG for helping to moderate The DM's Craft forum.\n\nAlso vist TheDMGinfo channel for more great 2.5D projects and ideas: https://www.youtube.com/channel/UCJLqz6kcB1gMPiVnL0XfUDg",
+  "duration": {
+    "minutes": 3,
+    "seconds": 46
+  },
   "id": "gmnATfcW7Ww",
-  "position": 300,
-  "publishedAt": 1460737125,
+  "publishedAt": 1403328387,
+  "ranking": {
+    "likes": 310,
+    "views": 12309
+  },
+  "tags": [
+    "Dungeons & Dragons (Game)",
+    "Dungeon Master",
+    "dinosaur",
+    "monster",
+    "make",
+    "craft",
+    "how",
+    "to",
+    "diy",
+    "Do It Yourself (Hobby)",
+    "encounter",
+    "D&D",
+    "dnd",
+    "5e",
+    "4e",
+    "next",
+    "table",
+    "top",
+    "diarama",
+    "miniature",
+    "pathfinder",
+    "island",
+    "primative",
+    "lost",
+    "world",
+    "prehistoric",
+    "wargame",
+    "skirmish"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/gmnATfcW7Ww/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/gmnATfcW7Ww/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/gmnATfcW7Ww/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/gmnATfcW7Ww/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/gmnATfcW7Ww/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/gmnATfcW7Ww/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/gmnATfcW7Ww/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/gmnATfcW7Ww/default.jpg"
   },
   "title": "Make a MONSTER UNIQUE for D&D (The DM's Craft Short Tip #55)"
 }

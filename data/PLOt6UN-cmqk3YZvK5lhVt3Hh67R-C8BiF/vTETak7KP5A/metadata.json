@@ -1,12 +1,21 @@
 {
   "description": "04/01\n\nSome extremely important reflections on the nature of precision.\nALSO!   https://www.youtube.com/watch?v=RksDK7EVVD4",
+  "duration": {
+    "minutes": 3,
+    "seconds": 5
+  },
   "id": "vTETak7KP5A",
-  "position": 66,
-  "publishedAt": 1491028976,
+  "publishedAt": 1491028975,
+  "ranking": {
+    "likes": 269,
+    "views": 6666
+  },
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/vTETak7KP5A/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/vTETak7KP5A/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/vTETak7KP5A/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/vTETak7KP5A/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/vTETak7KP5A/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/vTETak7KP5A/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/vTETak7KP5A/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/vTETak7KP5A/default.jpg"
   },
   "title": "Wyloch's Missives on Tools and Such"
 }

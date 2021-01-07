@@ -1,12 +1,50 @@
 {
   "description": "How to make stone look gothic doorways for your D&D or other tabletop game. \n\nFree Template: http://www.drivethrurpg.com/product/170761/Stone-Archway-Template-1\n\n\nJoin us on facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094/?ref=bookmarks\n\nBlack Magic Craft title music by Black Magic Craft\n\nBackground music:\n\"Tocatta and Fugue in D Minor\", Danger Storm\", \"Unwritten Return\"\nKevin MacLeod (incompetech.com)\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 8,
+    "seconds": 18
+  },
   "id": "k-qLlFNQWRs",
-  "position": 5,
-  "publishedAt": 1455249742,
+  "publishedAt": 1452605871,
+  "ranking": {
+    "likes": 2165,
+    "views": 69388
+  },
+  "tags": [
+    "Dungeons & Dragons",
+    "D&D",
+    "terrain",
+    "how to",
+    "3d dungeon tiles",
+    "2.5d tiles",
+    "d&d dungeon tiles",
+    "d&d tiles",
+    "dungeon map tiles",
+    "dungeon tile",
+    "modular terrain",
+    "modular dungeon",
+    "modular tiles",
+    "modular dungeon tiles",
+    "crafting terrain",
+    "miniature roleplaying",
+    "d&d cave tiles",
+    "modular cave tiles",
+    "gridless",
+    "d&d crafting",
+    "d&d gridless",
+    "d&d doors",
+    "tabletop doors",
+    "terrain doors",
+    "stone door",
+    "castle door",
+    "crypt door"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/k-qLlFNQWRs/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/k-qLlFNQWRs/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/k-qLlFNQWRs/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/k-qLlFNQWRs/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/k-qLlFNQWRs/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/k-qLlFNQWRs/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/k-qLlFNQWRs/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/k-qLlFNQWRs/default.jpg"
   },
   "title": "Stone Castle Doorways For D&D Tutorial (Episode 006)"
 }

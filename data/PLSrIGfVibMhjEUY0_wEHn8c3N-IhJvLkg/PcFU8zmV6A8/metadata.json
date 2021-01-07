@@ -1,12 +1,48 @@
 {
   "description": "📐 Tools & Supplies I Recommend: http://bit.ly/EssentialEquip\n⚔️Join the \"Fellowship\" on Patreon: http://bit.ly/JoinTheBMC_Fellowship\n👕Grab a BMC Shirt: http://bit.ly/BMCmerch\n\n#BlackMagicCraft #Episode142\n\nIn this topic I discuss the rather difficult subject to cover of how I actually implement and use terrain in my games of Dungeons & Dragons. How to I approach what to use and when, and how I physically implement it in my game while minimizing the disruption and slowdown to the game.\n\n#dungeonmaster #tips #DND\n\n---------------------------------------------------------------------\n➳  http://www.blackmagiccraft.ca\n➳ Facebook: https://goo.gl/hvNgQL\n➳ Join the Tabletop Crafters Guild: https://goo.gl/RMMqoh",
+  "duration": {
+    "minutes": 15,
+    "seconds": 15
+  },
   "id": "PcFU8zmV6A8",
-  "position": 141,
-  "publishedAt": 1558670428,
+  "publishedAt": 1558670427,
+  "ranking": {
+    "likes": 2981,
+    "views": 71017
+  },
+  "tags": [
+    "Black magic craft",
+    "how to use terrain",
+    "playing",
+    "dungeons & dragons",
+    "d&d",
+    "dungeons and dragons",
+    "tabletop rpgs",
+    "ttrpgs",
+    "dungeon master",
+    "dm",
+    "how to run games with terrain",
+    "how to use dungeon tiles",
+    "dungeon tile",
+    "modular terrain",
+    "how to dungeon tiles",
+    "tabletop rpg",
+    "d&d terrain",
+    "tabletop terrain",
+    "wargaming terrain",
+    "scatter terrain",
+    "terrain tutorial",
+    "dungeons & dragons terrain",
+    "dm tips",
+    "how to dungeon master",
+    "how to dm"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/PcFU8zmV6A8/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/PcFU8zmV6A8/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/PcFU8zmV6A8/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/PcFU8zmV6A8/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/PcFU8zmV6A8/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/PcFU8zmV6A8/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/PcFU8zmV6A8/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/PcFU8zmV6A8/default.jpg"
   },
   "title": "How to Use Terrain Playing Dungeons & Dragons"
 }

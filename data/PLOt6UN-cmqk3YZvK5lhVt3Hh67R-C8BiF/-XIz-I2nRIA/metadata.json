@@ -1,12 +1,21 @@
 {
   "description": "04/01",
+  "duration": {
+    "minutes": 3,
+    "seconds": 13
+  },
   "id": "-XIz-I2nRIA",
-  "position": 120,
-  "publishedAt": 1553911794,
+  "publishedAt": 1554091202,
+  "ranking": {
+    "likes": 788,
+    "views": 12784
+  },
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/-XIz-I2nRIA/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/-XIz-I2nRIA/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/-XIz-I2nRIA/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/-XIz-I2nRIA/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/-XIz-I2nRIA/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/-XIz-I2nRIA/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/-XIz-I2nRIA/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/-XIz-I2nRIA/default.jpg"
   },
   "title": "The Case For a 1\" Grid (Because 1-1/4\" Is Overrated)"
 }

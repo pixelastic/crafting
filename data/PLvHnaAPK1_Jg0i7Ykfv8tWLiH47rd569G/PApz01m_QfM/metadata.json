@@ -1,12 +1,49 @@
 {
   "description": "Scotty’s favorite glue gun (Amazon affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 1,
+    "seconds": 38
+  },
   "id": "PApz01m_QfM",
-  "position": 347,
-  "publishedAt": 1451250061,
+  "publishedAt": 1417457412,
+  "ranking": {
+    "likes": 93,
+    "views": 3448
+  },
+  "tags": [
+    "Dungeons & Dragons (Game)",
+    "Ranger (Character Occupation)",
+    "Character Class",
+    "PC",
+    "character",
+    "D&D",
+    "dnd",
+    "pathfinder",
+    "song",
+    "ballad",
+    "Animation",
+    "miniature",
+    "everfrost",
+    "dm scotty",
+    "craft",
+    "arthur charles",
+    "bard",
+    "game",
+    "table",
+    "rpg",
+    "creation",
+    "5e",
+    "4e",
+    "roderick the ranger",
+    "origin",
+    "DnD song"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/PApz01m_QfM/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/PApz01m_QfM/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/PApz01m_QfM/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/PApz01m_QfM/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/PApz01m_QfM/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/PApz01m_QfM/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/PApz01m_QfM/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/PApz01m_QfM/default.jpg"
   },
   "title": "The Ballad of Roderick the Ranger D&D Character Song"
 }

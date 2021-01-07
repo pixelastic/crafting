@@ -1,12 +1,55 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 8,
+    "seconds": 1
+  },
   "id": "AkMT5qhMFFI",
-  "position": 111,
-  "publishedAt": 1460736428,
+  "publishedAt": 1362448178,
+  "ranking": {
+    "likes": 313,
+    "views": 19329
+  },
+  "tags": [
+    "DnD",
+    "D&D",
+    "pathfinder",
+    "rpg",
+    "trap",
+    "dungeons and dragons",
+    "dm",
+    "scotty",
+    "tile",
+    "craft",
+    "Dungeons & Dragons (Game)",
+    "Dungeon Master",
+    "Games",
+    "table",
+    "top",
+    "dm scotty",
+    "warhammer",
+    "wargame",
+    "tutorial",
+    "diy",
+    "make",
+    "terrain",
+    "the dm's craft",
+    "Do It Yourself (Hobby)",
+    "making",
+    "trap encounter",
+    "encounter building",
+    "dungeon tiles",
+    "cave tiles",
+    "kobolds",
+    "mine",
+    "adventure idea"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/AkMT5qhMFFI/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/AkMT5qhMFFI/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/AkMT5qhMFFI/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/AkMT5qhMFFI/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/AkMT5qhMFFI/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/AkMT5qhMFFI/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/AkMT5qhMFFI/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/AkMT5qhMFFI/default.jpg"
   },
   "title": "Challenge D&D Players with an Obvious but Deadly Trap (The DM's Craft, Short Tip, EP 28)"
 }

@@ -1,12 +1,52 @@
 {
   "description": "I saw Grimghast Reaper miniatures from Warhammer, thought they looked cool so I made a custom miniature based on the model.More Dungeon and Dragons miniatures - https://tinyurl.com/y2qxwefo\n\nCheck out the FREE Templates: https://drive.google.com/drive/folders/1HowJrMq4lpq1PI61dtjnZEJaTuvPL_tI?usp=sharing\n\nFacebook: https://tinyurl.com/y3n8m7s6 \nInstagram: https://www.instagram.com/bardscraft/",
+  "duration": {
+    "minutes": 8,
+    "seconds": 48
+  },
   "id": "vt9PEpL7Rj8",
-  "position": 28,
-  "publishedAt": 1553955627,
+  "publishedAt": 1553955626,
+  "ranking": {
+    "likes": 403,
+    "views": 7270
+  },
+  "tags": [
+    "dnd",
+    "d&d",
+    "crafting",
+    "painting",
+    "tutorial",
+    "bard's craft",
+    "dungeons and dragons",
+    "dnd miniatures",
+    "miniatures",
+    "reaper",
+    "wraith miniature",
+    "reaper miniature",
+    "ghost miniature",
+    "cheap miniatures",
+    "warhammer miniatures",
+    "nighthaunt",
+    "ageofsigmar",
+    "age of sigmar miniatures",
+    "age of sigmar painting",
+    "miniwargaming",
+    "crafting tutorial",
+    "cairn wraith",
+    "miniature painting",
+    "custom miniature",
+    "d&d miniatures",
+    "warhammer",
+    "grimghast reaper",
+    "grimghast",
+    "black magic craft"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/vt9PEpL7Rj8/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/vt9PEpL7Rj8/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/vt9PEpL7Rj8/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/vt9PEpL7Rj8/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/vt9PEpL7Rj8/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/vt9PEpL7Rj8/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/vt9PEpL7Rj8/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/vt9PEpL7Rj8/default.jpg"
   },
   "title": "Custom Grimghast Reaper / Wraith Miniature for Warhammer or D&D (Crafting Tutorial + Templates)"
 }

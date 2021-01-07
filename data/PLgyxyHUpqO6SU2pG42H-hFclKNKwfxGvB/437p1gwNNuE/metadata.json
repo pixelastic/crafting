@@ -1,12 +1,44 @@
 {
   "description": "Cheap RPG Terrain that can be used for many encounters. Check out more D&D Terrain Tutorials: https://tinyurl.com/yyco9kkr\n\nMusic: https://www.bensound.com",
+  "duration": {
+    "minutes": 1,
+    "seconds": 41
+  },
   "id": "437p1gwNNuE",
-  "position": 54,
-  "publishedAt": 1542016039,
+  "publishedAt": 1541682972,
+  "ranking": {
+    "likes": 452,
+    "views": 8369
+  },
+  "tags": [
+    "cheap tabletop terrain",
+    "d&d terrain tutorial",
+    "dungeons and dragons terrain",
+    "simple tabletop terrain",
+    "tabletop wooden walls",
+    "rpg wood walls",
+    "d&d fence",
+    "tabletop fence",
+    "tabletop walls",
+    "tabletop wood bridge",
+    "d&d pier",
+    "diy dnd terrain",
+    "fast tabletop terrain",
+    "simple pathfinder terrain",
+    "tabletop foam terrain",
+    "cheap d&d terrain",
+    "tabletop bridge",
+    "dnd diy",
+    "cheap rpg terrain",
+    "miniature wood platform",
+    "d&d"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/437p1gwNNuE/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/437p1gwNNuE/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/437p1gwNNuE/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/437p1gwNNuE/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/437p1gwNNuE/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/437p1gwNNuE/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/437p1gwNNuE/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/437p1gwNNuE/default.jpg"
   },
   "title": "Simple Bridge, Fence & Wooden Walls (D&D Terrain Tutorial)"
 }

@@ -1,12 +1,27 @@
 {
   "description": "How to craft advanced 3d flooring for modular dnd dungeon tiles. DMG#045\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\nNewsletter: http://eepurl.com/da4s2T\nTwitter: https://twitter.com/TheDMGinfo\nLatest Subscriber Competition - https://www.youtube.com/watch?v=dI96D3_2-yo\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.net/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,industrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock Files have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 6,
+    "seconds": 16
+  },
   "id": "6WFYd4HMUyw",
-  "position": 45,
-  "publishedAt": 1396531844,
+  "publishedAt": 1396532621,
+  "ranking": {
+    "likes": 826,
+    "views": null
+  },
+  "tags": [
+    "dungeon tile floor",
+    "making floors",
+    "crafting floors",
+    "egg carton"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/6WFYd4HMUyw/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/6WFYd4HMUyw/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/6WFYd4HMUyw/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/6WFYd4HMUyw/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/6WFYd4HMUyw/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/6WFYd4HMUyw/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/6WFYd4HMUyw/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/6WFYd4HMUyw/default.jpg"
   },
   "title": "How to make advanced 3d flooring for modular dnd dungeon tiles DMG#045"
 }

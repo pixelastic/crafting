@@ -1,12 +1,47 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 12,
+    "seconds": 18
+  },
   "id": "mH1neIwGOuQ",
-  "position": 15,
-  "publishedAt": 1460734350,
+  "publishedAt": 1334525229,
+  "ranking": {
+    "likes": 284,
+    "views": 16430
+  },
+  "tags": [
+    "Dungeon",
+    "dragon",
+    "tile",
+    "pathfinder",
+    "dm",
+    "scotty",
+    "d&D",
+    "craft",
+    "game",
+    "gm",
+    "and",
+    "rpg",
+    "master",
+    "role",
+    "playing",
+    "dungeons & dragons",
+    "dnd",
+    "map",
+    "battle",
+    "mat",
+    "dit",
+    "make",
+    "building",
+    "2.5D"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/mH1neIwGOuQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/mH1neIwGOuQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/mH1neIwGOuQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/mH1neIwGOuQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/mH1neIwGOuQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/mH1neIwGOuQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/mH1neIwGOuQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/mH1neIwGOuQ/default.jpg"
   },
   "title": "Crafting a large meeting hall for D&D (the DM's Craft, Ep 8, p1)"
 }

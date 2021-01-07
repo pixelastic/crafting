@@ -1,12 +1,53 @@
 {
   "description": "✂  Tools & Supplies I Recommend: https://goo.gl/Y7KKhY\n$  Support Black Magic Craft on Patreon: https://goo.gl/ZZ4vBf\n\n➳  http://www.blackmagiccraft.ca\n➳  Facebook: https://goo.gl/hvNgQL\n\nIn this Totally Practical Knowledge episode I discuss some of the pitfalls you may face as a crafting DM. These DM tips will help you not loose motivation or get as stressed out about preparing for your game. Don't let yourself be overwhelmed with work as a Dungeon Master or as a crafter.",
+  "duration": {
+    "minutes": 18,
+    "seconds": 2
+  },
   "id": "dSThDzxqq04",
-  "position": 61,
-  "publishedAt": 1509822189,
+  "publishedAt": 1510293602,
+  "ranking": {
+    "likes": 974,
+    "views": 30875
+  },
+  "tags": [
+    "black magic craft",
+    "black magic craft episode",
+    "dnd",
+    "dungeons n dragons",
+    "frostgrave",
+    "dungeons & dragons",
+    "d&d",
+    "pathfinder",
+    "tabletop",
+    "tabletop rpg",
+    "rpg",
+    "craft",
+    "terrain",
+    "crafting",
+    "terrain building",
+    "d&d terrain",
+    "dungeons & dragons terrain",
+    "tabletop terrain",
+    "wargaming terrain",
+    "how to",
+    "how to build",
+    "how to build for d&d",
+    "modular terrain",
+    "tutorial",
+    "terrain tutorial",
+    "craft tutorial",
+    "d&d tutorial",
+    "dm mistakes",
+    "dungeon master tips",
+    "dm tips"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/dSThDzxqq04/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/dSThDzxqq04/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/dSThDzxqq04/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/dSThDzxqq04/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/dSThDzxqq04/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/dSThDzxqq04/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/dSThDzxqq04/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/dSThDzxqq04/default.jpg"
   },
   "title": "TPK: Mistakes to Avoid as a Crafting DM (Black Magic Craft Episode 062)"
 }

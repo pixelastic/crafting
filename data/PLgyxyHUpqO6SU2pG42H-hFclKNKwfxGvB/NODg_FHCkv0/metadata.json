@@ -1,12 +1,49 @@
 {
   "description": "This D&D Terrain Tutorial will show you how to craft a cheap DIY battle-mat for D&D. More terrain and cheap miniatures for D&d: https://tinyurl.com/y2qxwefo\n\nFacebook: https://tinyurl.com/y3n8m7s6 \nInstagram: https://www.instagram.com/bardscraft/\n\n esittäjän Kevin MacLeod kappale Master of the Feast on suojattu lisenssillä Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/)\nLähde: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400019\nArtisti: http://incompetech.com/ \n\n \nesittäjän Kevin MacLeod kappale Folk Round on suojattu lisenssillä Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/)\nLähde: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100357\nArtisti: http://incompetech.com/",
+  "duration": {
+    "minutes": 3,
+    "seconds": 59
+  },
   "id": "NODg_FHCkv0",
-  "position": 46,
-  "publishedAt": 1555934927,
+  "publishedAt": 1555768802,
+  "ranking": {
+    "likes": 642,
+    "views": 10011
+  },
+  "tags": [
+    "cheap battle mat",
+    "cheap battle-mat",
+    "diy battle-mat",
+    "diy battle mat",
+    "mat for d&d",
+    "which is the best battle-mat",
+    "grass battle-mat",
+    "forest battle-mat",
+    "cheap",
+    "cheap tabletop terrain",
+    "mat for rpg",
+    "d&d terrain",
+    "cheap wargaming terrain",
+    "mat",
+    "wargaming",
+    "bard's craft",
+    "diy",
+    "dungeons and dragons",
+    "d&d",
+    "dnd",
+    "battlemat",
+    "crafting",
+    "d&d terrain tutorial",
+    "battle-mat",
+    "battle mat",
+    "battle mat for d&d"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/NODg_FHCkv0/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/NODg_FHCkv0/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/NODg_FHCkv0/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/NODg_FHCkv0/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/NODg_FHCkv0/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/NODg_FHCkv0/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/NODg_FHCkv0/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/NODg_FHCkv0/default.jpg"
   },
   "title": "Poor Man's Battle-Mat for D&D (Marker Friendly & Rollable)"
 }

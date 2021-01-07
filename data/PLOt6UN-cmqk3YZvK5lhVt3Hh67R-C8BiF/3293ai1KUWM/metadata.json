@@ -1,12 +1,33 @@
 {
   "description": "How to build a throne clip-on for your modular dungeon tiles for your tabletop roleplaying games such as Dungeons & Dragons.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 4,
+    "seconds": 10
+  },
   "id": "3293ai1KUWM",
-  "position": 50,
-  "publishedAt": 1480278479,
+  "publishedAt": 1480278478,
+  "ranking": {
+    "likes": 360,
+    "views": 11616
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "scatter terrain"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/3293ai1KUWM/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/3293ai1KUWM/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/3293ai1KUWM/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/3293ai1KUWM/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/3293ai1KUWM/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/3293ai1KUWM/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/3293ai1KUWM/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/3293ai1KUWM/default.jpg"
   },
   "title": "How to Make a Throne Clip-on for Dungeons & Dragons"
 }

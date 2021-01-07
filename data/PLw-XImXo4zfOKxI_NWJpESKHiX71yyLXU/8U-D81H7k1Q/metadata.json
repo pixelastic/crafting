@@ -1,12 +1,40 @@
 {
   "description": "Subscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\n7DSystem Channel: https://www.youtube.com/7dsystem\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\nNewsletter: http://eepurl.com/da4s2T\nTwitter: https://twitter.com/TheDMGinfo\nLatest Subscriber Competition - https://www.youtube.com/watch?v=dI96D3_2-yo\n\nMusic: \"Death Trap\" by Dani Valentine - http://www.facebook.com/TheBestGrotesque\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.com/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\" and/or \"Ethereal\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,industrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock Files have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 9,
+    "seconds": 1
+  },
   "id": "8U-D81H7k1Q",
-  "position": 111,
-  "publishedAt": 1472475378,
+  "publishedAt": 1472389201,
+  "ranking": {
+    "likes": 416,
+    "views": 9489
+  },
+  "tags": [
+    "dungeons and dragons",
+    "pathfinder",
+    "dnd",
+    "d&d",
+    "role-playing games",
+    "terrain making",
+    "terrain crafting",
+    "rpg terrain",
+    "wilderness terrain",
+    "wargame terrain",
+    "terrain building",
+    "cheap terrain",
+    "40k terrain",
+    "warhammer terrain",
+    "warmachine terrain",
+    "bolt action terrain",
+    "warhammer 40k terrain"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/8U-D81H7k1Q/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/8U-D81H7k1Q/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/8U-D81H7k1Q/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/8U-D81H7k1Q/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/8U-D81H7k1Q/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/8U-D81H7k1Q/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/8U-D81H7k1Q/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/8U-D81H7k1Q/default.jpg"
   },
   "title": "How to prepare your ultra cheap wargame terrain boards and RPG wilderness terrainDMG#111"
 }

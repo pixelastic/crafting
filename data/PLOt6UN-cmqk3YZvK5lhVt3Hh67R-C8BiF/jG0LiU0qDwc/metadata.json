@@ -1,12 +1,22 @@
 {
   "description": "How to speed-paint the Demogorgon miniature for your Dungeons & Dragons Out of the Abyss campaign.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 13,
+    "seconds": 27
+  },
   "id": "jG0LiU0qDwc",
-  "position": 143,
-  "publishedAt": 1586031395,
+  "publishedAt": 1586031394,
+  "ranking": {
+    "likes": 583,
+    "views": 9612
+  },
+  "tags": ["demogorgon", "d&d", "out of the abyss"],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/jG0LiU0qDwc/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/jG0LiU0qDwc/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/jG0LiU0qDwc/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/jG0LiU0qDwc/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/jG0LiU0qDwc/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/jG0LiU0qDwc/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/jG0LiU0qDwc/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/jG0LiU0qDwc/default.jpg"
   },
   "title": "Painting Demogorgon for Dungeons & Dragons Out of the Abyss"
 }

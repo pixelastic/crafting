@@ -1,12 +1,31 @@
 {
   "description": "How to build basic hills / crags / cliffs out of foam for Warhammer 40k, Dungeons & Dragons, etc.\n\nRock face technique: https://www.youtube.com/watch?v=GOKE_zTxleI\nWinters SEO's Crags: https://www.youtube.com/watch?v=A9ROmG0JWxY\nFrontline Gaming Mats (my favorite): https://store.frontlinegaming.org/gaming-mats/\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 8,
+    "seconds": 5
+  },
   "id": "hbw226IPoec",
-  "position": 94,
-  "publishedAt": 1519596009,
+  "publishedAt": 1519912805,
+  "ranking": {
+    "likes": 1556,
+    "views": 41923
+  },
+  "tags": [
+    "Wyloch",
+    "warhammer",
+    "warhammer 40k",
+    "winters seo",
+    "40k terrain",
+    "wargaming hills",
+    "luke's aps",
+    "mel tutor"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/hbw226IPoec/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/hbw226IPoec/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/hbw226IPoec/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/hbw226IPoec/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/hbw226IPoec/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/hbw226IPoec/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/hbw226IPoec/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/hbw226IPoec/default.jpg"
   },
   "title": "How to Make Generic Crags / Hills Terrain for Warhammer 40k"
 }

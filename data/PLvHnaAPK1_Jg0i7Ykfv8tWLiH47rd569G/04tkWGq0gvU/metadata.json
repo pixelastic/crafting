@@ -1,12 +1,47 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 16,
+    "seconds": 43
+  },
   "id": "04tkWGq0gvU",
-  "position": 80,
-  "publishedAt": 1460736428,
+  "publishedAt": 1354503102,
+  "ranking": {
+    "likes": 237,
+    "views": 9926
+  },
+  "tags": [
+    "D&d",
+    "lava",
+    "pathfinder",
+    "dnd",
+    "craft",
+    "dm",
+    "scotty",
+    "dungeon",
+    "dragon",
+    "rpg",
+    "tile",
+    "map",
+    "age",
+    "hackmaster",
+    "2.5D",
+    "make",
+    "diy",
+    "hot",
+    "hot magma",
+    "volcano",
+    "vulcan",
+    "hell",
+    "cave tiles",
+    "dungeon tiles"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/04tkWGq0gvU/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/04tkWGq0gvU/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/04tkWGq0gvU/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/04tkWGq0gvU/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/04tkWGq0gvU/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/04tkWGq0gvU/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/04tkWGq0gvU/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/04tkWGq0gvU/default.jpg"
   },
   "title": "Add lava to your crafted D&D tiles (The DMs Craft, EP 36)"
 }

@@ -1,12 +1,50 @@
 {
   "description": "Please watch the whole vid before commenting. Please read Matt Mercer's post pinned to the top of the comments and my reply before posting...Thank you.\n\nJoin DM Scotty's Facebook group for DM's Craft updates and info:\nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nBecome a DM's Craft Patron and help me bring more content to the community by joining Patreon. You will receive weekly exclusive DM Scotty content. https://www.patreon.com/theDMsCraft?ty=h\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 13,
+    "seconds": 24
+  },
   "id": "Z3PRYE_ZlJo",
-  "position": 570,
-  "publishedAt": 1494919705,
+  "publishedAt": 1494919704,
+  "ranking": {
+    "likes": 467,
+    "views": 19923
+  },
+  "tags": [
+    "critical role is bad for d&d",
+    "critical role is bad",
+    "is there a dark side to critical role",
+    "critical role bad",
+    "why critical role is bad",
+    "dm scotty critical role",
+    "dark side of critical role",
+    "geek and sundrey",
+    "geek & sundry",
+    "5e",
+    "game",
+    "critical role",
+    "geek and sundry",
+    "D&D",
+    "Critical roll",
+    "matthew mercer",
+    "dnd",
+    "dungeons and dragons",
+    "advice",
+    "dungeon master",
+    "matt mercer",
+    "dungeons & dragons (game)",
+    "dm's craft",
+    "dungeons & dragons",
+    "role-playing game (game genre)",
+    "gm tips",
+    "dm scotty"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/Z3PRYE_ZlJo/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/Z3PRYE_ZlJo/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/Z3PRYE_ZlJo/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/Z3PRYE_ZlJo/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/Z3PRYE_ZlJo/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/Z3PRYE_ZlJo/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/Z3PRYE_ZlJo/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/Z3PRYE_ZlJo/default.jpg"
   },
   "title": "Is there a Dark Side to Critical Role?"
 }

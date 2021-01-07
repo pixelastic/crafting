@@ -1,12 +1,29 @@
 {
   "description": "ESSENTIAL EQUIPMENT: http://bit.ly/EssentialEquip\nJOIN the \"FELLOWSHIP\" on PATREON: http://bit.ly/JoinTheBMC_Fellowship\nOFFICIAL BMC MERCH: http://bit.ly/BMCmerch\n\n#BlackMagicCraft #Episode186 #HOPE\n\nStay Safe. Be Responsible. Stay Home. Practice physical and social distancing. Do more than you are asked to do. This too shall pass. \n\n\n---------------------------------------------------------------------\n➳  http://www.blackmagiccraft.ca\n➳ Facebook: https://goo.gl/hvNgQL\n➳ Join the Tabletop Crafters Guild: https://goo.gl/RMMqoh",
+  "duration": {
+    "minutes": 13,
+    "seconds": 42
+  },
   "id": "Keck3I02cNs",
-  "position": 182,
-  "publishedAt": 1585886464,
+  "publishedAt": 1585886463,
+  "ranking": {
+    "likes": 3683,
+    "views": 40341
+  },
+  "tags": [
+    "Black magic craft",
+    "crafting",
+    "parents",
+    "coping",
+    "crisis",
+    "hope"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/Keck3I02cNs/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/Keck3I02cNs/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/Keck3I02cNs/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/Keck3I02cNs/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/Keck3I02cNs/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/Keck3I02cNs/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/Keck3I02cNs/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/Keck3I02cNs/default.jpg"
   },
   "title": "Crafting in a Crisis - How to Cope as Parents"
 }

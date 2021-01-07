@@ -1,12 +1,55 @@
 {
   "description": "This episode I talk about one of my favourite projects I've ever done, my modular city entrance/gate/watchtowers. \n\nJoin us on facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094/?ref=bookmarks\n\nBlack Magic Craft intro music by Black Magic Craft\n\nBackground music:\nKevin MacLeod (incompetech.com)\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 22,
+    "seconds": 18
+  },
   "id": "rbxYUDVwHtQ",
-  "position": 14,
-  "publishedAt": 1480311465,
+  "publishedAt": 1480601315,
+  "ranking": {
+    "likes": 2499,
+    "views": 105038
+  },
+  "tags": [
+    "dungeons & dragons",
+    "d&d",
+    "pathfinder",
+    "tabletop",
+    "tabletop rpg",
+    "rpg",
+    "craft",
+    "terrain",
+    "crafting",
+    "terrain building",
+    "d&d terrain",
+    "dungeons & dragons terrain",
+    "tabletop terrain",
+    "wargaming terrain",
+    "how to",
+    "how to build",
+    "how to build for d&d",
+    "modular terrain",
+    "tutorial",
+    "terrain tutorial",
+    "craft tutorial",
+    "d&d tutorial",
+    "terrain gate",
+    "terrain fort",
+    "terrain castle",
+    "terrain wall",
+    "terrain watchtower",
+    "guardtower",
+    "city gate terrain",
+    "city gate",
+    "city wall",
+    "modular castle"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/rbxYUDVwHtQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/rbxYUDVwHtQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/rbxYUDVwHtQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/rbxYUDVwHtQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/rbxYUDVwHtQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/rbxYUDVwHtQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/rbxYUDVwHtQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/rbxYUDVwHtQ/default.jpg"
   },
   "title": "Project Showcase: Modular City Gate, Fortification, & Watchtowers For D&D (Episode 015)"
 }

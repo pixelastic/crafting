@@ -1,12 +1,48 @@
 {
   "description": "I built this miniature RPG ship / warship from XPS foam, paper, and wooden skewers. I think it is ideal for orcs or hobgoblins who are skirmishing by the shore.\n\nMusic: https://www.bensound.com",
+  "duration": {
+    "minutes": 2,
+    "seconds": 14
+  },
   "id": "k-1uzcuKF6g",
-  "position": 55,
-  "publishedAt": 1540981593,
+  "publishedAt": 1540822090,
+  "ranking": {
+    "likes": 314,
+    "views": 5023
+  },
+  "tags": [
+    "dungeons and dragons terrain",
+    "warship",
+    "dungeons and dragons ship",
+    "dungeons & dragons",
+    "miniature ship",
+    "miniature warship",
+    "d&d pirate ship",
+    "d&d boat tutorial",
+    "simple d&d ship",
+    "cheap tabletop terrain",
+    "tabletop terrain building",
+    "d&d ship",
+    "ship",
+    "d&d",
+    "wargaming ship",
+    "simple miniature ship",
+    "dnd diy",
+    "simple d&d terrain",
+    "d&d diy",
+    "cheap rpg terrain",
+    "tabletop boat",
+    "d&d boat",
+    "rpg ship",
+    "crafting tutorial",
+    "longboat"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/k-1uzcuKF6g/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/k-1uzcuKF6g/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/k-1uzcuKF6g/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/k-1uzcuKF6g/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/k-1uzcuKF6g/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/k-1uzcuKF6g/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/k-1uzcuKF6g/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/k-1uzcuKF6g/default.jpg"
   },
   "title": "Simple Miniature Ship / Longboat for D&D or Wargaming - Crafting Tutorial"
 }

@@ -1,12 +1,35 @@
 {
   "description": "Crafting a room inspired by a room from Baldur's Gate 2 for Dungeons & Dragons.\n\nGreen Stuff World: http://www.greenstuffworld.com/en/\nExclusive 5% off promo code: CRAFTERSGUILD\n(ends Feb 2, 2018)\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 12,
+    "seconds": 52
+  },
   "id": "wB011BBLscs",
-  "position": 85,
-  "publishedAt": 1512852138,
+  "publishedAt": 1512852137,
+  "ranking": {
+    "likes": 1470,
+    "views": 40753
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "baldur's gate",
+    "black magic craft",
+    "thedmscraft",
+    "luke's aps"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/wB011BBLscs/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/wB011BBLscs/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/wB011BBLscs/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/wB011BBLscs/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/wB011BBLscs/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/wB011BBLscs/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/wB011BBLscs/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/wB011BBLscs/default.jpg"
   },
   "title": "How to Make the Planar Map Room from Lavok's Sphere for Dungeons & Dragons"
 }

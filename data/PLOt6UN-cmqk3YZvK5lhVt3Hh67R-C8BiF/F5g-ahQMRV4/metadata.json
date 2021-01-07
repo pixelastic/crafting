@@ -1,12 +1,35 @@
 {
   "description": "Let's make a Void Shield Generator for Warhammer 40k...two ways!\n\n.STL package: https://drive.google.com/file/d/0B6DUFiaF6EbpZmhjS3lYUjc3M2M/view?usp=sharing\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\nAcrylic Spheres: http://amzn.to/2foMc43\nSmall Gears: http://amzn.to/2xBwjhb\nSnowing LEDs: https://www.festive-lights.com/snowing-shower-lights-5-piece-c213d3\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 14,
+    "seconds": 53
+  },
   "id": "F5g-ahQMRV4",
-  "position": 78,
   "publishedAt": 1506195417,
+  "ranking": {
+    "likes": 2212,
+    "views": 62571
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "scatter terrain",
+    "warhammer",
+    "40k",
+    "void shield generator"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/F5g-ahQMRV4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/F5g-ahQMRV4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/F5g-ahQMRV4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/F5g-ahQMRV4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/F5g-ahQMRV4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/F5g-ahQMRV4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/F5g-ahQMRV4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/F5g-ahQMRV4/default.jpg"
   },
   "title": "How to Craft a Void Shield Generator for Warhammer 40k"
 }

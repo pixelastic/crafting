@@ -1,12 +1,37 @@
 {
   "description": "DMG#000 - Why craft modular dungeon terrain?\nDungeonMasterG explains the reasoning behind crafting your own cheap homemade modular dungeon terrain. Showing examples of what he has done so far.\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\nTheDMsCraft Channel - https://www.youtube.com/channel/UCF-i...\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,\nindustrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock\nFiles have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 8,
+    "seconds": 55
+  },
   "id": "Xe1PgQETtew",
-  "position": 0,
-  "publishedAt": 1370906255,
+  "publishedAt": 1370776567,
+  "ranking": {
+    "likes": 1783,
+    "views": null
+  },
+  "tags": [
+    "dungeons and dragons",
+    "pathfinder",
+    "role-playing games",
+    "crafting",
+    "modular terrain",
+    "modular dungeon",
+    "miniatures",
+    "dmscotty",
+    "thedmscraft",
+    "thedmginfo",
+    "2.5d",
+    "Dungeons & Dragons (Game)",
+    "Role-playing Game (Game Genre)",
+    "Pathfinder Roleplaying Game (Game)"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/Xe1PgQETtew/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/Xe1PgQETtew/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/Xe1PgQETtew/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/Xe1PgQETtew/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/Xe1PgQETtew/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/Xe1PgQETtew/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/Xe1PgQETtew/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/Xe1PgQETtew/default.jpg"
   },
   "title": "Why craft modular dungeon terrain for D&D and Pathfinder role-playing games? DMG#000"
 }

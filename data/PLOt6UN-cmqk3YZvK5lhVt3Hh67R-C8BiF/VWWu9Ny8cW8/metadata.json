@@ -1,12 +1,33 @@
 {
   "description": "How to make cardstock miniatures for your tabletop roleplaying games.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.\n\n---\n\nIF YOU ARE GOING TO ASK ME WHAT THE GAUGE SHOULD BE FOR LARGER CREATURES: The answer is I don't have a standard because Large (and larger) creatures aren't nearly as standard as humanoids.  A young dragon, an ogre, and a gelatinous cube all have vastly different heights so a Gauge isn't helpful.  Rather, just paste it next to a completed human fighter that you've done, and scale until it \"looks right\" next to that fighter.",
+  "duration": {
+    "minutes": 13,
+    "seconds": 17
+  },
   "id": "VWWu9Ny8cW8",
-  "position": 8,
-  "publishedAt": 1433901106,
+  "publishedAt": 1433907843,
+  "ranking": {
+    "likes": 7505,
+    "views": 253824
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "miniatures",
+    "cardstock"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/VWWu9Ny8cW8/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/VWWu9Ny8cW8/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/VWWu9Ny8cW8/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/VWWu9Ny8cW8/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/VWWu9Ny8cW8/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/VWWu9Ny8cW8/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/VWWu9Ny8cW8/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/VWWu9Ny8cW8/default.jpg"
   },
   "title": "How to Make Cardstock Miniatures for Dungeons & Dragons, Poorhammer"
 }

@@ -1,12 +1,38 @@
 {
   "description": "How to scratch-build a (pretty terrible) Necron Annihilation Barge proxy for Warhammer (\"Poorhammer\") 40k.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 9,
+    "seconds": 9
+  },
   "id": "jW8lE7QuTdQ",
-  "position": 53,
-  "publishedAt": 1481836643,
+  "publishedAt": 1481836642,
+  "ranking": {
+    "likes": 273,
+    "views": 8778
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "40k",
+    "warhammer",
+    "warhammer 40k",
+    "kings of war",
+    "necron",
+    "annihilation barge"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/jW8lE7QuTdQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/jW8lE7QuTdQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/jW8lE7QuTdQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/jW8lE7QuTdQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/jW8lE7QuTdQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/jW8lE7QuTdQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/jW8lE7QuTdQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/jW8lE7QuTdQ/default.jpg"
   },
   "title": "How to Make a Necron Annihilation Barge Proxy for Poorhammer 40k"
 }

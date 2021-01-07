@@ -1,12 +1,40 @@
 {
   "description": "Are you ready for the new The DM's Craft and thedmg.info collab channel Quest Givers? Launching November 2nd!\n\nYouTube:  https://www.youtube.com/QuestGivers\n\nWebsite: http://www.questgivers.com\n\nFacebook: https://www.facebook.com/qgivers\n\nInstagram: https://www.instagram.com/questgivers\n\nMerchandise: https://teespring.com/stores/questgivers",
+  "duration": {
+    "minutes": 2,
+    "seconds": 30
+  },
   "id": "qhrmfeezGY8",
-  "position": 660,
-  "publishedAt": 1540453452,
+  "publishedAt": 1540453451,
+  "ranking": {
+    "likes": 155,
+    "views": 2382
+  },
+  "tags": [
+    "quest givers",
+    "dm scotty",
+    "dungeons and dragons",
+    "pathfinder",
+    "ICRPG",
+    "dungeon world",
+    "modules",
+    "adventures",
+    "adventure path",
+    "D&D campaign",
+    "dmginfo",
+    "gareth",
+    "encounters",
+    "system neutral",
+    "DMGinfo",
+    "how to",
+    "the dms craft"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/qhrmfeezGY8/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/qhrmfeezGY8/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/qhrmfeezGY8/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/qhrmfeezGY8/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/qhrmfeezGY8/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/qhrmfeezGY8/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/qhrmfeezGY8/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/qhrmfeezGY8/default.jpg"
   },
   "title": "DM Scotty, What is Quest Givers?"
 }

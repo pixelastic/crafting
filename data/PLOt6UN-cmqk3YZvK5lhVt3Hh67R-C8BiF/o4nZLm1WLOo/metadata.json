@@ -1,12 +1,32 @@
 {
   "description": "How to make clip-on secret doors for your modular dungeon game for tabletop roleplaying games such as Dungeons & Dragons.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 5,
+    "seconds": 36
+  },
   "id": "o4nZLm1WLOo",
-  "position": 15,
-  "publishedAt": 1437329898,
+  "publishedAt": 1437332281,
+  "ranking": {
+    "likes": 537,
+    "views": 19788
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "secret door"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/o4nZLm1WLOo/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/o4nZLm1WLOo/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/o4nZLm1WLOo/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/o4nZLm1WLOo/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/o4nZLm1WLOo/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/o4nZLm1WLOo/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/o4nZLm1WLOo/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/o4nZLm1WLOo/default.jpg"
   },
   "title": "How to Make Secret Door Clip-ons for Dungeons & Dragons"
 }

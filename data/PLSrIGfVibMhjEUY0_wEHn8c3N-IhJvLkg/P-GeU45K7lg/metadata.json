@@ -1,12 +1,44 @@
 {
   "description": "How to make a kick ass glowing portal for your Dungeons & Dragons game.\n\nLike us on facebook:\nhttps://www.facebook.com/Black-Magic-Craft-677344725740094\n\nBlack Magic Craft title music by Black Magic Craft\n\nBackground music:\n\"Crunk Knight\", \"Final Count\", \"Shamanistic\", \"Undaunted\"\nKevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 11,
+    "seconds": 1
+  },
   "id": "P-GeU45K7lg",
-  "position": 1,
-  "publishedAt": 1447027354,
+  "publishedAt": 1447027278,
+  "ranking": {
+    "likes": 2466,
+    "views": 95730
+  },
+  "tags": [
+    "dungeons & dragons",
+    "d&d",
+    "Tutorial",
+    "how to",
+    "terrain",
+    "tabletop gaming",
+    "3d dungeon tiles",
+    "2.5d tiles",
+    "dungeon tile",
+    "dungeon terrain",
+    "modular terrain",
+    "modular dungeon terrain",
+    "modular dungeon tiles",
+    "crafting",
+    "crafting terrain",
+    "miniature gaming",
+    "gridless",
+    "portal",
+    "glowing",
+    "led",
+    "pit"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/P-GeU45K7lg/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/P-GeU45K7lg/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/P-GeU45K7lg/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/P-GeU45K7lg/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/P-GeU45K7lg/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/P-GeU45K7lg/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/P-GeU45K7lg/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/P-GeU45K7lg/default.jpg"
   },
   "title": "Glowing Portal For D&D Tutorial (Episode 002)"
 }

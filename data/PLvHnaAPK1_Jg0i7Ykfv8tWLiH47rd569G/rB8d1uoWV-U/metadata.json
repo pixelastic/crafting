@@ -1,12 +1,21 @@
 {
   "description": "For as little as a $1.00 pledge a month to my Patreon you can join this intimate group of craftminded people. ..Hope to see you there and thanks for the  kind support.\n\nMy Patreon: https://www.patreon.com/theDMsCraft",
+  "duration": {
+    "minutes": 1,
+    "seconds": 43
+  },
   "id": "rB8d1uoWV-U",
-  "position": 613,
-  "publishedAt": 1516207097,
+  "publishedAt": 1516233512,
+  "ranking": {
+    "likes": 97,
+    "views": 2184
+  },
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/rB8d1uoWV-U/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/rB8d1uoWV-U/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/rB8d1uoWV-U/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/rB8d1uoWV-U/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/rB8d1uoWV-U/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/rB8d1uoWV-U/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/rB8d1uoWV-U/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/rB8d1uoWV-U/default.jpg"
   },
   "title": "New Facebook Group...DM's Craft Friends"
 }

@@ -1,12 +1,44 @@
 {
   "description": "You can pick up Zombicide here at my affiliated link: http://amzn.to/2GQwNCd\n\nScotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 4,
+    "seconds": 29
+  },
   "id": "gP3zGKFurJQ",
-  "position": 201,
-  "publishedAt": 1460736905,
+  "publishedAt": 1382792796,
+  "ranking": {
+    "likes": 152,
+    "views": 3718
+  },
+  "tags": [
+    "plague",
+    "zombie",
+    "apocalypse",
+    "infected",
+    "wargame",
+    "terrain",
+    "craft",
+    "diy",
+    "survovor",
+    "undead",
+    "end of days",
+    "walker",
+    "28 day later",
+    "walking dead",
+    "zombies",
+    "cheap",
+    "easy",
+    "DM Scotty",
+    "armageddon",
+    "pandemic",
+    "all flesh must be eaten"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/gP3zGKFurJQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/gP3zGKFurJQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/gP3zGKFurJQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/gP3zGKFurJQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/gP3zGKFurJQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/gP3zGKFurJQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/gP3zGKFurJQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/gP3zGKFurJQ/default.jpg"
   },
   "title": "DIY Incinerated plague Victim Piles (Zombiepocalypse Edition, Ep2)"
 }

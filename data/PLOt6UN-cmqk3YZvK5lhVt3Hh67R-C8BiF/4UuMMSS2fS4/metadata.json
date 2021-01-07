@@ -1,12 +1,31 @@
 {
   "description": "How to build clip-on metal doors for your modular tiles for tabletop roleplaying games such as Dungeons & Dragons.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 4,
+    "seconds": 44
+  },
   "id": "4UuMMSS2fS4",
-  "position": 30,
-  "publishedAt": 1456790082,
+  "publishedAt": 1456790081,
+  "ranking": {
+    "likes": 410,
+    "views": 13535
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/4UuMMSS2fS4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/4UuMMSS2fS4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/4UuMMSS2fS4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/4UuMMSS2fS4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/4UuMMSS2fS4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/4UuMMSS2fS4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/4UuMMSS2fS4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/4UuMMSS2fS4/default.jpg"
   },
   "title": "How to Make Metal Door Clip-ons for Dungeons & Dragons"
 }

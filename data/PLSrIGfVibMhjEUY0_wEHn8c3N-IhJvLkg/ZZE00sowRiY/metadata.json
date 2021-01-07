@@ -1,12 +1,53 @@
 {
   "description": "On this episode, I discuss in detail the different methods used to make three separate miniature ruins for Dungeons & Dragons or Wargaming. \n\n\nJoin us on facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094/?ref=bookmarks\n\nBlack Magic Craft intro music by Black Magic Craft\n\nBackground music:\nKevin MacLeod (incompetech.com)\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 27,
+    "seconds": 23
+  },
   "id": "ZZE00sowRiY",
-  "position": 13,
-  "publishedAt": 1480054315,
+  "publishedAt": 1480082330,
+  "ranking": {
+    "likes": 2419,
+    "views": 102612
+  },
+  "tags": [
+    "dungeons & dragons",
+    "d&d",
+    "pathfinder",
+    "tabletop",
+    "tabletop rpg",
+    "rpg",
+    "craft",
+    "terrain",
+    "crafting",
+    "terrain building",
+    "d&d terrain",
+    "dungeons & dragons terrain",
+    "tabletop terrain",
+    "wargaming terrain",
+    "how to",
+    "how to build",
+    "how to build for d&d",
+    "modular terrain",
+    "tutorial",
+    "terrain tutorial",
+    "craft tutorial",
+    "d&d tutorial",
+    "ruins",
+    "d&d ruins",
+    "warhammer ruins",
+    "tabletop ruins",
+    "miniature ruins",
+    "ruins terrain",
+    "how to make ruins",
+    "styrofoam ruins"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/ZZE00sowRiY/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/ZZE00sowRiY/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/ZZE00sowRiY/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/ZZE00sowRiY/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/ZZE00sowRiY/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/ZZE00sowRiY/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/ZZE00sowRiY/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/ZZE00sowRiY/default.jpg"
   },
   "title": "Project Showcase: Ruins For D&D and Tabletop Games  (Episode 014)"
 }

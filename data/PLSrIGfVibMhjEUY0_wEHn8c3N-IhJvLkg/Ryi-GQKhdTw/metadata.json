@@ -1,12 +1,22 @@
 {
   "description": "ESSENTIAL EQUIPMENT: http://bit.ly/EssentialEquip\nJOIN the \"FELLOWSHIP\" on PATREON: http://bit.ly/JoinTheBMC_Fellowship\nOFFICIAL BMC MERCH: http://bit.ly/BMCmerch\n\nAs much as I love my Proxxon Hotwire cutter, it's far from perfect. It has some flaws and limitations, and this is how I deal with them.\n\n#BlackMagicCraft #Episode171 #PROXXONPROBLEMS\n\nPROXXON HOTWIRE TABLE\n(USA) http://amzn.to/2lVNvEM\n(Canada) http://amzn.to/2pWazXF\n(UK) https://amzn.to/2BJg8Pk\n(Germany) https://amzn.to/2QdafiC\n\nPROXXON FOOT SWITCH\n(USA) https://amzn.to/2OVTYkJ\n(UK) https://amzn.to/2rmDSHV\n(Germany) https://amzn.to/2PomHxM\n\nSome specific items used in this build:\n(As an Amazon Associate I earn from qualifying purchases)\n\n\n---------------------------------------------------------------------\n➳  http://www.blackmagiccraft.ca\n➳ Facebook: https://goo.gl/hvNgQL\n➳ Join the Tabletop Crafters Guild: https://goo.gl/RMMqoh",
+  "duration": {
+    "minutes": 19,
+    "seconds": 47
+  },
   "id": "Ryi-GQKhdTw",
-  "position": 169,
-  "publishedAt": 1576213227,
+  "publishedAt": 1576213225,
+  "ranking": {
+    "likes": 2382,
+    "views": 49757
+  },
+  "tags": ["Black magic craft"],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/Ryi-GQKhdTw/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/Ryi-GQKhdTw/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/Ryi-GQKhdTw/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/Ryi-GQKhdTw/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/Ryi-GQKhdTw/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/Ryi-GQKhdTw/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/Ryi-GQKhdTw/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/Ryi-GQKhdTw/default.jpg"
   },
   "title": "The Proxxon has some flaws...How to deal with them?"
 }

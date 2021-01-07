@@ -1,12 +1,52 @@
 {
   "description": "Scotty shows you some more 3D buildings he crafted and combined with the 2.5D method of tile crafting.\n\nVisit the DM's Craft Forum to meet other crafters, see cool pics of crafted stuff and pick up great tips and tricks: http://dmscraft.proboards.com/ A special thanks to Mad Lad Designs and AJ for helping to moderate The DM's Craft forum.  Another thank you to monpracem for composing the new intro music.\n\nAlso vist TheDMGinfo channel for more great 2.5D projects and ideas: https://www.youtube.com/channel/UCJLqz6kcB1gMPiVnL0XfUDg",
+  "duration": {
+    "minutes": 6,
+    "seconds": 32
+  },
   "id": "OoiXDR0To7Y",
-  "position": 220,
-  "publishedAt": 1460736905,
+  "publishedAt": 1385490513,
+  "ranking": {
+    "likes": 591,
+    "views": 18909
+  },
+  "tags": [
+    "D&D",
+    "dnd",
+    "Pathfinder Roleplaying Game (Game)",
+    "Dungeons & Dragons (Roleplaying Game)",
+    "crypt",
+    "mausoleum",
+    "undead",
+    "cradboard",
+    "craft",
+    "make",
+    "wargame",
+    "vampire",
+    "diy",
+    "2.5D",
+    "3d",
+    "terrain",
+    "warhammer",
+    "skirmish",
+    "dm scotty",
+    "titorial",
+    "building",
+    "Do It Yourself (Hobby)",
+    "the dm's craft",
+    "diorama",
+    "Dungeons & Dragons (Game)",
+    "Dungeon Master",
+    "Paper",
+    "Making",
+    "rpg"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/OoiXDR0To7Y/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/OoiXDR0To7Y/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/OoiXDR0To7Y/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/OoiXDR0To7Y/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/OoiXDR0To7Y/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/OoiXDR0To7Y/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/OoiXDR0To7Y/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/OoiXDR0To7Y/default.jpg"
   },
   "title": "3D Mausoleum Combined with 2.5D Tile for D&D (The DM's Craft, I Show You My Stuff #20)"
 }

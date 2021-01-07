@@ -1,12 +1,29 @@
 {
   "description": "Fun one-off episode.",
+  "duration": {
+    "minutes": 3,
+    "seconds": 32
+  },
   "id": "1bNddCwsn5k",
-  "position": 89,
-  "publishedAt": 1515601396,
+  "publishedAt": 1515601395,
+  "ranking": {
+    "likes": 143,
+    "views": 3236
+  },
+  "tags": [
+    "Wyloch",
+    "crafting",
+    "dungeons and dragons",
+    "hylian shield",
+    "zelda",
+    "zelda cosplay"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/1bNddCwsn5k/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/1bNddCwsn5k/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/1bNddCwsn5k/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/1bNddCwsn5k/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/1bNddCwsn5k/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/1bNddCwsn5k/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/1bNddCwsn5k/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/1bNddCwsn5k/default.jpg"
   },
   "title": "How to Make a Prop Hylian Shield"
 }

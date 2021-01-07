@@ -1,12 +1,33 @@
 {
   "description": "I get totally curb-stomped by Jim of Game Terrain Engineering in a craft-off.\n\nGame Terrain Engineering: https://www.youtube.com/channel/UCw2kFWSJLu8SX2qtNN8ho4w\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 7,
+    "seconds": 44
+  },
   "id": "XN4EpVnLBxU",
-  "position": 92,
-  "publishedAt": 1518897570,
+  "publishedAt": 1518897568,
+  "ranking": {
+    "likes": 676,
+    "views": 16887
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "scenery",
+    "warhammer 40000",
+    "warhammer",
+    "warhammer 40k",
+    "pathfinder",
+    "plasma clip"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/XN4EpVnLBxU/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/XN4EpVnLBxU/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/XN4EpVnLBxU/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/XN4EpVnLBxU/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/XN4EpVnLBxU/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/XN4EpVnLBxU/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/XN4EpVnLBxU/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/XN4EpVnLBxU/default.jpg"
   },
   "title": "How to Make a Summoning Circle for Dungeons & Dragons"
 }

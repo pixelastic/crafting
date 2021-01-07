@@ -1,12 +1,43 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 9,
+    "seconds": 52
+  },
   "id": "9rP3KK-mGz4",
-  "position": 92,
-  "publishedAt": 1460736428,
+  "publishedAt": 1357700596,
+  "ranking": {
+    "likes": 211,
+    "views": 10551
+  },
+  "tags": [
+    "dnd",
+    "D&D",
+    "dungeon",
+    "dragon",
+    "pathfinder",
+    "combat",
+    "tracker",
+    "hps",
+    "conditions",
+    "dm",
+    "scotty",
+    "craft",
+    "rpg",
+    "advice",
+    "Dungeons & Dragons (Game)",
+    "Dungeon Master",
+    "hit",
+    "points",
+    "board",
+    "Pathfinder Roleplaying Game (Game)"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/9rP3KK-mGz4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/9rP3KK-mGz4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/9rP3KK-mGz4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/9rP3KK-mGz4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/9rP3KK-mGz4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/9rP3KK-mGz4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/9rP3KK-mGz4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/9rP3KK-mGz4/default.jpg"
   },
   "title": "Have Players Track Monster HPs & Conditions in D&D & Pathfinder (The DM's Craft, Short Tip, EP22)"
 }

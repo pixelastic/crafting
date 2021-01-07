@@ -1,12 +1,46 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 15,
+    "seconds": 52
+  },
   "id": "7K6cylwIqdY",
-  "position": 127,
-  "publishedAt": 1460736905,
+  "publishedAt": 1367470467,
+  "ranking": {
+    "likes": 761,
+    "views": 37225
+  },
+  "tags": [
+    "D&D",
+    "dnd",
+    "monolith",
+    "pathfinder",
+    "dungeon",
+    "dragon",
+    "terrain",
+    "wargame",
+    "rpg",
+    "magic",
+    "wizard",
+    "artifact",
+    "craft",
+    "diy",
+    "feature",
+    "cardboard",
+    "dungeons and dragons",
+    "dungeon tiles",
+    "make",
+    "cheap",
+    "how to",
+    "encounter design",
+    "magic artifact"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/7K6cylwIqdY/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/7K6cylwIqdY/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/7K6cylwIqdY/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/7K6cylwIqdY/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/7K6cylwIqdY/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/7K6cylwIqdY/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/7K6cylwIqdY/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/7K6cylwIqdY/default.jpg"
   },
   "title": "Hovering Magical Artifact for D&D Encounters (The DM's Craft, EP 57)"
 }

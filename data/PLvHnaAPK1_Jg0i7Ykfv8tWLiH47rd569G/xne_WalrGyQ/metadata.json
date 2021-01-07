@@ -1,12 +1,47 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 15,
+    "seconds": 50
+  },
   "id": "xne_WalrGyQ",
-  "position": 72,
-  "publishedAt": 1460736428,
+  "publishedAt": 1352171558,
+  "ranking": {
+    "likes": 184,
+    "views": 10149
+  },
+  "tags": [
+    "D&D",
+    "pathfinder",
+    "dnd",
+    "Craft",
+    "Dungeon",
+    "dragon",
+    "dm",
+    "rpg",
+    "Scotty",
+    "age",
+    "roleplaying",
+    "encounter",
+    "tile",
+    "Lizard",
+    "men",
+    "make",
+    "diy",
+    "Dungeons & Dragons (Roleplaying Game)",
+    "2.5D",
+    "encounter building",
+    "lizard men camp",
+    "adventure",
+    "cave tile",
+    "dungeon tile"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/xne_WalrGyQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/xne_WalrGyQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/xne_WalrGyQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/xne_WalrGyQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/xne_WalrGyQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/xne_WalrGyQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/xne_WalrGyQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/xne_WalrGyQ/default.jpg"
   },
   "title": "Lizard Folk D&D encounter and tiles (The DM's Craft, EP33)"
 }

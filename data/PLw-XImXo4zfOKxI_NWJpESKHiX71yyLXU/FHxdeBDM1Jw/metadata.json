@@ -1,12 +1,33 @@
 {
   "description": "DMG crafts a strong wooden dungeon door for use on home made modular dungeon tiles in Pathfinder, Dnd and other role-playing games.\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\nNewsletter: http://eepurl.com/da4s2T\nTwitter: https://twitter.com/TheDMGinfo\nLatest Subscriber Competition - https://www.youtube.com/watch?v=dI96D3_2-yo\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.net/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,industrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock Files have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 6,
+    "seconds": 13
+  },
   "id": "FHxdeBDM1Jw",
-  "position": 48,
-  "publishedAt": 1398669012,
+  "publishedAt": 1398607600,
+  "ranking": {
+    "likes": 863,
+    "views": null
+  },
+  "tags": [
+    "Dungeon",
+    "Dungeons & Dragons (Roleplaying Game)",
+    "dungeon door",
+    "how to make a dungeon door",
+    "crafting doors",
+    "dungeon doors",
+    "home made dungeon tiles",
+    "modular dungeon tiles",
+    "dungeon entrance",
+    "dungeon entry"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/FHxdeBDM1Jw/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/FHxdeBDM1Jw/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/FHxdeBDM1Jw/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/FHxdeBDM1Jw/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/FHxdeBDM1Jw/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/FHxdeBDM1Jw/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/FHxdeBDM1Jw/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/FHxdeBDM1Jw/default.jpg"
   },
   "title": "How to make strong wooden dungeon doors for DnD DMG#048"
 }

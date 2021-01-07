@@ -1,12 +1,48 @@
 {
   "description": "In this crafting tutorial, you will learn how to craft an Ice Devil Miniature. To craft this custom miniature, I used XPS-foam, PVA-glue, toothpicks, acrylic paints, plastic trash, 2 lentils, and cardstock.\nFollow Bard's Craft: https://www.instagram.com/bardscraft/ https://www.facebook.com/Bards-Craft-2323914130952339/",
+  "duration": {
+    "minutes": 10,
+    "seconds": 27
+  },
   "id": "mk3Nb32dFkI",
-  "position": 22,
-  "publishedAt": 1551560281,
+  "publishedAt": 1551557666,
+  "ranking": {
+    "likes": 322,
+    "views": 5446
+  },
+  "tags": [
+    "bard's craft",
+    "dnd ice devil",
+    "ice devil",
+    "cheap miniature",
+    "crafting tutorial",
+    "5e",
+    "dnd",
+    "d&d",
+    "diy tabletop miniature",
+    "monster miniature",
+    "miniature painting",
+    "crafting",
+    "tutorial",
+    "crafting a miniature",
+    "dnd diy",
+    "devil miniature",
+    "tabletop",
+    "painting ice effects",
+    "ice monster miniature",
+    "custom miniature",
+    "dnd miniatures",
+    "dnd miniature",
+    "d&d miniatures",
+    "black magic craft",
+    "ice devil miniature"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/mk3Nb32dFkI/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/mk3Nb32dFkI/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/mk3Nb32dFkI/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/mk3Nb32dFkI/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/mk3Nb32dFkI/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/mk3Nb32dFkI/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/mk3Nb32dFkI/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/mk3Nb32dFkI/default.jpg"
   },
   "title": "Crafting the Ice Devil Miniature for D&D (Custom Miniature Crafting Tutorial)"
 }

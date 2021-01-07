@@ -1,12 +1,22 @@
 {
   "description": "Tutorial on building jungle scatter terrain for your Warhammer 40k, Dungeons & Dragons games.\n\nHigh-res gallery:\nhttps://imgur.com/a/ws7xLC4\n\nBibliography:\nTheTerrainTutor (Big Burma Build) - https://www.youtube.com/playlist?list=PLohbeH3fTP1t_DAget7DTD0IHEqC5MYBc\nBard's Craft (Autumn Temple) - https://www.youtube.com/watch?v=ng5AlJ8q09g\n\nOther stuff in this video:\nGeneric Crags - https://www.youtube.com/watch?v=hbw226IPoec\nFrontline Gaming Mats - https://www.youtube.com/watch?v=F1Hj4xE3-X0\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 11,
+    "seconds": 29
+  },
   "id": "wCwpSJPw8-M",
-  "position": 131,
-  "publishedAt": 1574298500,
+  "publishedAt": 1574301465,
+  "ranking": {
+    "likes": 1194,
+    "views": 18871
+  },
+  "tags": ["warhammer", "40k", "jungle", "terrain", "wargame"],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/wCwpSJPw8-M/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/wCwpSJPw8-M/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/wCwpSJPw8-M/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/wCwpSJPw8-M/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/wCwpSJPw8-M/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/wCwpSJPw8-M/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/wCwpSJPw8-M/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/wCwpSJPw8-M/default.jpg"
   },
   "title": "How to Make Jungle Scatter Terrain for Warhammer 40k, Dungeons and Dragons"
 }

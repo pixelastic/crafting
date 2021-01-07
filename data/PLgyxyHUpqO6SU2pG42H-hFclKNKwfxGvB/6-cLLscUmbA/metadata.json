@@ -1,12 +1,43 @@
 {
   "description": "I crafted a simple miniature foam house. Never thought about using cardboard as roof before, it seems to work. Check out the Cheap Tabletop Terrain Tutorial Playlist for more: https://tinyurl.com/y2xm9c4x\n\nThe removable roof makes this piece more playable, and it is possible to add an extra floor using wooden platforms from one of my other videos. https://youtu.be/437p1gwNNuE",
+  "duration": {
+    "minutes": 3,
+    "seconds": 29
+  },
   "id": "6-cLLscUmbA",
-  "position": 53,
-  "publishedAt": 1542029388,
+  "publishedAt": 1542028834,
+  "ranking": {
+    "likes": 265,
+    "views": 4502
+  },
+  "tags": [
+    "miniature foam house",
+    "rpg foam house",
+    "cheap tabletop terrain",
+    "bard's craft",
+    "rpg terrain tutorial",
+    "tabletop terrain",
+    "dungeons and dragons",
+    "d&d",
+    "d&d terrain",
+    "crafting tutorial",
+    "simple tabletop terrain",
+    "easy tabletop terrain",
+    "miniature house",
+    "diy foam house",
+    "how to craft a foam house",
+    "crafting a foam house",
+    "miniature log cabin",
+    "log foam house",
+    "simple miniature house",
+    "d&d terrain tutorial"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/6-cLLscUmbA/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/6-cLLscUmbA/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/6-cLLscUmbA/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/6-cLLscUmbA/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/6-cLLscUmbA/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/6-cLLscUmbA/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/6-cLLscUmbA/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/6-cLLscUmbA/default.jpg"
   },
   "title": "Crafting a Miniature Foam House (D&D Terrain Tutorial)"
 }

@@ -1,12 +1,61 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 3,
+    "seconds": 37
+  },
   "id": "fhbLHEdQ4bU",
-  "position": 216,
-  "publishedAt": 1460736905,
+  "publishedAt": 1384968986,
+  "ranking": {
+    "likes": 196,
+    "views": 8179
+  },
+  "tags": [
+    "D&D",
+    "dnd",
+    "skirmish",
+    "Dungeons & Dragons (Roleplaying Game)",
+    "pathfinder",
+    "rpg",
+    "table",
+    "top",
+    "wargame",
+    "tracking",
+    "identify",
+    "advice",
+    "dming",
+    "dm",
+    "run",
+    "play",
+    "Dungeon Master",
+    "miniature",
+    "hit points",
+    "track",
+    "dungeons and dragons",
+    "dungeons",
+    "The DM's Craft",
+    "terrain",
+    "tabletop",
+    "crafting",
+    "tutorial",
+    "mini",
+    "minis",
+    "build",
+    "building",
+    "how to",
+    "how to build",
+    "dungeon master",
+    "dungeon master tools",
+    "dm tips",
+    "model building",
+    "3D"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/fhbLHEdQ4bU/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/fhbLHEdQ4bU/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/fhbLHEdQ4bU/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/fhbLHEdQ4bU/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/fhbLHEdQ4bU/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/fhbLHEdQ4bU/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/fhbLHEdQ4bU/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/fhbLHEdQ4bU/default.jpg"
   },
   "title": "How to Keep Track of Enemies in D&D (The DM's Craft, Gamethunk #6)"
 }

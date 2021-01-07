@@ -1,12 +1,31 @@
 {
   "description": "How to build castle themed modular tiles for your tabletop roleplaying games such as Dungeons & Dragons.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 11,
+    "seconds": 19
+  },
   "id": "19_F2Qv-BB8",
-  "position": 19,
-  "publishedAt": 1443233566,
+  "publishedAt": 1443233818,
+  "ranking": {
+    "likes": 981,
+    "views": 45767
+  },
+  "tags": [
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "hot glue",
+    "cardboard",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/19_F2Qv-BB8/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/19_F2Qv-BB8/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/19_F2Qv-BB8/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/19_F2Qv-BB8/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/19_F2Qv-BB8/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/19_F2Qv-BB8/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/19_F2Qv-BB8/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/19_F2Qv-BB8/default.jpg"
   },
   "title": "How to Make Castle Tiles for Dungeons & Dragons"
 }

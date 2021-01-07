@@ -1,12 +1,48 @@
 {
   "description": "DM Scotty shows you how to make huts for your miniature table top games.\n\nFollow DM Scotty's Facebook group for DM's Craft updates and info: \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\nVisit the DM's Craft Forum to meet other crafters, see cool pics of crafted stuff and pick up great tips and tricks: http://dmscraft.proboards.com/ A special thanks to Mad Lad Designs, AJ and DMG for helping to moderate The DM's Craft forum. Another thank you to Earlteagrey for the new DM's Craft intro.\n\nMusic: \"Epic Battle And War Music,\" under royalty free license from Footage Firm Inc. \n\nAlso vist TheDMGinfo channel for more great 2.5D projects and ideas: https://www.youtube.com/channel/UCJLqz6kcB1gMPiVnL0XfUDg",
+  "duration": {
+    "minutes": 7,
+    "seconds": 35
+  },
   "id": "FH-fEuSrces",
-  "position": 290,
-  "publishedAt": 1460737125,
+  "publishedAt": 1401215308,
+  "ranking": {
+    "likes": 720,
+    "views": 18365
+  },
+  "tags": [
+    "Craft (TV Subject)",
+    "hut",
+    "diarama",
+    "D&D",
+    "dnd",
+    "Dungeons & Dragons (Roleplaying Game)",
+    "Isle of dread",
+    "native",
+    "craft",
+    "make",
+    "diy",
+    "how",
+    "to",
+    "game",
+    "table",
+    "Pathfinder Roleplaying Game (Game)",
+    "Paper",
+    "Do It Yourself (Website Category)",
+    "Tabletop Game (Game Genre)",
+    "wargames",
+    "Games",
+    "miniature",
+    "cheap",
+    "easy",
+    "farland isle"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/FH-fEuSrces/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/FH-fEuSrces/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/FH-fEuSrces/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/FH-fEuSrces/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/FH-fEuSrces/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/FH-fEuSrces/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/FH-fEuSrces/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/FH-fEuSrces/default.jpg"
   },
   "title": "How to Craft HUT Terrain for Table Top Games (The DM's Craft #105 Part1)"
 }

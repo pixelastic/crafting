@@ -1,12 +1,41 @@
 {
   "description": "DungeonMasterG (DMG) demonstrates the simple way to represent depth to make chasms and large deep holes and long drops for use in Dungeons and Dragons, Pathfinder and other Role-playing games with miniatures.\n\nSubscribe to DMG's other channel 7DSystem: https://www.youtube.com/7dsystem\n\n\nPurchase PDFs, Booklets or DVDs to support this channel - http://www.thedmg.info/store/\nWebsite - http://www.thedmg.info\nFacebook - https://www.facebook.com/thedmg.info\nLatest Subscriber Competition - https://www.youtube.com/watch?v=dI96D3_2-yo\n\nDungeon tile construction technique was influenced by the 2.5D method created by DMScotty of theDM'sCraft. His videos can be found here: https://www.youtube.com/channel/UCF-i5kmuwyV6N3xi5z1TElg\nYou may wish to also visit the forum http://dmscraft.proboards.com/ where you will find many crafters who work in similar ways.\n\nMusic: \"Dominator\", under royalty free license from Footage Firm Inc. (from point 1 of the agreement: You may use the Stock Files for nearly any project, including feature films, broadcast, commercial,industrial, and educational video, print projects, multimedia, games, and the internet, as long as the Stock Files have been incorporated into any work with substantial value added by you.)",
+  "duration": {
+    "minutes": 7,
+    "seconds": 45
+  },
   "id": "lIAOoU8QFCE",
-  "position": 26,
-  "publishedAt": 1383137682,
+  "publishedAt": 1383137641,
+  "ranking": {
+    "likes": 660,
+    "views": null
+  },
+  "tags": [
+    "Modular Dungeon Tiles",
+    "Modular Dungeon Terrain",
+    "Miniature Terrain",
+    "Making Dungeon Terrain",
+    "Cardboard Dungeon Tiles",
+    "Roleplaying Games",
+    "Dungeon Tiles",
+    "Homemade Terrain",
+    "Dungeon Terrain",
+    "crafting tiles",
+    "Dungeons And Dragons",
+    "Cardboard Terrain",
+    "Pathfinder",
+    "representing dungeon depths",
+    "dungeon depths",
+    "dungeon chasm",
+    "Crafting Terrain",
+    "crafting chasms"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/lIAOoU8QFCE/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/lIAOoU8QFCE/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/lIAOoU8QFCE/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/lIAOoU8QFCE/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/lIAOoU8QFCE/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/lIAOoU8QFCE/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/lIAOoU8QFCE/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/lIAOoU8QFCE/default.jpg"
   },
   "title": "How to make chasm dungeon tiles with depth for dnd and pathfinder DMG#026"
 }

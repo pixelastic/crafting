@@ -1,12 +1,22 @@
 {
   "description": "How to scratch-build a teleportarium chamber for Warhammer 40k.\n\nLightning technique: https://www.youtube.com/watch?v=drezSuCx5_k\n\nOther terrain in this video:\nGeneric Crags - https://www.youtube.com/watch?v=hbw226IPoec\nJungle Scatter - https://www.youtube.com/watch?v=wCwpSJPw8-M\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 12,
+    "seconds": 33
+  },
   "id": "RRZNUJXfpcA",
-  "position": 132,
-  "publishedAt": 1574780914,
+  "publishedAt": 1574781177,
+  "ranking": {
+    "likes": 1384,
+    "views": 20860
+  },
+  "tags": ["warhammer", "40k", "space marines", "scratch build"],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/RRZNUJXfpcA/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/RRZNUJXfpcA/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/RRZNUJXfpcA/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/RRZNUJXfpcA/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/RRZNUJXfpcA/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/RRZNUJXfpcA/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/RRZNUJXfpcA/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/RRZNUJXfpcA/default.jpg"
   },
   "title": "Scratch-Building a Teleportarium Chamber for Warhammer 40k"
 }

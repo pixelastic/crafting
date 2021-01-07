@@ -1,12 +1,52 @@
 {
   "description": "This episode I show you how to take a $1 Disney toy and turn it into a cool looking bronze statue for your D&D or other tabletop game. \n\nJoin \"The Fellowship\" & Support Black Magic Craft on Patreon: http://patreon.com/blackmagiccraft\n\nJoin Black Magic Craft on Facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094/?ref=bookmarks\n\nBlack Magic Craft intro music by Black Magic Craft\n\nBackground music:\nKevin MacLeod (incompetech.com)\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 12,
+    "seconds": 11
+  },
   "id": "DR03i-4qDIo",
-  "position": 20,
-  "publishedAt": 1486605138,
+  "publishedAt": 1486686075,
+  "ranking": {
+    "likes": 1042,
+    "views": 29954
+  },
+  "tags": [
+    "dungeons & dragons",
+    "d&d",
+    "pathfinder",
+    "tabletop",
+    "tabletop rpg",
+    "terrain",
+    "crafting",
+    "terrain building",
+    "d&d terrain",
+    "dungeons & dragons terrain",
+    "tabletop terrain",
+    "wargaming terrain",
+    "how to",
+    "how to build",
+    "how to build for d&d",
+    "modular terrain",
+    "tutorial",
+    "terrain tutorial",
+    "craft tutorial",
+    "d&d tutorial",
+    "Bronze Statue For D&D Tutorial",
+    "d&d statue",
+    "terrain statue",
+    "miniature statue",
+    "terrain bronze paint",
+    "miniature bronze paint",
+    "how to paint bronze patina",
+    "terrain patina",
+    "black magic craft"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/DR03i-4qDIo/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/DR03i-4qDIo/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/DR03i-4qDIo/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/DR03i-4qDIo/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/DR03i-4qDIo/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/DR03i-4qDIo/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/DR03i-4qDIo/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/DR03i-4qDIo/default.jpg"
   },
   "title": "Bronze Statue For D&D Tutorial (Black Magic Craft Episode 021)"
 }

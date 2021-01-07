@@ -1,12 +1,44 @@
 {
   "description": "Learn how to craft a custom Tarrasque Miniature for D&D in this tutorial. More cheap miniatures for d&d - https://tinyurl.com/y2qxwefo\n\nCheck out the templates HERE!: https://drive.google.com/drive/folders/1HowJrMq4lpq1PI61dtjnZEJaTuvPL_tI?usp=sharing\n\nFacebook: https://tinyurl.com/y3n8m7s6\nInstagram: https://www.instagram.com/bardscraft/",
+  "duration": {
+    "minutes": 11,
+    "seconds": 47
+  },
   "id": "xDq8B71nhWQ",
-  "position": 31,
-  "publishedAt": 1552841556,
+  "publishedAt": 1552841554,
+  "ranking": {
+    "likes": 263,
+    "views": 4839
+  },
+  "tags": [
+    "tarrasque miniature",
+    "custom miniature",
+    "miniature for d&d",
+    "dungeon and dragons miniatures",
+    "tarrasque",
+    "dnd miniature",
+    "cheap dungeons and dragons miniatures",
+    "miniature",
+    "bard's craft",
+    "black magic craft",
+    "tabletop rpg crafting",
+    "crafting tutorial",
+    "crafting",
+    "dnd tarrasque",
+    "d&d tarrasque",
+    "dnd",
+    "d&d",
+    "dungeons and dragons",
+    "how to",
+    "cheap dnd miniatures",
+    "cheap miniatures for d&d"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/xDq8B71nhWQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/xDq8B71nhWQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/xDq8B71nhWQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/xDq8B71nhWQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/xDq8B71nhWQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/xDq8B71nhWQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/xDq8B71nhWQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/xDq8B71nhWQ/default.jpg"
   },
   "title": "Custom Tarrasque Miniature for D&D (Templates + Crafting Tutorial)"
 }

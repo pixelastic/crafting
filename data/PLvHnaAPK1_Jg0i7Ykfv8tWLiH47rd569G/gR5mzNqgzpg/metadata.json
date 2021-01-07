@@ -1,12 +1,61 @@
 {
   "description": "For more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraf",
+  "duration": {
+    "minutes": 6,
+    "seconds": 47
+  },
   "id": "gR5mzNqgzpg",
-  "position": 172,
-  "publishedAt": 1460736905,
+  "publishedAt": 1378221356,
+  "ranking": {
+    "likes": 60,
+    "views": 1686
+  },
+  "tags": [
+    "D&D",
+    "dnd",
+    "pathfinder",
+    "lair",
+    "craft",
+    "make",
+    "diy",
+    "spider",
+    "rpg",
+    "table",
+    "top",
+    "Dragons and Dragons (Game)",
+    "Tabletop Game (Game Genre)",
+    "Pathfinder Roleplaying Game (Game)",
+    "Session",
+    "how to play",
+    "roleplaying",
+    "Dungeon Master",
+    "DnD 5e",
+    "how to play dungeons and dragons",
+    "how to play dnd",
+    "tutorial",
+    "dungeon master",
+    "dm",
+    "game master",
+    "dungeonmaster",
+    "tabletop rpg",
+    "beginners",
+    "Terrain",
+    "dungeon tiles",
+    "encounter design",
+    "miniatures",
+    "DM Scotty",
+    "adventure",
+    "3D",
+    "ettercap",
+    "phase spider",
+    "cave tiles"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/gR5mzNqgzpg/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/gR5mzNqgzpg/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/gR5mzNqgzpg/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/gR5mzNqgzpg/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/gR5mzNqgzpg/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/gR5mzNqgzpg/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/gR5mzNqgzpg/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/gR5mzNqgzpg/default.jpg"
   },
   "title": "Ettercap and Phase Spider Lair DIY Cave Tiles (The DM's Craft, I Show you my Stuff EP 9)"
 }

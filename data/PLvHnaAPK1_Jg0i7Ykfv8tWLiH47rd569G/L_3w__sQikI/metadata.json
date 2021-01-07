@@ -1,12 +1,56 @@
 {
   "description": "You can pick up Zombicide here at my affiliated link: http://amzn.to/2GQwNCd\n\nScotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 7,
+    "seconds": 25
+  },
   "id": "L_3w__sQikI",
-  "position": 203,
-  "publishedAt": 1460736905,
+  "publishedAt": 1383241659,
+  "ranking": {
+    "likes": 125,
+    "views": 5016
+  },
+  "tags": [
+    "buildings",
+    "2.5d",
+    "zombie",
+    "modern",
+    "craft",
+    "infected",
+    "diy",
+    "make",
+    "tile",
+    "map",
+    "walking",
+    "dead",
+    "undead",
+    "apocalypse",
+    "rpg",
+    "table",
+    "top",
+    "game",
+    "wargame",
+    "terrain",
+    "Do It Yourself (Hobby)",
+    "walking dead",
+    "zombiecide",
+    "dm scotty",
+    "howto",
+    "miniature",
+    "building",
+    "game tiles",
+    "DM Scotty",
+    "quick",
+    "easy",
+    "cheap",
+    "tutorial"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/L_3w__sQikI/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/L_3w__sQikI/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/L_3w__sQikI/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/L_3w__sQikI/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/L_3w__sQikI/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/L_3w__sQikI/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/L_3w__sQikI/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/L_3w__sQikI/default.jpg"
   },
   "title": "The DM's Craft Modern 2.5D buildings (Zombiepocalypse Edition, Ep4)"
 }

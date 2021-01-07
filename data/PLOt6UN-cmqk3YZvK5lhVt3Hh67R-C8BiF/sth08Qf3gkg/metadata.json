@@ -1,12 +1,36 @@
 {
   "description": "Let's make a decorative placard for your 40k wargaming table.\n\nAquila Template: https://drive.google.com/open?id=0B6DUFiaF6EbpUUliODRWY2hCc28\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nGrafix Medium Chipboard: http://amzn.to/2qMnptV\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 2,
+    "seconds": 24
+  },
   "id": "sth08Qf3gkg",
-  "position": 76,
-  "publishedAt": 1503716616,
+  "publishedAt": 1503716830,
+  "ranking": {
+    "likes": 212,
+    "views": 8288
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "scatter terrain",
+    "Kings of War",
+    "warhammer",
+    "40k",
+    "aquila"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/sth08Qf3gkg/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/sth08Qf3gkg/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/sth08Qf3gkg/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/sth08Qf3gkg/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/sth08Qf3gkg/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/sth08Qf3gkg/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/sth08Qf3gkg/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/sth08Qf3gkg/default.jpg"
   },
   "title": "How to Make an Aquila Placard for Your Warhammer 40k Table"
 }

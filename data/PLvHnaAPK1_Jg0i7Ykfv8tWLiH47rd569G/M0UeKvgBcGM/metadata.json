@@ -1,12 +1,58 @@
 {
   "description": "Join DM Scotty's Facebook group for DM's Craft updates and info:\nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nBecome a DM's Craft Patron and help me bring more content to the community by joining Patreon. You will receive weekly exclusive DM Scotty content. https://www.patreon.com/theDMsCraft?ty=h\n\nTwitter: @TheDMsCraft\n\nLink to making dice mold:\nhttp://offbeatbride.com/dungeons-and-dragons-chocolate-dice-mold/",
+  "duration": {
+    "minutes": 7,
+    "seconds": 13
+  },
   "id": "M0UeKvgBcGM",
-  "position": 552,
-  "publishedAt": 1484770176,
+  "publishedAt": 1484770175,
+  "ranking": {
+    "likes": 440,
+    "views": 7198
+  },
+  "tags": [
+    "make polyhedral dice",
+    "DM's Craft",
+    "dm scotty",
+    "D&D",
+    "dnd",
+    "dungeons and Dragons",
+    "5e",
+    "4e",
+    "AD&D",
+    "Pathfinder",
+    "warhammer",
+    "terrain",
+    "miniature",
+    "diorama",
+    "dungeon master",
+    "play",
+    "game",
+    "table",
+    "crafting",
+    "tutorial",
+    "project",
+    "skirmish",
+    "diy",
+    "rpg",
+    "wargame",
+    "easy",
+    "cheap",
+    "making",
+    "age",
+    "top",
+    "build",
+    "model",
+    "battlemap",
+    "idea",
+    "candy dice"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/M0UeKvgBcGM/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/M0UeKvgBcGM/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/M0UeKvgBcGM/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/M0UeKvgBcGM/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/M0UeKvgBcGM/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/M0UeKvgBcGM/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/M0UeKvgBcGM/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/M0UeKvgBcGM/default.jpg"
   },
   "title": "Crafting Chocolate Polyhedral DnD Dice with Dana (DM’s Craft)"
 }

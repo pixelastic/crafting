@@ -1,12 +1,32 @@
 {
   "description": "Scratch-building adeptus mechanicus (admech) objective markers for Warhammer 40k.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nFuses: https://amzn.to/2INWIeO\nSharpies: https://amzn.to/2DQbVZe\nStarter Airbrush: https://amzn.to/2pG2Eyz\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 3,
+    "seconds": 13
+  },
   "id": "nC-mnYUSyMs",
-  "position": 97,
-  "publishedAt": 1521954338,
+  "publishedAt": 1522074603,
+  "ranking": {
+    "likes": 637,
+    "views": 15184
+  },
+  "tags": [
+    "Wyloch",
+    "warhammer 40k",
+    "objective markers",
+    "black magic craft",
+    "luke's APS",
+    "winters seo",
+    "admech",
+    "adeptus mechanicus",
+    "Belisarius Cawl"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/nC-mnYUSyMs/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/nC-mnYUSyMs/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/nC-mnYUSyMs/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/nC-mnYUSyMs/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/nC-mnYUSyMs/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/nC-mnYUSyMs/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/nC-mnYUSyMs/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/nC-mnYUSyMs/default.jpg"
   },
   "title": "How to Make Adeptus Mechanicus Objective Markers for Warhammer 40k"
 }

@@ -1,12 +1,29 @@
 {
   "description": "Crafting a Miniature Throne for Dungeons & Dragons\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 9,
+    "seconds": 38
+  },
   "id": "lmuQW4tZSJQ",
-  "position": 148,
-  "publishedAt": 1589484913,
+  "publishedAt": 1589484912,
+  "ranking": {
+    "likes": 1109,
+    "views": 14001
+  },
+  "tags": [
+    "dungeons and dragons",
+    "crafting",
+    "miniatures",
+    "d&d",
+    "black magic craft",
+    "luke's aps"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/lmuQW4tZSJQ/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/lmuQW4tZSJQ/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/lmuQW4tZSJQ/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/lmuQW4tZSJQ/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/lmuQW4tZSJQ/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/lmuQW4tZSJQ/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/lmuQW4tZSJQ/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/lmuQW4tZSJQ/default.jpg"
   },
   "title": "Crafting a Miniature Throne for Dungeons & Dragons"
 }

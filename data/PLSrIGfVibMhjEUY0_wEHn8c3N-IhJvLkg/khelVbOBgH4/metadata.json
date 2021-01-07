@@ -1,12 +1,42 @@
 {
   "description": "How to make simple doorways for your cave, cavern, or mine dungeon tiles.\n\nJoin us on facebook: https://www.facebook.com/Black-Magic-Craft-677344725740094\n\nBlack Magic Craft title music by Black Magic Craft\n\n\"Crunk Knight\", \"Folk Round\", \"Mechanolith\"\nKevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 8,
+    "seconds": 31
+  },
   "id": "khelVbOBgH4",
-  "position": 2,
-  "publishedAt": 1447714304,
+  "publishedAt": 1447714257,
+  "ranking": {
+    "likes": 1701,
+    "views": 65974
+  },
+  "tags": [
+    "Dungeons",
+    "Dragons",
+    "d&d",
+    "terrain",
+    "how to",
+    "dungeon tiles",
+    "doorways",
+    "cave doors",
+    "mine doors",
+    "3d dungeon tiles",
+    "d&d dungeon tiles",
+    "modular terrain",
+    "modular dungeon",
+    "caves",
+    "caverns",
+    "crafting terrain",
+    "2.5d",
+    "miniature roleplaying",
+    "gridless"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/khelVbOBgH4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/khelVbOBgH4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/khelVbOBgH4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/khelVbOBgH4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/khelVbOBgH4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/khelVbOBgH4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/khelVbOBgH4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/khelVbOBgH4/default.jpg"
   },
   "title": "Cave, Cavern, or Mine Doorways For D&D Tutorial (Episode 003)"
 }

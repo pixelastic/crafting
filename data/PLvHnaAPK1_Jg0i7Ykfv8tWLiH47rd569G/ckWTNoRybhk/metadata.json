@@ -1,12 +1,63 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 2,
+    "seconds": 18
+  },
   "id": "ckWTNoRybhk",
-  "position": 268,
-  "publishedAt": 1460737125,
+  "publishedAt": 1397581978,
+  "ranking": {
+    "likes": 116,
+    "views": 4162
+  },
+  "tags": [
+    "Dungeons & Dragons (Roleplaying Game)",
+    "D&D",
+    "dnd",
+    "Pathfinder Roleplaying Game (Game)",
+    "rpg",
+    "table",
+    "top",
+    "isle",
+    "of",
+    "dread",
+    "adventure",
+    "quest",
+    "skirmish",
+    "war",
+    "game",
+    "craft",
+    "make",
+    "diy",
+    "dungeons and dragons",
+    "dungeons",
+    "The DM's Craft",
+    "terrain",
+    "tabletop",
+    "crafting",
+    "tutorial",
+    "miniature",
+    "mini",
+    "minis",
+    "build",
+    "building",
+    "how to",
+    "how to build",
+    "dungeon master",
+    "dungeon master tools",
+    "dm tips",
+    "model building",
+    "3D",
+    "DM Scotty",
+    "lost island",
+    "pirates"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/ckWTNoRybhk/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/ckWTNoRybhk/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/ckWTNoRybhk/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/ckWTNoRybhk/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/ckWTNoRybhk/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/ckWTNoRybhk/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/ckWTNoRybhk/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/ckWTNoRybhk/default.jpg"
   },
   "title": "Farland Isle Adventure for D&D (The DM's Craft Adventure Project)"
 }

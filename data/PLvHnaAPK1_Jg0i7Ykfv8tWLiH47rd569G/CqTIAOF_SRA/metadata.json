@@ -1,12 +1,43 @@
 {
   "description": "Scotty’s favorite glue gun (affiliated link): http://amzn.to/2gYKRhV\n\nFor more information on DM crafting visit my website and see what you need for your starting DM crafting kit:\nhttp://www.thedmscraft.com/\n\nGet cheap crafting stuff at the Dollar Tree (My affiliated link): http://www.shareasale.com/u.cfm?d=434929&m=64888&u=1701826\n\nThe Tabletop Crafters Guild Site:\nhttp://www.tabletopcraftersguild.com/\n\nBecome a friend to the Craft and help me bring more content to the community by joining my Patreon. You will have access to exclusive DM Scotty content:  https://www.patreon.com/theDMsCraft?ty=h\n\nJoin The Tabletop Crafters Guild Facebook group for more crafts and camaraderie. \nhttps://www.facebook.com/groups/dmscottyscraftsngames/\n\nTwitter: @TheDMsCraft",
+  "duration": {
+    "minutes": 2,
+    "seconds": 57
+  },
   "id": "CqTIAOF_SRA",
-  "position": 145,
-  "publishedAt": 1460736905,
+  "publishedAt": 1374762778,
+  "ranking": {
+    "likes": 154,
+    "views": 5339
+  },
+  "tags": [
+    "DnD",
+    "d&d",
+    "pathfinder",
+    "rpg",
+    "dungeon",
+    "tile",
+    "encounter",
+    "Dragons",
+    "diy",
+    "make",
+    "prison",
+    "terrain",
+    "scotty",
+    "craft",
+    "your",
+    "own",
+    "dungeon tiles",
+    "rusted bars",
+    "encounter design",
+    "adventure"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/CqTIAOF_SRA/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/CqTIAOF_SRA/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/CqTIAOF_SRA/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/CqTIAOF_SRA/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/CqTIAOF_SRA/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/CqTIAOF_SRA/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/CqTIAOF_SRA/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/CqTIAOF_SRA/default.jpg"
   },
   "title": "Prison Tile with Rusted Bars and Straw Pallet Beds (I Show You My Stuff, EP2)"
 }

@@ -1,12 +1,36 @@
 {
   "description": "How to make Necron crystal terrain for Warhammer 40k, Dungeons & Dragons, etc.\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 8,
+    "seconds": 27
+  },
   "id": "TsORPnt7vGc",
-  "position": 81,
-  "publishedAt": 1509832101,
+  "publishedAt": 1509832100,
+  "ranking": {
+    "likes": 1789,
+    "views": 52291
+  },
+  "tags": [
+    "Wyloch",
+    "Dungeons & dragons",
+    "tabletop terrain",
+    "crafting",
+    "modular tiles",
+    "scenery",
+    "roleplaying",
+    "tabletop",
+    "scatter terrain",
+    "pathfinder",
+    "necron",
+    "warhammer 40k",
+    "warhammer 40000"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/TsORPnt7vGc/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/TsORPnt7vGc/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/TsORPnt7vGc/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/TsORPnt7vGc/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/TsORPnt7vGc/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/TsORPnt7vGc/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/TsORPnt7vGc/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/TsORPnt7vGc/default.jpg"
   },
   "title": "How to Make Giant Necron Crystals for Warhammer 40k"
 }

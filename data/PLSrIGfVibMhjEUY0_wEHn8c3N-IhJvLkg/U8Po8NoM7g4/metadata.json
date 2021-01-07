@@ -1,12 +1,53 @@
 {
   "description": "http://www.blackmagiccraft.ca\n\nTools & Supplies I use most: https://blackmagiccraft.wordpress.com/shop/\n\nSupport Black Magic Craft on Patreon: http://patreon.com/blackmagiccraft\n\nFacebook: https://www.facebook.com/Black-Magic-Craft-677344725740094/?ref=bookmarks\n\nIn this Basic's episode I show you a few simple methods to help you get good, clean, straight cuts in xps foam when building things like dungeon tiles for Dungeons & Dragons and other tabletop games. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlack Magic Craft intro music by Black Magic Craft\n\nBackground music:\nKevin MacLeod (incompetech.com)\nhttp://creativecommons.org/licenses/by/3.0/",
+  "duration": {
+    "minutes": 16,
+    "seconds": 57
+  },
   "id": "U8Po8NoM7g4",
-  "position": 29,
-  "publishedAt": 1491962406,
+  "publishedAt": 1491582600,
+  "ranking": {
+    "likes": 3618,
+    "views": 175588
+  },
+  "tags": [
+    "black magic craft",
+    "black magic craft episode",
+    "dnd",
+    "dungeons n dragons",
+    "frostgrave",
+    "dungeons & dragons",
+    "d&d",
+    "pathfinder",
+    "tabletop",
+    "tabletop rpg",
+    "rpg",
+    "craft",
+    "terrain",
+    "crafting",
+    "terrain building",
+    "d&d terrain",
+    "dungeons & dragons terrain",
+    "tabletop terrain",
+    "wargaming terrain",
+    "how to",
+    "how to build",
+    "how to build for d&d",
+    "modular terrain",
+    "terrain tutorial",
+    "craft tutorial",
+    "d&d tutorial",
+    "how to cut foam",
+    "Basics: How to get good",
+    "black magic craft basics",
+    "how to get straight cuts foam"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/U8Po8NoM7g4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/U8Po8NoM7g4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/U8Po8NoM7g4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/U8Po8NoM7g4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/U8Po8NoM7g4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/U8Po8NoM7g4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/U8Po8NoM7g4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/U8Po8NoM7g4/default.jpg"
   },
   "title": "Basics: How to get good, clean, straight cuts in XPS Foam (Black Magic Craft Episode 030)"
 }

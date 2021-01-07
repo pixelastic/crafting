@@ -1,12 +1,48 @@
 {
   "description": "In this crafting tutorial you will see how I painted the Giant Scorpion miniature. If you haven't seen how I crafted the unpainted miniature, you should! https://youtu.be/EL9LT1_cn-o\n\nFollow us on Facebook: https://tinyurl.com/y3n8m7s6",
+  "duration": {
+    "minutes": 3,
+    "seconds": 38
+  },
   "id": "tltuynxCyDc",
-  "position": 32,
-  "publishedAt": 1549134477,
+  "publishedAt": 1549132892,
+  "ranking": {
+    "likes": 211,
+    "views": 3679
+  },
+  "tags": [
+    "Bard's Craft",
+    "giant scorpion",
+    "dnd monster miniature",
+    "d&d monster miniature",
+    "dnd",
+    "d&d",
+    "dungeons and dragons",
+    "monster miniatures",
+    "dnd diy",
+    "diy d&d miniature",
+    "crafting a miniature",
+    "diy tabletop miniature",
+    "miniature",
+    "crafting",
+    "crafting tutorial",
+    "d&d miniature",
+    "miniature painting",
+    "5e",
+    "simple monster miniature",
+    "how to craft",
+    "diy crafting",
+    "crafting a scorpion",
+    "giant scorpion miniature",
+    "cheap minis",
+    "wargaming miniatures"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/tltuynxCyDc/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/tltuynxCyDc/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/tltuynxCyDc/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/tltuynxCyDc/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/tltuynxCyDc/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/tltuynxCyDc/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/tltuynxCyDc/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/tltuynxCyDc/default.jpg"
   },
   "title": "Crafting a Giant Scorpion (Part 2/2: Painting)  - D&D Miniatures Crafting Tutorial"
 }

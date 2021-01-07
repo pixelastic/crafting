@@ -1,12 +1,43 @@
 {
   "description": "ESSENTIAL EQUIPMENT: http://bit.ly/EssentialEquip\nJOIN the \"FELLOWSHIP\" on PATREON: http://bit.ly/JoinTheBMC_Fellowship\nOFFICIAL BMC MERCH: http://bit.ly/BMCmerch\n\n#BlackMagicCraft #Episode155 #FAILURE\n\nIs an experiment that goes bad actually a success? In some ways I think it is. I set out to create a new technique for making quick ruins for Frostgrave and ended up trying something that didn't really work. But I tried it and now I know. That is a success in it's own way. \n\n\n---------------------------------------------------------------------\n➳  http://www.blackmagiccraft.ca\n➳ Facebook: https://goo.gl/hvNgQL\n➳ Join the Tabletop Crafters Guild: https://goo.gl/RMMqoh",
+  "duration": {
+    "minutes": 22,
+    "seconds": 45
+  },
   "id": "1aq-AB1O7n4",
-  "position": 154,
-  "publishedAt": 1566535517,
+  "publishedAt": 1566535516,
+  "ranking": {
+    "likes": 3351,
+    "views": 82701
+  },
+  "tags": [
+    "Black magic craft",
+    "failure",
+    "prototype",
+    "frostgrave ruins",
+    "frostgrave terrain",
+    "foam terrain",
+    "scale modeling",
+    "miniature building",
+    "miniature bricks",
+    "scale modeling fail",
+    "fail",
+    "test",
+    "vlog",
+    "motivation",
+    "tabletop gaming",
+    "building terrain",
+    "how to build terrain",
+    "foamcore terrain",
+    "foamcore building",
+    "failure motivation"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/1aq-AB1O7n4/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/1aq-AB1O7n4/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/1aq-AB1O7n4/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/1aq-AB1O7n4/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/1aq-AB1O7n4/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/1aq-AB1O7n4/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/1aq-AB1O7n4/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/1aq-AB1O7n4/default.jpg"
   },
   "title": "FAILURE...is an experiment gone wrong a SUCCESS?"
 }

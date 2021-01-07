@@ -1,12 +1,40 @@
 {
   "description": "📐 Tools & Supplies I Recommend: http://bit.ly/EssentialEquip\n⚔️Join the \"Fellowship\" on Patreon: http://bit.ly/JoinTheBMC_Fellowship\n👕Grab a BMC Shirt: http://bit.ly/BMCmerch\n\nIn this episode I build a custom wooden dice tray for about $5!\n\n#BlackMagicCraft #Episode143\n\n---------------------------------------------------------------------\n➳  http://www.blackmagiccraft.ca\n➳ Facebook: https://goo.gl/hvNgQL\n➳ Join the Tabletop Crafters Guild: https://goo.gl/RMMqoh",
+  "duration": {
+    "minutes": 12,
+    "seconds": 23
+  },
   "id": "7kQoGnqKwkM",
-  "position": 142,
-  "publishedAt": 1559275336,
+  "publishedAt": 1559275334,
+  "ranking": {
+    "likes": 3665,
+    "views": 94273
+  },
+  "tags": [
+    "Black magic craft",
+    "dice tray",
+    "rolling tray",
+    "rolling box",
+    "diy",
+    "cheap",
+    "homemade",
+    "wood dice tray",
+    "dollar store",
+    "dice box",
+    "dice tower",
+    "dungeons & dragons",
+    "dungeons and dragons",
+    "how to build",
+    "diy dice tray",
+    "craft tutorial",
+    "rolling trays custom"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/7kQoGnqKwkM/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/7kQoGnqKwkM/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/7kQoGnqKwkM/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/7kQoGnqKwkM/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/7kQoGnqKwkM/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/7kQoGnqKwkM/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/7kQoGnqKwkM/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/7kQoGnqKwkM/default.jpg"
   },
   "title": "DIY $5 Dice Tray Build!"
 }

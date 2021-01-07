@@ -1,12 +1,32 @@
 {
   "description": "Exploring the new Mantic Terrain Crate.\n\nTerrain Crate is available now at your local game store!\nhttp://www.manticgames.com/mantic-shop/terrain-crate/fantasy-terrain.html\n\nSupplies and Tools: https://www.amazon.com/shop/wylochscraftingvids\nChipboard: https://amzn.to/2EW2f2u\n (UK): https://amzn.to/2AWCMUS\n** Disclaimer: If you use these links, I receive a small commission from Amazon.  It does not impact your purchasing experience in any way whatsoever.\n\nD&D 5e Modules: https://www.etsy.com/shop/WylochsArmory\n\nPatreon: https://www.patreon.com/WylochsArmory\n\nMy Facebook Page: https://www.facebook.com/WylochsArmory/\n\nJoin the Tabletop Crafters Guild: https://www.facebook.com/groups/dmscottyscraftsngames/\n\nSponsor: http://www.heroshoard.com/\nThe home of TrueTiles and other excellent 3D-printable models.",
+  "duration": {
+    "minutes": 8,
+    "seconds": 21
+  },
   "id": "i7MV4nvzse0",
-  "position": 102,
-  "publishedAt": 1530561367,
+  "publishedAt": 1530853202,
+  "ranking": {
+    "likes": 433,
+    "views": 13655
+  },
+  "tags": [
+    "Wyloch",
+    "Luke's APS",
+    "TerrainTutor",
+    "Black Magic Craft",
+    "terrain",
+    "mantic",
+    "terrain crate",
+    "thedmscraft",
+    "thedmg.info"
+  ],
   "thumbnails": {
-    "default": "https://i.ytimg.com/vi/i7MV4nvzse0/sddefault.jpg",
-    "large": "https://i.ytimg.com/vi/i7MV4nvzse0/maxresdefault.jpg",
-    "small": "https://i.ytimg.com/vi/i7MV4nvzse0/mqdefault.jpg"
+    "huge": "https://i.ytimg.com/vi/i7MV4nvzse0/maxresdefault.jpg",
+    "large": "https://i.ytimg.com/vi/i7MV4nvzse0/sddefault.jpg",
+    "medium": "https://i.ytimg.com/vi/i7MV4nvzse0/hqdefault.jpg",
+    "small": "https://i.ytimg.com/vi/i7MV4nvzse0/mqdefault.jpg",
+    "tiny": "https://i.ytimg.com/vi/i7MV4nvzse0/default.jpg"
   },
   "title": "Reviewing Mantic Terrain Crate for Dungeons & Dragons"
 }
