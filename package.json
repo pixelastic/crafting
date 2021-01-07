@@ -1,29 +1,32 @@
 {
+  "dependencies": {
+    "norska": "1.8.0",
+    "norska-theme-search": "0.0.2"
+  },
   "devDependencies": {
     "aberlaas": "1.13.3",
     "firost": "2.0.6",
     "golgoth": "2.0.0",
     "youtinx": "0.0.2"
   },
-  "files": [
-    "lib/*.js"
-  ],
+  "files": [],
   "license": "MIT",
   "main": "lib/main.js",
   "name": "crafting",
   "scripts": {
+    "build": "./scripts/build",
+    "build:prod": "./scripts/build-prod",
+    "ci": "./scripts/ci",
+    "cms": "./scripts/cms",
     "data:pull": "youtinx pull",
     "data:push": "youtinx push",
-    "ci": "./scripts/ci",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "release": "./scripts/release",
+    "serve": "./scripts/serve",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.1",
-  "dependencies": {
-    "norska": "1.8.0"
-  }
+  "version": "0.0.1"
 }
